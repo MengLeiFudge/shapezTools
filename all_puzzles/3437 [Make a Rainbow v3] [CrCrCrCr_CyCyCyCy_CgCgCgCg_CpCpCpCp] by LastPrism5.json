@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CrCrCrCr:CyCyCyCy:CgCgCgCg:CpCpCpCp",
+				"pos":{
+					"r":270,
+					"x":3,
+					"y":1
+				},
+				"type":"goal"
+			},
+			{
+				"item":"CyCgCpCr",
+				"pos":{
+					"r":0,
+					"x":-7,
+					"y":0
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":13,
+			"h":4
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"difficulty":0.23404255319148937,
+		"averageTime":273.30555555555554,
+		"downloads":50,
+		"shortKey":"CrCrCrCr:CyCyCyCy:CgCgCgCg:CpCpCpCp",
+		"author":"LastPrism5",
+		"completions":36,
+		"id":3437,
+		"completed":false,
+		"title":"Make a Rainbow v3",
+		"likes":14
+	}
+}

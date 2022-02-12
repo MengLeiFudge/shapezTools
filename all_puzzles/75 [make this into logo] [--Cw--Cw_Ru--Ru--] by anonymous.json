@@ -1,0 +1,41 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"--Cw--Cw:Ru--Ru--",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":3
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RuCw--Cw:----Ru--",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-5
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":9
+		},
+		"version":1
+	},
+	"meta":{
+		"difficulty":0.25595238095238093,
+		"averageTime":194.816,
+		"downloads":840,
+		"shortKey":"--Cw--Cw:Ru--Ru--",
+		"author":"anonymous",
+		"completions":625,
+		"id":75,
+		"completed":true,
+		"title":"make this into logo",
+		"likes":309
+	}
+}

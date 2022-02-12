@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"SrSrCrCr:CrCrSrSr:CyCyCyCy",
+				"pos":{
+					"r":90,
+					"x":-3,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CrCrCrCr:SrSrSrSr:CyCyCyCy:SrSrSrSr",
+				"pos":{
+					"r":180,
+					"x":1,
+					"y":2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":5,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"difficulty":0.276595744680851,
+		"averageTime":196.7941176470588,
+		"downloads":47,
+		"shortKey":"SrSrCrCr:CrCrSrSr:CyCyCyCy",
+		"author":"trollbreeder",
+		"completions":34,
+		"id":4482,
+		"completed":false,
+		"title":"A Layered Mistake",
+		"likes":13
+	}
+}

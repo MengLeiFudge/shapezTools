@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RrWgCpSy",
+				"pos":{
+					"r":0,
+					"x":-10,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RrRrRrRr:------Sy",
+				"pos":{
+					"r":0,
+					"x":9,
+					"y":-2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":20,
+			"h":3
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"difficulty":0.4285714285714286,
+		"averageTime":171.25,
+		"downloads":14,
+		"shortKey":"RrRrRrRr:------Sy",
+		"author":"Ivaan_RushB",
+		"completions":8,
+		"id":2445,
+		"completed":false,
+		"title":"Soviet Rectangle",
+		"likes":3
+	}
+}

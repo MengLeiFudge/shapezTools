@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":2
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"difficulty":0.08333333333333337,
+		"averageTime":2,
+		"downloads":36,
+		"shortKey":"CcCgCcCg:RgCbRgCb",
+		"author":"Amaris3004",
+		"completions":33,
+		"id":4896,
+		"completed":false,
+		"title":"too easy",
+		"likes":3
+	}
+}

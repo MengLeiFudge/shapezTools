@@ -1,0 +1,47 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":-2,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-3
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":7,
+			"h":8
+		},
+		"version":1,
+		"excludedBuildings":[
+			"balancer",
+			"mixer",
+			"painter",
+			"trash",
+			"belt",
+			"underground_belt"
+		]
+	},
+	"meta":{
+		"downloads":5,
+		"shortKey":"RuRuRuRu:Ru------",
+		"author":"InfinityPilz",
+		"completions":1,
+		"id":1067,
+		"completed":false,
+		"title":"easy enough but wait",
+		"likes":0
+	}
+}

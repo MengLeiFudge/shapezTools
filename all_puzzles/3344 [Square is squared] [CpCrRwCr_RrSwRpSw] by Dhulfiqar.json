@@ -1,0 +1,40 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":-4,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"Ru------:Ru------:Ru------:Ru------",
+				"pos":{
+					"r":270,
+					"x":-3,
+					"y":2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"downloads":11,
+		"shortKey":"CpCrRwCr:RrSwRpSw",
+		"author":"Dhulfiqar",
+		"completions":7,
+		"id":3344,
+		"completed":false,
+		"title":"Square is squared",
+		"likes":2
+	}
+}

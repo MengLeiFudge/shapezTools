@@ -1,0 +1,46 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CwCwCwCw",
+				"pos":{
+					"r":90,
+					"x":-4,
+					"y":-1
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"------Cw",
+				"pos":{
+					"r":90,
+					"x":3,
+					"y":-1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":10,
+			"h":4
+		},
+		"version":1,
+		"excludedBuildings":[
+			"balancer",
+			"stacker",
+			"mixer",
+			"painter",
+			"underground_belt"
+		]
+	},
+	"meta":{
+		"downloads":10,
+		"shortKey":"CbCbCbCg",
+		"author":"Boxit379",
+		"completions":7,
+		"id":1298,
+		"completed":false,
+		"title":"4 - Slice Twice",
+		"likes":0
+	}
+}

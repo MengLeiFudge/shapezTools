@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"Rr------",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":3
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RrRrRrRr",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-4
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":8
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"difficulty":0.2666666666666667,
+		"averageTime":28.818181818181817,
+		"downloads":15,
+		"shortKey":"Rr------",
+		"author":"martindilling",
+		"completions":11,
+		"id":2346,
+		"completed":false,
+		"title":"Red Square Assembly",
+		"likes":2
+	}
+}

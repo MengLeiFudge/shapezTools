@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"SuSuSuSu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":3
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"--SuSuSu",
+				"pos":{
+					"r":0,
+					"x":0,
+					"y":-4
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":10,
+			"h":8
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"difficulty":0.13043478260869568,
+		"averageTime":30.4,
+		"downloads":23,
+		"shortKey":"--SuSuSu",
+		"author":"player#835892658",
+		"completions":20,
+		"id":5349,
+		"completed":false,
+		"title":"ok gfhgh",
+		"likes":4
+	}
+}

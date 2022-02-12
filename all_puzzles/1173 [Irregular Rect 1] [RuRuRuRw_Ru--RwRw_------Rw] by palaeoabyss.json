@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"Ru------:----Rw--",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":6
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RuRuRuRw:Ru--RwRw:------Rw",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-8
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":4,
+			"h":15
+		},
+		"version":1,
+		"excludedBuildings":[
+			"mixer",
+			"painter",
+			"underground_belt"
+		]
+	},
+	"meta":{
+		"downloads":4,
+		"shortKey":"RuRuRuRw:Ru--RwRw:------Rw",
+		"author":"palaeoabyss",
+		"completions":1,
+		"id":1173,
+		"completed":false,
+		"title":"Irregular Rect 1",
+		"likes":1
+	}
+}

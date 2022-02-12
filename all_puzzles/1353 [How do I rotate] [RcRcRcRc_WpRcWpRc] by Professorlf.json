@@ -1,0 +1,46 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":90,
+					"x":-2,
+					"y":-2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"--CuCu--",
+				"pos":{
+					"r":180,
+					"x":1,
+					"y":1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":4,
+			"h":4
+		},
+		"version":1,
+		"excludedBuildings":[
+			"rotater",
+			"mixer",
+			"painter"
+		]
+	},
+	"meta":{
+		"difficulty":0.1515151515151515,
+		"averageTime":92.81122448979592,
+		"downloads":231,
+		"shortKey":"RcRcRcRc:WpRcWpRc",
+		"author":"Professorlf",
+		"completions":196,
+		"id":1353,
+		"completed":false,
+		"title":"How do I rotate",
+		"likes":66
+	}
+}

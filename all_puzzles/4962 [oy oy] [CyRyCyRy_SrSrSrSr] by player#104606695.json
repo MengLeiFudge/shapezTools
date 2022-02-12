@@ -1,0 +1,40 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"----WuWu:----WuWu:----WuWu:----WuWu",
+				"pos":{
+					"r":90,
+					"x":7,
+					"y":-2
+				},
+				"type":"goal"
+			},
+			{
+				"item":"WuWuWuWu",
+				"pos":{
+					"r":90,
+					"x":0,
+					"y":-2
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":19,
+			"h":9
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"downloads":10,
+		"shortKey":"CyRyCyRy:SrSrSrSr",
+		"author":"player#104606695",
+		"completions":5,
+		"id":4962,
+		"completed":false,
+		"title":"oy oy",
+		"likes":1
+	}
+}

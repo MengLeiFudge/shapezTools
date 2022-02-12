@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuSuWu--",
+				"pos":{
+					"r":90,
+					"x":-4,
+					"y":-2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"WuSuWuCu",
+				"pos":{
+					"r":270,
+					"x":-4,
+					"y":1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":4
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"difficulty":0.5,
+		"averageTime":297.7,
+		"downloads":22,
+		"shortKey":"WuSuWuCu",
+		"author":"Lt.Pocpoc",
+		"completions":10,
+		"id":5147,
+		"completed":false,
+		"title":"Dogs and Cats",
+		"likes":4
+	}
+}

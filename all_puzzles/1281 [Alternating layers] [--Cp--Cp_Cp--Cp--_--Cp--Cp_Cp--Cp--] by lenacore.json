@@ -1,0 +1,40 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CpCpCpCp",
+				"pos":{
+					"r":90,
+					"x":-8,
+					"y":-8
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"--Cp--Cp:Cp--Cp--:--Cp--Cp:Cp--Cp--",
+				"pos":{
+					"r":90,
+					"x":6,
+					"y":6
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":15,
+			"h":15
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"downloads":6,
+		"shortKey":"--Cp--Cp:Cp--Cp--:--Cp--Cp:Cp--Cp--",
+		"author":"lenacore",
+		"completions":2,
+		"id":1281,
+		"completed":false,
+		"title":"Alternating layers",
+		"likes":1
+	}
+}

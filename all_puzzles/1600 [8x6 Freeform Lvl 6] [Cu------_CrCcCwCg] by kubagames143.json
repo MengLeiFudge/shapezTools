@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":90,
+					"x":-4,
+					"y":-3
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"Cu------",
+				"pos":{
+					"r":90,
+					"x":3,
+					"y":2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			"stacker",
+			"mixer",
+			"painter"
+		]
+	},
+	"meta":{
+		"downloads":12,
+		"shortKey":"Cu------:CrCcCwCg",
+		"author":"kubagames143",
+		"completions":6,
+		"id":1600,
+		"completed":false,
+		"title":"8x6 Freeform Lvl 6",
+		"likes":0
+	}
+}

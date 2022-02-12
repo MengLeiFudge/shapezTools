@@ -1,0 +1,47 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"------Cr:Cb------:--Cg----:----Cy--",
+				"pos":{
+					"r":90,
+					"x":-7,
+					"y":-1
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CbCgCyCr",
+				"pos":{
+					"r":90,
+					"x":6,
+					"y":-1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":14,
+			"h":2
+		},
+		"version":1,
+		"excludedBuildings":[
+			"balancer",
+			"mixer",
+			"painter",
+			"trash"
+		]
+	},
+	"meta":{
+		"difficulty":0.24390243902439024,
+		"averageTime":108.74193548387096,
+		"downloads":43,
+		"shortKey":"------Cr:Cb------:--Cg----:----Cy--",
+		"author":"Enbeon",
+		"completions":31,
+		"id":5175,
+		"completed":false,
+		"title":"Long Corridor",
+		"likes":10
+	}
+}

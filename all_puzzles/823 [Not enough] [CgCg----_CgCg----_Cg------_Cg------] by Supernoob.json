@@ -1,0 +1,40 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"Cg------",
+				"pos":{
+					"r":90,
+					"x":-3,
+					"y":-3
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CgCg----:CgCg----:Cg------:Cg------",
+				"pos":{
+					"r":180,
+					"x":0,
+					"y":2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":5,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"downloads":9,
+		"shortKey":"CgCg----:CgCg----:Cg------:Cg------",
+		"author":"Supernoob",
+		"completions":4,
+		"id":823,
+		"completed":false,
+		"title":"Not enough",
+		"likes":2
+	}
+}

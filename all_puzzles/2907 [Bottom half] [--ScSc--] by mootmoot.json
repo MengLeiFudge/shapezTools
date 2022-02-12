@@ -1,0 +1,46 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"--ScSc--",
+				"pos":{
+					"r":180,
+					"x":7,
+					"y":0
+				},
+				"type":"goal"
+			},
+			{
+				"item":"SrScScSr",
+				"pos":{
+					"r":0,
+					"x":-8,
+					"y":0
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":16,
+			"h":3
+		},
+		"version":1,
+		"excludedBuildings":[
+			"rotater",
+			"mixer",
+			"painter"
+		]
+	},
+	"meta":{
+		"difficulty":0.5,
+		"averageTime":346.2,
+		"downloads":30,
+		"shortKey":"--ScSc--",
+		"author":"mootmoot",
+		"completions":15,
+		"id":2907,
+		"completed":true,
+		"title":"Bottom half",
+		"likes":9
+	}
+}

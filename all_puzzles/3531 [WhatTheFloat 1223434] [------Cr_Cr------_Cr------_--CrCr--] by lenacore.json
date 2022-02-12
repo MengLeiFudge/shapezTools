@@ -1,0 +1,40 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CrCrCrCr",
+				"pos":{
+					"r":0,
+					"x":-8,
+					"y":6
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"------Cr:Cr------:Cr------:--CrCr--",
+				"pos":{
+					"r":0,
+					"x":6,
+					"y":-8
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":15,
+			"h":15
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"downloads":7,
+		"shortKey":"------Cr:Cr------:Cr------:--CrCr--",
+		"author":"lenacore",
+		"completions":1,
+		"id":3531,
+		"completed":false,
+		"title":"WhatTheFloat 1223434",
+		"likes":1
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":-2,
+					"y":1
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"--RuRu--",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":4,
+			"h":4
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"downloads":9,
+		"shortKey":"--RuRu--",
+		"author":"PWalkersCrisps",
+		"completions":6,
+		"id":1323,
+		"completed":false,
+		"title":"Compact Machinery",
+		"likes":1
+	}
+}

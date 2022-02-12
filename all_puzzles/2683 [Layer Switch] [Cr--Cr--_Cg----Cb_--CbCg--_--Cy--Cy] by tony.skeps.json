@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"Cr--Cr--:--Cb--Cb:Cg--Cg--:--Cy--Cy",
+				"pos":{
+					"r":90,
+					"x":-4,
+					"y":-3
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"Cr--Cr--:Cg--Cg--:--Cb--Cb:--Cy--Cy",
+				"pos":{
+					"r":0,
+					"x":-4,
+					"y":-2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"difficulty":0.7,
+		"averageTime":123,
+		"downloads":10,
+		"shortKey":"Cr--Cr--:Cg----Cb:--CbCg--:--Cy--Cy",
+		"author":"tony.skeps",
+		"completions":3,
+		"id":2683,
+		"completed":false,
+		"title":"Layer Switch",
+		"likes":1
+	}
+}

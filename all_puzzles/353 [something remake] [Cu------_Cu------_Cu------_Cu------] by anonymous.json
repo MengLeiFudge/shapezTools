@@ -1,0 +1,41 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"Cu------:Cu------",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-4
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":7
+		},
+		"version":1
+	},
+	"meta":{
+		"difficulty":0.07969639468690703,
+		"averageTime":65.18762886597938,
+		"downloads":527,
+		"shortKey":"Cu------:Cu------:Cu------:Cu------",
+		"author":"anonymous",
+		"completions":485,
+		"id":353,
+		"completed":true,
+		"title":"something remake",
+		"likes":141
+	}
+}

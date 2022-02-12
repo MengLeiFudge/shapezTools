@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"------Cr:Cg------:--Cy----:----Cb--",
+				"pos":{
+					"r":90,
+					"x":-4,
+					"y":-1
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CgCyCbCr",
+				"pos":{
+					"r":90,
+					"x":3,
+					"y":-1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":2
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"difficulty":0.2222222222222222,
+		"averageTime":83.64285714285714,
+		"downloads":72,
+		"shortKey":"------Cr:Cb------:--Cy----:----Cg--",
+		"author":"Bronten",
+		"completions":56,
+		"id":5177,
+		"completed":false,
+		"title":"Feeling Flat",
+		"likes":21
+	}
+}
