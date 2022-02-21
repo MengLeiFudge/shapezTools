@@ -111,6 +111,27 @@ public class GetAllShapes {
         return ret;
     }
 
+    /**
+     * only for mod.
+     *
+     * @param id
+     * @return
+     */
+    private int cutBlac(int id) {
+        int ret = 0;
+        int filter = 0xE;
+        int q = 0;
+        for (int i = 0; i < 4; i++) {
+            if ((id & filter) > 0) {
+                ret |= (id & filter) >> q;
+            } else {
+                q += 4;
+            }
+            filter <<= 4;
+        }
+        return ret;
+    }
+
     private int stack(int id1, int id2) {
         //右输入图形放到高16位，表示在上面
         id2 <<= 16;
@@ -185,6 +206,15 @@ public class GetAllShapes {
                     parent1[right] = id;
                     num++;
                     show(right);
+                    updated = true;
+                }
+                int cut = cutBlac(id);
+                if (cut != 0 && steps[cut] == -1) {
+                    steps[cut] = step + 1;
+                    operates[cut] = BaseOperate.CUT;
+                    parent1[cut] = id;
+                    num++;
+                    show(cut);
                     updated = true;
                 }
                 for (int id2 = 1; id2 <= 65535; id2++) {

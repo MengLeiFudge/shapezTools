@@ -8,6 +8,8 @@ public class Operate {
         LEFT,
         // 切割后的右边
         RIGHT,
+        // 切割后的右下、左下、左上
+        CUT,
         // 顺时针90度
         R90,
         // 不需要的操作
