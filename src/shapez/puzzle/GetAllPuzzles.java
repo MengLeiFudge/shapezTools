@@ -136,15 +136,15 @@ public class GetAllPuzzles {
                         puzzle.getW() + "," +
                         puzzle.getH() + "," +
                         // 如果 excludedBuildings 含有建筑，则该建筑为×，即被禁用
-                        (puzzle.getExcludedBuildings().contains(BuildingType.SPLITTER) ? "×" : "") + "," +
+                        (puzzle.getExcludedBuildings().contains(BuildingType.SPLITTER_UP_RIGHT) ? "×" : "") + "," +
                         (puzzle.getExcludedBuildings().contains(BuildingType.CUTTER) ? "×" : "") + "," +
-                        (puzzle.getExcludedBuildings().contains(BuildingType.ROTATER) ? "×" : "") + "," +
+                        (puzzle.getExcludedBuildings().contains(BuildingType.ROTATER_90) ? "×" : "") + "," +
                         (puzzle.getExcludedBuildings().contains(BuildingType.STACKER) ? "×" : "") + "," +
                         (puzzle.getExcludedBuildings().contains(BuildingType.MIXER) ? "×" : "") + "," +
                         (puzzle.getExcludedBuildings().contains(BuildingType.PAINTER) ? "×" : "") + "," +
                         (puzzle.getExcludedBuildings().contains(BuildingType.TRASH) ? "×" : "") + "," +
-                        (puzzle.getExcludedBuildings().contains(BuildingType.BELT) ? "×" : "") + "," +
-                        (puzzle.getExcludedBuildings().contains(BuildingType.TUNNEL) ? "×" : "")
+                        (puzzle.getExcludedBuildings().contains(BuildingType.BELT_STARGIGHT) ? "×" : "") + "," +
+                        (puzzle.getExcludedBuildings().contains(BuildingType.TUNNEL1_ENTER) ? "×" : "")
                 );
                 bw.newLine();
             } catch (JSONException | IOException e) {

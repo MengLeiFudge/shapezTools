@@ -11,6 +11,9 @@ import java.util.List;
 import static shapez.puzzle.MyThreadPoolExecutor.getPuzzleStr;
 
 public class SolvePuzzle {
+
+
+
     public void solve(int id) {
         String s = getPuzzleStr(id);
         if (s == null) {

@@ -21,6 +21,7 @@ public class Main {
             System.out.println("3.查询指定ID或短代码对应Puzzle");
             System.out.println("4.获取所有Puzzle并排序");
             System.out.println("5.直接对所有Puzzle排序");
+            System.out.println("6.输出指定谜题的解");
             System.out.println("0.结束");
             switch (sc.nextLine()) {
                 case "1" -> new GetAllShapes().process();

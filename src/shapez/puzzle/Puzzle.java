@@ -4,6 +4,7 @@ import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.serializer.SerializerFeature;
 import lombok.Data;
+import shapez.base.FullShape;
 import shapez.puzzle.Building.BuildingType;
 
 import java.util.ArrayList;
@@ -47,13 +48,20 @@ public class Puzzle {
         this.buildings = new Building[buildings.size()];
         for (int i = 0; i < buildings.size(); i++) {
             JSONObject building = buildings.getJSONObject(i);
-            String type = building.getString("type");// block, emitter, goal
-            String item = null;
-            if (!"block".equals(type)) {
-                item = building.getString("item");
+            // typeStr: block, emitter, goal
+            String typeStr = building.getString("type");
+            BuildingType type = BuildingType.getBuildingTypeByStr(typeStr);
+            if (type == null) {
+                return;
+            }
+            FullShape item = null;
+            if (type == BuildingType.BLOCK) {
+                String itemStr = building.getString("item");
+                item = new FullShape(itemStr);
             }
             JSONObject pos = building.getJSONObject("pos");
-            int r = pos.getInteger("r");// 0,90,180,-90
+            // r: 0,90,180,-90
+            int r = pos.getInteger("r");
             int x = pos.getInteger("x");
             int y = pos.getInteger("y");
             this.buildings[i] = new Building(type, item, r, x, y);
@@ -66,15 +74,15 @@ public class Puzzle {
             for (int i = 0; i < excludedBuildings.size(); i++) {
                 String excludedBuilding = excludedBuildings.getString(i);
                 switch (excludedBuilding) {
-                    case "balancer" -> this.excludedBuildings.add(BuildingType.SPLITTER);
+                    case "balancer" -> this.excludedBuildings.add(BuildingType.SPLITTER_UP_RIGHT);
                     case "cutter" -> this.excludedBuildings.add(BuildingType.CUTTER);
-                    case "rotater" -> this.excludedBuildings.add(BuildingType.ROTATER);
+                    case "rotater" -> this.excludedBuildings.add(BuildingType.ROTATER_90);
                     case "stacker" -> this.excludedBuildings.add(BuildingType.STACKER);
                     case "mixer" -> this.excludedBuildings.add(BuildingType.MIXER);
                     case "painter" -> this.excludedBuildings.add(BuildingType.PAINTER);
                     case "trash" -> this.excludedBuildings.add(BuildingType.TRASH);
-                    case "belt" -> this.excludedBuildings.add(BuildingType.BELT);
-                    case "underground_belt" -> this.excludedBuildings.add(BuildingType.TUNNEL);
+                    case "belt" -> this.excludedBuildings.add(BuildingType.BELT_STARGIGHT);
+                    case "underground_belt" -> this.excludedBuildings.add(BuildingType.TUNNEL1_ENTER);
                     default -> throw new IllegalArgumentException("错误的建筑类型：" + excludedBuilding);
                 }
             }
