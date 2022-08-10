@@ -5,7 +5,7 @@ import shapez.base.Corner.Shape;
 import shapez.base.Corner.Color;
 
 /**
- * 图形类，表示一个图形.
+ * 表示一个图形.
  * <p>
  * 数据结构固定使用四层（无论图形实际有没有四层），但输出时只输出有效层，不输出全空层。
  * <p>
@@ -89,7 +89,7 @@ public class FullShape {
         for (int i = realI; i < 4; i++) {
             ret[i] = new Corner[4];
             for (int j = 0; j < 4; j++) {
-                ret[i][j] = new Corner(Shape.NONE, Color.NONE);
+                ret[i][j] = new Corner();
             }
         }
         return ret;
@@ -189,7 +189,7 @@ public class FullShape {
                 if ((id & (1 << ((i * 4) + j))) > 0) {
                     layers[i][j] = new Corner(Shape.CIRCLE, Color.UNCOLORED);
                 } else {
-                    layers[i][j] = new Corner(Shape.NONE, Color.NONE);
+                    layers[i][j] = new Corner();
                 }
             }
         }
@@ -215,8 +215,8 @@ public class FullShape {
     public FullShape leftSide() {
         Corner[][] ret = getSimplestLayersBackup();
         for (Corner[] sc : ret) {
-            sc[0] = new Corner(Shape.NONE, Color.NONE);
-            sc[1] = new Corner(Shape.NONE, Color.NONE);
+            sc[0] = new Corner();
+            sc[1] = new Corner();
         }
         return new FullShape(ret);
     }
@@ -229,8 +229,8 @@ public class FullShape {
     public FullShape rightSide() {
         Corner[][] ret = getSimplestLayersBackup();
         for (Corner[] sc : ret) {
-            sc[2] = new Corner(Shape.NONE, Color.NONE);
-            sc[3] = new Corner(Shape.NONE, Color.NONE);
+            sc[2] = new Corner();
+            sc[3] = new Corner();
         }
         return new FullShape(ret);
     }
@@ -362,9 +362,9 @@ public class FullShape {
         if (layerNum > 0) {
             for (int i = 0; i < 4; i++) {
                 ret[0][i] = ret[layerNum - 1][i];
-                ret[1][i] = new Corner(Shape.NONE, Color.NONE);
-                ret[2][i] = new Corner(Shape.NONE, Color.NONE);
-                ret[3][i] = new Corner(Shape.NONE, Color.NONE);
+                ret[1][i] = new Corner();
+                ret[2][i] = new Corner();
+                ret[3][i] = new Corner();
             }
         }
         return new FullShape(ret);
@@ -379,7 +379,7 @@ public class FullShape {
         Corner[][] ret = getSimplestLayersBackup();
         if (layerNum > 0) {
             for (int i = 0; i < 4; i++) {
-                ret[layerNum - 1][i] = new Corner(Shape.NONE, Color.NONE);
+                ret[layerNum - 1][i] = new Corner();
             }
         }
         return new FullShape(ret);

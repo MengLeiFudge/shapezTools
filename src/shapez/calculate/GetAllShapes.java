@@ -5,15 +5,19 @@ import shapez.base.Operate.BaseOperate;
 import java.util.Arrays;
 
 /**
- * 该类用于计算所有可合成的图形数目.
- * </p>
- * 由于只考虑结构，所以使用id表示一个图形的结构；
- * 又由于java进行位运算时，会先转换成int，所以id使用int。
- * </p>
- * id范围：1-65535，包含首尾。
+ * 计算所有可合成的图形样式数目，并输出其合成路径.
+ * <p>
+ * <ul>
+ *     <li>图形样式将忽略角的形状、颜色的影响，全部使用 Cu 表示</li>
+ *     <li>为加快计算速度，图形使用 1-65535 的 id 表示，每个 bit 表示一个角是否存在</li>
+ * </ul>
+ * <p>
+ * 由于java进行位运算时，会先转换成int，所以id使用int而非。
  */
 public class GetAllShapes {
-    //steps不为-1，表示id存在
+    /**
+     * steps不为-1，表示id存在
+     */
     int[] steps;
     BaseOperate[] operates;
     int[] parent1;
@@ -208,15 +212,6 @@ public class GetAllShapes {
                     show(right);
                     updated = true;
                 }
-                int cut = cutBlac(id);
-                if (cut != 0 && steps[cut] == -1) {
-                    steps[cut] = step + 1;
-                    operates[cut] = BaseOperate.CUT;
-                    parent1[cut] = id;
-                    num++;
-                    show(cut);
-                    updated = true;
-                }
                 for (int id2 = 1; id2 <= 65535; id2++) {
                     if (steps[id2] == -1) {
                         continue;
@@ -257,7 +252,7 @@ public class GetAllShapes {
     }
 
     private void show(int id) {
-        //System.out.println(Integer.toBinaryString(id));
+        System.out.println(Integer.toBinaryString(id));
     }
 
 }

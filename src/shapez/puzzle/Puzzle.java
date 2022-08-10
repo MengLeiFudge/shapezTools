@@ -74,15 +74,38 @@ public class Puzzle {
             for (int i = 0; i < excludedBuildings.size(); i++) {
                 String excludedBuilding = excludedBuildings.getString(i);
                 switch (excludedBuilding) {
-                    case "balancer" -> this.excludedBuildings.add(BuildingType.SPLITTER_UP_RIGHT);
-                    case "cutter" -> this.excludedBuildings.add(BuildingType.CUTTER);
-                    case "rotater" -> this.excludedBuildings.add(BuildingType.ROTATER_90);
+                    case "balancer" -> {
+                        this.excludedBuildings.add(BuildingType.SPLITTER_LEFT);
+                        this.excludedBuildings.add(BuildingType.SPLITTER_RIGHT);
+                    }
+                    case "cutter" -> {
+                        this.excludedBuildings.add(BuildingType.CUTTER);
+                        this.excludedBuildings.add(BuildingType.CUTTER_QUAD);
+                    }
+                    case "rotater" -> {
+                        this.excludedBuildings.add(BuildingType.ROTATER_CW);
+                        this.excludedBuildings.add(BuildingType.ROTATER_CCW);
+                        this.excludedBuildings.add(BuildingType.ROTATER_180);
+                    }
                     case "stacker" -> this.excludedBuildings.add(BuildingType.STACKER);
                     case "mixer" -> this.excludedBuildings.add(BuildingType.MIXER);
-                    case "painter" -> this.excludedBuildings.add(BuildingType.PAINTER);
+                    case "painter" -> {
+                        this.excludedBuildings.add(BuildingType.PAINTER);
+                        this.excludedBuildings.add(BuildingType.PAINTER_MIRROR);
+                        this.excludedBuildings.add(BuildingType.PAINTER_DOUBLE);
+                    }
                     case "trash" -> this.excludedBuildings.add(BuildingType.TRASH);
-                    case "belt" -> this.excludedBuildings.add(BuildingType.BELT_STARGIGHT);
-                    case "underground_belt" -> this.excludedBuildings.add(BuildingType.TUNNEL1_ENTER);
+                    case "belt" -> {
+                        this.excludedBuildings.add(BuildingType.BELT_STRAIGHT);
+                        this.excludedBuildings.add(BuildingType.BELT_LEFT);
+                        this.excludedBuildings.add(BuildingType.BELT_RIGHT);
+                    }
+                    case "underground_belt" -> {
+                        this.excludedBuildings.add(BuildingType.TUNNEL1_ENTRY);
+                        this.excludedBuildings.add(BuildingType.TUNNEL1_EXIT);
+                        this.excludedBuildings.add(BuildingType.TUNNEL2_ENTRY);
+                        this.excludedBuildings.add(BuildingType.TUNNEL2_EXIT);
+                    }
                     default -> throw new IllegalArgumentException("错误的建筑类型：" + excludedBuilding);
                 }
             }

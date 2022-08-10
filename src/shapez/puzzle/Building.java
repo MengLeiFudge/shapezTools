@@ -23,21 +23,20 @@ public class Building {
     /**
      * 从json读取信息时，使用该构造方法.
      * <p>
-     * 由于官方谜题的原点在地图中心，所以导入时需要将 moveToFirstQuadrant 设为 true，转换为一象限坐标。
+     * 官方谜题的原点在地图中心，程序中原点在左下角，传入之前需判断是否要转换为一象限坐标。
      *
      * @param type
      * @param item
      * @param r
-     * @param x
+     * @param x 左下角为原点的建筑位置
      * @param y
-     * @param moveToFirstQuadrant 是否需要将xy处理为一象限坐标
      */
     Building(BuildingType type, FullShape item, int r, int x, int y) {
         this.type = type;
         this.item = item;
         this.r = r;
-        this.x = moveToFirstQuadrant ? convertX(x, ture) : x;
-        this.y = moveToFirstQuadrant ? convertY(y, ture) : y;
+        this.x = x;
+        this.y = y;
     }
 
     Building(BuildingType type, int r, int x, int y) {
@@ -59,8 +58,8 @@ public class Building {
         CUTTER,
         CUTTER_QUAD,
         // 旋转器
-        ROTATER_90,
-        ROTATER_270,
+        ROTATER_CW,
+        ROTATER_CCW,
         ROTATER_180,
         // 堆叠机
         STACKER,
