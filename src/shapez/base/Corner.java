@@ -5,7 +5,8 @@ import lombok.Data;
 /**
  * 表示图形的一个角.
  * <p>
- * 空角应该用无参的构造函数，而非null。同样，判断是否为空
+ * 空角应该用无参构造函数生成的空对象表示，而非null。
+ * 同样，空角需要用 {@link #isEmpty()} 判断。
  *
  * @author MengLeiFudge
  */
@@ -76,8 +77,10 @@ public class Corner {
     }
 
     public Corner(Shape bs, Color bc) {
-        if (bs == Shape.NONE || bc == Color.NONE) {
-            throw new IllegalArgumentException("空角请使用无参的构造方法！");
+        if (bs == null || bs == Shape.NONE || bc == null || bc == Color.NONE) {
+            this.bs = Shape.NONE;
+            this.bc = Color.NONE;
+            return;
         }
         this.bs = bs;
         this.bc = bc;
@@ -85,7 +88,9 @@ public class Corner {
 
     public void setBs(Shape bs) {
         if (bs == null || bs == Shape.NONE) {
+            this.bs = Shape.NONE;
             this.bc = Color.NONE;
+            return;
         }
         this.bs = bs;
     }
@@ -93,6 +98,8 @@ public class Corner {
     public void setBc(Color bc) {
         if (bc == null || bc == Color.NONE) {
             this.bs = Shape.NONE;
+            this.bc = Color.NONE;
+            return;
         }
         this.bc = bc;
     }

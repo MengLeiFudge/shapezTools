@@ -4,10 +4,15 @@ import shapez.calculate.GetAllShapes;
 import shapez.check_floating.Check;
 import shapez.puzzle.GetAllPuzzles;
 import shapez.puzzle.ShowOnePuzzle;
+import shapez.puzzle.SolvePuzzle;
 
 import static shapez.Utils.sc;
 
 /**
+ * 这是一个 Shapez 的处理程序.
+ *
+ * 它包括计算图形数目
+ *
  * @author MengLeiFudge
  */
 public class Main {
@@ -29,6 +34,7 @@ public class Main {
                 case "3" -> new ShowOnePuzzle().process();
                 case "4" -> new GetAllPuzzles().process(true);
                 case "5" -> new GetAllPuzzles().process(false);
+                case "6" -> new SolvePuzzle().process();
                 case "0" -> {
                     System.out.println("喜欢本项目的话，请给萌泪点个star！");
                     return;

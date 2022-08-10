@@ -10,7 +10,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import static shapez.Utils.ALL_PUZZLES_DIR;
+import static shapez.Utils.PUZZLES_DIR;
 import static shapez.Utils.sc;
 import static shapez.puzzle.MyThreadPoolExecutor.getPuzzleStr;
 import static shapez.puzzle.MyThreadPoolExecutor.strFormat;
@@ -22,6 +22,11 @@ public class ShowOnePuzzle {
     public void process() {
         System.out.println("请输入谜题ID或短代码");
         String puzzleStr = sc.nextLine().trim();
+        File dir = new File(PUZZLES_DIR,
+                id + " [" + title + "] [" + shortKey + "] by " + author + ".json");
+        if()
+
+
         System.out.println("请稍等....");
         String info = getPuzzleStr(puzzleStr);
         if (info == null) {
@@ -42,7 +47,7 @@ public class ShowOnePuzzle {
                 String title = strFormat(meta.getString("title"));
                 String shortKey = strFormat(meta.getString("shortKey"));
                 String author = strFormat(meta.getString("author"));
-                File f = new File(ALL_PUZZLES_DIR,
+                File f = new File(PUZZLES_DIR,
                         id + " [" + title + "] [" + shortKey + "] by " + author + ".json");
                 if (!f.exists()) {
                     try {
@@ -52,8 +57,7 @@ public class ShowOnePuzzle {
                     }
                 }
                 try (BufferedWriter bw = new BufferedWriter(new FileWriter(f))) {
-                    bw.write(obj.toString(SerializerFeature.PrettyFormat));
-                    bw.newLine();
+                    System.out.println(obj.toString(SerializerFeature.PrettyFormat));
                 } catch (IOException e) {
                     e.printStackTrace();
                 }

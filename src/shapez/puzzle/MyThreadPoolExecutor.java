@@ -15,7 +15,7 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 
-import static shapez.Utils.ALL_PUZZLES_DIR;
+import static shapez.Utils.PUZZLES_DIR;
 import static shapez.Utils.GET_NON_EXISTS_PUZZLES;
 import static shapez.Utils.THREAD_NUM;
 import static shapez.Utils.UPDATE_LOCAL_PUZZLES;
@@ -49,8 +49,8 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
     public static void init() {
         processedNum = 0;
         processIndex = new int[THREAD_NUM];
-        new File(ALL_PUZZLES_DIR).mkdirs();
-        File[] files = new File(ALL_PUZZLES_DIR).listFiles();
+        PUZZLES_DIR.mkdirs();
+        File[] files = PUZZLES_DIR.listFiles();
         if (files == null) {
             return;
         }
@@ -157,7 +157,7 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
         String title = strFormat(meta.getString("title"));
         String shortKey = strFormat(meta.getString("shortKey"));
         String author = strFormat(meta.getString("author"));
-        File f = new File(ALL_PUZZLES_DIR,
+        File f = new File(PUZZLES_DIR,
                 id + " [" + title + "] [" + shortKey + "] by " + author + ".json");
         if (!f.exists()) {
             try {

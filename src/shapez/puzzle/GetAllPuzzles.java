@@ -22,9 +22,9 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 import static java.lang.Thread.sleep;
-import static shapez.Utils.ALL_PUZZLES_DIR;
+import static shapez.Utils.PUZZLES_DIR;
 import static shapez.Utils.THREAD_NUM;
-import static shapez.Utils.dfPercent;
+import static shapez.Utils.dfP;
 import static shapez.puzzle.MyThreadPoolExecutor.showProcessState;
 
 /**
@@ -35,7 +35,10 @@ public class GetAllPuzzles {
     }
 
     public void process(boolean getAllPuzzles) {
-        new File(ALL_PUZZLES_DIR).mkdirs();
+        PUZZLES_DIR.mkdirs();
+        PUZZLES_DIR.mkdirs();
+        PUZZLES_DIR.mkdirs();
+        PUZZLES_DIR.mkdirs();
         if (getAllPuzzles) {
             getAllPuzzles();
         }
@@ -99,9 +102,9 @@ public class GetAllPuzzles {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        File[] files = new File(ALL_PUZZLES_DIR).listFiles();
+        File[] files = PUZZLES_DIR.listFiles();
         if (files == null) {
-            System.out.println(ALL_PUZZLES_DIR + " 不存在！");
+            System.out.println(PUZZLES_DIR + " 不存在！");
             return;
         }
         ArrayList<File> list = new ArrayList<>(Arrays.asList(files));
@@ -130,7 +133,7 @@ public class GetAllPuzzles {
                         avoidCalculate(puzzle.getAuthor()) + "," +
                         puzzle.getDownloads() + "," +
                         puzzle.getCompletions() + "," +
-                        dfPercent.format(completeRate) + "," +
+                        dfP.format(completeRate) + "," +
                         getAvgTime(puzzle.getAverageTime()) + "," +
                         puzzle.getLikes() + "," +
                         puzzle.getW() + "," +
