@@ -1,0 +1,40 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"Sp--Sp--:--Cw--Cw",
+				"pos":{
+					"r":90,
+					"x":-6,
+					"y":-2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"--Cw--Cw:Sp--Sp--",
+				"pos":{
+					"r":270,
+					"x":-5,
+					"y":1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":12,
+			"h":4
+		},
+		"version":1,
+		"excludedBuildings":[]
+	},
+	"meta":{
+		"downloads":5,
+		"shortKey":"Sp--Sp--:--Cw--Cw",
+		"author":"TNTDragons",
+		"completions":1,
+		"id":680,
+		"completed":false,
+		"title":"Harder Layer Switch",
+		"likes":0
+	}
+}

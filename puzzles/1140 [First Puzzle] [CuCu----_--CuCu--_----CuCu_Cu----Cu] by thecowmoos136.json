@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":3
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CuCu----:--CuCu--:----CuCu:Cu----Cu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-4
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":8
+		},
+		"version":1,
+		"excludedBuildings":[
+			"mixer",
+			"painter",
+			"trash"
+		]
+	},
+	"meta":{
+		"downloads":6,
+		"shortKey":"CuCu----:--CuCu--:----CuCu:Cu----Cu",
+		"author":"thecowmoos136",
+		"completions":3,
+		"id":1140,
+		"completed":false,
+		"title":"First Puzzle",
+		"likes":2
+	}
+}

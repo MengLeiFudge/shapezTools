@@ -1,0 +1,41 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CrCwCrCw",
+				"pos":{
+					"r":180,
+					"x":0,
+					"y":-1
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CrCwCrCw:CrCwCrCw:CrCwCrCw:CrCwCrCw",
+				"pos":{
+					"r":90,
+					"x":0,
+					"y":-2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":3,
+			"h":4
+		},
+		"version":1
+	},
+	"meta":{
+		"difficulty":0.07600950118764849,
+		"averageTime":91.44730077120822,
+		"downloads":421,
+		"shortKey":"CrCwCrCw:CrCwCrCw:CrCwCrCw:CwCrCwCr",
+		"author":"anonymous",
+		"completions":389,
+		"id":288,
+		"completed":false,
+		"title":"Claustrophobia 2 fix",
+		"likes":143
+	}
+}

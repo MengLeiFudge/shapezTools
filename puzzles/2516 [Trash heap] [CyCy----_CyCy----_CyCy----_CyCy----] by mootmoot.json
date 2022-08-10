@@ -1,0 +1,46 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"----CyCy",
+				"pos":{
+					"r":0,
+					"x":-3,
+					"y":-2
+				},
+				"type":"goal"
+			},
+			{
+				"item":"CyCyCyCy",
+				"pos":{
+					"r":0,
+					"x":-3,
+					"y":0
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":5,
+			"h":3
+		},
+		"version":1,
+		"excludedBuildings":[
+			"mixer",
+			"painter",
+			"trash"
+		]
+	},
+	"meta":{
+		"difficulty":0.17647058823529416,
+		"averageTime":28.642857142857142,
+		"downloads":17,
+		"shortKey":"CyCy----:CyCy----:CyCy----:CyCy----",
+		"author":"mootmoot",
+		"completions":14,
+		"id":2516,
+		"completed":false,
+		"title":"Trash heap",
+		"likes":3
+	}
+}
