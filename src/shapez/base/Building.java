@@ -1,7 +1,6 @@
-package shapez.puzzle;
+package shapez.base;
 
 import lombok.Data;
-import shapez.base.FullShape;
 
 /**
  * @author MengLeiFudge
@@ -12,7 +11,7 @@ public class Building {
     /**
      * 如果建筑是生成器或接收器，则item表示生成的/需要的图形.
      */
-    private FullShape item;
+    private Shape item;
     /**
      * 角度，可能的值有0,90,180,-90.
      */
@@ -28,10 +27,10 @@ public class Building {
      * @param type
      * @param item
      * @param r
-     * @param x 左下角为原点的建筑位置
+     * @param x    左下角为原点的建筑位置
      * @param y
      */
-    Building(BuildingType type, FullShape item, int r, int x, int y) {
+    public Building(BuildingType type, Shape item, int r, int x, int y) {
         this.type = type;
         this.item = item;
         this.r = r;
@@ -39,12 +38,12 @@ public class Building {
         this.y = y;
     }
 
-    Building(BuildingType type, int r, int x, int y) {
+    public Building(BuildingType type, int r, int x, int y) {
         this(type, null, r, x, y);
     }
 
 
-    enum BuildingType {
+    public enum BuildingType {
         // 方块
         BLOCK,
         // 生成器

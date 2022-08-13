@@ -10,13 +10,12 @@ import static shapez.Utils.sc;
 
 /**
  * 这是一个 Shapez 的处理程序.
- *
- * 它包括计算图形数目
+ * <p>
+ * 它主要
  *
  * @author MengLeiFudge
  */
 public class Main {
-
     public static void main(String[] args) {
         while (true) {
             System.out.println("※ 该项目仅供学习研究之用 ※");

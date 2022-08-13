@@ -4,8 +4,9 @@ import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.serializer.SerializerFeature;
 import lombok.Data;
-import shapez.base.FullShape;
-import shapez.puzzle.Building.BuildingType;
+import shapez.base.Building;
+import shapez.base.Shape;
+import shapez.base.Building.BuildingType;
 
 import java.util.ArrayList;
 
@@ -54,10 +55,10 @@ public class Puzzle {
             if (type == null) {
                 return;
             }
-            FullShape item = null;
+            Shape item = null;
             if (type == BuildingType.BLOCK) {
                 String itemStr = building.getString("item");
-                item = new FullShape(itemStr);
+                item = new Shape(itemStr);
             }
             JSONObject pos = building.getJSONObject("pos");
             // r: 0,90,180,-90

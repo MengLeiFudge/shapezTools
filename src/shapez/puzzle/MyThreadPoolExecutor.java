@@ -179,6 +179,11 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
         return getPuzzleStr(id + "");
     }
 
+    /**
+     * 下载一个puzzle.
+     * @param shortKey
+     * @return
+     */
     public static String getPuzzleStr(String shortKey) {
         try {
             String url = "https://api.shapez.io/v1/puzzles/download/" + shortKey;
@@ -186,7 +191,7 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
             connection.setRequestMethod("GET");
             connection.setConnectTimeout(10000);
             connection.setReadTimeout(5000);
-            connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) shapez.io-standalonechina/1.4.2 Chrome/85.0.4183.121 Electron/10.4.3 Safari/537.36");
+            connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) shapez/1.5.5 Chrome/96.0.4664.174 Electron/16.2.8 Safari/537.36");
             connection.setRequestProperty("x-api-key", "d5c54aaa491f200709afff082c153ef2");
             connection.setRequestProperty("x-token", TOKEN);
             connection.setRequestProperty("Content-Type", "application/json");

@@ -24,7 +24,7 @@
 42,CcCcCcCc:SgSgSgSg,Tempest Experiment 2,anonymous,283,79,27.92%,9m49s,42,11,11,,,,,,,,,
 43,WgRyCbSr,Flow Free no tunnels,anonymous,1678,1622,96.66%,33s,463,8,6,,,,,,,,,
 46,WyRbWyRb:SrCgSrCg,Flow Free2 noTunnels,anonymous,94,80,85.11%,1m50s,31,14,10,,,,,,,,,
-47,SgSwSgSw,Multi color star,anonymous,107,62,57.94%,5m46s,29,9,8,,,,,,,,,
+47,SgSwSgSw,Multi cornerColor star,anonymous,107,62,57.94%,5m46s,29,9,8,,,,,,,,,
 48,WpWpWpWp:SwWwSwSw,Tempest Experiment 3,anonymous,10,4,40.00%,-1s,4,9,9,,,,,,,,,
 50,CpCpCpCp:RrRrRrRr,funny colored shape,anonymous,9,3,33.33%,-1s,2,8,7,,,,,,,,,
 51,CyCySySy,Two Shapes,anonymous,11,4,36.36%,-1s,4,8,6,,,,,,,,,
@@ -108,7 +108,7 @@
 140,WbScCuSc:CpCcSbCc,Shapez,anonymous,8,6,75.00%,-1s,0,8,6,,,,,,,,,
 141,SuScSuSc:RcCuRcCu,Cool stuff ngl,anonymous,9,3,33.33%,-1s,1,2,3,,,,,,,,,
 143,CpCpCpCp:SySySySy:WbWb----:RrRr----,Youpiiiiiiiii,anonymous,12,2,16.67%,-1s,2,13,9,,,,,,,,,
-146,CbCuCbCu:CbCbCbCb:CuCuCuCu,color delete,anonymous,254,226,88.98%,1m28s,67,4,9,,,,,,,,,
+146,CbCuCbCu:CbCbCbCb:CuCuCuCu,cornerColor delete,anonymous,254,226,88.98%,1m28s,67,4,9,,,,,,,,,
 147,Sb----Sb,Bugprinting pt1 Ears,anonymous,226,203,89.82%,1m30s,68,9,3,,,,,,,,,
 148,Sb----Sb:CbCbCbCb,Bugprinting pt2 Body,anonymous,509,437,85.85%,2m24s,179,9,3,,,,,,,,,
 149,Sp----Sp:CpCpCpCp:--CwCw--,E_BugFashion,anonymous,57,34,59.65%,7m9s,14,8,9,,,,,,,,,
@@ -118,7 +118,7 @@
 153,CcSrCc--,Fish or something,anonymous,56,37,66.07%,3m18s,13,9,9,,,,,,,,,
 154,SpScSwSg:WgWbWyWr,a small puzzle,anonymous,9,4,44.44%,-1s,2,2,5,,,,,,,,,
 155,RuRgRgRr,HAL puzzle,anonymous,14,3,21.43%,-1s,3,20,8,,,,,,,,,
-156,CpCpCpCp:WyWyWyWy:SbSb----:RrRr----,Cut and color,anonymous,12,2,16.67%,-1s,2,13,9,,,,,,,,,
+156,CpCpCpCp:WyWyWyWy:SbSb----:RrRr----,Cut and cornerColor,anonymous,12,2,16.67%,-1s,2,13,9,,,,,,,,,
 157,WbWyWyWb:CrRcRwCp:--RwRc--,a hard one,anonymous,13,2,15.38%,-1s,2,20,19,,,,,,,,,
 158,WgRrWgRr:CrCwCrCw:SgSgSgSg,Shrimp took my shape,anonymous,227,37,16.30%,22m8s,23,9,10,,,,,,,,,
 159,SySySySy:SySySySy,Pandas 2nd Puzzel,anonymous,31,26,83.87%,1m35s,9,7,6,,,,,,,,,
@@ -126,7 +126,7 @@
 161,'------Cu:Cu------:Cu------:--CuCu--,Beep Boop,anonymous,15,4,26.67%,-1s,4,20,20,,,,,,,,,
 162,CyCyCyCy:WcWcWcWc:SpSpSwSw,CirclePinwheelStar,anonymous,9,5,55.56%,-1s,4,20,20,,,,,,,,,
 163,Cu--CuRw:--Rw----,Return to rectangle,anonymous,14,7,50.00%,18m21s,6,7,6,,,,,,,,,
-164,SwSuSwSu,De-color,anonymous,12,5,41.67%,-1s,5,4,9,,,,,,,,,
+164,SwSuSwSu,De-cornerColor,anonymous,12,5,41.67%,-1s,5,4,9,,,,,,,,,
 165,WwWwWwWw:ScScCcCc,Annoying Puzzle,anonymous,11,2,18.18%,-1s,2,11,11,,,,,,,,,
 166,RuRyRyRu,L puzzle,anonymous,8,5,62.50%,-1s,4,8,11,,,,,,,,,
 167,RbRbRbRb:CwCwCwCw,square blueprint,anonymous,11,8,72.73%,-1s,6,6,6,,,,,,,,,
@@ -469,7 +469,7 @@
 630,CbCuCbCu:Sr------:--CrSrCr:CwCwCwCw,Compact Rocket,meijerinkjelle,14,3,21.43%,3m21s,2,9,11,,,,,,,,,
 631,CrRgWbSw,Transformation,Baleine,6,0,00.00%,-1s,0,12,7,,,,,,,,,
 632,CbCbCbCb:Cr----Cr:Sp----Sp:--SwSw--,Compact Stacking,TNTDragons,6,2,33.33%,-1s,0,10,8,,×,×,,×,×,×,,
-633,'--RrRr--:Cr----Cr:Cu----Cu,Am I missing color,Professorlf,244,119,48.77%,4m34s,69,6,6,,,,,,,,,
+633,'--RrRr--:Cr----Cr:Cu----Cu,Am I missing cornerColor,Professorlf,244,119,48.77%,4m34s,69,6,6,,,,,,,,,
 634,CbCcCcCb:CbCc----,Blue Halves 3,xZMANx,5,0,00.00%,-1s,0,7,8,,,,,,,,,
 636,CuRwCuRw,Half in Half,TNTDragons,4,2,50.00%,-1s,0,7,2,,,,,,,,,
 637,SuSuSuSu:SrSrSrSr,jungle,Shigetora,5,1,20.00%,-1s,0,12,11,,,,,,,,,
@@ -538,7 +538,7 @@
 704,CbRbRbCb:CwCwCwCw:WbWbWbWb,Make Lv17,gentryaustin,9,4,44.44%,-1s,2,7,8,,,,,,,,,
 705,Sr------:--CrSyCr:CwCwCwCw,Trashless Rocket,TriffnixXIV,14,1,07.14%,-1s,0,13,4,×,,,,×,×,×,,
 706,Sg----Sg:CgCgCgCg:--CyCyCy,Make Lv18,gentryaustin,10,3,30.00%,-1s,1,7,10,,,,,,,,,
-707,WrWrSgSg:SwSwRgRg,Practice with color,e_ethor,3,0,00.00%,-1s,0,8,5,,,×,×,,,,,
+707,WrWrSgSg:SwSwRgRg,Practice with cornerColor,e_ethor,3,0,00.00%,-1s,0,8,5,,,×,×,,,,,
 708,RuRuWwWw:RrRr----:RuRuWwWw:RrRr----,recbind,WYATTE765,5,1,20.00%,-1s,0,5,14,,,,,,,,,
 709,CrCrCpCp,Halve n halve,MrJunior717,6,1,16.67%,-1s,1,9,7,×,,×,,,,,,
 710,'----SbSb:--SbSb--:----SbSb,First_Try,player#739808291,3,0,00.00%,-1s,0,17,18,,,,,,,,,
@@ -590,7 +590,7 @@
 761,CgRgRgCg:Cw----Cw,Among Us Green,BTDubs,7,2,28.57%,-1s,2,8,6,,,,,,,,,
 762,CcSpCcSp,Comapct Machine,Noxius,7,1,14.29%,-1s,1,5,16,,,,,,,,,
 763,CcRcCcRc:RwCwRwCw:Sr--Sw--:CyCyCyCy,Make Lv24,gentryaustin,7,3,42.86%,-1s,1,11,10,,,,,,,,,
-764,SrSrCuCu:CuCuSySy,color maze,player#744646443,9,2,22.22%,-1s,2,12,12,,,,,×,,×,,
+764,SrSrCuCu:CuCuSySy,cornerColor maze,player#744646443,9,2,22.22%,-1s,2,12,12,,,,,×,,×,,
 765,CbCuCbCu:Sg------:--CgSgCg:CwCwCwCw,Green rockets,Pahvilaatikko,8,1,12.50%,-1s,0,12,15,,,,,,,,,
 766,RwCwRwCw,IDK - 5,joefalco187,208,205,98.56%,35s,41,9,7,×,×,×,×,×,×,×,,
 767,'----RuRu:--RuRu--:RuRu----,Fuzzys 6x5,InfinityPilz,10,3,30.00%,-1s,2,6,5,,,,,×,×,,,×
@@ -825,7 +825,7 @@
 1058,RuRrRgRb:RyRcRpRu,Full Color,Stella,8,0,00.00%,-1s,0,12,15,,,,,,,,,
 1059,Ru------:Ru------:Ru------:Ru------,Breaking And Fixing,PWalkersCrisps,7,2,28.57%,-1s,0,8,6,,,,,,,,,
 1060,RbCbCbCb:CwCwCwCw:CyCyCyCy:CrCrCrCr,Stacking overflow,player#533815611,9,1,11.11%,-1s,1,7,10,,,,,,,,,
-1061,CpCpCpCp:RcRcRcRc,8x4 stack and color,NeonApe,6,2,33.33%,-1s,1,8,4,,,,,×,,×,,
+1061,CpCpCpCp:RcRcRcRc,8x4 stack and cornerColor,NeonApe,6,2,33.33%,-1s,1,8,4,,,,,×,,×,,
 1062,'----CuCw:----CuCw,Test,gijsiebijl,7,3,42.86%,-1s,1,3,5,,,,,,,,,
 1063,CbCbCbRb:CwCwCwCw:WyWyWyWy:SgSgSgSg,Blueprints,DERapha,6,3,50.00%,-1s,1,13,4,×,×,×,,,,×,,
 1065,CgCgCgCg:CyCyCyCy:RcRcRcRc,Multiple Roads,ProfAcorn,8,2,25.00%,-1s,0,14,9,,,,,,,,,
@@ -942,7 +942,7 @@
 1211,WpWpWyWy,Colored Bits,QuestCube,5,1,20.00%,-1s,1,5,7,,,,,,,,,
 1212,'--Cp----,LooPink,5kender,4,2,50.00%,-1s,0,5,7,×,,,×,×,×,,,
 1213,RbRbCbCb,Tight Corridor,PWalkersCrisps,5,3,60.00%,-1s,1,6,2,,,,,,,,,
-1215,'------Wc:------Ww:------Wp:------Wy,Split color n stack,akeyes,5,0,00.00%,-1s,0,11,11,,,,,,,,,
+1215,'------Wc:------Ww:------Wp:------Wy,Split cornerColor n stack,akeyes,5,0,00.00%,-1s,0,11,11,,,,,,,,,
 1216,'--RyRy--,Cubism,Atreyu_Langley,25,1,04.00%,38m5s,1,20,20,,,,,,,,,
 1217,SuSwSuSw,Tricoloration,QuestCube,8,1,12.50%,-1s,1,9,9,×,×,×,×,,,×,,
 1218,RuRuRuRu:CrCuCuCu,Wallflow - 01,aden8r,18,13,72.22%,20s,1,8,7,×,×,×,×,×,×,×,,×
@@ -1105,7 +1105,7 @@
 1425,RuCw--Cw:----Ru--:----Rw--:----Rw--,insect,Yorigami,6,1,16.67%,-1s,1,9,6,,,,,,,,,
 1426,'--CrCrCr:--CbCu--,Tunnel Madness,TheUniverseDerp,6,0,00.00%,-1s,0,14,12,,,,,,,,,
 1428,RrCw--Cw:----Rr--,Compact Shapez,Naranjo,7,0,00.00%,-1s,0,7,9,×,,,,×,×,,,
-1429,CuCuCuCu:WcWcWcWc,uncolor color stack,gentryaustin,6,4,66.67%,-1s,2,4,5,,,,,,,,,
+1429,CuCuCuCu:WcWcWcWc,uncolor cornerColor stack,gentryaustin,6,4,66.67%,-1s,2,4,5,,,,,,,,,
 1431,WpWpWpWp:CwCwCwCw:WpWpWpWp:CwCwCwCw,Crazy Windmills,gentryaustin,7,2,28.57%,-1s,1,13,7,,,,,,,,,
 1433,RgWbSyCr,Connections,erikandersbjorn,6,2,33.33%,-1s,1,12,12,×,×,×,×,×,×,×,,×
 1434,WgCyWgCy:CyWgCyWg,Disk forging,Kayottick,5,1,20.00%,-1s,0,9,9,,,,,×,×,×,,
@@ -1290,7 +1290,7 @@
 1675,RcRcRcRc:CcCcCcCc,Mix and Separate,player#531369472,20,13,65.00%,44s,1,5,3,,×,×,×,×,,×,,×
 1676,CrCcCrCc:Cy------:Sw------:Cw--Cw--,Segments,steevf,6,1,16.67%,-1s,1,15,11,,,,,,,,,
 1677,SrSrSrSr:CyCyCyCy:SwSwSwSw:SrScSwSg,10x10 Freeform Lvl16,kubagames143,13,0,00.00%,-1s,0,10,10,,,,,,,,,
-1678,CwCbCgCr,4 color,MaKu2,8,4,50.00%,-1s,0,11,15,,,,,,,,,
+1678,CwCbCgCr,4 cornerColor,MaKu2,8,4,50.00%,-1s,0,11,15,,,,,,,,,
 1679,CbRbRbCb:CwCwCwCw:WbWbWbWb:WrWcWwWg,11x11 Freeform Lvl17,kubagames143,9,0,00.00%,-1s,0,11,11,,,,,,,,,
 1681,RrRbRyRg,Dont Move Red,steevf,870,635,72.99%,3m48s,315,3,8,×,,,,×,×,×,×,×
 1682,Sg----Sg:CgCgCgCg:--CyCy--:CrCcCwCg,9x9 Freeform Lvl 18,kubagames143,11,2,18.18%,-1s,0,9,9,,,,,,,,,
@@ -1875,7 +1875,7 @@
 2405,SrSrSrSr:CrCrCrCr:SrSrSrSr:CrCrCrCr,Big Boy,Hadbi,6,4,66.67%,-1s,2,8,5,,×,×,,×,,×,,
 2406,'----SuSu:----SrSr:----SgSg:----SbSb,Diagonal Coloring,g1t2r3,6,2,33.33%,-1s,0,13,9,,,,,,,,,
 2407,CuCuRuRu:CuCuRuRu:CuCuRuRu:CuCuRuRu,Jump the line,g1t2r3,11,2,18.18%,-1s,1,8,6,×,,×,,×,×,×,,
-2408,CpCpCpCp:CyCyCyCy:CcCcCcCc,easy color mix,g1t2r3,6,2,33.33%,-1s,0,9,14,,,,,,,,,
+2408,CpCpCpCp:CyCyCyCy:CcCcCcCc,easy cornerColor mix,g1t2r3,6,2,33.33%,-1s,0,9,14,,,,,,,,,
 2409,RwRwRwRw:RwRwRwRw:RuRwRwRw:RwRwRwRw,Missed a spot,steevf,8,3,37.50%,-1s,1,9,14,,,,,,,,,
 2410,SrSgSbSy:Cu------,unstacker,milkcupatstarbu,10,5,50.00%,10m38s,4,9,5,,,,,,,,,
 2411,CyCgCcCb:CyCgCcCb,Konigsberg stackers,mootmoot,18,9,50.00%,19m2s,7,11,13,×,×,×,,×,×,×,,×
@@ -2254,7 +2254,7 @@
 2870,SrSrSrSr:SrSrSrSr:SrSrSrSr:SrSrSrSr,First One,ZazTheNoob,150,126,84.00%,2m18s,49,8,6,,×,×,,×,,×,,×
 2871,CuCuCuCu:CuCuCuCu:SuSuSuSu,Spiral,ZazTheNoob,18,13,72.22%,56s,3,11,11,,×,×,,×,×,×,,
 2872,'--Cb--Cb:Cb--Cb--:--Cw--Cw,odd layering plus,alex_x90,29,7,24.14%,10m3s,5,9,7,,,,,,,,,
-2874,SySySySy:SySySySy:SySySySy:CrCrCrCr,2in1 with color,player#214312982,17,14,82.35%,58s,3,6,7,,×,×,×,×,,×,,×
+2874,SySySySy:SySySySy:SySySySy:CrCrCrCr,2in1 with cornerColor,player#214312982,17,14,82.35%,58s,3,6,7,,×,×,×,×,,×,,×
 2875,CrCyCrCy,Y are there tunnels,SukeLW,24,12,50.00%,4m43s,4,10,5,×,,,,×,×,×,×,
 2876,CbRbRbCb,Pac Man,Norock,21,13,61.90%,50s,3,8,6,,,,,,,,,
 2877,CgCgCgCg:CgCgCgCg,Melon and Lime,apanda999,18,8,44.44%,5m12s,3,6,8,,,,,,,,,
@@ -2324,7 +2324,7 @@
 2949,SuRwSwRu:WuWuCuCu,Criss Cross,TangibleLight,11,3,27.27%,3m46s,0,15,10,,,,,,,,,
 2950,CbRwCbRw:SpCbSpCb,Criss Cross,TangibleLight,30,13,43.33%,19m14s,8,15,10,,,,,,,,,
 2951,SpRbSpRb:CrCpCrCp,Super easy,BeiSuQF,143,136,95.10%,44s,31,5,5,,,,,,,,,
-2953,Rr----Rb,Split and get color,BeiSuQF,73,65,89.04%,1m41s,21,6,6,,,,,,,,,
+2953,Rr----Rb,Split and get cornerColor,BeiSuQF,73,65,89.04%,1m41s,21,6,6,,,,,,,,,
 2954,CuCuSuSu,Turn left and right,BeiSuQF,96,77,80.21%,2m9s,31,10,4,×,,×,,×,×,,,
 2956,CuRwCwRu,A Symmetry,K.NifePhD,15,4,26.67%,5m15s,2,13,10,,×,×,×,,,×,,
 2958,SuSuSuSu:SuSu----:SuSu----,Symmetry,Azurite,66,15,22.73%,15m10s,11,10,10,,,,,,,,,
@@ -3099,7 +3099,7 @@
 4020,WpRpWpRp:SrCpSrCp,YASP,DeTheBug,17,13,76.47%,1m28s,2,8,8,,,,,,,,,
 4021,WuCy--Cy:WuCuWuCu,The Wall 2,DeTheBug,6,3,50.00%,-1s,0,12,12,,,,,,,,,
 4022,RuRuRuRu:WuWuWuWu,mirror engine,Apithia,12,8,66.67%,-1s,1,9,5,,,,,,,,,
-4023,RuCuRuCu:RbSbRbSb:CpWpCpWp:WySyWySy,color void,Apithia,12,7,58.33%,-1s,0,6,6,,,,,,,,,
+4023,RuCuRuCu:RbSbRbSb:CpWpCpWp:WySyWySy,cornerColor void,Apithia,12,7,58.33%,-1s,0,6,6,,,,,,,,,
 4024,WyWyWyWy:CpCpCpCp,Little Timmy,blasto,13,3,23.08%,-1s,3,20,20,,,,,×,×,,,
 4028,Ru------:--Cu----:----Su--:------Wu,my first flow free,Vasse,55,52,94.55%,24s,9,6,6,×,×,×,×,×,×,×,,×
 4029,WrWuWrWu:WyCuWyCu,thingy123,DeTheBug,10,4,40.00%,-1s,0,16,14,,,,,,,,,
@@ -3635,7 +3635,7 @@
 4697,'--WuSrSy,easy,Domino,10,5,50.00%,-1s,2,11,7,×,,×,,×,,,,×
 4699,SySySySy:CrCrCrCr,need store 1,897701215,11,3,27.27%,-1s,3,4,10,,,,,,,,,×
 4700,CyCbCrCc,need store 2,897701215,31,7,22.58%,7m34s,6,7,6,×,,,,,,,,×
-4701,RrRr--Wr:Rr----Cr:RrRr----,Cut and color,player#558856681,8,2,25.00%,-1s,0,11,11,,,,,,,,,
+4701,RrRr--Wr:Rr----Cr:RrRr----,Cut and cornerColor,player#558856681,8,2,25.00%,-1s,0,11,11,,,,,,,,,
 4702,CyCyCyCy:Sr----Sr:CgCgCgCg,Alien For Dinner,player#517499863,26,11,42.31%,7m25s,6,15,7,,,,,,,,,
 4704,WcCcWcCc:ScScScSc,the seporator-inator,player#369968148,17,11,64.71%,2m9s,3,20,20,,,,,,,,,
 4705,RcCyRcCy:WcWgWcWg,maze,player#369968148,10,5,50.00%,-1s,2,20,20,,,,,,,,,

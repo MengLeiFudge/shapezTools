@@ -7,12 +7,11 @@ import java.util.Arrays;
 /**
  * 计算所有可合成的图形样式数目，并输出其合成路径.
  * <p>
- * <ul>
- *     <li>图形样式将忽略角的形状、颜色的影响，全部使用 Cu 表示</li>
- *     <li>为加快计算速度，图形使用 1-65535 的 id 表示，每个 bit 表示一个角是否存在</li>
- * </ul>
- * <p>
+ * 由于并不需要图形每个角的形状、颜色，只需要结构，
+ * 程序中将使用 1-65535 的 id 表示结构，每个 bit 表示一个角是否存在。
  * 由于java进行位运算时，会先转换成int，所以id使用int而非。
+ *
+ * @author MengLeiFudge
  */
 public class GetAllShapes {
     /**

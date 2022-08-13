@@ -3,16 +3,18 @@ package shapez.puzzle;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 
-import java.io.File;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 import static shapez.puzzle.MyThreadPoolExecutor.getPuzzleStr;
 
+/**
+ * 输入一个谜题的短代码/id/json文件，输出这个谜题的解，并将解存于json文件中.
+ *
+ * @author MengLeiFudge
+ */
 public class SolvePuzzle {
 
+    public void process() {
 
+    }
 
     public void solve(int id) {
         String s = getPuzzleStr(id);

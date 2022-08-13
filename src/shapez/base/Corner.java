@@ -15,7 +15,7 @@ public class Corner {
     /**
      * 角的形状.
      */
-    public enum Shape {
+    public enum CornerShape {
         CIRCLE("C"),
         RECTANGLE("R"),
         WINDMILL("W"),
@@ -26,22 +26,31 @@ public class Corner {
          */
         NOT_NONE("X");
 
-        private final String s;
+        private final String shortKey;
 
-        Shape(String s) {
-            this.s = s;
+        CornerShape(String shortKey) {
+            this.shortKey = shortKey;
+        }
+
+        public static CornerShape getShapeByStr(String s) {
+            for (CornerShape shape : CornerShape.values()) {
+                if (shape.toString().equals(s)) {
+                    return shape;
+                }
+            }
+            throw new IllegalArgumentException("未找到短代码 " + s + " 对应的形状类型！");
         }
 
         @Override
         public String toString() {
-            return s;
+            return shortKey;
         }
     }
 
     /**
      * 角的颜色.
      */
-    public enum Color {
+    public enum CornerColor {
         UNCOLORED("u"),
         RED("r"),
         GREEN("g"),
@@ -56,64 +65,95 @@ public class Corner {
          */
         NOT_NONE("x");
 
-        private final String s;
+        private final String shortKey;
 
-        Color(String s) {
-            this.s = s;
+        CornerColor(String shortKey) {
+            this.shortKey = shortKey;
+        }
+
+        public static CornerColor getColorByStr(String s) {
+            for (CornerColor color : CornerColor.values()) {
+                if (color.toString().equals(s)) {
+                    return color;
+                }
+            }
+            throw new IllegalArgumentException("未找到短代码 " + s + " 对应的颜色类型！");
         }
 
         @Override
         public String toString() {
-            return s;
+            return shortKey;
         }
     }
 
-    private Shape bs;
-    private Color bc;
+    private CornerShape shape;
+    private CornerColor color;
 
+    /**
+     * 构造一个空的角.
+     */
     public Corner() {
-        this.bs = Shape.NONE;
-        this.bc = Color.NONE;
+        this.shape = CornerShape.NONE;
+        this.color = CornerColor.NONE;
     }
 
-    public Corner(Shape bs, Color bc) {
-        if (bs == null || bs == Shape.NONE || bc == null || bc == Color.NONE) {
-            this.bs = Shape.NONE;
-            this.bc = Color.NONE;
+    /**
+     * 通过角的形状和颜色构造指定的角.
+     *
+     * @param shape 角的形状
+     * @param color 角的颜色
+     */
+    public Corner(CornerShape shape, CornerColor color) {
+        if (shape == null || shape == CornerShape.NONE || color == null || color == CornerColor.NONE) {
+            this.shape = CornerShape.NONE;
+            this.color = CornerColor.NONE;
             return;
         }
-        this.bs = bs;
-        this.bc = bc;
+        this.shape = shape;
+        this.color = color;
     }
 
-    public void setBs(Shape bs) {
-        if (bs == null || bs == Shape.NONE) {
-            this.bs = Shape.NONE;
-            this.bc = Color.NONE;
-            return;
+    /**
+     * 通过角的图形短代码构造指定的角.
+     *
+     * @param shortKey 角对应的短代码
+     */
+    public Corner(String shortKey) {
+        if (!shortKey.matches("[CRWS][rgbypcuw]|--")) {
+            throw new IllegalArgumentException("角形状或颜色错误：" + shortKey);
         }
-        this.bs = bs;
+        this.shape = CornerShape.getShapeByStr(shortKey.substring(0, 1));
+        this.color = CornerColor.getColorByStr(shortKey.substring(1, 2));
     }
 
-    public void setBc(Color bc) {
-        if (bc == null || bc == Color.NONE) {
-            this.bs = Shape.NONE;
-            this.bc = Color.NONE;
+    public void setShape(CornerShape shape) {
+        if (shape == null || shape == CornerShape.NONE) {
+            this.shape = CornerShape.NONE;
+            this.color = CornerColor.NONE;
             return;
         }
-        this.bc = bc;
+        this.shape = shape;
+    }
+
+    public void setColor(CornerColor color) {
+        if (color == null || color == CornerColor.NONE) {
+            this.shape = CornerShape.NONE;
+            this.color = CornerColor.NONE;
+            return;
+        }
+        this.color = color;
     }
 
     @Override
     public String toString() {
-        return bs.toString() + bc.toString();
+        return shape.toString() + color.toString();
     }
 
     public boolean equals(Corner corner) {
-        return bs == corner.bs && bc == corner.bc;
+        return shape == corner.shape && color == corner.color;
     }
 
     public boolean isEmpty() {
-        return bs == Shape.NONE;
+        return shape == CornerShape.NONE;
     }
 }

@@ -3,7 +3,7 @@ package shapez.puzzle;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONException;
 import com.alibaba.fastjson.JSONObject;
-import shapez.puzzle.Building.BuildingType;
+import shapez.base.Building.BuildingType;
 
 import java.io.BufferedWriter;
 import java.io.File;
