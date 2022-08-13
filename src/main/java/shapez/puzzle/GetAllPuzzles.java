@@ -22,9 +22,9 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 import static java.lang.Thread.sleep;
-import static shapez.Utils.PUZZLES_DIR;
-import static shapez.Utils.THREAD_NUM;
-import static shapez.Utils.dfP;
+import static shapez.SettingsAndUtils.PUZZLES_DIR;
+import static shapez.SettingsAndUtils.THREAD_NUM;
+import static shapez.SettingsAndUtils.dfP;
 import static shapez.puzzle.MyThreadPoolExecutor.showProcessState;
 
 /**

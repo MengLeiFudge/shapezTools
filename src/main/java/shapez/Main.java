@@ -6,7 +6,7 @@ import shapez.puzzle.GetAllPuzzles;
 import shapez.puzzle.ShowOnePuzzle;
 import shapez.puzzle.SolvePuzzle;
 
-import static shapez.Utils.sc;
+import static shapez.SettingsAndUtils.sc;
 
 /**
  * 这是一个 Shapez 的处理程序.

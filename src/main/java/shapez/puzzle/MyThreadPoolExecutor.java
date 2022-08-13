@@ -9,18 +9,15 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 
-import static shapez.Utils.PUZZLES_DIR;
-import static shapez.Utils.GET_NON_EXISTS_PUZZLES;
-import static shapez.Utils.THREAD_NUM;
-import static shapez.Utils.UPDATE_LOCAL_PUZZLES;
-import static shapez.Utils.TOKEN;
-import static shapez.Utils.sleep;
+import static shapez.SettingsAndUtils.GET_NON_EXISTS_PUZZLES;
+import static shapez.SettingsAndUtils.PUZZLES_DIR;
+import static shapez.SettingsAndUtils.THREAD_NUM;
+import static shapez.SettingsAndUtils.TOKEN;
+import static shapez.SettingsAndUtils.UPDATE_LOCAL_PUZZLES;
+import static shapez.SettingsAndUtils.getInfoFromUrl;
+import static shapez.SettingsAndUtils.sleep;
 
 /**
  * 用于分流处理的线程.
@@ -181,20 +178,31 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
 
     /**
      * 下载一个puzzle.
+     *
      * @param shortKey
      * @return
      */
     public static String getPuzzleStr(String shortKey) {
-        try {
-            String url = "https://api.shapez.io/v1/puzzles/download/" + shortKey;
+        String url = "https://api.shapez.io/v1/puzzles/download/" + shortKey;
+        HashMap<String, String> headerParams = new HashMap<>();
+        headerParams.put("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) " +
+                "shapez/1.5.5 Chrome/96.0.4664.174 Electron/16.2.8 Safari/537.36");
+        headerParams.put("x-api-key", "d5c54aaa491f200709afff082c153ef2");
+        headerParams.put("x-token", TOKEN);
+        headerParams.put("Content-Type", "application/json");
+        headerParams.put("Connection", "keep-alive");
+        headerParams.put("Host", "api.shapez.io:443");
+        return getInfoFromUrl(url, null, headerParams);
+
+/*        try (BufferedReader br = new BufferedReader(new InputStreamReader(connection.getInputStream(), StandardCharsets.UTF_8));){
             HttpURLConnection connection = (HttpURLConnection) new URL(url).openConnection();
             connection.setRequestMethod("GET");
             connection.setConnectTimeout(10000);
             connection.setReadTimeout(5000);
-            connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) shapez/1.5.5 Chrome/96.0.4664.174 Electron/16.2.8 Safari/537.36");
-            connection.setRequestProperty("x-api-key", "d5c54aaa491f200709afff082c153ef2");
-            connection.setRequestProperty("x-token", TOKEN);
-            connection.setRequestProperty("Content-Type", "application/json");
+            connection.setRequestProperty();
+            connection.setRequestProperty(
+            connection.setRequestProperty(
+            connection.setRequestProperty(
             connection.connect();
             if (connection.getResponseCode() != 200) {
                 return null;
@@ -210,7 +218,7 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
         } catch (IOException e) {
             //e.printStackTrace();
             return null;
-        }
+        }*/
     }
 
     /**

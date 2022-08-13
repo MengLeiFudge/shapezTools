@@ -7,17 +7,23 @@ import lombok.Data;
  */
 @Data
 public class Building {
-    private BuildingType type;
+    private final BuildingType type;
     /**
      * 如果建筑是生成器或接收器，则item表示生成的/需要的图形.
      */
-    private Shape item;
+    private final Shape item;
     /**
      * 角度，可能的值有0,90,180,-90.
      */
-    private int r;
-    private int x;
-    private int y;
+    private final int r;
+    /**
+     * 建筑r=0时左上角的格子所在的横坐标.
+     */
+    private final int x;
+    /**
+     * 建筑r=0时左上角的格子所在的纵坐标.
+     */
+    private final int y;
 
     /**
      * 从json读取信息时，使用该构造方法.
@@ -42,40 +48,45 @@ public class Building {
         this(type, null, r, x, y);
     }
 
-
+    /**
+     * 谜题中涉及到的所有建筑类型.
+     */
     public enum BuildingType {
-        // 方块
+        // 方块，r无意义，一直为0
         BLOCK,
-        // 生成器
+        // 生成器，r=0表示生成的物品从上方输出
         EMITTER,
-        // 接收器
+        // 接收器，r=0表示接收的物品从下方输入
         GOAL,
-        // 分离器
+        // 分离器，r=0表示下方输入
         SPLITTER_LEFT,
         SPLITTER_RIGHT,
-        // 切割机
+        // 切割机，r=0表示下方输入
         CUTTER,
         CUTTER_QUAD,
-        // 旋转器
+        // 旋转器，r=0表示下方输入
         ROTATER_CW,
         ROTATER_CCW,
         ROTATER_180,
-        // 堆叠机
+        // 堆叠机，r=0表示下方输入
         STACKER,
-        // 混色器
+        // 混色器，r=0表示下方输入
         MIXER,
-        // 上色器
+        // 上色器，r=0表示左侧输入图形，右上输入染料
         PAINTER,
+        // 上色器（镜像），r=0表示左侧输入图形，右下输入染料
         PAINTER_MIRROR,
+        // 上色器（双面），r=0表示左侧输入图形，右上输入染料
         PAINTER_DOUBLE,
-        // 垃圾桶
+        // 垃圾桶，r无意义
         TRASH,
-        // 传送带
+        // 传送带，r=0表示下方输入
         BELT_STRAIGHT,
         BELT_LEFT,
         BELT_RIGHT,
-        // 隧道
+        // 隧道入口，r=0表示下方输入
         TUNNEL1_ENTRY,
+        // 隧道出口，r=0表示上方输出
         TUNNEL1_EXIT,
         TUNNEL2_ENTRY,
         TUNNEL2_EXIT;

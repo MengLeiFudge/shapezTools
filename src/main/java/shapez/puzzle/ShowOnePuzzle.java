@@ -10,8 +10,8 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import static shapez.Utils.PUZZLES_DIR;
-import static shapez.Utils.sc;
+import static shapez.SettingsAndUtils.PUZZLES_DIR;
+import static shapez.SettingsAndUtils.sc;
 import static shapez.puzzle.MyThreadPoolExecutor.getPuzzleStr;
 import static shapez.puzzle.MyThreadPoolExecutor.strFormat;
 
@@ -58,8 +58,9 @@ public class ShowOnePuzzle {
                         e.printStackTrace();
                     }
                 }
+                // 这里注意一下，不过meta没有的话，大概直接异常了吧
                 try (BufferedWriter bw = new BufferedWriter(new FileWriter(f))) {
-                    System.out.println(obj.toString(SerializerFeature.PrettyFormat));
+                    //System.out.println(obj.toString(SerializerFeature.PrettyFormat));
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
