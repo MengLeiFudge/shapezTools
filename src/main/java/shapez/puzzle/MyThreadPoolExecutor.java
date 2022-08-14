@@ -193,32 +193,6 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
         headerParams.put("Connection", "keep-alive");
         headerParams.put("Host", "api.shapez.io:443");
         return getInfoFromUrl(url, null, headerParams);
-
-/*        try (BufferedReader br = new BufferedReader(new InputStreamReader(connection.getInputStream(), StandardCharsets.UTF_8));){
-            HttpURLConnection connection = (HttpURLConnection) new URL(url).openConnection();
-            connection.setRequestMethod("GET");
-            connection.setConnectTimeout(10000);
-            connection.setReadTimeout(5000);
-            connection.setRequestProperty();
-            connection.setRequestProperty(
-            connection.setRequestProperty(
-            connection.setRequestProperty(
-            connection.connect();
-            if (connection.getResponseCode() != 200) {
-                return null;
-            }
-            BufferedReader br = new BufferedReader(new InputStreamReader(connection.getInputStream(), StandardCharsets.UTF_8));
-            StringBuilder sb = new StringBuilder();
-            String temp;
-            while ((temp = br.readLine()) != null) {
-                sb.append(temp);
-                sb.append("\n");
-            }
-            return sb.toString();
-        } catch (IOException e) {
-            //e.printStackTrace();
-            return null;
-        }*/
     }
 
     /**

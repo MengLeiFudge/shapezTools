@@ -26,6 +26,7 @@ public class Main {
             System.out.println("4.获取所有Puzzle并排序");
             System.out.println("5.直接对所有Puzzle排序");
             System.out.println("6.输出指定谜题的解");
+            System.out.println("9.test");
             System.out.println("0.结束");
             switch (sc.nextLine()) {
                 case "1" -> new GetAllShapes().process();
@@ -34,6 +35,7 @@ public class Main {
                 case "4" -> new GetAllPuzzles().process(true);
                 case "5" -> new GetAllPuzzles().process(false);
                 case "6" -> new SolvePuzzle().process();
+                case "9" -> new Test().process();
                 case "0" -> {
                     System.out.println("喜欢本项目的话，请给萌泪点个star！");
                     return;
