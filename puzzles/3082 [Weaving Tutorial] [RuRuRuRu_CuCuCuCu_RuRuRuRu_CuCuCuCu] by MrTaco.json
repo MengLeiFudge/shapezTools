@@ -75,16 +75,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.11111111111111116,
+		"averageTime":28.083333333333332,
+		"downloads":27,
 		"shortKey":"RuRuRuRu:CuCuCuCu:RuRuRuRu:CuCuCuCu",
 		"author":"MrTaco",
-		"completions":7,
+		"completions":24,
 		"id":3082,
 		"completed":false,
 		"title":"Weaving Tutorial",
-		"likes":3
+		"likes":4
 	}
 }

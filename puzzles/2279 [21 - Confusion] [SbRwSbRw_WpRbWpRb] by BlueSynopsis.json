@@ -211,15 +211,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.05555555555555558,
-		"averageTime":27.735294117647058,
-		"downloads":36,
+		"difficulty":0.039215686274509776,
+		"averageTime":26.142857142857142,
+		"downloads":51,
 		"shortKey":"SbRwSbRw:WpRbWpRb",
 		"author":"BlueSynopsis",
-		"completions":34,
+		"completions":49,
 		"id":2279,
 		"completed":false,
 		"title":"21 - Confusion",

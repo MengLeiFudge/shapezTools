@@ -158,18 +158,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2637362637362637,
-		"averageTime":385.92537313432837,
-		"downloads":91,
+		"difficulty":0.192090395480226,
+		"averageTime":284.34265734265733,
+		"downloads":177,
 		"shortKey":"CwCwCwCw:RwRwRwRw:SpSpSpSp",
 		"author":"DualBoot",
-		"completions":67,
+		"completions":143,
 		"id":5217,
 		"completed":true,
 		"title":"PurpleTarget",
-		"likes":29
+		"likes":55
 	}
 }

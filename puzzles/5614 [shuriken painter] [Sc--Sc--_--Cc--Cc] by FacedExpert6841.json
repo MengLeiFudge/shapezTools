@@ -84,16 +84,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.05555555555555558,
+		"averageTime":109.82352941176471,
+		"downloads":19,
 		"shortKey":"Sc--Sc--:--Cc--Cc",
 		"author":"FacedExpert6841",
-		"completions":7,
+		"completions":17,
 		"id":5614,
 		"completed":true,
 		"title":"shuriken painter",
-		"likes":3
+		"likes":5
 	}
 }

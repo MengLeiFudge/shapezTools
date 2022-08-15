@@ -131,15 +131,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5849056603773585,
-		"averageTime":324.90909090909093,
-		"downloads":53,
+		"difficulty":0.5901639344262295,
+		"averageTime":317.88,
+		"downloads":63,
 		"shortKey":"CyCyCyCy:SySySySy:SySySySy",
 		"author":"Professorlf",
-		"completions":22,
+		"completions":25,
 		"id":3117,
 		"completed":true,
 		"title":"Buffer - 01",
-		"likes":13
+		"likes":14
 	}
 }

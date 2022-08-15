@@ -61,12 +61,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.052631578947368474,
-		"averageTime":9.5,
-		"downloads":19,
+		"difficulty":0.04347826086956519,
+		"averageTime":9.590909090909092,
+		"downloads":23,
 		"shortKey":"CuCwCuCw",
 		"author":"Avocado",
-		"completions":18,
+		"completions":22,
 		"id":2523,
 		"completed":true,
 		"title":"Level 4 Painting",

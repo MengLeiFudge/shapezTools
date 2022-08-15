@@ -202,15 +202,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.7162162162162162,
-		"averageTime":912.4761904761905,
-		"downloads":75,
+		"difficulty":0.7160493827160495,
+		"averageTime":849.3913043478261,
+		"downloads":81,
 		"shortKey":"Su--Wu--",
 		"author":"RisingPressure",
-		"completions":21,
+		"completions":23,
 		"id":3023,
 		"completed":true,
 		"title":"Timing is everything",
-		"likes":12
+		"likes":13
 	}
 }

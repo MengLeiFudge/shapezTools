@@ -83,15 +83,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":143.8181818181818,
-		"downloads":14,
+		"difficulty":0.1428571428571429,
+		"averageTime":149.11111111111111,
+		"downloads":21,
 		"shortKey":"Sy------:--Sy----:----Sy--:------Sy",
 		"author":"Professorlf",
-		"completions":11,
+		"completions":18,
 		"id":830,
 		"completed":true,
 		"title":"swap",
-		"likes":4
+		"likes":5
 	}
 }

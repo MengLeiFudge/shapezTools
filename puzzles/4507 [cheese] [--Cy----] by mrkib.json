@@ -821,18 +821,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1428571428571429,
-		"averageTime":169.4,
-		"downloads":36,
+		"difficulty":0.14634146341463417,
+		"averageTime":489.45714285714286,
+		"downloads":41,
 		"shortKey":"--Cy----",
 		"author":"mrkib",
-		"completions":30,
+		"completions":35,
 		"id":4507,
 		"completed":false,
 		"title":"cheese",
-		"likes":9
+		"likes":10
 	}
 }

@@ -158,15 +158,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":45.142857142857146,
-		"downloads":18,
+		"difficulty":0.19999999999999996,
+		"averageTime":45.75,
+		"downloads":20,
 		"shortKey":"WuCuWuCu:WyCyWyCy",
 		"author":"Jason",
-		"completions":14,
+		"completions":16,
 		"id":3926,
 		"completed":false,
 		"title":"TEST 1",

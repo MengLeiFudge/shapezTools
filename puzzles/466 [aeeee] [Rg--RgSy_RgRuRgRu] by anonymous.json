@@ -25,18 +25,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4375,
-		"averageTime":4,
-		"downloads":16,
+		"difficulty":0.31818181818181823,
+		"averageTime":4.6,
+		"downloads":22,
 		"shortKey":"Rg--RgSy:RgRuRgRu",
 		"author":"anonymous",
-		"completions":9,
+		"completions":15,
 		"id":466,
 		"completed":false,
 		"title":"aeeee",
-		"likes":0
+		"likes":2
 	}
 }

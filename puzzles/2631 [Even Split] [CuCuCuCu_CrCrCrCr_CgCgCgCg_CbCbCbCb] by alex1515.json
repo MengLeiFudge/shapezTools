@@ -195,15 +195,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":66.5,
-		"downloads":16,
+		"difficulty":0.26315789473684215,
+		"averageTime":63.5,
+		"downloads":19,
 		"shortKey":"CuCuCuCu:CrCrCrCr:CgCgCgCg:CbCbCbCb",
 		"author":"alex1515",
-		"completions":12,
+		"completions":14,
 		"id":2631,
 		"completed":false,
 		"title":"Even Split",

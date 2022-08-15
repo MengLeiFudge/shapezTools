@@ -45,15 +45,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.62004662004662,
-		"averageTime":349.7361963190184,
-		"downloads":430,
+		"difficulty":0.6286266924564796,
+		"averageTime":335.9166666666667,
+		"downloads":522,
 		"shortKey":"RbRyRbRy",
 		"author":"anonymous",
-		"completions":163,
+		"completions":192,
 		"id":64,
 		"completed":true,
 		"title":"test",
-		"likes":82
+		"likes":90
 	}
 }

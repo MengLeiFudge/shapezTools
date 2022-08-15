@@ -79,15 +79,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.31481481481481477,
-		"averageTime":176.13513513513513,
-		"downloads":54,
+		"difficulty":0.288135593220339,
+		"averageTime":169.1904761904762,
+		"downloads":59,
 		"shortKey":"RuRu----:CyCyCyCy:WcWcWcWc",
 		"author":"f3dx",
-		"completions":37,
+		"completions":42,
 		"id":3818,
 		"completed":false,
 		"title":"7 x 9",

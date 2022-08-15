@@ -111,15 +111,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.04166666666666663,
-		"averageTime":49.028985507246375,
-		"downloads":72,
+		"difficulty":0.032258064516129004,
+		"averageTime":48.977777777777774,
+		"downloads":93,
 		"shortKey":"WgCyWyCy:Wg--CyWg",
 		"author":"mekdreth",
-		"completions":69,
+		"completions":90,
 		"id":4566,
 		"completed":false,
 		"title":"Beginner Puzzle",
-		"likes":11
+		"likes":14
 	}
 }

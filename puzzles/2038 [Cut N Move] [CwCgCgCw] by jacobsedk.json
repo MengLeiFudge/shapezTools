@@ -42,18 +42,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04881656804733725,
-		"averageTime":100.83203732503888,
-		"downloads":676,
+		"difficulty":0.040071237756010736,
+		"averageTime":100.06586270871985,
+		"downloads":1123,
 		"shortKey":"CwCgCgCw",
 		"author":"jacobsedk",
-		"completions":643,
+		"completions":1078,
 		"id":2038,
 		"completed":true,
 		"title":"Cut N Move",
-		"likes":249
+		"likes":355
 	}
 }

@@ -388,16 +388,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"difficulty":0.1875,
+		"averageTime":96.84615384615384,
+		"downloads":16,
 		"shortKey":"RrRrRrRr:SpSpSpSp",
 		"author":"Mr.Happy",
-		"completions":6,
+		"completions":13,
 		"id":5482,
 		"completed":false,
 		"title":"dertgyui",
-		"likes":2
+		"likes":4
 	}
 }

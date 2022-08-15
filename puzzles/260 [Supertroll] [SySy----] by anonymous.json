@@ -90,12 +90,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.38095238095238093,
-		"averageTime":34.76923076923077,
-		"downloads":21,
+		"difficulty":0.34782608695652173,
+		"averageTime":35.13333333333333,
+		"downloads":23,
 		"shortKey":"SySy----",
 		"author":"anonymous",
-		"completions":13,
+		"completions":15,
 		"id":260,
 		"completed":false,
 		"title":"Supertroll",

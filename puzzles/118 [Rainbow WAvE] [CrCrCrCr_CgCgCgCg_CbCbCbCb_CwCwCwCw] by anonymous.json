@@ -367,15 +367,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.08510638297872342,
-		"averageTime":94.6046511627907,
-		"downloads":141,
+		"difficulty":0.08536585365853655,
+		"averageTime":96.68,
+		"downloads":164,
 		"shortKey":"CrCrCrCr:CgCgCgCg:CbCbCbCb:CwCwCwCw",
 		"author":"anonymous",
-		"completions":129,
+		"completions":150,
 		"id":118,
 		"completed":false,
 		"title":"Rainbow WAvE",
-		"likes":41
+		"likes":45
 	}
 }

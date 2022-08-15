@@ -605,16 +605,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.2222222222222222,
+		"averageTime":159.64285714285714,
+		"downloads":18,
 		"shortKey":"----RyRy:CyCyCyCy:----RwRw:CwCwCwCw",
 		"author":"ndnprct3",
-		"completions":5,
+		"completions":14,
 		"id":5196,
 		"completed":false,
 		"title":"fun shape",
-		"likes":3
+		"likes":4
 	}
 }

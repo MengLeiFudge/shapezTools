@@ -73,13 +73,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.3846153846153846,
+		"averageTime":289.5,
+		"downloads":13,
 		"shortKey":"--RuRuRu:--CuCuCu",
 		"author":"Dhulfiqar",
-		"completions":4,
+		"completions":8,
 		"id":3234,
 		"completed":false,
 		"title":"The 3-Quarter Square",

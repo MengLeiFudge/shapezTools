@@ -76,15 +76,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.38235294117647056,
-		"averageTime":162,
-		"downloads":35,
+		"difficulty":0.3414634146341463,
+		"averageTime":152.96296296296296,
+		"downloads":41,
 		"shortKey":"----SrSr:----CcCc:----SrSr:----CcCc",
 		"author":"Radleyjam",
-		"completions":21,
+		"completions":27,
 		"id":4615,
 		"completed":false,
 		"title":"Split N Stack",

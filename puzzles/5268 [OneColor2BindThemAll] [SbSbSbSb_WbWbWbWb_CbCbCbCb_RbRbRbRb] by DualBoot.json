@@ -61,15 +61,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3928571428571429,
-		"averageTime":182.1764705882353,
-		"downloads":29,
+		"difficulty":0.4375,
+		"averageTime":199.61111111111111,
+		"downloads":32,
 		"shortKey":"SbSbSbSb:WbWbWbWb:CbCbCbCb:RbRbRbRb",
 		"author":"DualBoot",
-		"completions":17,
+		"completions":18,
 		"id":5268,
 		"completed":false,
 		"title":"OneColor2BindThemAll",

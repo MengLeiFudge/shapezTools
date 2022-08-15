@@ -155,15 +155,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.28125,
-		"averageTime":78.3913043478261,
-		"downloads":32,
+		"difficulty":0.25,
+		"averageTime":78.44444444444444,
+		"downloads":36,
 		"shortKey":"WgWgCgCg:SgSgWbWb",
 		"author":"player#416086661",
-		"completions":23,
+		"completions":27,
 		"id":4575,
 		"completed":false,
 		"title":"----rprp",

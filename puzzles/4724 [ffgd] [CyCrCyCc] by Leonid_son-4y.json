@@ -25,15 +25,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07999999999999996,
+		"difficulty":0.0714285714285714,
 		"averageTime":2,
-		"downloads":25,
+		"downloads":28,
 		"shortKey":"CyCrCyCc",
 		"author":"Leonid_son-4y",
-		"completions":23,
+		"completions":26,
 		"id":4724,
 		"completed":false,
 		"title":"ffgd",

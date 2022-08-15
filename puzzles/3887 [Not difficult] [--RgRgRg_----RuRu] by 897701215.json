@@ -308,18 +308,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6923076923076923,
-		"averageTime":327.5,
-		"downloads":24,
+		"difficulty":0.7931034482758621,
+		"averageTime":397.6666666666667,
+		"downloads":31,
 		"shortKey":"--RgRgRg:----RuRu",
 		"author":"897701215",
-		"completions":4,
+		"completions":6,
 		"id":3887,
 		"completed":true,
 		"title":"Not difficult",
-		"likes":4
+		"likes":5
 	}
 }

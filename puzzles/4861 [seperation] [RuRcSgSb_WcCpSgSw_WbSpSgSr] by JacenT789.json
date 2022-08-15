@@ -114,10 +114,12 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.46153846153846156,
+		"averageTime":202,
+		"downloads":13,
 		"shortKey":"RuRcSgSb:WcCpSgSw:WbSpSgSr",
 		"author":"JacenT789",
-		"completions":4,
+		"completions":7,
 		"id":4861,
 		"completed":false,
 		"title":"seperation",

@@ -122,16 +122,18 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"Rw------:Rw--Rw--:Cw--Cw--:RwCw--Cw",
 		"author":"player#257456487",
-		"completions":1,
+		"completions":2,
 		"id":5571,
 		"completed":false,
 		"title":"KALA12",
-		"likes":1
+		"likes":2
 	}
 }

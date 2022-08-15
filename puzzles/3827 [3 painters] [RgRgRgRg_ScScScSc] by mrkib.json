@@ -208,15 +208,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.06521739130434778,
-		"averageTime":63.00581395348837,
-		"downloads":184,
+		"difficulty":0.03883495145631066,
+		"averageTime":69.6969696969697,
+		"downloads":412,
 		"shortKey":"RgRgRgRg:ScScScSc",
 		"author":"mrkib",
-		"completions":172,
+		"completions":396,
 		"id":3827,
 		"completed":false,
 		"title":"3 painters",
-		"likes":41
+		"likes":85
 	}
 }

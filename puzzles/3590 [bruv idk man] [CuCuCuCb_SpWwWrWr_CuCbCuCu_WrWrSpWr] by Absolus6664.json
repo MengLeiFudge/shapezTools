@@ -209,18 +209,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1578947368421053,
-		"averageTime":37,
-		"downloads":19,
+		"difficulty":0.13636363636363635,
+		"averageTime":35.578947368421055,
+		"downloads":22,
 		"shortKey":"CuCuCuCb:SpWwWrWr:CuCbCuCu:WrWrSpWr",
 		"author":"Absolus6664",
-		"completions":16,
+		"completions":19,
 		"id":3590,
 		"completed":false,
 		"title":"bruv idk man",
-		"likes":2
+		"likes":3
 	}
 }

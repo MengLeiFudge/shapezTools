@@ -91,15 +91,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.1109101868595539,
-		"averageTime":84.2257627118644,
-		"downloads":1659,
+		"difficulty":0.13500272182906914,
+		"averageTime":84.79704216488358,
+		"downloads":3674,
 		"shortKey":"--Rp--Rp:--Cw--Cw",
 		"author":"anonymous",
-		"completions":1475,
+		"completions":3178,
 		"id":280,
 		"completed":true,
 		"title":"Simple Puzzle",
-		"likes":458
+		"likes":820
 	}
 }

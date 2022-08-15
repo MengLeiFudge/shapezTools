@@ -43,15 +43,17 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.17567567567567566,
-		"averageTime":142.19672131147541,
-		"downloads":74,
+		"difficulty":0.16666666666666663,
+		"averageTime":138.2153846153846,
+		"downloads":79,
 		"shortKey":"Cu------:Cu------:Cu------:Cr------",
 		"author":"macektomas41",
-		"completions":61,
+		"completions":65,
 		"id":4800,
 		"completed":false,
 		"title":"very trash wifi",

@@ -456,15 +456,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":77.5,
-		"downloads":18,
+		"difficulty":0.125,
+		"averageTime":99.5,
+		"downloads":33,
 		"shortKey":"SySrRwSr:RyCwWwCw",
 		"author":"MrTaco",
-		"completions":14,
+		"completions":28,
 		"id":3150,
 		"completed":false,
 		"title":"GetThemOnOneBelt",
-		"likes":3
+		"likes":7
 	}
 }

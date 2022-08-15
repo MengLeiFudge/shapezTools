@@ -79,13 +79,15 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"SpRpSpRp:CcCcCcCc",
 		"author":"Mr.Happy",
-		"completions":5,
+		"completions":6,
 		"id":5476,
 		"completed":false,
 		"title":"egst",

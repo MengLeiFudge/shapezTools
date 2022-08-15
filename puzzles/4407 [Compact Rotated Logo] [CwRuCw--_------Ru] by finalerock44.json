@@ -780,15 +780,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6875,
-		"averageTime":9090.8,
-		"downloads":19,
+		"difficulty":0.6666666666666667,
+		"averageTime":4762.1,
+		"downloads":39,
 		"shortKey":"CwRuCw--:------Ru",
 		"author":"finalerock44",
-		"completions":5,
+		"completions":10,
 		"id":4407,
 		"completed":false,
 		"title":"Compact Rotated Logo",
-		"likes":3
+		"likes":6
 	}
 }

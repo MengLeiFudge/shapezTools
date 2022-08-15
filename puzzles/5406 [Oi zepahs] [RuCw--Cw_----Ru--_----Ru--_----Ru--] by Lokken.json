@@ -469,18 +469,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.8125,
-		"averageTime":769.3333333333334,
-		"downloads":25,
+		"difficulty":0.8214285714285714,
+		"averageTime":2301.4,
+		"downloads":30,
 		"shortKey":"RuCw--Cw:----Ru--:----Ru--:----Ru--",
 		"author":"Lokken",
-		"completions":3,
+		"completions":5,
 		"id":5406,
 		"completed":true,
 		"title":"Oi zepahs",
-		"likes":3
+		"likes":5
 	}
 }

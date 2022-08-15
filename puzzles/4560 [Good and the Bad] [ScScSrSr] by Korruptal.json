@@ -155,13 +155,15 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"downloads":9,
 		"shortKey":"ScScSrSr",
 		"author":"Korruptal",
-		"completions":5,
+		"completions":6,
 		"id":4560,
 		"completed":false,
 		"title":"Good and the Bad",

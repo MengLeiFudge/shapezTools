@@ -125,12 +125,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3666666666666667,
-		"averageTime":126.89473684210526,
-		"downloads":31,
+		"difficulty":0.375,
+		"averageTime":127.1,
+		"downloads":32,
 		"shortKey":"RpWyWySg",
 		"author":"pigeon",
-		"completions":19,
+		"completions":20,
 		"id":5007,
 		"completed":false,
 		"title":"test",

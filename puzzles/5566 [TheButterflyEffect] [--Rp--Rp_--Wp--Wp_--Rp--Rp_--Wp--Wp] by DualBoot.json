@@ -43,16 +43,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"difficulty":0.2222222222222222,
+		"averageTime":162.5,
+		"downloads":19,
 		"shortKey":"--Rp--Rp:--Wp--Wp:--Rp--Rp:--Wp--Wp",
 		"author":"DualBoot",
-		"completions":4,
+		"completions":14,
 		"id":5566,
 		"completed":false,
 		"title":"TheButterflyEffect",
-		"likes":2
+		"likes":4
 	}
 }

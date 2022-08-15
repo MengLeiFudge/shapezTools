@@ -267,12 +267,14 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.7857142857142857,
 		"averageTime":345,
-		"downloads":21,
+		"downloads":24,
 		"shortKey":"Su------:--Su----:----Su--:------Sy",
 		"author":"milkcupatstarbu",
 		"completions":3,

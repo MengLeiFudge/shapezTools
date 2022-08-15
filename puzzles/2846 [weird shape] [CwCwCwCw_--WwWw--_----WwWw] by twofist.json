@@ -1342,15 +1342,17 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4285714285714286,
-		"averageTime":284.5,
-		"downloads":14,
+		"difficulty":0.4,
+		"averageTime":259.3333333333333,
+		"downloads":15,
 		"shortKey":"CwCwCwCw:--WwWw--:----WwWw",
 		"author":"twofist",
-		"completions":8,
+		"completions":9,
 		"id":2846,
 		"completed":false,
 		"title":"weird shape",

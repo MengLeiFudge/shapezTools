@@ -101,18 +101,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21323529411764708,
-		"averageTime":78.65420560747664,
-		"downloads":136,
+		"difficulty":0.20603015075376885,
+		"averageTime":85.18987341772151,
+		"downloads":199,
 		"shortKey":"CrCrCwCw",
 		"author":"eagleeyead",
-		"completions":107,
+		"completions":158,
 		"id":3787,
 		"completed":false,
 		"title":"Dual Dupe",
-		"likes":44
+		"likes":57
 	}
 }

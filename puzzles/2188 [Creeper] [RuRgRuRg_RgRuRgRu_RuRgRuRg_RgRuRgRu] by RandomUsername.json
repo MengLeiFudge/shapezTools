@@ -175,15 +175,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.375,
-		"averageTime":382.98333333333335,
-		"downloads":96,
+		"difficulty":0.31543624161073824,
+		"averageTime":419.1764705882353,
+		"downloads":149,
 		"shortKey":"RuRgRuRg:RgRuRgRu:RuRgRuRg:RgRuRgRu",
 		"author":"RandomUsername",
-		"completions":60,
+		"completions":102,
 		"id":2188,
 		"completed":false,
 		"title":"Creeper",
-		"likes":30
+		"likes":44
 	}
 }

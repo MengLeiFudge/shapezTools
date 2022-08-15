@@ -303,15 +303,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23529411764705888,
-		"averageTime":49.92307692307692,
-		"downloads":17,
+		"difficulty":0.25,
+		"averageTime":51.13333333333333,
+		"downloads":20,
 		"shortKey":"SuSuSuSw:WuWuWuWu:RuRuRuRu:CuCuCuCu",
 		"author":"yyj1996",
-		"completions":13,
+		"completions":15,
 		"id":2817,
 		"completed":false,
 		"title":"BeltPuzzle2 Factorio",

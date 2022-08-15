@@ -66,13 +66,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.23529411764705888,
+		"averageTime":13.384615384615385,
+		"downloads":17,
 		"shortKey":"CyCyCyCy:CrCrCrCr",
 		"author":"Eddie",
-		"completions":8,
+		"completions":13,
 		"id":612,
 		"completed":false,
 		"title":"Pizza Margherita",

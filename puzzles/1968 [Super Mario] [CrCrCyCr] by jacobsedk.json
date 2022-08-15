@@ -1216,15 +1216,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.04347826086956519,
-		"averageTime":16.40909090909091,
-		"downloads":184,
+		"difficulty":0.029629629629629672,
+		"averageTime":16.31297709923664,
+		"downloads":270,
 		"shortKey":"CrCrCyCr",
 		"author":"jacobsedk",
-		"completions":176,
+		"completions":262,
 		"id":1968,
 		"completed":false,
 		"title":"Super Mario",
-		"likes":37
+		"likes":49
 	}
 }

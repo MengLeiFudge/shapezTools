@@ -256,18 +256,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2118126272912424,
-		"averageTime":248.11627906976744,
-		"downloads":491,
+		"difficulty":0.19501625135427947,
+		"averageTime":244.97442799461643,
+		"downloads":924,
 		"shortKey":"Sp----Sp:CpCpCpCp:SrCrCrSr",
 		"author":"sykoe",
-		"completions":387,
+		"completions":743,
 		"id":2869,
 		"completed":true,
 		"title":"kitten play",
-		"likes":181
+		"likes":290
 	}
 }

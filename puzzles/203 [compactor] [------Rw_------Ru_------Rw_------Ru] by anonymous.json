@@ -35,12 +35,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.3846153846153846,
-		"averageTime":57.3125,
-		"downloads":26,
+		"difficulty":0.3571428571428571,
+		"averageTime":55.333333333333336,
+		"downloads":28,
 		"shortKey":"------Rw:------Ru:------Rw:------Ru",
 		"author":"anonymous",
-		"completions":16,
+		"completions":18,
 		"id":203,
 		"completed":false,
 		"title":"compactor",

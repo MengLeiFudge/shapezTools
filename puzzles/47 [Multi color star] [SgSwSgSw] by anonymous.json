@@ -54,15 +54,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.42056074766355145,
-		"averageTime":346.0483870967742,
-		"downloads":107,
+		"difficulty":0.3739837398373984,
+		"averageTime":323.12987012987014,
+		"downloads":123,
 		"shortKey":"SgSwSgSw",
 		"author":"anonymous",
-		"completions":62,
+		"completions":77,
 		"id":47,
 		"completed":false,
 		"title":"Multi color star",
-		"likes":29
+		"likes":31
 	}
 }

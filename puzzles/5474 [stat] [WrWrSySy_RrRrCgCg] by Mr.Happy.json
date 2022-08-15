@@ -279,13 +279,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.2142857142857143,
+		"averageTime":86.9090909090909,
+		"downloads":14,
 		"shortKey":"WrWrSySy:RrRrCgCg",
 		"author":"Mr.Happy",
-		"completions":6,
+		"completions":11,
 		"id":5474,
 		"completed":false,
 		"title":"stat",

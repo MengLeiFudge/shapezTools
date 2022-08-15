@@ -52,16 +52,18 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":10,
 		"shortKey":"CuCuCuCu:CwCbCwCb",
 		"author":"DarkIron26",
-		"completions":3,
+		"completions":4,
 		"id":2200,
 		"completed":false,
 		"title":"BMW Logo",
-		"likes":1
+		"likes":2
 	}
 }

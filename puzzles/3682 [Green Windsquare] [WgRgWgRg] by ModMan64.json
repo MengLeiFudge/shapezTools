@@ -75,18 +75,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5294117647058824,
-		"averageTime":314.0833333333333,
-		"downloads":57,
+		"difficulty":0.5428571428571429,
+		"averageTime":296,
+		"downloads":70,
 		"shortKey":"WgRgWgRg",
 		"author":"ModMan64",
-		"completions":24,
+		"completions":32,
 		"id":3682,
 		"completed":false,
 		"title":"Green Windsquare",
-		"likes":15
+		"likes":16
 	}
 }

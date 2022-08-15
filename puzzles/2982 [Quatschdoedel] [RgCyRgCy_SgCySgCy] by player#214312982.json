@@ -117,18 +117,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3211678832116789,
-		"averageTime":335.06451612903226,
-		"downloads":140,
+		"difficulty":0.297071129707113,
+		"averageTime":318.5297619047619,
+		"downloads":240,
 		"shortKey":"RgCyRgCy:SgCySgCy",
 		"author":"player#214312982",
-		"completions":93,
+		"completions":168,
 		"id":2982,
 		"completed":false,
 		"title":"Quatschdoedel",
-		"likes":49
+		"likes":72
 	}
 }

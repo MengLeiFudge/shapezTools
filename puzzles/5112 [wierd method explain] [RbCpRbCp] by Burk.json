@@ -123,15 +123,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.08433734939759041,
-		"averageTime":59.46052631578947,
-		"downloads":83,
+		"difficulty":0.03383458646616544,
+		"averageTime":64.35408560311284,
+		"downloads":266,
 		"shortKey":"RbCpRbCp",
 		"author":"Burk",
-		"completions":76,
+		"completions":257,
 		"id":5112,
 		"completed":false,
 		"title":"wierd method explain",
-		"likes":17
+		"likes":53
 	}
 }

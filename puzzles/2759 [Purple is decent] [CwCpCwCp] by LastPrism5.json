@@ -209,18 +209,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6846153846153846,
-		"averageTime":686.6341463414634,
-		"downloads":131,
+		"difficulty":0.6432748538011697,
+		"averageTime":687.0983606557377,
+		"downloads":181,
 		"shortKey":"CwCpCwCp",
 		"author":"LastPrism5",
-		"completions":41,
+		"completions":61,
 		"id":2759,
 		"completed":true,
 		"title":"Purple is decent",
-		"likes":26
+		"likes":31
 	}
 }

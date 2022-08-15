@@ -84,18 +84,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07246376811594202,
-		"averageTime":17.15625,
-		"downloads":69,
+		"difficulty":0.04225352112676062,
+		"averageTime":17.933823529411764,
+		"downloads":142,
 		"shortKey":"RuRuRuRu:CuCuCuCu:RgRgRgRg:CgCgCgCg",
 		"author":"DualBoot",
-		"completions":64,
+		"completions":136,
 		"id":5271,
 		"completed":false,
 		"title":"Greenery",
-		"likes":15
+		"likes":23
 	}
 }

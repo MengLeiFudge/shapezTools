@@ -135,15 +135,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.12716763005780352,
-		"averageTime":56.82781456953642,
-		"downloads":173,
+		"difficulty":0.05973451327433632,
+		"averageTime":56.371764705882356,
+		"downloads":452,
 		"shortKey":"RyRyRyRy:CcCcCcCc",
 		"author":"steevf",
-		"completions":151,
+		"completions":425,
 		"id":4924,
 		"completed":true,
 		"title":"Machine",
-		"likes":40
+		"likes":92
 	}
 }

@@ -100,18 +100,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5205479452054795,
-		"averageTime":429.48571428571427,
-		"downloads":73,
+		"difficulty":0.383177570093458,
+		"averageTime":1013.969696969697,
+		"downloads":108,
 		"shortKey":"CuCuCuCu:CuCuCuCu:CwCbCwCb",
 		"author":"DarkIron26",
-		"completions":35,
+		"completions":66,
 		"id":2859,
 		"completed":false,
 		"title":"Compact Logo Machine",
-		"likes":21
+		"likes":32
 	}
 }

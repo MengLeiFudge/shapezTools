@@ -1,0 +1,53 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"uncolored",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CrCbCgCw",
+				"pos":{
+					"r":90,
+					"x":-3,
+					"y":1
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":90,
+					"x":3,
+					"y":1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.020408163265306145,
+		"averageTime":13.979166666666666,
+		"downloads":50,
+		"shortKey":"CrCbCgCw:CrCbCgCw",
+		"author":"madkirk74",
+		"completions":48,
+		"id":6413,
+		"completed":false,
+		"title":"gray color test",
+		"likes":6
+	}
+}

@@ -180,10 +180,12 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.6363636363636364,
+		"averageTime":290.75,
+		"downloads":11,
 		"shortKey":"SbSbSrSr:RbRbRrRr:WbWbWrWr",
 		"author":"kelp2222",
-		"completions":3,
+		"completions":4,
 		"id":1920,
 		"completed":false,
 		"title":"limited area",

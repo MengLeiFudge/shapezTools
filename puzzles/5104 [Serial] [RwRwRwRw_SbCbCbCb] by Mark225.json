@@ -402,15 +402,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.7,
-		"averageTime":843.1666666666666,
-		"downloads":30,
+		"difficulty":0.7352941176470589,
+		"averageTime":677.8888888888889,
+		"downloads":37,
 		"shortKey":"RwRwRwRw:SbCbCbCb",
 		"author":"Mark225",
-		"completions":6,
+		"completions":9,
 		"id":5104,
 		"completed":false,
 		"title":"Serial",
-		"likes":5
+		"likes":6
 	}
 }

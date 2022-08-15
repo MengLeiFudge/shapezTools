@@ -212,15 +212,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03508771929824561,
-		"averageTime":17.236363636363638,
-		"downloads":57,
+		"difficulty":0.02941176470588236,
+		"averageTime":17.227272727272727,
+		"downloads":68,
 		"shortKey":"CpCuCpCu:WpWuWpWu",
 		"author":"player#104606695",
-		"completions":55,
+		"completions":66,
 		"id":4635,
 		"completed":false,
 		"title":"Mix it",

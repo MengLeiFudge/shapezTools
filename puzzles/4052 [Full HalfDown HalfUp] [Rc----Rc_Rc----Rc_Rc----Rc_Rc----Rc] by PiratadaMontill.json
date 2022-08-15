@@ -1594,12 +1594,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4736842105263158,
-		"averageTime":295.3,
-		"downloads":19,
+		"difficulty":0.4285714285714286,
+		"averageTime":263,
+		"downloads":23,
 		"shortKey":"Rc----Rc:Rc----Rc:Rc----Rc:Rc----Rc",
 		"author":"PiratadaMontill",
-		"completions":10,
+		"completions":12,
 		"id":4052,
 		"completed":false,
 		"title":"Full HalfDown HalfUp",

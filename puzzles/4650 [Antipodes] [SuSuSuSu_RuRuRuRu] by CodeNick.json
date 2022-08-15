@@ -97,15 +97,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.18965517241379315,
-		"averageTime":113.59574468085107,
-		"downloads":58,
+		"difficulty":0.180327868852459,
+		"averageTime":113.3,
+		"downloads":61,
 		"shortKey":"SuSuSuSu:RuRuRuRu",
 		"author":"CodeNick",
-		"completions":47,
+		"completions":50,
 		"id":4650,
 		"completed":false,
 		"title":"Antipodes",

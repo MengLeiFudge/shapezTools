@@ -350,10 +350,12 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"downloads":11,
 		"shortKey":"SpCpSpCp:CrSrCrSr",
 		"author":"player#512840038",
 		"completions":2,

@@ -464,13 +464,15 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"Cg----Cr:Cw----Cw:Sy------:Cy----Cw",
 		"author":"gentryaustin",
-		"completions":2,
+		"completions":3,
 		"id":754,
 		"completed":false,
 		"title":"Make Lv22",

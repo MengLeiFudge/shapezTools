@@ -113,18 +113,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13278008298755184,
-		"averageTime":141.38277511961724,
-		"downloads":243,
+		"difficulty":0.13981762917933127,
+		"averageTime":135.08127208480565,
+		"downloads":329,
 		"shortKey":"SrSySgSb:SbSrSySg:SgSbSrSy:SySgSbSr",
 		"author":"player#312300328",
-		"completions":209,
+		"completions":283,
 		"id":3044,
 		"completed":true,
 		"title":"Split and Return",
-		"likes":86
+		"likes":101
 	}
 }

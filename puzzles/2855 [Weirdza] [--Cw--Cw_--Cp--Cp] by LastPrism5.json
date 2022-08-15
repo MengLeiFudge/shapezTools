@@ -105,15 +105,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4897959183673469,
-		"averageTime":646.2,
-		"downloads":50,
+		"difficulty":0.4901960784313726,
+		"averageTime":623.6153846153846,
+		"downloads":51,
 		"shortKey":"--Cw--Cw:--Cp--Cp",
 		"author":"LastPrism5",
-		"completions":25,
+		"completions":26,
 		"id":2855,
 		"completed":false,
 		"title":"Weirdza",

@@ -795,15 +795,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.024752475247524774,
-		"averageTime":53.63959390862944,
-		"downloads":202,
+		"difficulty":0.021212121212121238,
+		"averageTime":52.72445820433437,
+		"downloads":330,
 		"shortKey":"Wp--RpRc",
 		"author":"BlueSynopsis",
-		"completions":197,
+		"completions":323,
 		"id":2265,
 		"completed":true,
 		"title":"20 - Puzzle Master 2",
-		"likes":45
+		"likes":61
 	}
 }

@@ -156,18 +156,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03785488958990535,
-		"averageTime":63.006557377049184,
-		"downloads":317,
+		"difficulty":0.04367469879518071,
+		"averageTime":64.0220472440945,
+		"downloads":664,
 		"shortKey":"SySySySy:SySySySy:SySySySy",
 		"author":"finn.williams",
-		"completions":305,
+		"completions":635,
 		"id":2899,
 		"completed":true,
 		"title":"Squished",
-		"likes":79
+		"likes":134
 	}
 }

@@ -1968,18 +1968,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11111111111111116,
-		"averageTime":72.75,
-		"downloads":18,
+		"difficulty":0.061224489795918324,
+		"averageTime":80.91304347826087,
+		"downloads":49,
 		"shortKey":"CcCcCcCc:WwWwWwWw:SgSgSgSg:CrCrCrCr",
 		"author":"einsamer_Labrad",
-		"completions":16,
+		"completions":46,
 		"id":3762,
 		"completed":false,
 		"title":"Smale line",
-		"likes":3
+		"likes":7
 	}
 }

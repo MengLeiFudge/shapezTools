@@ -2491,18 +2491,20 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16883116883116878,
-		"averageTime":91.796875,
-		"downloads":77,
+		"difficulty":0.21621621621621623,
+		"averageTime":89.8735632183908,
+		"downloads":111,
 		"shortKey":"RuRuRuRu:ScScScSc",
 		"author":"player#664581247",
-		"completions":64,
+		"completions":87,
 		"id":3630,
 		"completed":true,
 		"title":"rugged and rough",
-		"likes":24
+		"likes":28
 	}
 }

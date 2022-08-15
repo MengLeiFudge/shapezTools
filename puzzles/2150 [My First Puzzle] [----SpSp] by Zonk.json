@@ -170,15 +170,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.012956419316843326,
-		"averageTime":59.18854415274463,
-		"downloads":849,
+		"difficulty":0.03026863412788494,
+		"averageTime":56.338665626219274,
+		"downloads":2643,
 		"shortKey":"----SpSp",
 		"author":"Zonk",
-		"completions":838,
+		"completions":2563,
 		"id":2150,
 		"completed":true,
 		"title":"My First Puzzle",
-		"likes":235
+		"likes":590
 	}
 }

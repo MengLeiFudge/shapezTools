@@ -61,12 +61,14 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.23076923076923073,
 		"averageTime":139.8,
-		"downloads":27,
+		"downloads":28,
 		"shortKey":"CrRySg--",
 		"author":"macektomas41",
 		"completions":20,

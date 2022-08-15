@@ -86,15 +86,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.10472972972972971,
-		"averageTime":71.38490566037736,
-		"downloads":296,
+		"difficulty":0.07333333333333336,
+		"averageTime":65.16546762589928,
+		"downloads":450,
 		"shortKey":"Rw------:--Rw----:----Rw--:------Rw",
 		"author":"anonymous",
-		"completions":265,
+		"completions":417,
 		"id":241,
 		"completed":false,
 		"title":"annoying splitter",
-		"likes":66
+		"likes":86
 	}
 }

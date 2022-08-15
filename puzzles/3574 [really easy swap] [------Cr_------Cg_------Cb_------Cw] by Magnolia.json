@@ -94,15 +94,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3085106382978723,
-		"averageTime":212.3846153846154,
-		"downloads":96,
+		"difficulty":0.30612244897959184,
+		"averageTime":205.63725490196077,
+		"downloads":147,
 		"shortKey":"------Cr:------Cg:------Cb:------Cw",
 		"author":"Magnolia",
-		"completions":65,
+		"completions":102,
 		"id":3574,
 		"completed":true,
 		"title":"really easy swap",
-		"likes":33
+		"likes":43
 	}
 }

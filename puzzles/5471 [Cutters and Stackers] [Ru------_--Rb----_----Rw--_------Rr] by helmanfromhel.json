@@ -52,15 +52,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.04761904761904767,
-		"averageTime":17.7,
-		"downloads":42,
+		"difficulty":0.016393442622950838,
+		"averageTime":16.533333333333335,
+		"downloads":61,
 		"shortKey":"Ru------:--Rb----:----Rw--:------Rr",
 		"author":"helmanfromhel",
-		"completions":40,
+		"completions":60,
 		"id":5471,
-		"completed":false,
+		"completed":true,
 		"title":"Cutters and Stackers",
-		"likes":7
+		"likes":8
 	}
 }

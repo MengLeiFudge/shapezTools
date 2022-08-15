@@ -25,18 +25,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.20370370370370372,
-		"averageTime":71.90697674418605,
-		"downloads":54,
+		"difficulty":0.17142857142857137,
+		"averageTime":90.50574712643679,
+		"downloads":105,
 		"shortKey":"Cu--Cu--:Cu--Cu--",
 		"author":"CodeNick",
-		"completions":43,
+		"completions":87,
 		"id":4416,
 		"completed":true,
 		"title":"Contest -RR2",
-		"likes":15
+		"likes":28
 	}
 }

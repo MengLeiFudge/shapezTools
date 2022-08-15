@@ -59,15 +59,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.38095238095238093,
-		"averageTime":619.1794871794872,
-		"downloads":63,
+		"difficulty":0.2934782608695652,
+		"averageTime":509.46153846153845,
+		"downloads":92,
 		"shortKey":"RyRyRyRy:CrCrCrCr:CgCgCgCg",
 		"author":"steevf",
-		"completions":39,
+		"completions":65,
 		"id":5041,
 		"completed":false,
 		"title":"Over Easy Hard",
-		"likes":19
+		"likes":24
 	}
 }

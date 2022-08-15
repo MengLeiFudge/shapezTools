@@ -758,18 +758,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15340909090909094,
-		"averageTime":180.84563758389262,
-		"downloads":176,
+		"difficulty":0.13694267515923564,
+		"averageTime":190.69372693726936,
+		"downloads":314,
 		"shortKey":"SpCcSpCc:SpCcSpCc:SpCcSpCc:SpCcSpCc",
 		"author":"Chockichoc",
-		"completions":149,
+		"completions":271,
 		"id":3056,
 		"completed":true,
 		"title":"assemble et peins",
-		"likes":60
+		"likes":97
 	}
 }

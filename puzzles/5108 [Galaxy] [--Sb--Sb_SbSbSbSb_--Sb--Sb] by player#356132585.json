@@ -128,15 +128,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6842105263157895,
-		"averageTime":988.3333333333334,
-		"downloads":30,
+		"difficulty":0.7567567567567568,
+		"averageTime":885.1111111111111,
+		"downloads":42,
 		"shortKey":"--Sb--Sb:SbSbSbSb:--Sb--Sb",
 		"author":"player#356132585",
-		"completions":6,
+		"completions":9,
 		"id":5108,
 		"completed":false,
 		"title":"Galaxy",
-		"likes":5
+		"likes":7
 	}
 }

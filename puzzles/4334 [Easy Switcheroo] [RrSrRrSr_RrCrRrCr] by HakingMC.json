@@ -77,15 +77,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3793103448275862,
-		"averageTime":177.86111111111111,
-		"downloads":58,
+		"difficulty":0.27450980392156865,
+		"averageTime":170.32432432432432,
+		"downloads":102,
 		"shortKey":"RrSrRrSr:RrCrRrCr",
 		"author":"HakingMC",
-		"completions":36,
+		"completions":74,
 		"id":4334,
 		"completed":false,
 		"title":"Easy Switcheroo",
-		"likes":18
+		"likes":29
 	}
 }

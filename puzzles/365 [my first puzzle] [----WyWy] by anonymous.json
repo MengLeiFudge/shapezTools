@@ -45,12 +45,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.2777777777777778,
-		"averageTime":52.76923076923077,
-		"downloads":18,
+		"difficulty":0.2727272727272727,
+		"averageTime":59.875,
+		"downloads":22,
 		"shortKey":"----WyWy",
 		"author":"anonymous",
-		"completions":13,
+		"completions":16,
 		"id":365,
 		"completed":false,
 		"title":"my first puzzle",

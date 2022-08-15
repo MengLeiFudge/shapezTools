@@ -77,15 +77,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.015748031496062964,
-		"averageTime":11.868,
-		"downloads":254,
+		"difficulty":0.016129032258064502,
+		"averageTime":12.055737704918032,
+		"downloads":310,
 		"shortKey":"CwCwCwRw",
 		"author":"anonymous",
-		"completions":250,
+		"completions":305,
 		"id":414,
 		"completed":false,
 		"title":"Minerik Puzzles 1",
-		"likes":47
+		"likes":54
 	}
 }

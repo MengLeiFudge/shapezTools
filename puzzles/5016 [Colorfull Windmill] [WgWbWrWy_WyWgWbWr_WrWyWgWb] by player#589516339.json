@@ -317,13 +317,17 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.5,
+		"averageTime":160.5,
+		"downloads":12,
 		"shortKey":"WgWbWrWy:WyWgWbWr:WrWyWgWb",
 		"author":"player#589516339",
-		"completions":4,
+		"completions":6,
 		"id":5016,
 		"completed":false,
 		"title":"Colorfull Windmill",

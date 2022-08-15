@@ -251,15 +251,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2279411764705882,
-		"averageTime":87.25714285714285,
-		"downloads":136,
+		"difficulty":0.19871794871794868,
+		"averageTime":84.72,
+		"downloads":156,
 		"shortKey":"--CgCgCg:--CrCrCr",
 		"author":"player#312300328",
-		"completions":105,
+		"completions":125,
 		"id":3052,
 		"completed":true,
 		"title":"Watermelons",
-		"likes":38
+		"likes":41
 	}
 }

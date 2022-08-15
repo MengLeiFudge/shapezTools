@@ -542,15 +542,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6451612903225806,
-		"averageTime":645.0909090909091,
-		"downloads":32,
+		"difficulty":0.6666666666666667,
+		"averageTime":630.8333333333334,
+		"downloads":39,
 		"shortKey":"--Ww----:--Su----:Rw------:------Cy",
 		"author":"Undalevein",
-		"completions":11,
+		"completions":12,
 		"id":4473,
 		"completed":false,
 		"title":"Penguin Gridlock",
-		"likes":5
+		"likes":6
 	}
 }

@@ -218,15 +218,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.03888888888888886,
-		"averageTime":59.72832369942196,
-		"downloads":180,
+		"difficulty":0.019867549668874163,
+		"averageTime":55.645270270270274,
+		"downloads":302,
 		"shortKey":"Cu----Cu:RyRy----",
 		"author":"dragongod100",
-		"completions":173,
+		"completions":296,
 		"id":2271,
 		"completed":true,
 		"title":"Mycelial",
-		"likes":40
+		"likes":56
 	}
 }

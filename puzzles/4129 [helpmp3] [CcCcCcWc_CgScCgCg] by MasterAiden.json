@@ -59,13 +59,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.2142857142857143,
+		"averageTime":11.272727272727273,
+		"downloads":14,
 		"shortKey":"CcCcCcWc:CgScCgCg",
 		"author":"MasterAiden",
-		"completions":6,
+		"completions":11,
 		"id":4129,
 		"completed":false,
 		"title":"helpmp3",

@@ -133,15 +133,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4473684210526315,
-		"averageTime":396.6190476190476,
-		"downloads":40,
+		"difficulty":0.44999999999999996,
+		"averageTime":389.04545454545456,
+		"downloads":41,
 		"shortKey":"RrRrRrRr:CuCuCuCu:SpSpSpSp",
 		"author":"Jahoosher",
-		"completions":21,
+		"completions":22,
 		"id":4059,
 		"completed":false,
 		"title":"Puzzle",

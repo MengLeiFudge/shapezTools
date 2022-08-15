@@ -484,10 +484,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":13,
+		"downloads":15,
 		"shortKey":"RgRyRbRr:RgRyRbRr",
 		"author":"MrTaco",
 		"completions":4,

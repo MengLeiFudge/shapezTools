@@ -118,12 +118,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.31034482758620685,
-		"averageTime":107.75,
-		"downloads":29,
+		"difficulty":0.2727272727272727,
+		"averageTime":101.70833333333333,
+		"downloads":33,
 		"shortKey":"--Cr----",
 		"author":"Skorri_",
-		"completions":20,
+		"completions":24,
 		"id":4768,
 		"completed":false,
 		"title":"Simple right",

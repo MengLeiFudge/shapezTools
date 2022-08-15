@@ -489,18 +489,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.625,
-		"averageTime":327,
-		"downloads":35,
+		"difficulty":0.641025641025641,
+		"averageTime":329.42857142857144,
+		"downloads":42,
 		"shortKey":"WyWrWyWr:CwCuCwCu",
 		"author":"TheAngels",
-		"completions":12,
+		"completions":14,
 		"id":4075,
 		"completed":true,
 		"title":"Rocket in 10x11",
-		"likes":6
+		"likes":7
 	}
 }

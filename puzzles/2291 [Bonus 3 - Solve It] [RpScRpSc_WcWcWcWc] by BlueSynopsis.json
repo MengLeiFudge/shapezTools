@@ -447,15 +447,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.019157088122605415,
-		"averageTime":62.13671875,
-		"downloads":261,
+		"difficulty":0.017204301075268824,
+		"averageTime":66.68052516411379,
+		"downloads":465,
 		"shortKey":"RpScRpSc:WcWcWcWc",
 		"author":"BlueSynopsis",
-		"completions":256,
+		"completions":457,
 		"id":2291,
 		"completed":true,
 		"title":"Bonus 3 - Solve It",
-		"likes":61
+		"likes":91
 	}
 }

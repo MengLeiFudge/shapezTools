@@ -638,13 +638,17 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.5384615384615384,
+		"averageTime":576.8333333333334,
+		"downloads":14,
 		"shortKey":"CrRrRrCr:Cc----Cc",
 		"author":"erikandersbjorn",
-		"completions":3,
+		"completions":6,
 		"id":1586,
 		"completed":false,
 		"title":"When the factory sus",

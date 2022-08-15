@@ -1027,12 +1027,14 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.7619047619047619,
 		"averageTime":248,
-		"downloads":21,
+		"downloads":23,
 		"shortKey":"RuRuRuRu:CuRuCuRu",
 		"author":"dogdayboy",
 		"completions":5,

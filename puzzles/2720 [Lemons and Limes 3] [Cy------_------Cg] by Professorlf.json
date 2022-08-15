@@ -25,12 +25,14 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.6,
 		"averageTime":523.75,
-		"downloads":11,
+		"downloads":12,
 		"shortKey":"Cy------:------Cg",
 		"author":"Professorlf",
 		"completions":4,

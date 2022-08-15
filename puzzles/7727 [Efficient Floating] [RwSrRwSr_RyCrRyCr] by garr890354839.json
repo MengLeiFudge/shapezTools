@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuRuCw",
+				"pos":{
+					"r":0,
+					"x":-4,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"------Cw:----Ru--",
+				"pos":{
+					"r":270,
+					"x":0,
+					"y":2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"downloads":9,
+		"shortKey":"RwSrRwSr:RyCrRyCr",
+		"author":"garr890354839",
+		"completions":4,
+		"id":7727,
+		"completed":false,
+		"title":"Efficient Floating",
+		"likes":2
+	}
+}

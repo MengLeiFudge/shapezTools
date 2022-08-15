@@ -69,10 +69,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.46153846153846156,
+		"averageTime":32.857142857142854,
+		"downloads":13,
 		"shortKey":"RuRuRuRu:CyCyCyCy:CrCrCrCr",
 		"author":"daminator",
-		"completions":3,
+		"completions":7,
 		"id":1525,
 		"completed":false,
 		"title":"Sharing pizza",

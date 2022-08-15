@@ -238,18 +238,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25806451612903225,
-		"averageTime":110.91304347826087,
-		"downloads":31,
+		"difficulty":0.19999999999999996,
+		"averageTime":102.27272727272727,
+		"downloads":55,
 		"shortKey":"CrCrCyCy:RuRuRuRu",
 		"author":"Techcraft7",
-		"completions":23,
+		"completions":44,
 		"id":5591,
 		"completed":false,
 		"title":"Double Split",
-		"likes":8
+		"likes":14
 	}
 }

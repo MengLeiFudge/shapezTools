@@ -574,15 +574,17 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3928571428571429,
-		"averageTime":267.5882352941176,
-		"downloads":32,
+		"difficulty":0.4411764705882353,
+		"averageTime":250.6315789473684,
+		"downloads":34,
 		"shortKey":"RrRyRgRb:RyRgRbRr:RgRbRrRy:RbRrRyRg",
 		"author":"sseewwaaggeess",
-		"completions":17,
+		"completions":19,
 		"id":4111,
 		"completed":false,
 		"title":"Contest Colors",

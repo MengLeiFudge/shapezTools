@@ -325,18 +325,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.12621359223300976,
-		"averageTime":301.84444444444443,
-		"downloads":206,
+		"difficulty":0.12173913043478257,
+		"averageTime":284.63366336633663,
+		"downloads":230,
 		"shortKey":"Rr--RwRw:Rr------",
 		"author":"hegy",
-		"completions":180,
+		"completions":202,
 		"id":1637,
 		"completed":false,
 		"title":"First Puzzle",
-		"likes":66
+		"likes":67
 	}
 }

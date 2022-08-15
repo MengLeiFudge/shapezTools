@@ -100,10 +100,12 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":8,
+		"difficulty":0.15384615384615385,
+		"averageTime":21.636363636363637,
+		"downloads":13,
 		"shortKey":"SyWuSyWu:SyCrSyCr",
 		"author":"anonymous",
-		"completions":6,
+		"completions":11,
 		"id":451,
 		"completed":false,
 		"title":"crap",

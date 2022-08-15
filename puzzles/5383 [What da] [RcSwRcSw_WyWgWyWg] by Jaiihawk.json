@@ -574,10 +574,12 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"downloads":13,
 		"shortKey":"RcSwRcSw:WyWgWyWg",
 		"author":"Jaiihawk",
 		"completions":5,

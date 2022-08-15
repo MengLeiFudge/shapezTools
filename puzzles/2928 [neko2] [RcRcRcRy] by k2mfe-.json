@@ -115,15 +115,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.42105263157894735,
-		"averageTime":204.72727272727272,
-		"downloads":19,
+		"difficulty":0.4,
+		"averageTime":192.25,
+		"downloads":21,
 		"shortKey":"RcRcRcRy",
 		"author":"k2mfe-",
-		"completions":11,
+		"completions":12,
 		"id":2928,
 		"completed":false,
 		"title":"neko2",

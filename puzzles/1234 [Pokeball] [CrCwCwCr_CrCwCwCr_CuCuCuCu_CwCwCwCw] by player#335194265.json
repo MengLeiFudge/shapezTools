@@ -530,16 +530,18 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":4,
+		"downloads":5,
 		"shortKey":"CrCwCwCr:CrCwCwCr:CuCuCuCu:CwCwCwCw",
 		"author":"player#335194265",
-		"completions":1,
+		"completions":2,
 		"id":1234,
 		"completed":false,
 		"title":"Pokeball",
-		"likes":1
+		"likes":2
 	}
 }

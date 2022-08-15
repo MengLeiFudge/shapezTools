@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.06578947368421051,
-		"averageTime":66.30985915492958,
-		"downloads":76,
+		"difficulty":0.04861111111111116,
+		"averageTime":70.2043795620438,
+		"downloads":144,
 		"shortKey":"CuCuCuCu:CrCrCrCr:CgCgCgCg",
 		"author":"Flame",
-		"completions":71,
+		"completions":137,
 		"id":4430,
 		"completed":false,
 		"title":"Link-Up",
-		"likes":15
+		"likes":24
 	}
 }

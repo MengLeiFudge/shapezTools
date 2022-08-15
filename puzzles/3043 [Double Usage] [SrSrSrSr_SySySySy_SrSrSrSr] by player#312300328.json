@@ -326,15 +326,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2043795620437956,
-		"averageTime":1004.9174311926605,
-		"downloads":138,
+		"difficulty":0.2119565217391305,
+		"averageTime":812.8206896551724,
+		"downloads":184,
 		"shortKey":"SrSrSrSr:SySySySy:SrSrSrSr",
 		"author":"player#312300328",
-		"completions":109,
+		"completions":145,
 		"id":3043,
 		"completed":true,
 		"title":"Double Usage",
-		"likes":45
+		"likes":54
 	}
 }

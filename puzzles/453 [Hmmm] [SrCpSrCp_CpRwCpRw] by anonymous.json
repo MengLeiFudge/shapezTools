@@ -54,10 +54,12 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.2857142857142857,
+		"averageTime":140.6,
+		"downloads":14,
 		"shortKey":"SrCpSrCp:CpRwCpRw",
 		"author":"anonymous",
-		"completions":6,
+		"completions":10,
 		"id":453,
 		"completed":false,
 		"title":"Hmmm",

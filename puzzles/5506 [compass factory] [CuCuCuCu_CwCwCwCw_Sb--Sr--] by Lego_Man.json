@@ -372,15 +372,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4117647058823529,
-		"averageTime":206.5,
-		"downloads":17,
+		"difficulty":0.34782608695652173,
+		"averageTime":199.73333333333332,
+		"downloads":23,
 		"shortKey":"CuCuCuCu:CwCwCwCw:Sb--Sr--",
 		"author":"Lego_Man",
-		"completions":10,
+		"completions":15,
 		"id":5506,
 		"completed":false,
 		"title":"compass factory",
-		"likes":3
+		"likes":5
 	}
 }

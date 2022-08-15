@@ -1853,12 +1853,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.35,
-		"averageTime":128.6153846153846,
-		"downloads":20,
+		"difficulty":0.2692307692307693,
+		"averageTime":114.3157894736842,
+		"downloads":26,
 		"shortKey":"CrCgCbCy:Sr--Sb--",
 		"author":"anonymous",
-		"completions":13,
+		"completions":19,
 		"id":437,
 		"completed":false,
 		"title":"DoNotUseTheDevShort",

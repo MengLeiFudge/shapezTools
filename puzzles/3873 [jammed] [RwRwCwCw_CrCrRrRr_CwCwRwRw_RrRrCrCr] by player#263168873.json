@@ -82,15 +82,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25531914893617025,
-		"averageTime":209.71428571428572,
-		"downloads":51,
+		"difficulty":0.30188679245283023,
+		"averageTime":205.43243243243242,
+		"downloads":54,
 		"shortKey":"RwRwCwCw:CrCrRrRr:CwCwRwRw:RrRrCrCr",
 		"author":"player#263168873",
-		"completions":35,
+		"completions":37,
 		"id":3873,
 		"completed":false,
 		"title":"jammed",

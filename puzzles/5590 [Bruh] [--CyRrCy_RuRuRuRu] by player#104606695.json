@@ -42,13 +42,15 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"--CyRrCy:RuRuRuRu",
 		"author":"player#104606695",
-		"completions":5,
+		"completions":7,
 		"id":5590,
 		"completed":false,
 		"title":"Bruh",

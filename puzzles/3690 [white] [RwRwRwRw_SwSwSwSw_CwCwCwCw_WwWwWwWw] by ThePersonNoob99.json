@@ -183,15 +183,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07692307692307687,
-		"averageTime":40.416666666666664,
-		"downloads":26,
+		"difficulty":0.02857142857142858,
+		"averageTime":49.25,
+		"downloads":140,
 		"shortKey":"RwRwRwRw:SwSwSwSw:CwCwCwCw:WwWwWwWw",
 		"author":"ThePersonNoob99",
-		"completions":24,
+		"completions":136,
 		"id":3690,
 		"completed":false,
 		"title":"white",
-		"likes":5
+		"likes":25
 	}
 }

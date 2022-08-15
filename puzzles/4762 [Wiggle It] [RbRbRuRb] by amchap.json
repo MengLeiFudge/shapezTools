@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11347517730496459,
-		"averageTime":74.888,
-		"downloads":282,
+		"difficulty":0.08150851581508511,
+		"averageTime":81.20132450331126,
+		"downloads":822,
 		"shortKey":"RbRbRuRb",
 		"author":"amchap",
-		"completions":250,
+		"completions":755,
 		"id":4762,
 		"completed":true,
 		"title":"Wiggle It",
-		"likes":73
+		"likes":175
 	}
 }

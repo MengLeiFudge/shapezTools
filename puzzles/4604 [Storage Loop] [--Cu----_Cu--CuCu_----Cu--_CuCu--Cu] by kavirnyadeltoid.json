@@ -670,13 +670,15 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.8235294117647058,
+		"averageTime":1164.6666666666667,
+		"downloads":18,
 		"shortKey":"--Cu----:Cu--CuCu:----Cu--:CuCu--Cu",
 		"author":"kavirnyadeltoid",
-		"completions":2,
+		"completions":3,
 		"id":4604,
 		"completed":false,
 		"title":"Storage Loop",
-		"likes":2
+		"likes":3
 	}
 }

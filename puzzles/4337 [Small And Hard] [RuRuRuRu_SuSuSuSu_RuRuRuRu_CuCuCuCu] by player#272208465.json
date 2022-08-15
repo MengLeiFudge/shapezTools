@@ -244,18 +244,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06944444444444442,
-		"averageTime":23.029850746268657,
-		"downloads":72,
+		"difficulty":0.053763440860215006,
+		"averageTime":23.21590909090909,
+		"downloads":93,
 		"shortKey":"RuRuRuRu:SuSuSuSu:RuRuRuRu:CuCuCuCu",
 		"author":"player#272208465",
-		"completions":67,
+		"completions":88,
 		"id":4337,
 		"completed":false,
 		"title":"Small And Hard",
-		"likes":12
+		"likes":13
 	}
 }

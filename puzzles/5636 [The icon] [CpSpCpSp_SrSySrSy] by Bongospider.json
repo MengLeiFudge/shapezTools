@@ -314,10 +314,12 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"downloads":17,
 		"shortKey":"CpSpCpSp:SrSySrSy",
 		"author":"Bongospider",
 		"completions":3,

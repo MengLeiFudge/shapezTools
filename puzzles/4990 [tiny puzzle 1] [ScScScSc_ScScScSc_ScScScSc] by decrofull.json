@@ -52,15 +52,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.125,
-		"averageTime":46.285714285714285,
-		"downloads":64,
+		"difficulty":0.06716417910447758,
+		"averageTime":45.048,
+		"downloads":134,
 		"shortKey":"ScScScSc:ScScScSc:ScScScSc",
 		"author":"decrofull",
-		"completions":56,
+		"completions":125,
 		"id":4990,
 		"completed":false,
 		"title":"tiny puzzle 1",
-		"likes":13
+		"likes":21
 	}
 }

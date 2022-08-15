@@ -113,13 +113,17 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.1333333333333333,
+		"averageTime":149.46153846153845,
+		"downloads":15,
 		"shortKey":"CyCyCyCy:CrCrCrCr:--Cg--Cg:Cg--Cg--",
 		"author":"Sooka",
-		"completions":8,
+		"completions":13,
 		"id":5185,
 		"completed":false,
 		"title":"Sooka06",

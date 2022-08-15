@@ -43,18 +43,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2151162790697675,
-		"averageTime":291.93703703703704,
-		"downloads":344,
+		"difficulty":0.1912568306010929,
+		"averageTime":241.03153153153153,
+		"downloads":550,
 		"shortKey":"CwCwCwCw:CrCrCrCr:CwCwCwCw",
 		"author":"Monte",
-		"completions":270,
+		"completions":444,
 		"id":2884,
 		"completed":true,
 		"title":"On Target",
-		"likes":125
+		"likes":170
 	}
 }

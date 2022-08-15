@@ -217,18 +217,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":27.25,
-		"downloads":16,
+		"difficulty":0.19999999999999996,
+		"averageTime":25.4375,
+		"downloads":20,
 		"shortKey":"RuWuRuWu:CpRbCpRb",
 		"author":"player#104606695",
-		"completions":12,
+		"completions":16,
 		"id":4782,
 		"completed":false,
 		"title":"Oh my god",
-		"likes":2
+		"likes":3
 	}
 }

@@ -470,15 +470,17 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.49295774647887325,
-		"averageTime":411.8333333333333,
-		"downloads":71,
+		"difficulty":0.4375,
+		"averageTime":366.44444444444446,
+		"downloads":80,
 		"shortKey":"----RgRg:Sr--CbCb",
 		"author":"StarM3wtw0",
-		"completions":36,
+		"completions":45,
 		"id":2041,
 		"completed":false,
 		"title":"Puzzle",

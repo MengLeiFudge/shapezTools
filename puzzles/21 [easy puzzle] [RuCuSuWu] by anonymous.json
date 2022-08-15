@@ -27,15 +27,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.10169491525423724,
-		"averageTime":95.33018867924528,
-		"downloads":118,
+		"difficulty":0.10606060606060608,
+		"averageTime":98.05084745762711,
+		"downloads":134,
 		"shortKey":"RuCuSuWu",
 		"author":"anonymous",
-		"completions":106,
+		"completions":118,
 		"id":21,
 		"completed":false,
 		"title":"easy puzzle",
-		"likes":35
+		"likes":36
 	}
 }

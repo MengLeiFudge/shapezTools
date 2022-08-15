@@ -61,18 +61,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.30000000000000004,
-		"averageTime":61.142857142857146,
-		"downloads":21,
+		"difficulty":0.3214285714285714,
+		"averageTime":60.78947368421053,
+		"downloads":28,
 		"shortKey":"CwCwCwCw:SbSbSbSb",
 		"author":"Golden",
-		"completions":14,
+		"completions":19,
 		"id":5114,
 		"completed":false,
 		"title":"Level 27",
-		"likes":4
+		"likes":5
 	}
 }

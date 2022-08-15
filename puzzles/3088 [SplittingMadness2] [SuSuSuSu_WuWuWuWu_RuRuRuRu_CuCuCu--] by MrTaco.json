@@ -205,15 +205,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.41666666666666663,
-		"averageTime":318.14285714285717,
-		"downloads":12,
+		"difficulty":0.3846153846153846,
+		"averageTime":290.875,
+		"downloads":14,
 		"shortKey":"SuSuSuSu:WuWuWuWu:RuRuRuRu:CuCuCu--",
 		"author":"MrTaco",
-		"completions":7,
+		"completions":8,
 		"id":3088,
 		"completed":false,
 		"title":"SplittingMadness2",
-		"likes":2
+		"likes":3
 	}
 }

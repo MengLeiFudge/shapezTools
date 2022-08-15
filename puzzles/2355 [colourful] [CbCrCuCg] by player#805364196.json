@@ -220,12 +220,14 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.7,
 		"averageTime":353,
-		"downloads":10,
+		"downloads":11,
 		"shortKey":"CbCrCuCg",
 		"author":"player#805364196",
 		"completions":3,

@@ -158,16 +158,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.15384615384615385,
+		"averageTime":49.90909090909091,
+		"downloads":13,
 		"shortKey":"WcSuWcSu:WuWgWuWg",
 		"author":"Esperpritzie",
-		"completions":7,
+		"completions":11,
 		"id":2807,
 		"completed":false,
 		"title":"sorting mayhem",
-		"likes":2
+		"likes":3
 	}
 }

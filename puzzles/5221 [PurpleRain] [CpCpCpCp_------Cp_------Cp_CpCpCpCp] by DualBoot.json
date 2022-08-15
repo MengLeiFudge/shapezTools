@@ -102,18 +102,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06779661016949157,
-		"averageTime":57.50909090909091,
-		"downloads":59,
+		"difficulty":0.06060606060606055,
+		"averageTime":56.41129032258065,
+		"downloads":132,
 		"shortKey":"CpCpCpCp:------Cp:------Cp:CpCpCpCp",
 		"author":"DualBoot",
-		"completions":55,
+		"completions":124,
 		"id":5221,
 		"completed":false,
 		"title":"PurpleRain",
-		"likes":11
+		"likes":20
 	}
 }

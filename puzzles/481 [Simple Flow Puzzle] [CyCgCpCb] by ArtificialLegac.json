@@ -115,15 +115,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.045454545454545414,
-		"averageTime":24.547619047619047,
-		"downloads":44,
+		"difficulty":0.036363636363636376,
+		"averageTime":24.50943396226415,
+		"downloads":55,
 		"shortKey":"CyCgCpCb",
 		"author":"ArtificialLegac",
-		"completions":42,
+		"completions":53,
 		"id":481,
 		"completed":false,
 		"title":"Simple Flow Puzzle",

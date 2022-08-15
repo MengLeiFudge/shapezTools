@@ -85,18 +85,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06239737274220036,
-		"averageTime":62.329246935201404,
-		"downloads":609,
+		"difficulty":0.0787850023730422,
+		"averageTime":68.77949510561567,
+		"downloads":2107,
 		"shortKey":"RpRpRgRg",
 		"author":"DualBoot",
-		"completions":571,
+		"completions":1941,
 		"id":2938,
 		"completed":true,
 		"title":"PurpleGoblin",
-		"likes":167
+		"likes":459
 	}
 }

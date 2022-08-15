@@ -210,15 +210,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23529411764705888,
-		"averageTime":88.15384615384616,
-		"downloads":17,
+		"difficulty":0.21052631578947367,
+		"averageTime":99.33333333333333,
+		"downloads":19,
 		"shortKey":"WpRpWpRp:SrCpSrCp",
 		"author":"DeTheBug",
-		"completions":13,
+		"completions":15,
 		"id":4020,
 		"completed":false,
 		"title":"YASP",

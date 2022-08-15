@@ -52,10 +52,12 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"downloads":13,
 		"shortKey":"CuWwCuWw",
 		"author":"TitanFist",
 		"completions":9,

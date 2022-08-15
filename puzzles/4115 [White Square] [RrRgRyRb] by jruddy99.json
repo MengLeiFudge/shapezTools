@@ -150,18 +150,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07462686567164178,
-		"averageTime":43.193548387096776,
-		"downloads":67,
+		"difficulty":0.03703703703703709,
+		"averageTime":43.282051282051285,
+		"downloads":162,
 		"shortKey":"RrRgRyRb",
 		"author":"jruddy99",
-		"completions":62,
+		"completions":156,
 		"id":4115,
 		"completed":false,
 		"title":"White Square",
-		"likes":13
+		"likes":29
 	}
 }

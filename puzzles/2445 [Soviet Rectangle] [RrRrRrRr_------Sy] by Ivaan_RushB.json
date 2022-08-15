@@ -25,15 +25,17 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4285714285714286,
-		"averageTime":171.25,
-		"downloads":14,
+		"difficulty":0.375,
+		"averageTime":161.2,
+		"downloads":16,
 		"shortKey":"RrRrRrRr:------Sy",
 		"author":"Ivaan_RushB",
-		"completions":8,
+		"completions":10,
 		"id":2445,
 		"completed":false,
 		"title":"Soviet Rectangle",

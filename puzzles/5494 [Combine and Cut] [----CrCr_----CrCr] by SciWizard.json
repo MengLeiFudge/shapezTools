@@ -92,13 +92,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.23076923076923073,
+		"averageTime":54.1,
+		"downloads":13,
 		"shortKey":"----CrCr:----CrCr",
 		"author":"SciWizard",
-		"completions":6,
+		"completions":10,
 		"id":5494,
 		"completed":false,
 		"title":"Combine and Cut",

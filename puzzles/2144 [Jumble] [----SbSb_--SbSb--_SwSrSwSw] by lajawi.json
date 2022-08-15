@@ -157,18 +157,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6666666666666667,
-		"averageTime":773.4655172413793,
-		"downloads":175,
+		"difficulty":0.6682692307692308,
+		"averageTime":748.7246376811594,
+		"downloads":220,
 		"shortKey":"----SbSb:--SbSb--:SwSrSwSw",
 		"author":"lajawi",
-		"completions":58,
+		"completions":69,
 		"id":2144,
 		"completed":true,
 		"title":"Jumble",
-		"likes":35
+		"likes":38
 	}
 }

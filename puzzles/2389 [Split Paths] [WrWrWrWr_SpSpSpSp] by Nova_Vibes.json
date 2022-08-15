@@ -820,10 +820,12 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"downloads":10,
 		"shortKey":"WrWrWrWr:SpSpSpSp",
 		"author":"Nova_Vibes",
 		"completions":3,

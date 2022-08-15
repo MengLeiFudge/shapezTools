@@ -79,15 +79,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2075471698113207,
-		"averageTime":127.45238095238095,
-		"downloads":54,
+		"difficulty":0.19672131147540983,
+		"averageTime":127.0204081632653,
+		"downloads":62,
 		"shortKey":"SuSwSuSu:WuWuWuWu:RuRuRuRu:SuSuSuSu",
 		"author":"yyj1996",
-		"completions":42,
+		"completions":49,
 		"id":2818,
 		"completed":false,
 		"title":"BeltPuzzle3 Factorio",

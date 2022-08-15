@@ -134,15 +134,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.02857142857142858,
-		"averageTime":16.305882352941175,
-		"downloads":175,
+		"difficulty":0.02083333333333337,
+		"averageTime":16.46808510638298,
+		"downloads":288,
 		"shortKey":"CwCwCwCu",
 		"author":"Avocado",
-		"completions":170,
+		"completions":282,
 		"id":2527,
 		"completed":true,
 		"title":"Level 6",
-		"likes":38
+		"likes":54
 	}
 }

@@ -164,18 +164,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.059523809523809534,
-		"averageTime":46.30379746835443,
-		"downloads":84,
+		"difficulty":0.03614457831325302,
+		"averageTime":44.39375,
+		"downloads":166,
 		"shortKey":"CuRuCuRu:SpSpCuRu:RuRuRuRu",
 		"author":"iNf1N1tY",
-		"completions":79,
+		"completions":160,
 		"id":4609,
 		"completed":false,
 		"title":"Easy",
-		"likes":17
+		"likes":29
 	}
 }

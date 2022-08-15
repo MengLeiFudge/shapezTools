@@ -63,15 +63,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.15245478036175708,
-		"averageTime":252.3170731707317,
-		"downloads":387,
+		"difficulty":0.1302605210420842,
+		"averageTime":216.65668202764977,
+		"downloads":499,
 		"shortKey":"CbCbCbRb:CwCwCwCw:CbCbCbRb:CwCwCwCw",
 		"author":"anonymous",
-		"completions":328,
+		"completions":434,
 		"id":250,
 		"completed":true,
 		"title":"Blueprint",
-		"likes":130
+		"likes":154
 	}
 }

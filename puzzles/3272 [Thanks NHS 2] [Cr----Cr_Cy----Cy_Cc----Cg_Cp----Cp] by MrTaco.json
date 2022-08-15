@@ -76,15 +76,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07196969696969702,
-		"averageTime":62.01428571428571,
-		"downloads":528,
+		"difficulty":0.05573770491803276,
+		"averageTime":58.384548611111114,
+		"downloads":1221,
 		"shortKey":"Cr----Cr:Cy----Cy:Cc----Cg:Cp----Cp",
 		"author":"MrTaco",
-		"completions":490,
+		"completions":1152,
 		"id":3272,
 		"completed":true,
 		"title":"Thanks NHS 2",
-		"likes":143
+		"likes":260
 	}
 }

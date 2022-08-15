@@ -857,12 +857,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.15000000000000002,
-		"averageTime":132.35294117647058,
-		"downloads":20,
+		"difficulty":0.125,
+		"averageTime":128.85714285714286,
+		"downloads":24,
 		"shortKey":"--Sw--Sw",
 		"author":"Oplong",
-		"completions":17,
+		"completions":21,
 		"id":2892,
 		"completed":false,
 		"title":"Rotating stars",

@@ -51,15 +51,17 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":50.57142857142857,
-		"downloads":18,
+		"difficulty":0.19999999999999996,
+		"averageTime":47.8125,
+		"downloads":20,
 		"shortKey":"Cg------:Cr------:Cu------",
 		"author":"player#214312982",
-		"completions":14,
+		"completions":16,
 		"id":2535,
 		"completed":false,
 		"title":"Watermelon Slices",

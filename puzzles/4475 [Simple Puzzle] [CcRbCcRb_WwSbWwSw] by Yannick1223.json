@@ -82,15 +82,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.08974358974358976,
-		"averageTime":55.59154929577465,
-		"downloads":78,
+		"difficulty":0.07633587786259544,
+		"averageTime":54.239669421487605,
+		"downloads":132,
 		"shortKey":"CcRbCcRb:WwSbWwSw",
 		"author":"Yannick1223",
-		"completions":71,
+		"completions":121,
 		"id":4475,
 		"completed":false,
 		"title":"Simple Puzzle",
-		"likes":15
+		"likes":20
 	}
 }

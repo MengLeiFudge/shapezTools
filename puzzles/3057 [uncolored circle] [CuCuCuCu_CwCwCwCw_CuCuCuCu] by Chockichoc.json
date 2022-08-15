@@ -733,12 +733,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.125,
-		"averageTime":27.952380952380953,
-		"downloads":24,
+		"difficulty":0.11111111111111116,
+		"averageTime":26.583333333333332,
+		"downloads":27,
 		"shortKey":"CuCuCuCu:CwCwCwCw:CuCuCuCu",
 		"author":"Chockichoc",
-		"completions":21,
+		"completions":24,
 		"id":3057,
 		"completed":false,
 		"title":"uncolored circle",

@@ -159,15 +159,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.47619047619047616,
-		"averageTime":67.0909090909091,
-		"downloads":21,
+		"difficulty":0.5185185185185186,
+		"averageTime":83.46153846153847,
+		"downloads":27,
 		"shortKey":"SgSuWuSu:WuCbWgCb",
 		"author":"anonymous",
-		"completions":11,
+		"completions":13,
 		"id":409,
 		"completed":false,
 		"title":"Tunnelz Impossible",
-		"likes":2
+		"likes":3
 	}
 }

@@ -68,15 +68,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.36170212765957444,
-		"averageTime":132.4,
-		"downloads":47,
+		"difficulty":0.33333333333333337,
+		"averageTime":171.36666666666667,
+		"downloads":90,
 		"shortKey":"RuRuRuRu:RuRuRuRu",
 		"author":"KelHard",
-		"completions":30,
+		"completions":60,
 		"id":5589,
 		"completed":false,
 		"title":"Tight Stack",
-		"likes":14
+		"likes":23
 	}
 }

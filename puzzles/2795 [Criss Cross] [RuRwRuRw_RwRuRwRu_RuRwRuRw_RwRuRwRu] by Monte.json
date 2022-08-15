@@ -95,18 +95,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1470588235294118,
-		"averageTime":143.3793103448276,
-		"downloads":171,
+		"difficulty":0.1462450592885376,
+		"averageTime":186.47222222222223,
+		"downloads":253,
 		"shortKey":"RuRwRuRw:RwRuRwRu:RuRwRuRw:RwRuRwRu",
 		"author":"Monte",
-		"completions":145,
+		"completions":216,
 		"id":2795,
 		"completed":true,
 		"title":"Criss Cross",
-		"likes":60
+		"likes":76
 	}
 }

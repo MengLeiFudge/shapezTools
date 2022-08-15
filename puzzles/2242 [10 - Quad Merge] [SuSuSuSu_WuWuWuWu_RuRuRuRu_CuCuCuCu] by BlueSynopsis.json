@@ -262,18 +262,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03292682926829271,
-		"averageTime":55.266078184110974,
-		"downloads":820,
+		"difficulty":0.05205811138014527,
+		"averageTime":62.087696892294595,
+		"downloads":2478,
 		"shortKey":"SuSuSuSu:WuWuWuWu:RuRuRuRu:CuCuCuCu",
 		"author":"BlueSynopsis",
-		"completions":793,
+		"completions":2349,
 		"id":2242,
 		"completed":true,
 		"title":"10 - Quad Merge",
-		"likes":226
+		"likes":541
 	}
 }

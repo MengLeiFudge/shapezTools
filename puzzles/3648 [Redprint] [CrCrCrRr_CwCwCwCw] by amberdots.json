@@ -77,15 +77,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11199999999999999,
-		"averageTime":94.89189189189189,
-		"downloads":125,
+		"difficulty":0.07371794871794868,
+		"averageTime":128.30103806228374,
+		"downloads":312,
 		"shortKey":"CrCrCrRr:CwCwCwCw",
 		"author":"amberdots",
-		"completions":111,
+		"completions":289,
 		"id":3648,
-		"completed":false,
+		"completed":true,
 		"title":"Redprint",
-		"likes":43
+		"likes":97
 	}
 }

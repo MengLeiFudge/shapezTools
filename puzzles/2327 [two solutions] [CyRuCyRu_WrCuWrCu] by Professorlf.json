@@ -69,15 +69,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.06198347107438018,
-		"averageTime":128.58149779735683,
-		"downloads":242,
+		"difficulty":0.05882352941176472,
+		"averageTime":123.6625,
+		"downloads":255,
 		"shortKey":"CyRuCyRu:WrCuWrCu",
 		"author":"Professorlf",
-		"completions":227,
+		"completions":240,
 		"id":2327,
 		"completed":false,
 		"title":"two solutions",
-		"likes":68
+		"likes":69
 	}
 }

@@ -85,18 +85,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.125,
-		"averageTime":105.72527472527473,
-		"downloads":104,
+		"difficulty":0.1029411764705882,
+		"averageTime":162.5737704918033,
+		"downloads":136,
 		"shortKey":"SrSrSrSr:WrSwWrSw",
 		"author":"player#363082282",
-		"completions":91,
+		"completions":122,
 		"id":4608,
 		"completed":false,
 		"title":"EMMM",
-		"likes":35
+		"likes":39
 	}
 }

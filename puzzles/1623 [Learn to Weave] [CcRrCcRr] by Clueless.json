@@ -187,18 +187,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.022026431718061623,
-		"averageTime":58.94294294294294,
-		"downloads":681,
+		"difficulty":0.03169856459330145,
+		"averageTime":69.48857319332922,
+		"downloads":1672,
 		"shortKey":"CcRrCcRr",
 		"author":"Clueless",
-		"completions":666,
+		"completions":1619,
 		"id":1623,
 		"completed":true,
 		"title":"Learn to Weave",
-		"likes":188
+		"likes":360
 	}
 }

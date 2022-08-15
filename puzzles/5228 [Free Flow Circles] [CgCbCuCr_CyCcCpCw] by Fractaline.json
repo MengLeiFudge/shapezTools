@@ -415,15 +415,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4117647058823529,
-		"averageTime":453.9,
-		"downloads":34,
+		"difficulty":0.47540983606557374,
+		"averageTime":517.40625,
+		"downloads":64,
 		"shortKey":"CgCbCuCr:CyCcCpCw",
 		"author":"Fractaline",
-		"completions":20,
+		"completions":32,
 		"id":5228,
 		"completed":false,
 		"title":"Free Flow Circles",
-		"likes":7
+		"likes":12
 	}
 }

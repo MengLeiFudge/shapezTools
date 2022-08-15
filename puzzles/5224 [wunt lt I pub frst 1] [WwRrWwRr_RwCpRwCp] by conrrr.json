@@ -1844,15 +1844,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09523809523809523,
-		"averageTime":95.05263157894737,
-		"downloads":21,
+		"difficulty":0.08333333333333337,
+		"averageTime":93.5,
+		"downloads":24,
 		"shortKey":"WwRrWwRr:RwCpRwCp",
 		"author":"conrrr",
-		"completions":19,
+		"completions":22,
 		"id":5224,
 		"completed":false,
 		"title":"wunt lt I pub frst 1",

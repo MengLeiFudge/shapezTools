@@ -417,18 +417,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06493506493506496,
-		"averageTime":28.541666666666668,
-		"downloads":77,
+		"difficulty":0.02898550724637683,
+		"averageTime":30.02238805970149,
+		"downloads":138,
 		"shortKey":"CrRyWgSb",
 		"author":"player#200209400",
-		"completions":72,
+		"completions":134,
 		"id":4322,
 		"completed":false,
 		"title":"ez V2",
-		"likes":14
+		"likes":23
 	}
 }

@@ -51,12 +51,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.24637681159420288,
-		"averageTime":121.71153846153847,
-		"downloads":69,
+		"difficulty":0.24285714285714288,
+		"averageTime":120.05660377358491,
+		"downloads":70,
 		"shortKey":"RuRuRuRu:RuRuRuRu:RuRuRuRu:RuRuRuRu",
 		"author":"anonymous",
-		"completions":52,
+		"completions":53,
 		"id":185,
 		"completed":false,
 		"title":"Square n more square",

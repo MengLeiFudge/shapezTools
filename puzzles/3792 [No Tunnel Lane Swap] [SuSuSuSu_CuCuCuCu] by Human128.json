@@ -74,15 +74,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3846153846153846,
-		"averageTime":126.125,
-		"downloads":14,
+		"difficulty":0.30434782608695654,
+		"averageTime":110.125,
+		"downloads":23,
 		"shortKey":"SuSuSuSu:CuCuCuCu",
 		"author":"Human128",
-		"completions":8,
+		"completions":16,
 		"id":3792,
 		"completed":true,
 		"title":"No Tunnel Lane Swap",
-		"likes":3
+		"likes":5
 	}
 }

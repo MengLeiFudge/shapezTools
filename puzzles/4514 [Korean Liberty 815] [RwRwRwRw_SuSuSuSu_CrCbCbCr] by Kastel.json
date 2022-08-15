@@ -158,15 +158,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2647058823529411,
-		"averageTime":113.44,
-		"downloads":34,
+		"difficulty":0.25,
+		"averageTime":114.03703703703704,
+		"downloads":36,
 		"shortKey":"RwRwRwRw:SuSuSuSu:CrCbCbCr",
 		"author":"Kastel",
-		"completions":25,
+		"completions":27,
 		"id":4514,
 		"completed":false,
 		"title":"Korean Liberty 815",

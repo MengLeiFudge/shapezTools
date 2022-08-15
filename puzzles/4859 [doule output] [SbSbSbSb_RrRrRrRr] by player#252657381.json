@@ -78,15 +78,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.10769230769230764,
-		"averageTime":63.62068965517241,
-		"downloads":65,
+		"difficulty":0.06349206349206349,
+		"averageTime":60.90677966101695,
+		"downloads":126,
 		"shortKey":"SbSbSbSb:RrRrRrRr",
 		"author":"player#252657381",
-		"completions":58,
+		"completions":118,
 		"id":4859,
 		"completed":false,
 		"title":"doule output",
-		"likes":13
+		"likes":20
 	}
 }

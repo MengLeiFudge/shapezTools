@@ -240,18 +240,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5652173913043479,
-		"averageTime":749.9,
-		"downloads":25,
+		"difficulty":0.5555555555555556,
+		"averageTime":670.0833333333334,
+		"downloads":27,
 		"shortKey":"CrCbCbCb:Cy------:Cg------:Cc------",
 		"author":"Sooka",
-		"completions":10,
+		"completions":12,
 		"id":5166,
 		"completed":false,
 		"title":"Sooka05",
-		"likes":5
+		"likes":7
 	}
 }

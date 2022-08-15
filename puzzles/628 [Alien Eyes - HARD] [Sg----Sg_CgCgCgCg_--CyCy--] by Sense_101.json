@@ -180,18 +180,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6779661016949152,
-		"averageTime":614.2368421052631,
-		"downloads":122,
+		"difficulty":0.6618705035971223,
+		"averageTime":683.0212765957447,
+		"downloads":139,
 		"shortKey":"Sg----Sg:CgCgCgCg:--CyCy--",
 		"author":"Sense_101",
-		"completions":38,
+		"completions":47,
 		"id":628,
 		"completed":true,
 		"title":"Alien Eyes - HARD",
-		"likes":10
+		"likes":18
 	}
 }

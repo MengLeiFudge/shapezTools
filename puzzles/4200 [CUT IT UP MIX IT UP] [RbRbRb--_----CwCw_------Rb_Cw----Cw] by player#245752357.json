@@ -268,18 +268,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":976.0769230769231,
-		"downloads":30,
+		"difficulty":0.5625,
+		"averageTime":919.9285714285714,
+		"downloads":32,
 		"shortKey":"RbRbRb--:----CwCw:------Rb:Cw----Cw",
 		"author":"player#245752357",
-		"completions":13,
+		"completions":14,
 		"id":4200,
 		"completed":false,
 		"title":"CUT IT UP MIX IT UP",
-		"likes":8
+		"likes":9
 	}
 }

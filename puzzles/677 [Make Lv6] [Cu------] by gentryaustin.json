@@ -33,18 +33,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.02863961813842486,
-		"averageTime":27.457002457002456,
-		"downloads":419,
+		"difficulty":0.026881720430107503,
+		"averageTime":29.42265193370166,
+		"downloads":744,
 		"shortKey":"Cu------",
 		"author":"gentryaustin",
-		"completions":407,
+		"completions":724,
 		"id":677,
 		"completed":true,
 		"title":"Make Lv6",
-		"likes":102
+		"likes":149
 	}
 }

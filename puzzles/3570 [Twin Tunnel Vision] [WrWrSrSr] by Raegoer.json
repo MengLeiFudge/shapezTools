@@ -317,18 +317,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16176470588235292,
-		"averageTime":133.87719298245614,
-		"downloads":68,
+		"difficulty":0.1348314606741573,
+		"averageTime":127.18181818181819,
+		"downloads":89,
 		"shortKey":"WrWrSrSr",
 		"author":"Raegoer",
-		"completions":57,
+		"completions":77,
 		"id":3570,
 		"completed":false,
 		"title":"Twin Tunnel Vision",
-		"likes":21
+		"likes":24
 	}
 }

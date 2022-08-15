@@ -2171,13 +2171,15 @@
 		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.6153846153846154,
+		"averageTime":332,
+		"downloads":18,
 		"shortKey":"SbSgSb--:SbSgSbSr",
 		"author":"Azurite",
-		"completions":4,
+		"completions":5,
 		"id":3777,
 		"completed":false,
 		"title":"Symmetry 4",
-		"likes":2
+		"likes":3
 	}
 }

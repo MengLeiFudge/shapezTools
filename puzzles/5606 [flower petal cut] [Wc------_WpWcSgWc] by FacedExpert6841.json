@@ -41,18 +41,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.47058823529411764,
-		"averageTime":116.11111111111111,
-		"downloads":17,
+		"difficulty":0.42500000000000004,
+		"averageTime":232.8695652173913,
+		"downloads":41,
 		"shortKey":"Wc------:WpWcSgWc",
 		"author":"FacedExpert6841",
-		"completions":9,
+		"completions":23,
 		"id":5606,
 		"completed":true,
 		"title":"flower petal cut",
-		"likes":4
+		"likes":9
 	}
 }

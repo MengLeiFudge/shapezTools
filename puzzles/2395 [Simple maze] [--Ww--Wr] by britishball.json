@@ -867,18 +867,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10810810810810811,
-		"averageTime":154.13636363636363,
-		"downloads":148,
+		"difficulty":0.09999999999999998,
+		"averageTime":144.49707602339183,
+		"downloads":190,
 		"shortKey":"--Ww--Wr",
 		"author":"britishball",
-		"completions":132,
+		"completions":171,
 		"id":2395,
 		"completed":true,
 		"title":"Simple maze",
-		"likes":49
+		"likes":57
 	}
 }

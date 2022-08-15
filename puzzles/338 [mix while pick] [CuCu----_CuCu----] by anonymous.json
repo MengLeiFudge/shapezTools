@@ -45,15 +45,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.015873015873015928,
-		"averageTime":33.21774193548387,
-		"downloads":378,
+		"difficulty":0.01620745542949753,
+		"averageTime":44.81054365733114,
+		"downloads":617,
 		"shortKey":"CuCu----:CuCu----",
 		"author":"anonymous",
-		"completions":372,
+		"completions":607,
 		"id":338,
 		"completed":true,
 		"title":"mix while pick",
-		"likes":89
+		"likes":123
 	}
 }

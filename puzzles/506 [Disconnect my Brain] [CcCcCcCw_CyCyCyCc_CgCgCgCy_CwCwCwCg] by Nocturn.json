@@ -111,16 +111,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.30434782608695654,
+		"averageTime":322.0625,
+		"downloads":46,
 		"shortKey":"CcCcCcCw:CyCyCyCc:CgCgCgCy:CwCwCwCg",
 		"author":"Nocturn",
-		"completions":4,
+		"completions":32,
 		"id":506,
 		"completed":false,
 		"title":"Disconnect my Brain",
-		"likes":4
+		"likes":11
 	}
 }

@@ -182,15 +182,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.03504672897196259,
-		"averageTime":65.52784503631962,
-		"downloads":428,
+		"difficulty":0.026425591098748313,
+		"averageTime":69.05142857142857,
+		"downloads":719,
 		"shortKey":"CcCcCcCc:CcCcCcCc:CcCcCcCc:CcCcCcCc",
 		"author":"anonymous",
-		"completions":413,
+		"completions":700,
 		"id":160,
 		"completed":true,
 		"title":"idkr",
-		"likes":101
+		"likes":145
 	}
 }

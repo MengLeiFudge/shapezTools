@@ -466,18 +466,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.14814814814814814,
-		"averageTime":79.78260869565217,
-		"downloads":27,
+		"difficulty":0.07246376811594202,
+		"averageTime":92.53125,
+		"downloads":69,
 		"shortKey":"WuWuWuWu:RgRrCcWp:CyCgCwWu:Sb--SgSr",
 		"author":"player#369968148",
-		"completions":23,
+		"completions":64,
 		"id":5273,
 		"completed":false,
 		"title":"finish each",
-		"likes":6
+		"likes":15
 	}
 }

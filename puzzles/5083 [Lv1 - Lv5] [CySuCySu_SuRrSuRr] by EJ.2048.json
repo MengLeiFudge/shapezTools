@@ -137,13 +137,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.1428571428571429,
+		"averageTime":48.833333333333336,
+		"downloads":14,
 		"shortKey":"CySuCySu:SuRrSuRr",
 		"author":"EJ.2048",
-		"completions":7,
+		"completions":12,
 		"id":5083,
 		"completed":false,
 		"title":"Lv1 - Lv5",

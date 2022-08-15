@@ -207,15 +207,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.05797101449275366,
-		"averageTime":42.2,
-		"downloads":138,
+		"difficulty":0.03600000000000003,
+		"averageTime":41.601659751037346,
+		"downloads":250,
 		"shortKey":"RuRuRuRu:RgRyRbRr:RgRyRbRr",
 		"author":"TheAngels",
-		"completions":130,
+		"completions":241,
 		"id":4776,
 		"completed":true,
 		"title":"Flow custom puzzle",
-		"likes":30
+		"likes":46
 	}
 }

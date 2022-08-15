@@ -157,15 +157,17 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23529411764705888,
-		"averageTime":65.46153846153847,
-		"downloads":17,
+		"difficulty":0.21052631578947367,
+		"averageTime":62.46666666666667,
+		"downloads":19,
 		"shortKey":"CuCuCuCu:RuRuRuRu:SuSuSuSu",
 		"author":"s-t-o-n-e",
-		"completions":13,
+		"completions":15,
 		"id":2377,
 		"completed":false,
 		"title":"3 lanes on 2 paths",

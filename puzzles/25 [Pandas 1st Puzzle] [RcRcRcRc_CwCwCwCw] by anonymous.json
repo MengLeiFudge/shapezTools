@@ -72,15 +72,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.07350096711798837,
-		"averageTime":97.49269311064718,
-		"downloads":517,
+		"difficulty":0.06956521739130439,
+		"averageTime":95.58317757009345,
+		"downloads":575,
 		"shortKey":"RcRcRcRc:CwCwCwCw",
 		"author":"anonymous",
-		"completions":479,
+		"completions":535,
 		"id":25,
 		"completed":false,
 		"title":"Pandas 1st Puzzle",
-		"likes":169
+		"likes":176
 	}
 }

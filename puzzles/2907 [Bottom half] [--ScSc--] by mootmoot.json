@@ -32,15 +32,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":346.2,
-		"downloads":30,
+		"difficulty":0.36220472440944884,
+		"averageTime":404.4567901234568,
+		"downloads":127,
 		"shortKey":"--ScSc--",
 		"author":"mootmoot",
-		"completions":15,
+		"completions":81,
 		"id":2907,
 		"completed":true,
 		"title":"Bottom half",
-		"likes":9
+		"likes":38
 	}
 }

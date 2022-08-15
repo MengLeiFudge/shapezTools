@@ -380,18 +380,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.33108108108108103,
-		"averageTime":313.4949494949495,
-		"downloads":148,
+		"difficulty":0.27567567567567564,
+		"averageTime":341.82089552238807,
+		"downloads":185,
 		"shortKey":"CyRyCyRy:CyRyCyRy:CyRyCyRy:CyRyCyRy",
 		"author":"MrSquirrelDeDuc",
-		"completions":99,
+		"completions":134,
 		"id":1992,
 		"completed":false,
 		"title":"Life gets Lemons",
-		"likes":45
+		"likes":54
 	}
 }

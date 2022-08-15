@@ -109,15 +109,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.018656716417910446,
-		"averageTime":29.600760456273765,
-		"downloads":536,
+		"difficulty":0.020161290322580627,
+		"averageTime":28.856995884773664,
+		"downloads":992,
 		"shortKey":"CcCrCrCc:CrCcCcCr:CcCrCrCc",
 		"author":"chrjen",
-		"completions":526,
+		"completions":972,
 		"id":2077,
 		"completed":true,
 		"title":"Connect the dots 3",
-		"likes":138
+		"likes":203
 	}
 }

@@ -99,15 +99,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":614.1666666666666,
-		"downloads":12,
+		"difficulty":0.46153846153846156,
+		"averageTime":647.2857142857143,
+		"downloads":14,
 		"shortKey":"CuCuCu--:CgCyCr--",
 		"author":"Zarah",
-		"completions":6,
+		"completions":7,
 		"id":2051,
 		"completed":false,
 		"title":"Traffic Light",

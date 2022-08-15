@@ -171,15 +171,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.413953488372093,
-		"averageTime":323.6984126984127,
-		"downloads":215,
+		"difficulty":0.4069264069264069,
+		"averageTime":309.7883211678832,
+		"downloads":231,
 		"shortKey":"CpCpCpCp",
 		"author":"Rifex773",
-		"completions":126,
+		"completions":137,
 		"id":607,
 		"completed":true,
 		"title":"The Purple Circle",

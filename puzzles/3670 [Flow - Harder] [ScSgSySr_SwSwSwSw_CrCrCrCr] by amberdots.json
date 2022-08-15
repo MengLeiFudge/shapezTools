@@ -469,15 +469,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3386581469648562,
-		"averageTime":653.975845410628,
-		"downloads":313,
+		"difficulty":0.29591836734693877,
+		"averageTime":664.6811594202899,
+		"downloads":588,
 		"shortKey":"ScSgSySr:SwSwSwSw:CrCrCrCr",
 		"author":"amberdots",
-		"completions":207,
+		"completions":414,
 		"id":3670,
-		"completed":false,
+		"completed":true,
 		"title":"Flow - Harder",
-		"likes":113
+		"likes":183
 	}
 }

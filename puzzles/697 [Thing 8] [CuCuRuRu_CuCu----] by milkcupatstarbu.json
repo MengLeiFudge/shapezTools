@@ -58,16 +58,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"difficulty":0.29729729729729726,
+		"averageTime":164.34615384615384,
+		"downloads":37,
 		"shortKey":"CuCuRuRu:CuCu----",
 		"author":"milkcupatstarbu",
-		"completions":5,
+		"completions":26,
 		"id":697,
 		"completed":true,
 		"title":"Thing 8",
-		"likes":4
+		"likes":9
 	}
 }

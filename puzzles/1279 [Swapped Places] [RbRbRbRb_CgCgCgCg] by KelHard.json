@@ -134,15 +134,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2338709677419355,
-		"averageTime":212.33157894736843,
-		"downloads":248,
+		"difficulty":0.22429906542056077,
+		"averageTime":228.6987951807229,
+		"downloads":323,
 		"shortKey":"RbRbRbRb:CgCgCgCg",
 		"author":"KelHard",
-		"completions":190,
+		"completions":249,
 		"id":1279,
 		"completed":false,
 		"title":"Swapped Places",
-		"likes":81
+		"likes":97
 	}
 }

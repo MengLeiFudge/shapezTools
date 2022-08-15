@@ -529,18 +529,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10526315789473684,
-		"averageTime":99.86274509803921,
-		"downloads":57,
+		"difficulty":0.09523809523809523,
+		"averageTime":96.56140350877193,
+		"downloads":63,
 		"shortKey":"CrCyCgCb:CbCrCyCg:CgCbCrCy:CyCgCbCr",
 		"author":"sseewwaaggeess",
-		"completions":51,
+		"completions":57,
 		"id":4161,
 		"completed":false,
 		"title":"Contest Shuffle",
-		"likes":12
+		"likes":15
 	}
 }

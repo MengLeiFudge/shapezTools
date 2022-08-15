@@ -243,12 +243,14 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.5294117647058824,
 		"averageTime":763.375,
-		"downloads":17,
+		"downloads":18,
 		"shortKey":"CrWuSu--:----Ru--",
 		"author":"Belagore",
 		"completions":8,

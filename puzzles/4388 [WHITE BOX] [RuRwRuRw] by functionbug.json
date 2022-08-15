@@ -52,18 +52,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0964912280701754,
-		"averageTime":64.73300970873787,
-		"downloads":228,
+		"difficulty":0.06284658040665436,
+		"averageTime":65.5956607495069,
+		"downloads":541,
 		"shortKey":"RuRwRuRw",
 		"author":"functionbug",
-		"completions":206,
+		"completions":507,
 		"id":4388,
 		"completed":true,
 		"title":"WHITE BOX",
-		"likes":53
+		"likes":110
 	}
 }

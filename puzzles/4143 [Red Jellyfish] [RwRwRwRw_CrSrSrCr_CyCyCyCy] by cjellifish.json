@@ -125,15 +125,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.26190476190476186,
-		"averageTime":246.93548387096774,
-		"downloads":45,
+		"difficulty":0.23809523809523814,
+		"averageTime":253.4375,
+		"downloads":64,
 		"shortKey":"RwRwRwRw:CrSrSrCr:CyCyCyCy",
 		"author":"cjellifish",
-		"completions":31,
+		"completions":48,
 		"id":4143,
 		"completed":false,
 		"title":"Red Jellyfish",
-		"likes":13
+		"likes":16
 	}
 }

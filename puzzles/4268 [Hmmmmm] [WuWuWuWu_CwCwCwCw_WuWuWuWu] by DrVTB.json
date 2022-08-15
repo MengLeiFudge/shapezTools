@@ -1121,15 +1121,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.09999999999999998,
-		"averageTime":155.77777777777777,
-		"downloads":20,
+		"difficulty":0.07692307692307687,
+		"averageTime":148.79166666666666,
+		"downloads":26,
 		"shortKey":"WuWuWuWu:CwCwCwCw:WuWuWuWu",
 		"author":"DrVTB",
-		"completions":18,
+		"completions":24,
 		"id":4268,
 		"completed":false,
 		"title":"Hmmmmm",
-		"likes":3
+		"likes":6
 	}
 }

@@ -25,13 +25,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.2666666666666667,
+		"averageTime":39.09090909090909,
+		"downloads":15,
 		"shortKey":"CyRyCyRy:SrSrSrSr",
 		"author":"player#104606695",
-		"completions":5,
+		"completions":11,
 		"id":4962,
 		"completed":false,
 		"title":"oy oy",

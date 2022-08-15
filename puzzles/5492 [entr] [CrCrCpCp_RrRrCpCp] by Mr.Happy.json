@@ -285,10 +285,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.2142857142857143,
+		"averageTime":19.09090909090909,
+		"downloads":14,
 		"shortKey":"CrCrCpCp:RrRrCpCp",
 		"author":"Mr.Happy",
-		"completions":6,
+		"completions":11,
 		"id":5492,
 		"completed":false,
 		"title":"entr",

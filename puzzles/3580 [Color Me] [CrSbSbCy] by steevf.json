@@ -285,15 +285,17 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5454545454545454,
-		"averageTime":939.6,
-		"downloads":12,
+		"difficulty":0.46153846153846156,
+		"averageTime":770,
+		"downloads":13,
 		"shortKey":"CrSbSbCy",
 		"author":"steevf",
-		"completions":5,
+		"completions":7,
 		"id":3580,
 		"completed":false,
 		"title":"Color Me",

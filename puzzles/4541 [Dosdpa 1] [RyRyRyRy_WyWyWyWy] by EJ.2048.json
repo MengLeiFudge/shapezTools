@@ -659,15 +659,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.24137931034482762,
-		"averageTime":97.63636363636364,
-		"downloads":30,
+		"difficulty":0.25,
+		"averageTime":97.875,
+		"downloads":32,
 		"shortKey":"RyRyRyRy:WyWyWyWy",
 		"author":"EJ.2048",
-		"completions":22,
+		"completions":24,
 		"id":4541,
 		"completed":false,
 		"title":"Dosdpa 1",

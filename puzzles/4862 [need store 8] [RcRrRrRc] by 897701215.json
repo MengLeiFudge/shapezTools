@@ -406,15 +406,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6785714285714286,
-		"averageTime":286,
-		"downloads":28,
+		"difficulty":0.6923076923076923,
+		"averageTime":240.75,
+		"downloads":39,
 		"shortKey":"RcRrRrRc",
 		"author":"897701215",
-		"completions":9,
+		"completions":12,
 		"id":4862,
 		"completed":true,
 		"title":"need store 8",
-		"likes":4
+		"likes":6
 	}
 }

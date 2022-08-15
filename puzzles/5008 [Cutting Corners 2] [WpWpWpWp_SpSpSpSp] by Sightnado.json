@@ -84,18 +84,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21153846153846156,
-		"averageTime":167.41463414634146,
-		"downloads":55,
+		"difficulty":0.18571428571428572,
+		"averageTime":154.28070175438597,
+		"downloads":70,
 		"shortKey":"WpWpWpWp:SpSpSpSp",
 		"author":"Sightnado",
-		"completions":41,
+		"completions":57,
 		"id":5008,
 		"completed":false,
 		"title":"Cutting Corners 2",
-		"likes":15
+		"likes":17
 	}
 }

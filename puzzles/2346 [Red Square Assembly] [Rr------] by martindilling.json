@@ -25,15 +25,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2666666666666667,
-		"averageTime":28.818181818181817,
-		"downloads":15,
+		"difficulty":0.23529411764705888,
+		"averageTime":29.23076923076923,
+		"downloads":17,
 		"shortKey":"Rr------",
 		"author":"martindilling",
-		"completions":11,
+		"completions":13,
 		"id":2346,
 		"completed":false,
 		"title":"Red Square Assembly",

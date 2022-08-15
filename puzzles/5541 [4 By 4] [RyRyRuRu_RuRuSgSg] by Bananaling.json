@@ -77,15 +77,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.23076923076923073,
-		"averageTime":9.9,
-		"downloads":13,
+		"difficulty":0.01041666666666663,
+		"averageTime":13.063157894736841,
+		"downloads":96,
 		"shortKey":"RyRyRuRu:RuRuSgSg",
 		"author":"Bananaling",
-		"completions":10,
+		"completions":95,
 		"id":5541,
-		"completed":false,
+		"completed":true,
 		"title":"4 By 4",
-		"likes":2
+		"likes":15
 	}
 }

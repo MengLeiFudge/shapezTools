@@ -503,10 +503,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":21,
+		"downloads":24,
 		"shortKey":"Sr------:--CgCgCg:--Sb----:Cw--CwCw",
 		"author":"alex_x90",
 		"completions":1,

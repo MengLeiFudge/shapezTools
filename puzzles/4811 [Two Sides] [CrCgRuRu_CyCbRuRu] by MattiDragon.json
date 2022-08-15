@@ -359,15 +359,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5277777777777778,
-		"averageTime":575.5882352941177,
-		"downloads":39,
+		"difficulty":0.3571428571428571,
+		"averageTime":659.2888888888889,
+		"downloads":70,
 		"shortKey":"CrCgRuRu:CyCbRuRu",
 		"author":"MattiDragon",
-		"completions":17,
+		"completions":45,
 		"id":4811,
 		"completed":false,
 		"title":"Two Sides",
-		"likes":11
+		"likes":21
 	}
 }

@@ -71,15 +71,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.47619047619047616,
-		"averageTime":104.45454545454545,
-		"downloads":21,
+		"difficulty":0.46153846153846156,
+		"averageTime":101.85714285714286,
+		"downloads":26,
 		"shortKey":"SbSrSwSg",
 		"author":"micromicrocosm",
-		"completions":11,
+		"completions":14,
 		"id":4770,
 		"completed":false,
 		"title":"5 Stacker 5 Cutter",
-		"likes":4
+		"likes":5
 	}
 }

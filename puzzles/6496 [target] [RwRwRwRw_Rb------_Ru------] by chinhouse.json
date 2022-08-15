@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CrCwCrCw:CwCrCwCr:CrCwCrCw:CwCrCwCr",
+				"pos":{
+					"r":180,
+					"x":0,
+					"y":0
+				},
+				"type":"goal"
+			},
+			{
+				"item":"CrCwCrCw",
+				"pos":{
+					"r":270,
+					"x":0,
+					"y":2
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":3,
+			"h":7
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.07999999999999996,
+		"averageTime":90.26086956521739,
+		"downloads":52,
+		"shortKey":"RwRwRwRw:Rb------:Ru------",
+		"author":"chinhouse",
+		"completions":46,
+		"id":6496,
+		"completed":false,
+		"title":"target",
+		"likes":12
+	}
+}

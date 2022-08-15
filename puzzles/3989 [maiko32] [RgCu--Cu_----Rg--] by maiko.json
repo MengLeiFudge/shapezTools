@@ -1203,15 +1203,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.33720930232558144,
-		"averageTime":377.2105263157895,
-		"downloads":91,
+		"difficulty":0.31007751937984496,
+		"averageTime":398.29213483146066,
+		"downloads":129,
 		"shortKey":"RgCu--Cu:----Rg--",
 		"author":"maiko",
-		"completions":57,
+		"completions":89,
 		"id":3989,
 		"completed":false,
 		"title":"maiko32",
-		"likes":28
+		"likes":35
 	}
 }

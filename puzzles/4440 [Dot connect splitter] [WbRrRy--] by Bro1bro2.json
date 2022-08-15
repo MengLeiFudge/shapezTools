@@ -221,15 +221,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.06329113924050633,
-		"averageTime":73.1891891891892,
-		"downloads":79,
+		"difficulty":0.040909090909090895,
+		"averageTime":79.33175355450237,
+		"downloads":220,
 		"shortKey":"WbRrRy--",
 		"author":"Bro1bro2",
-		"completions":74,
+		"completions":211,
 		"id":4440,
 		"completed":false,
 		"title":"Dot connect splitter",
-		"likes":16
+		"likes":40
 	}
 }

@@ -495,18 +495,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.24193548387096775,
-		"averageTime":212.04255319148936,
-		"downloads":62,
+		"difficulty":0.2471910112359551,
+		"averageTime":202.07462686567163,
+		"downloads":89,
 		"shortKey":"CyCcCpCc",
 		"author":"f3dx",
-		"completions":47,
+		"completions":67,
 		"id":4363,
 		"completed":false,
 		"title":"10x10",
-		"likes":20
+		"likes":22
 	}
 }

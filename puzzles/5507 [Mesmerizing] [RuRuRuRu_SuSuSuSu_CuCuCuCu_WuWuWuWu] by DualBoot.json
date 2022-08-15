@@ -52,18 +52,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09090909090909094,
-		"averageTime":13.75,
-		"downloads":22,
+		"difficulty":0.00990099009900991,
+		"averageTime":15.88,
+		"downloads":101,
 		"shortKey":"RuRuRuRu:SuSuSuSu:CuCuCuCu:WuWuWuWu",
 		"author":"DualBoot",
-		"completions":20,
+		"completions":100,
 		"id":5507,
-		"completed":false,
+		"completed":true,
 		"title":"Mesmerizing",
-		"likes":3
+		"likes":17
 	}
 }

@@ -365,15 +365,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4545454545454546,
-		"averageTime":7933,
-		"downloads":15,
+		"difficulty":0.5,
+		"averageTime":5362.333333333333,
+		"downloads":18,
 		"shortKey":"SwWwWwSw:RwCwCwRw:SwWwWwSw:RwCwCwRw",
 		"author":"Legor455",
-		"completions":6,
+		"completions":9,
 		"id":5395,
 		"completed":false,
 		"title":"the 12 tunnels",
-		"likes":1
+		"likes":2
 	}
 }

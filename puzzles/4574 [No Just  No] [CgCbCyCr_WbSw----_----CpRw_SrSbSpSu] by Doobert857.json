@@ -598,12 +598,14 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.7916666666666666,
 		"averageTime":1232.4,
-		"downloads":33,
+		"downloads":35,
 		"shortKey":"CgCbCyCr:WbSw----:----CpRw:SrSbSpSu",
 		"author":"Doobert857",
 		"completions":5,

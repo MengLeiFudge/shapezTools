@@ -43,18 +43,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.058510638297872286,
-		"averageTime":40.87570621468927,
-		"downloads":188,
+		"difficulty":0.04029304029304026,
+		"averageTime":39.267175572519086,
+		"downloads":273,
 		"shortKey":"Sb--Sb--:Su--Su--:--Cb--Cb:--Cu--Cu",
 		"author":"Fyshi",
-		"completions":177,
+		"completions":262,
 		"id":1741,
 		"completed":false,
 		"title":"First Puzzle",
-		"likes":41
+		"likes":49
 	}
 }

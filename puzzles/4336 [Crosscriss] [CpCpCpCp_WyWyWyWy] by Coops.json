@@ -68,15 +68,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0714285714285714,
-		"averageTime":57.38461538461539,
-		"downloads":42,
+		"difficulty":0.043010752688172005,
+		"averageTime":58.325842696629216,
+		"downloads":93,
 		"shortKey":"CpCpCpCp:WyWyWyWy",
 		"author":"Coops",
-		"completions":39,
+		"completions":89,
 		"id":4336,
 		"completed":false,
 		"title":"Crosscriss",
-		"likes":6
+		"likes":14
 	}
 }

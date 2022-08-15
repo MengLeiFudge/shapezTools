@@ -89,15 +89,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23809523809523814,
-		"averageTime":18.4375,
-		"downloads":21,
+		"difficulty":0.18518518518518523,
+		"averageTime":17.90909090909091,
+		"downloads":27,
 		"shortKey":"CyCyRyRy:RwRwCyCy",
 		"author":"player#104606695",
-		"completions":16,
+		"completions":22,
 		"id":4999,
 		"completed":false,
 		"title":"Logo 2",

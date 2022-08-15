@@ -316,16 +316,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.26086956521739135,
+		"averageTime":75.94117647058823,
+		"downloads":23,
 		"shortKey":"WuWuWuWu:RuRu----:RuRu----:WuWuWuWu",
 		"author":"Yoshi101",
-		"completions":7,
+		"completions":17,
 		"id":5326,
 		"completed":false,
 		"title":"make and trim",
-		"likes":2
+		"likes":5
 	}
 }

@@ -1578,15 +1578,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.27586206896551724,
-		"averageTime":113.71428571428571,
-		"downloads":29,
+		"difficulty":0.25806451612903225,
+		"averageTime":116.56521739130434,
+		"downloads":31,
 		"shortKey":"SrSgSgSr",
 		"author":"gigitron6",
-		"completions":21,
+		"completions":23,
 		"id":2608,
 		"completed":false,
 		"title":"Round and round",
-		"likes":5
+		"likes":6
 	}
 }

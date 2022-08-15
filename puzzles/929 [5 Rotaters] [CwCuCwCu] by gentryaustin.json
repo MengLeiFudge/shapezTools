@@ -138,18 +138,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.029059829059829068,
-		"averageTime":62.70422535211268,
-		"downloads":585,
+		"difficulty":0.03951149425287359,
+		"averageTime":67.60059835452506,
+		"downloads":1392,
 		"shortKey":"CwCuCwCu",
 		"author":"gentryaustin",
-		"completions":568,
+		"completions":1337,
 		"id":929,
 		"completed":true,
 		"title":"5 Rotaters",
-		"likes":156
+		"likes":298
 	}
 }

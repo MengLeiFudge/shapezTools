@@ -1771,15 +1771,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.03903903903903905,
-		"averageTime":27.95625,
-		"downloads":333,
+		"difficulty":0.024809160305343525,
+		"averageTime":30.422700587084147,
+		"downloads":524,
 		"shortKey":"RwRuRwRu:RuRwRuRw:RwRuRwRu:RuRwRuRw",
 		"author":"anonymous",
-		"completions":320,
+		"completions":511,
 		"id":405,
 		"completed":true,
 		"title":"Big Maze - Easy",
-		"likes":73
+		"likes":101
 	}
 }

@@ -43,13 +43,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.08333333333333337,
+		"averageTime":10.954545454545455,
+		"downloads":24,
 		"shortKey":"SpCuSpCu:RpSbRpSb",
 		"author":"Bananaling",
-		"completions":7,
+		"completions":22,
 		"id":5539,
 		"completed":false,
 		"title":"3 By 3",
-		"likes":1
+		"likes":3
 	}
 }

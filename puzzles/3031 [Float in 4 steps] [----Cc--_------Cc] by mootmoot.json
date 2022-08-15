@@ -152,15 +152,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6428571428571428,
-		"averageTime":437.3333333333333,
-		"downloads":126,
+		"difficulty":0.6698113207547169,
+		"averageTime":527.4285714285714,
+		"downloads":214,
 		"shortKey":"----Cc--:------Cc",
 		"author":"mootmoot",
-		"completions":45,
+		"completions":70,
 		"id":3031,
 		"completed":true,
 		"title":"Float in 4 steps",
-		"likes":29
+		"likes":37
 	}
 }

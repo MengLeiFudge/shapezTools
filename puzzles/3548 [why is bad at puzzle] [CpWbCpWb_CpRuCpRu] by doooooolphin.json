@@ -944,18 +944,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.17142857142857137,
-		"averageTime":159.48275862068965,
-		"downloads":35,
+		"difficulty":0.1578947368421053,
+		"averageTime":163.625,
+		"downloads":38,
 		"shortKey":"CpWbCpWb:CpRuCpRu",
 		"author":"doooooolphin",
-		"completions":29,
+		"completions":32,
 		"id":3548,
 		"completed":false,
 		"title":"why is bad at puzzle",
-		"likes":7
+		"likes":8
 	}
 }

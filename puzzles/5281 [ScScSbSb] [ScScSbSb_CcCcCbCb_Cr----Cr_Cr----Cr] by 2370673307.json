@@ -652,18 +652,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4736842105263158,
-		"averageTime":677.7,
-		"downloads":45,
+		"difficulty":0.5531914893617021,
+		"averageTime":658.9047619047619,
+		"downloads":48,
 		"shortKey":"ScScSbSb:CcCcCbCb:Cr----Cr:Cr----Cr",
 		"author":"2370673307",
-		"completions":20,
+		"completions":21,
 		"id":5281,
 		"completed":false,
 		"title":"ScScSbSb",
-		"likes":12
+		"likes":13
 	}
 }

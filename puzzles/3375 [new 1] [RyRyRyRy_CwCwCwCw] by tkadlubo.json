@@ -506,18 +506,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.18181818181818177,
-		"averageTime":77.38888888888889,
-		"downloads":22,
+		"difficulty":0.10810810810810811,
+		"averageTime":90.03030303030303,
+		"downloads":37,
 		"shortKey":"RyRyRyRy:CwCwCwCw",
 		"author":"tkadlubo",
-		"completions":18,
+		"completions":33,
 		"id":3375,
 		"completed":false,
 		"title":"new 1",
-		"likes":3
+		"likes":5
 	}
 }

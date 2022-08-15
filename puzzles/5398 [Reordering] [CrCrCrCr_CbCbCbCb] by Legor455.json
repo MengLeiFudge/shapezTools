@@ -306,12 +306,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.46153846153846156,
-		"averageTime":360.57142857142856,
-		"downloads":15,
+		"difficulty":0.4444444444444444,
+		"averageTime":357.3,
+		"downloads":18,
 		"shortKey":"CrCrCrCr:CbCbCbCb",
 		"author":"Legor455",
-		"completions":7,
+		"completions":10,
 		"id":5398,
 		"completed":false,
 		"title":"Reordering",

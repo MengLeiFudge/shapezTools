@@ -177,15 +177,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.26315789473684215,
-		"averageTime":181.17857142857142,
-		"downloads":38,
+		"difficulty":0.19999999999999996,
+		"averageTime":160.6,
+		"downloads":50,
 		"shortKey":"SpCcSpCc:CcSpCcSp:SpCcSpCc:CcSpCcSp",
 		"author":"maiko",
-		"completions":28,
+		"completions":40,
 		"id":4648,
 		"completed":true,
 		"title":"maiko57",

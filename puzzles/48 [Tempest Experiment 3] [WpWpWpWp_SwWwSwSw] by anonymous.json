@@ -73,13 +73,14 @@
 	},
 	"meta":{
 		"difficulty":0.5,
-		"downloads":10,
+		"averageTime":763.1666666666666,
+		"downloads":14,
 		"shortKey":"WpWpWpWp:SwWwSwSw",
 		"author":"anonymous",
-		"completions":4,
+		"completions":6,
 		"id":48,
 		"completed":false,
 		"title":"Tempest Experiment 3",
-		"likes":4
+		"likes":5
 	}
 }

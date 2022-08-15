@@ -1741,12 +1741,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.12,
-		"averageTime":11.181818181818182,
-		"downloads":25,
+		"difficulty":0.1071428571428571,
+		"averageTime":10.76,
+		"downloads":28,
 		"shortKey":"SgSgSgSg:CpCpCpCp",
 		"author":"Chockichoc",
-		"completions":22,
+		"completions":25,
 		"id":3059,
 		"completed":false,
 		"title":"rotate for win",

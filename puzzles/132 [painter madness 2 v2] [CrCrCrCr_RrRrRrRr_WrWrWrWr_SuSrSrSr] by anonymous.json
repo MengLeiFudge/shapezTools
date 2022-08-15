@@ -111,12 +111,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.375,
-		"averageTime":70.9,
-		"downloads":16,
+		"difficulty":0.33333333333333337,
+		"averageTime":63.5,
+		"downloads":18,
 		"shortKey":"CrCrCrCr:RrRrRrRr:WrWrWrWr:SuSrSrSr",
 		"author":"anonymous",
-		"completions":10,
+		"completions":12,
 		"id":132,
 		"completed":false,
 		"title":"painter madness 2 v2",

@@ -509,15 +509,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.016574585635359074,
-		"averageTime":32.82022471910113,
-		"downloads":181,
+		"difficulty":0.010600706713780883,
+		"averageTime":34.010714285714286,
+		"downloads":283,
 		"shortKey":"CwWuCuWw",
 		"author":"PiratadaMontill",
-		"completions":178,
+		"completions":280,
 		"id":1835,
 		"completed":false,
 		"title":"Mazed Up",
-		"likes":40
+		"likes":51
 	}
 }

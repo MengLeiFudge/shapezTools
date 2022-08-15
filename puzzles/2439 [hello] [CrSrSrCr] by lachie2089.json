@@ -180,12 +180,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":32.5,
-		"downloads":16,
+		"difficulty":0.2222222222222222,
+		"averageTime":30.5,
+		"downloads":18,
 		"shortKey":"CrSrSrCr",
 		"author":"lachie2089",
-		"completions":12,
+		"completions":14,
 		"id":2439,
 		"completed":false,
 		"title":"hello",

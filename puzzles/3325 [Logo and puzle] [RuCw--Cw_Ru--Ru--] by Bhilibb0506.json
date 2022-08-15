@@ -678,10 +678,12 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"downloads":12,
 		"shortKey":"RuCw--Cw:Ru--Ru--",
 		"author":"Bhilibb0506",
 		"completions":5,

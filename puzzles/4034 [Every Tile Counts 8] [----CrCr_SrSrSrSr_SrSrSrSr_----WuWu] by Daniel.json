@@ -366,10 +366,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"downloads":13,
 		"shortKey":"----CrCr:SrSrSrSr:SrSrSrSr:----WuWu",
 		"author":"Daniel",
 		"completions":5,

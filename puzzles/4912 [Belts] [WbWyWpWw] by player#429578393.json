@@ -199,15 +199,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1470588235294118,
-		"averageTime":93.93103448275862,
-		"downloads":34,
+		"difficulty":0.13157894736842102,
+		"averageTime":91.48484848484848,
+		"downloads":38,
 		"shortKey":"WbWyWpWw",
 		"author":"player#429578393",
-		"completions":29,
+		"completions":33,
 		"id":4912,
 		"completed":false,
 		"title":"Belts",
-		"likes":6
+		"likes":8
 	}
 }

@@ -73,15 +73,17 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08695652173913049,
-		"averageTime":10.619047619047619,
-		"downloads":23,
+		"difficulty":0.09999999999999998,
+		"averageTime":9.777777777777779,
+		"downloads":30,
 		"shortKey":"SgRwSgRw:RgCgRgCg",
 		"author":"spang",
-		"completions":21,
+		"completions":27,
 		"id":5272,
 		"completed":false,
 		"title":"easyiest lavel aver",

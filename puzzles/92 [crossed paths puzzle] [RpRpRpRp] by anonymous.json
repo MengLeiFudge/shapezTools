@@ -684,15 +684,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.045009784735812186,
-		"averageTime":80.85040983606558,
-		"downloads":511,
+		"difficulty":0.042424242424242475,
+		"averageTime":76.14936708860759,
+		"downloads":825,
 		"shortKey":"RpRpRpRp",
 		"author":"anonymous",
-		"completions":488,
+		"completions":790,
 		"id":92,
 		"completed":true,
 		"title":"crossed paths puzzle",
-		"likes":124
+		"likes":167
 	}
 }

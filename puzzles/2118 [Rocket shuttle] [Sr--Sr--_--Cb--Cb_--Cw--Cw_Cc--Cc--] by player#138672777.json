@@ -166,18 +166,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7083333333333333,
-		"averageTime":567.1428571428571,
-		"downloads":27,
+		"difficulty":0.7317073170731707,
+		"averageTime":528.3636363636364,
+		"downloads":42,
 		"shortKey":"Sr--Sr--:--Cb--Cb:--Cw--Cw:Cc--Cc--",
 		"author":"player#138672777",
-		"completions":7,
+		"completions":11,
 		"id":2118,
 		"completed":false,
 		"title":"Rocket shuttle",
-		"likes":5
+		"likes":7
 	}
 }

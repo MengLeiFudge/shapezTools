@@ -155,15 +155,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.023809523809523836,
-		"averageTime":22.51219512195122,
-		"downloads":42,
+		"difficulty":0.008000000000000007,
+		"averageTime":20.346774193548388,
+		"downloads":125,
 		"shortKey":"SuRuCuWu",
 		"author":"helmanfromhel",
-		"completions":41,
+		"completions":124,
 		"id":5475,
 		"completed":true,
 		"title":"really easy",
-		"likes":8
+		"likes":20
 	}
 }

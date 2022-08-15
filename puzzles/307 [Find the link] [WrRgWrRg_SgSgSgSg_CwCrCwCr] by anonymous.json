@@ -1219,12 +1219,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.08695652173913049,
-		"averageTime":1.2857142857142858,
-		"downloads":23,
+		"difficulty":0.07692307692307687,
+		"averageTime":1.375,
+		"downloads":26,
 		"shortKey":"WrRgWrRg:SgSgSgSg:CwCrCwCr",
 		"author":"anonymous",
-		"completions":21,
+		"completions":24,
 		"id":307,
 		"completed":false,
 		"title":"Find the link",

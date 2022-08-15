@@ -244,15 +244,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5625,
-		"averageTime":387.85714285714283,
-		"downloads":17,
+		"difficulty":0.55,
+		"averageTime":345.55555555555554,
+		"downloads":21,
 		"shortKey":"ScSgSbSy",
 		"author":"player#664581247",
-		"completions":7,
+		"completions":9,
 		"id":4332,
 		"completed":false,
 		"title":"yuansu 2",
-		"likes":3
+		"likes":5
 	}
 }

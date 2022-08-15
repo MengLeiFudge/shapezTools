@@ -161,18 +161,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.17391304347826086,
-		"averageTime":19.94736842105263,
-		"downloads":23,
+		"difficulty":0.15384615384615385,
+		"averageTime":19,
+		"downloads":26,
 		"shortKey":"Wu----Wu",
 		"author":"momomomomo",
-		"completions":19,
+		"completions":22,
 		"id":3429,
 		"completed":false,
 		"title":"This is E-Z",
-		"likes":2
+		"likes":3
 	}
 }

@@ -193,12 +193,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.38888888888888884,
-		"averageTime":101.36363636363636,
-		"downloads":18,
+		"difficulty":0.35,
+		"averageTime":115.61538461538461,
+		"downloads":21,
 		"shortKey":"RgRgRg--",
 		"author":"player#292172390",
-		"completions":11,
+		"completions":13,
 		"id":3432,
 		"completed":false,
 		"title":"Tileable",

@@ -341,15 +341,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.7333333333333334,
-		"averageTime":815.75,
-		"downloads":18,
+		"difficulty":0.6785714285714286,
+		"averageTime":624.2222222222222,
+		"downloads":31,
 		"shortKey":"RgRyRwRc",
 		"author":"maiko",
-		"completions":4,
+		"completions":9,
 		"id":3152,
 		"completed":false,
 		"title":"maiko10",
-		"likes":3
+		"likes":5
 	}
 }

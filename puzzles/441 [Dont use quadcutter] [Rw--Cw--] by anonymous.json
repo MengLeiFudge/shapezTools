@@ -63,10 +63,12 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":13,
+		"difficulty":0.42105263157894735,
+		"averageTime":81.54545454545455,
+		"downloads":19,
 		"shortKey":"Rw--Cw--",
 		"author":"anonymous",
-		"completions":6,
+		"completions":11,
 		"id":441,
 		"completed":false,
 		"title":"Dont use quadcutter",

@@ -404,18 +404,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.38095238095238093,
-		"averageTime":640.6923076923077,
-		"downloads":105,
+		"difficulty":0.2978723404255319,
+		"averageTime":658.5151515151515,
+		"downloads":188,
 		"shortKey":"RuWuRuWu:CgScScCg",
 		"author":"JyGein",
-		"completions":65,
+		"completions":132,
 		"id":3230,
 		"completed":false,
 		"title":"SimpleGarbageManager",
-		"likes":35
+		"likes":58
 	}
 }

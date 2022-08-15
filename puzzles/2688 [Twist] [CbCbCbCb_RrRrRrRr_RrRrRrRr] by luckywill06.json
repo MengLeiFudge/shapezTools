@@ -187,18 +187,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.101813110181311,
-		"averageTime":84.69254658385093,
-		"downloads":717,
+		"difficulty":0.10174418604651159,
+		"averageTime":90.44983818770227,
+		"downloads":1032,
 		"shortKey":"CbCbCbCb:RrRrRrRr:RrRrRrRr",
 		"author":"luckywill06",
-		"completions":644,
+		"completions":927,
 		"id":2688,
 		"completed":true,
 		"title":"Twist",
-		"likes":196
+		"likes":268
 	}
 }

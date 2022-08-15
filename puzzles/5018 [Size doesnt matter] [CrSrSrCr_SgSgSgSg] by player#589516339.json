@@ -59,13 +59,17 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.19999999999999996,
+		"averageTime":26,
+		"downloads":15,
 		"shortKey":"CrSrSrCr:SgSgSgSg",
 		"author":"player#589516339",
-		"completions":6,
+		"completions":12,
 		"id":5018,
 		"completed":false,
 		"title":"Size doesnt matter",

@@ -654,10 +654,12 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"downloads":11,
 		"shortKey":"SwSw--Sw:----Cu--",
 		"author":"korio",
 		"completions":3,

@@ -73,15 +73,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.13888888888888884,
-		"averageTime":66.46774193548387,
-		"downloads":72,
+		"difficulty":0.11111111111111116,
+		"averageTime":79.05,
+		"downloads":135,
 		"shortKey":"RuRuRuRu:----RuRu",
 		"author":"SkrunkusMcDunku",
-		"completions":62,
+		"completions":120,
 		"id":4162,
 		"completed":false,
 		"title":"Waste More Want More",
-		"likes":13
+		"likes":21
 	}
 }

@@ -1074,18 +1074,20 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.19478260869565223,
-		"averageTime":376.1144708423326,
-		"downloads":575,
+		"difficulty":0.1556701030927835,
+		"averageTime":355.55921855921855,
+		"downloads":970,
 		"shortKey":"CbRbRbCb:CwCwCwCw:WuWuWuWu",
 		"author":"eagleeyead",
-		"completions":463,
+		"completions":819,
 		"id":3911,
 		"completed":true,
 		"title":"barely enough room",
-		"likes":213
+		"likes":305
 	}
 }

@@ -255,13 +255,17 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.6153846153846154,
+		"averageTime":229.6,
+		"downloads":13,
 		"shortKey":"CyCyCyCy:CwCwCwCw:CrCrCrCr",
 		"author":"dru_walker",
-		"completions":4,
+		"completions":5,
 		"id":4166,
 		"completed":false,
 		"title":"Pizza Factory",

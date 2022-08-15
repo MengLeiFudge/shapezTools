@@ -79,18 +79,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04123711340206182,
-		"averageTime":34.29032258064516,
-		"downloads":97,
+		"difficulty":0.02487562189054726,
+		"averageTime":33.744897959183675,
+		"downloads":201,
 		"shortKey":"RrRrRrRr:RyRyRyRy:RgRgRgRg:RcRcRcRc",
 		"author":"Apithia",
-		"completions":93,
+		"completions":196,
 		"id":3986,
 		"completed":false,
 		"title":"raimbow spirall",
-		"likes":21
+		"likes":36
 	}
 }

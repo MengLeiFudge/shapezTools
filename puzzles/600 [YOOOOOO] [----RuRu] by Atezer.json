@@ -25,15 +25,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15000000000000002,
-		"averageTime":13,
-		"downloads":20,
+		"difficulty":0.13043478260869568,
+		"averageTime":12.3,
+		"downloads":23,
 		"shortKey":"----RuRu",
 		"author":"Atezer",
-		"completions":17,
+		"completions":20,
 		"id":600,
 		"completed":false,
 		"title":"YOOOOOO",

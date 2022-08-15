@@ -301,18 +301,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.28431372549019607,
-		"averageTime":339.2054794520548,
-		"downloads":104,
+		"difficulty":0.22680412371134018,
+		"averageTime":483.4533333333333,
+		"downloads":195,
 		"shortKey":"CwCwCwCw:CgCyCcCr",
 		"author":"Skorri_",
-		"completions":73,
+		"completions":150,
 		"id":4791,
 		"completed":false,
 		"title":"Windows",
-		"likes":33
+		"likes":58
 	}
 }

@@ -140,18 +140,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6896551724137931,
-		"averageTime":1291.888888888889,
-		"downloads":31,
+		"difficulty":0.6857142857142857,
+		"averageTime":1243.7272727272727,
+		"downloads":44,
 		"shortKey":"WcWcWcWc:CwCwCwCw",
 		"author":"milkcupatstarbu",
-		"completions":9,
+		"completions":11,
 		"id":4140,
 		"completed":true,
 		"title":"Contest Thing",
-		"likes":6
+		"likes":7
 	}
 }

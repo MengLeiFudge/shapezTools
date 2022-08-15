@@ -117,15 +117,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.3473389355742297,
-		"averageTime":432.74678111587986,
-		"downloads":358,
+		"difficulty":0.3377483443708609,
+		"averageTime":415.7266666666667,
+		"downloads":453,
 		"shortKey":"RgRgRgRg:CgCgCgCg:SgSgSgSg:WgWgWgWg",
 		"author":"anonymous",
-		"completions":233,
+		"completions":300,
 		"id":52,
 		"completed":true,
 		"title":"i can see grey",
-		"likes":116
+		"likes":138
 	}
 }

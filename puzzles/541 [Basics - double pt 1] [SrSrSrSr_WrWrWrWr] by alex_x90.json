@@ -94,13 +94,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.053811659192825156,
+		"averageTime":27.644549763033176,
+		"downloads":223,
 		"shortKey":"SrSrSrSr:WrWrWrWr",
 		"author":"alex_x90",
-		"completions":7,
+		"completions":211,
 		"id":541,
 		"completed":false,
 		"title":"Basics - double pt 1",
-		"likes":4
+		"likes":42
 	}
 }

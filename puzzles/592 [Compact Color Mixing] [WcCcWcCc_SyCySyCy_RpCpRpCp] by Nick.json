@@ -344,18 +344,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.8493150684931507,
-		"averageTime":1709.4545454545455,
-		"downloads":92,
+		"difficulty":0.8631578947368421,
+		"averageTime":1556.076923076923,
+		"downloads":106,
 		"shortKey":"WcCcWcCc:SyCySyCy:RpCpRpCp",
 		"author":"Nick",
-		"completions":11,
+		"completions":13,
 		"id":592,
 		"completed":false,
 		"title":"Compact Color Mixing",
-		"likes":6
+		"likes":8
 	}
 }

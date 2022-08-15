@@ -160,15 +160,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.36,
-		"averageTime":167.8125,
-		"downloads":25,
+		"difficulty":0.33333333333333337,
+		"averageTime":164.94444444444446,
+		"downloads":27,
 		"shortKey":"WrSgRbWy:RbWyWrSg",
 		"author":"Larlii",
-		"completions":16,
+		"completions":18,
 		"id":4534,
 		"completed":false,
 		"title":"Grundform 2 lag",

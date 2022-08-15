@@ -313,15 +313,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.7037037037037037,
-		"averageTime":230.375,
-		"downloads":28,
+		"difficulty":0.6,
+		"averageTime":230,
+		"downloads":41,
 		"shortKey":"RrCbCbRr:CbRrRrCb",
 		"author":"Bagel03",
-		"completions":8,
+		"completions":16,
 		"id":4493,
 		"completed":false,
 		"title":"Contest-Nice n Easy",
-		"likes":5
+		"likes":9
 	}
 }

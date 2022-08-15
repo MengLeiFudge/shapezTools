@@ -70,10 +70,12 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"RuRuRuRu:SpCwSpCw",
 		"author":"Valerie",
 		"completions":2,

@@ -158,15 +158,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23529411764705888,
-		"averageTime":61.46153846153846,
-		"downloads":17,
+		"difficulty":0.21052631578947367,
+		"averageTime":63.93333333333333,
+		"downloads":19,
 		"shortKey":"RwRgSgRg:RwWcCgWc",
 		"author":"bentley91210",
-		"completions":13,
+		"completions":15,
 		"id":2283,
 		"completed":false,
 		"title":"hegbfjvesyjhfesydveu",

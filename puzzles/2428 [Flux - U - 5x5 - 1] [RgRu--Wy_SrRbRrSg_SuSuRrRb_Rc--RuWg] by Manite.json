@@ -140,15 +140,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.021671826625387025,
-		"averageTime":26.164556962025316,
-		"downloads":323,
+		"difficulty":0.015050167224080258,
+		"averageTime":22.719864176570457,
+		"downloads":598,
 		"shortKey":"RgRu--Wy:SrRbRrSg:SuSuRrRb:Rc--RuWg",
 		"author":"Manite",
-		"completions":316,
+		"completions":589,
 		"id":2428,
 		"completed":true,
 		"title":"Flux - U - 5x5 - 1",
-		"likes":80
+		"likes":119
 	}
 }

@@ -67,18 +67,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2941176470588235,
-		"averageTime":269.25,
-		"downloads":136,
+		"difficulty":0.23391812865497075,
+		"averageTime":258.85496183206106,
+		"downloads":171,
 		"shortKey":"Cb------",
 		"author":"A_Person",
-		"completions":96,
+		"completions":131,
 		"id":2298,
 		"completed":true,
 		"title":"The split decision",
-		"likes":41
+		"likes":49
 	}
 }

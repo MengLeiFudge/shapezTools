@@ -390,18 +390,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.625,
-		"averageTime":3297,
-		"downloads":22,
+		"difficulty":0.71875,
+		"averageTime":1519.5,
+		"downloads":64,
 		"shortKey":"RpRpRwRw:CpCpCpCp:WpWpWpWp",
 		"author":"MisterSamsonite",
-		"completions":6,
+		"completions":18,
 		"id":4448,
 		"completed":true,
 		"title":"Cutty Colors 3",
-		"likes":4
+		"likes":11
 	}
 }

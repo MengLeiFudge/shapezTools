@@ -80,15 +80,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0429184549356223,
-		"averageTime":45.73542600896861,
-		"downloads":233,
+		"difficulty":0.027993779160186638,
+		"averageTime":80.9744,
+		"downloads":643,
 		"shortKey":"CcCbCcCb:CbRwCbRw",
 		"author":"BeiSuQF",
-		"completions":223,
+		"completions":625,
 		"id":2904,
 		"completed":true,
 		"title":"Easy one",
-		"likes":58
+		"likes":131
 	}
 }

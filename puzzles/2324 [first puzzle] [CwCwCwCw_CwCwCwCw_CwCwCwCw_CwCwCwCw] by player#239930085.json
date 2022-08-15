@@ -184,15 +184,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07920792079207917,
-		"averageTime":82.45161290322581,
-		"downloads":101,
+		"difficulty":0.06504065040650409,
+		"averageTime":92.76521739130435,
+		"downloads":123,
 		"shortKey":"CwCwCwCw:CwCwCwCw:CwCwCwCw:CwCwCwCw",
 		"author":"player#239930085",
-		"completions":93,
+		"completions":115,
 		"id":2324,
 		"completed":false,
 		"title":"first puzzle",
-		"likes":22
+		"likes":25
 	}
 }

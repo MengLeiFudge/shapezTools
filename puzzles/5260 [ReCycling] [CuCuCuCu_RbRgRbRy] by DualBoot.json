@@ -42,15 +42,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.43999999999999995,
-		"averageTime":299.35714285714283,
-		"downloads":27,
+		"difficulty":0.4642857142857143,
+		"averageTime":290.6,
+		"downloads":29,
 		"shortKey":"CuCuCuCu:RbRgRbRy",
 		"author":"DualBoot",
-		"completions":14,
+		"completions":15,
 		"id":5260,
 		"completed":false,
 		"title":"ReCycling",

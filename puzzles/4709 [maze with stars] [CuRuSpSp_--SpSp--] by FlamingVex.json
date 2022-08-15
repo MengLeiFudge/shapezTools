@@ -400,18 +400,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.625,
-		"averageTime":206.16666666666666,
-		"downloads":19,
+		"difficulty":0.6818181818181819,
+		"averageTime":197.42857142857142,
+		"downloads":24,
 		"shortKey":"CuRuSpSp:--SpSp--",
 		"author":"FlamingVex",
-		"completions":6,
+		"completions":7,
 		"id":4709,
 		"completed":false,
 		"title":"maze with stars",
-		"likes":3
+		"likes":4
 	}
 }

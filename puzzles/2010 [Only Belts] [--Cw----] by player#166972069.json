@@ -133,18 +133,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15873015873015872,
-		"averageTime":121.45283018867924,
-		"downloads":63,
+		"difficulty":0.16901408450704225,
+		"averageTime":119.91525423728814,
+		"downloads":71,
 		"shortKey":"--Cw----",
 		"author":"player#166972069",
-		"completions":53,
+		"completions":59,
 		"id":2010,
 		"completed":false,
 		"title":"Only Belts",
-		"likes":15
+		"likes":17
 	}
 }

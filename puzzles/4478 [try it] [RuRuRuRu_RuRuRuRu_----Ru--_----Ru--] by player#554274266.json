@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.19047619047619047,
-		"averageTime":101.17647058823529,
-		"downloads":42,
+		"difficulty":0.18181818181818177,
+		"averageTime":99.25,
+		"downloads":44,
 		"shortKey":"RuRuRuRu:RuRuRuRu:----Ru--:----Ru--",
 		"author":"player#554274266",
-		"completions":34,
+		"completions":36,
 		"id":4478,
 		"completed":false,
 		"title":"try it",
-		"likes":9
+		"likes":10
 	}
 }

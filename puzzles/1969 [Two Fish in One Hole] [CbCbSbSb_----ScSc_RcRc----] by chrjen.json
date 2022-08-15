@@ -252,16 +252,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.1875,
+		"averageTime":48.46153846153846,
+		"downloads":16,
 		"shortKey":"CbCbSbSb:----ScSc:RcRc----",
 		"author":"chrjen",
-		"completions":7,
+		"completions":13,
 		"id":1969,
 		"completed":false,
 		"title":"Two Fish in One Hole",
-		"likes":2
+		"likes":3
 	}
 }

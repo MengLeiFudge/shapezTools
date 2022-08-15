@@ -79,12 +79,14 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.9,
 		"averageTime":310,
-		"downloads":12,
+		"downloads":13,
 		"shortKey":"Ru----Ru:RuRuRuRu:RuRu----:--Ru----",
 		"author":"player#644096791",
 		"completions":1,

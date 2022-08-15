@@ -69,16 +69,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"difficulty":0.6666666666666667,
+		"averageTime":212.75,
+		"downloads":14,
 		"shortKey":"CcRcRcCc:Cw----Cw",
 		"author":"BTDubs",
-		"completions":2,
+		"completions":4,
 		"id":779,
 		"completed":false,
 		"title":"Among Us Teal",
-		"likes":1
+		"likes":2
 	}
 }

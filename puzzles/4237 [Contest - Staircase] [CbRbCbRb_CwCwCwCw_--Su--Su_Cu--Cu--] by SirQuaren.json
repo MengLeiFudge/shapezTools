@@ -80,15 +80,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.30000000000000004,
-		"averageTime":123.0952380952381,
-		"downloads":31,
+		"difficulty":0.2558139534883721,
+		"averageTime":119.4375,
+		"downloads":43,
 		"shortKey":"CbRbCbRb:CwCwCwCw:--Su--Su:Cu--Cu--",
 		"author":"SirQuaren",
-		"completions":21,
+		"completions":32,
 		"id":4237,
 		"completed":true,
 		"title":"Contest - Staircase",
-		"likes":9
+		"likes":10
 	}
 }

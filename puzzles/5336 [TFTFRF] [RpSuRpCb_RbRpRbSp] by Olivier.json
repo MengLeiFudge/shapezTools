@@ -52,18 +52,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10144927536231885,
-		"averageTime":83.16129032258064,
-		"downloads":69,
+		"difficulty":0.06521739130434778,
+		"averageTime":86.03100775193798,
+		"downloads":138,
 		"shortKey":"RpSuRpCb:RbRpRbSp",
 		"author":"Olivier",
-		"completions":62,
+		"completions":129,
 		"id":5336,
 		"completed":false,
 		"title":"TFTFRF",
-		"likes":14
+		"likes":23
 	}
 }

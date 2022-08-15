@@ -110,15 +110,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.15384615384615385,
-		"averageTime":27.59090909090909,
-		"downloads":26,
+		"difficulty":0.13953488372093026,
+		"averageTime":26,
+		"downloads":43,
 		"shortKey":"------Wu",
 		"author":"LeSorbetAtomiqu",
-		"completions":22,
+		"completions":37,
 		"id":5351,
 		"completed":false,
 		"title":"easy",
-		"likes":4
+		"likes":5
 	}
 }

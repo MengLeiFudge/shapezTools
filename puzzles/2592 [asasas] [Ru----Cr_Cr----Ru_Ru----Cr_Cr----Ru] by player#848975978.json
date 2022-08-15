@@ -1868,15 +1868,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1333333333333333,
-		"averageTime":263.0769230769231,
-		"downloads":15,
+		"difficulty":0.11111111111111116,
+		"averageTime":250.1875,
+		"downloads":18,
 		"shortKey":"Ru----Cr:Cr----Ru:Ru----Cr:Cr----Ru",
 		"author":"player#848975978",
-		"completions":13,
+		"completions":16,
 		"id":2592,
 		"completed":false,
 		"title":"asasas",

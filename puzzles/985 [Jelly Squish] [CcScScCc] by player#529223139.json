@@ -100,18 +100,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.20649651972157768,
-		"averageTime":270.3157894736842,
-		"downloads":862,
+		"difficulty":0.19539427773900908,
+		"averageTime":230.41890719861232,
+		"downloads":1433,
 		"shortKey":"CcScScCc",
 		"author":"player#529223139",
-		"completions":684,
+		"completions":1153,
 		"id":985,
 		"completed":true,
 		"title":"Jelly Squish",
-		"likes":319
+		"likes":453
 	}
 }

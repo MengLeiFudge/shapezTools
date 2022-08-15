@@ -220,13 +220,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":13,
+		"difficulty":0.33333333333333337,
+		"averageTime":85.4,
+		"downloads":15,
 		"shortKey":"RcRcCcCc",
 		"author":"bluez",
-		"completions":8,
+		"completions":10,
 		"id":1794,
 		"completed":false,
 		"title":"Right Left",

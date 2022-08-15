@@ -154,18 +154,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.013100436681222738,
-		"averageTime":37.38053097345133,
-		"downloads":229,
+		"difficulty":0.014861995753715496,
+		"averageTime":41.50431034482759,
+		"downloads":471,
 		"shortKey":"RgWgRbWg:CcWwSwWw",
 		"author":"david",
-		"completions":226,
+		"completions":464,
 		"id":2296,
 		"completed":true,
 		"title":"very easy just aTest",
-		"likes":53
+		"likes":94
 	}
 }

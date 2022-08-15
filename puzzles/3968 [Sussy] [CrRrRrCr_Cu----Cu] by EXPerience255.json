@@ -91,15 +91,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":160.42857142857142,
-		"downloads":14,
+		"difficulty":0.4444444444444444,
+		"averageTime":149.3,
+		"downloads":18,
 		"shortKey":"CrRrRrCr:Cu----Cu",
 		"author":"EXPerience255",
-		"completions":7,
+		"completions":10,
 		"id":3968,
 		"completed":false,
 		"title":"Sussy",

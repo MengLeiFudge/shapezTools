@@ -276,18 +276,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.048458149779735726,
-		"averageTime":45.28703703703704,
-		"downloads":227,
+		"difficulty":0.04049844236760125,
+		"averageTime":45.47077922077922,
+		"downloads":321,
 		"shortKey":"RwRwRwRw:RwRwRwRw",
 		"author":"Daimh",
-		"completions":216,
+		"completions":308,
 		"id":896,
 		"completed":false,
 		"title":"Simple Twist",
-		"likes":49
+		"likes":58
 	}
 }

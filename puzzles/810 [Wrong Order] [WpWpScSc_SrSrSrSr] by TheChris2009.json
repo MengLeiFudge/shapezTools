@@ -140,13 +140,15 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":5,
+		"downloads":7,
 		"shortKey":"WpWpScSc:SrSrSrSr",
 		"author":"TheChris2009",
-		"completions":2,
+		"completions":4,
 		"id":810,
 		"completed":false,
 		"title":"Wrong Order",

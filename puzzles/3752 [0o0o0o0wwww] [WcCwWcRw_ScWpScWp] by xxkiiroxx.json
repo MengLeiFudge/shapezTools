@@ -1775,15 +1775,17 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2941176470588235,
-		"averageTime":111.25,
-		"downloads":17,
+		"difficulty":0.26315789473684215,
+		"averageTime":108.92857142857143,
+		"downloads":19,
 		"shortKey":"WcCwWcRw:ScWpScWp",
 		"author":"xxkiiroxx",
-		"completions":12,
+		"completions":14,
 		"id":3752,
 		"completed":false,
 		"title":"0o0o0o0wwww",

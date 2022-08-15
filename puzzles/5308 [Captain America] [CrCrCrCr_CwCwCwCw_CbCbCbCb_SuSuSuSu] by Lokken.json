@@ -165,15 +165,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.39473684210526316,
-		"averageTime":358.17391304347825,
-		"downloads":39,
+		"difficulty":0.42307692307692313,
+		"averageTime":373.46666666666664,
+		"downloads":54,
 		"shortKey":"CrCrCrCr:CwCwCwCw:CbCbCbCb:SuSuSuSu",
 		"author":"Lokken",
-		"completions":23,
+		"completions":30,
 		"id":5308,
 		"completed":true,
 		"title":"Captain America",
-		"likes":11
+		"likes":12
 	}
 }

@@ -35,15 +35,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.04482758620689653,
-		"averageTime":386.96028880866425,
-		"downloads":290,
+		"difficulty":0.04416403785488954,
+		"averageTime":357.34653465346537,
+		"downloads":317,
 		"shortKey":"RuRuRuRu:SrSrSrSr",
 		"author":"corcoll",
-		"completions":277,
+		"completions":303,
 		"id":686,
 		"completed":false,
 		"title":"No Belts",
-		"likes":88
+		"likes":92
 	}
 }

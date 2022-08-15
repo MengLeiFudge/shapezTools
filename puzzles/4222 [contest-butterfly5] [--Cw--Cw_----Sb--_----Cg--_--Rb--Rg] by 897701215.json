@@ -1710,12 +1710,14 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.9333333333333333,
 		"averageTime":4825,
-		"downloads":15,
+		"downloads":16,
 		"shortKey":"--Cw--Cw:----Sb--:----Cg--:--Rb--Rg",
 		"author":"897701215",
 		"completions":1,

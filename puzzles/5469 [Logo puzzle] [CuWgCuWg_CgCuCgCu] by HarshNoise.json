@@ -341,16 +341,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":13,
+		"difficulty":0.7857142857142857,
+		"averageTime":355,
+		"downloads":15,
 		"shortKey":"CuWgCuWg:CgCuCgCu",
 		"author":"HarshNoise",
-		"completions":1,
+		"completions":3,
 		"id":5469,
 		"completed":false,
 		"title":"Logo puzzle",
-		"likes":1
+		"likes":2
 	}
 }

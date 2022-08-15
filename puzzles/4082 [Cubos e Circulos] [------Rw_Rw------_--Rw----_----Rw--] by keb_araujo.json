@@ -361,18 +361,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7741935483870968,
-		"averageTime":635.8571428571429,
-		"downloads":33,
+		"difficulty":0.7166666666666667,
+		"averageTime":820.1176470588235,
+		"downloads":60,
 		"shortKey":"------Rw:Rw------:--Rw----:----Rw--",
 		"author":"keb_araujo",
-		"completions":7,
+		"completions":17,
 		"id":4082,
 		"completed":false,
 		"title":"Cubos e Circulos",
-		"likes":6
+		"likes":10
 	}
 }

@@ -389,15 +389,17 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3076923076923077,
-		"averageTime":227.22222222222223,
-		"downloads":13,
+		"difficulty":0.2666666666666667,
+		"averageTime":215.36363636363637,
+		"downloads":15,
 		"shortKey":"SbSgSySr",
 		"author":"tylerpou665",
-		"completions":9,
+		"completions":11,
 		"id":2915,
 		"completed":false,
 		"title":"rainbow star",

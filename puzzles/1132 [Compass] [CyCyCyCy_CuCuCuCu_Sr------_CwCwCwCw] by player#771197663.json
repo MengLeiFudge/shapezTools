@@ -359,18 +359,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16894977168949776,
-		"averageTime":160.96153846153845,
-		"downloads":219,
+		"difficulty":0.1454545454545455,
+		"averageTime":158.4255319148936,
+		"downloads":330,
 		"shortKey":"CyCyCyCy:CuCuCuCu:Sr------:CwCwCwCw",
 		"author":"player#771197663",
-		"completions":182,
+		"completions":282,
 		"id":1132,
 		"completed":true,
 		"title":"Compass",
-		"likes":75
+		"likes":102
 	}
 }

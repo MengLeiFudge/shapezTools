@@ -91,15 +91,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.035335689045936425,
-		"averageTime":57.824175824175825,
-		"downloads":283,
+		"difficulty":0.032755298651252374,
+		"averageTime":59.23107569721115,
+		"downloads":519,
 		"shortKey":"RrRrRrRr:RuRuRuRu",
 		"author":"Fracheur.",
-		"completions":273,
+		"completions":502,
 		"id":1856,
 		"completed":false,
 		"title":"no belt puzzle",
-		"likes":65
+		"likes":104
 	}
 }

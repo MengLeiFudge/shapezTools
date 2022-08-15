@@ -280,10 +280,12 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.2666666666666667,
+		"averageTime":34.18181818181818,
+		"downloads":15,
 		"shortKey":"------Cr:------Cg:------Cb:------Cy",
 		"author":"WolfSnek-Emeral",
-		"completions":7,
+		"completions":11,
 		"id":1642,
 		"completed":false,
 		"title":"Happy Pride",

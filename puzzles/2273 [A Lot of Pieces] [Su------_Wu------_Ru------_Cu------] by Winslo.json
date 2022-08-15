@@ -65,18 +65,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1504424778761062,
-		"averageTime":90.41666666666667,
-		"downloads":113,
+		"difficulty":0.18784530386740328,
+		"averageTime":90.12244897959184,
+		"downloads":181,
 		"shortKey":"Su------:Wu------:Ru------:Cu------",
 		"author":"Winslo",
-		"completions":96,
+		"completions":147,
 		"id":2273,
 		"completed":false,
 		"title":"A Lot of Pieces",
-		"likes":31
+		"likes":46
 	}
 }

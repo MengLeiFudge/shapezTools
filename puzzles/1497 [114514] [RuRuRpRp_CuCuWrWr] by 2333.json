@@ -117,10 +117,12 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"RuRuRpRp:CuCuWrWr",
 		"author":"2333",
 		"completions":1,

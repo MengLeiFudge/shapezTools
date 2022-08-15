@@ -2285,15 +2285,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3846153846153846,
-		"averageTime":427.0416666666667,
-		"downloads":41,
+		"difficulty":0.40909090909090906,
+		"averageTime":406.96153846153845,
+		"downloads":45,
 		"shortKey":"Su----Su:CyCyCyCy",
 		"author":"kailynik9",
-		"completions":24,
+		"completions":26,
 		"id":2677,
 		"completed":false,
 		"title":"cat hard",

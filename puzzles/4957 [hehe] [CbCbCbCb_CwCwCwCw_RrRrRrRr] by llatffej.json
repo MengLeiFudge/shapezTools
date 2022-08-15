@@ -150,18 +150,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7419354838709677,
-		"averageTime":357.5,
-		"downloads":37,
+		"difficulty":0.6938775510204082,
+		"averageTime":658.2,
+		"downloads":98,
 		"shortKey":"CbCbCbCb:CwCwCwCw:RrRrRrRr",
 		"author":"llatffej",
-		"completions":8,
+		"completions":30,
 		"id":4957,
 		"completed":false,
 		"title":"hehe",
-		"likes":7
+		"likes":17
 	}
 }

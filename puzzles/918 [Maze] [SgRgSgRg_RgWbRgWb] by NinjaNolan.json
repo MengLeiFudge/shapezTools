@@ -210,18 +210,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07105263157894737,
-		"averageTime":66.35410764872522,
-		"downloads":380,
+		"difficulty":0.0515806988352745,
+		"averageTime":72.56491228070175,
+		"downloads":601,
 		"shortKey":"SgRgSgRg:RgWbRgWb",
 		"author":"NinjaNolan",
-		"completions":353,
+		"completions":570,
 		"id":918,
 		"completed":false,
 		"title":"Maze",
-		"likes":88
+		"likes":120
 	}
 }

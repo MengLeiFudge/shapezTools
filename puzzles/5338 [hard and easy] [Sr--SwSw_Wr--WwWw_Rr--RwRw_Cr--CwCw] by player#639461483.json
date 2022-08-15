@@ -416,15 +416,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2592592592592593,
-		"averageTime":266.15,
-		"downloads":54,
+		"difficulty":0.24242424242424243,
+		"averageTime":249.8,
+		"downloads":66,
 		"shortKey":"Sr--SwSw:Wr--WwWw:Rr--RwRw:Cr--CwCw",
 		"author":"player#639461483",
-		"completions":40,
+		"completions":50,
 		"id":5338,
 		"completed":false,
 		"title":"hard and easy",

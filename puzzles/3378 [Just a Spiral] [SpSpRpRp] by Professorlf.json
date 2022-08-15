@@ -335,18 +335,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3278688524590164,
-		"averageTime":189.65853658536585,
-		"downloads":61,
+		"difficulty":0.30000000000000004,
+		"averageTime":180.23214285714286,
+		"downloads":80,
 		"shortKey":"SpSpRpRp",
 		"author":"Professorlf",
-		"completions":41,
+		"completions":56,
 		"id":3378,
 		"completed":false,
 		"title":"Just a Spiral",
-		"likes":18
+		"likes":21
 	}
 }

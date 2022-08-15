@@ -100,18 +100,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06451612903225812,
-		"averageTime":40.50344827586207,
-		"downloads":156,
+		"difficulty":0.0461538461538461,
+		"averageTime":42.71370967741935,
+		"downloads":261,
 		"shortKey":"CyCyCyCy:CyCyCyCy:CyCyCyCy:CyCyCy--",
 		"author":"MrTaco",
-		"completions":145,
+		"completions":248,
 		"id":3178,
 		"completed":false,
 		"title":"Fit It In",
-		"likes":34
+		"likes":48
 	}
 }

@@ -503,13 +503,15 @@
 		]
 	},
 	"meta":{
-		"downloads":6,
+		"difficulty":0.15384615384615385,
+		"averageTime":117.0909090909091,
+		"downloads":13,
 		"shortKey":"CcSySyCc:RpRpRpRp",
 		"author":"mootmoot",
-		"completions":5,
+		"completions":11,
 		"id":1882,
 		"completed":true,
 		"title":"Braid",
-		"likes":4
+		"likes":5
 	}
 }

@@ -72,15 +72,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.023498694516971286,
-		"averageTime":56.87700534759358,
-		"downloads":383,
+		"difficulty":0.02781641168289295,
+		"averageTime":55.51502145922747,
+		"downloads":719,
 		"shortKey":"WuWuWuWu",
 		"author":"tryraptor",
-		"completions":374,
+		"completions":699,
 		"id":723,
 		"completed":true,
 		"title":"Windmill",
-		"likes":95
+		"likes":145
 	}
 }

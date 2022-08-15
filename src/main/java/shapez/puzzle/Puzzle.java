@@ -5,6 +5,7 @@ import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.serializer.SerializerFeature;
 import lombok.Data;
 import shapez.base.Building;
+import shapez.base.Item;
 import shapez.base.Shape;
 import shapez.base.Building.BuildingType;
 
@@ -55,10 +56,10 @@ public class Puzzle {
             if (type == null) {
                 return;
             }
-            Shape item = null;
-            if (type == BuildingType.BLOCK) {
+            Item item = null;
+            if (type != BuildingType.BLOCK) {
                 String itemStr = building.getString("item");
-                item = new Shape(itemStr);
+                item = Item.getItemByShortKey(itemStr);
             }
             JSONObject pos = building.getJSONObject("pos");
             // r: 0,90,180,-90

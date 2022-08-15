@@ -114,15 +114,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2578397212543554,
-		"averageTime":268.46478873239437,
-		"downloads":290,
+		"difficulty":0.2426778242677824,
+		"averageTime":259.40055248618785,
+		"downloads":478,
 		"shortKey":"CbCbCbCb:RrRrRrRr",
 		"author":"broken_robot",
-		"completions":213,
+		"completions":362,
 		"id":2647,
 		"completed":true,
 		"title":"Swap",
-		"likes":105
+		"likes":147
 	}
 }

@@ -392,10 +392,12 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"downloads":11,
 		"shortKey":"RcRcRcRc:CrCrWwSp:CyCyCyCy:----SwWg",
 		"author":"einsamer_Labrad",
 		"completions":2,

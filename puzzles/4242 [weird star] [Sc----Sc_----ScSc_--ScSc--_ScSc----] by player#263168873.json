@@ -33,15 +33,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3125,
-		"averageTime":132.13636363636363,
-		"downloads":37,
+		"difficulty":0.3555555555555555,
+		"averageTime":169.06896551724137,
+		"downloads":45,
 		"shortKey":"Sc----Sc:----ScSc:--ScSc--:ScSc----",
 		"author":"player#263168873",
-		"completions":22,
+		"completions":29,
 		"id":4242,
 		"completed":false,
 		"title":"weird star",

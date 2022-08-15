@@ -177,15 +177,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.7586206896551724,
-		"averageTime":454.2857142857143,
-		"downloads":31,
+		"difficulty":0.75,
+		"averageTime":387.77777777777777,
+		"downloads":43,
 		"shortKey":"CyCbCrCc",
 		"author":"897701215",
-		"completions":7,
+		"completions":9,
 		"id":4700,
 		"completed":true,
 		"title":"need store 2",
-		"likes":6
+		"likes":7
 	}
 }

@@ -133,15 +133,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0980392156862745,
-		"averageTime":97.08695652173913,
-		"downloads":51,
+		"difficulty":0.08771929824561409,
+		"averageTime":96.36538461538461,
+		"downloads":57,
 		"shortKey":"CrCgCbCy:CpCcCuCw:CbCyCrCg:CuCwCpCc",
 		"author":"ruedacert",
-		"completions":46,
+		"completions":52,
 		"id":1506,
 		"completed":false,
 		"title":"Flow Again",

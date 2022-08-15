@@ -1140,15 +1140,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7,
-		"averageTime":744.3333333333334,
-		"downloads":10,
+		"difficulty":0.6666666666666667,
+		"averageTime":669.5,
+		"downloads":12,
 		"shortKey":"RgRuRgRu:RgRgRgRg",
 		"author":"Bananaling",
-		"completions":3,
+		"completions":4,
 		"id":5542,
 		"completed":false,
 		"title":"20 By 20",

@@ -292,18 +292,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.027027027027026973,
-		"averageTime":65.38888888888889,
-		"downloads":111,
+		"difficulty":0.014018691588784993,
+		"averageTime":78.18483412322274,
+		"downloads":214,
 		"shortKey":"SgSgSgSg:RrCbCbRr",
 		"author":"lovrocraft",
-		"completions":108,
+		"completions":211,
 		"id":4043,
 		"completed":false,
 		"title":"Becoming Harder",
-		"likes":24
+		"likes":39
 	}
 }

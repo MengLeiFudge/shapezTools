@@ -25,13 +25,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.3125,
+		"averageTime":25.90909090909091,
+		"downloads":16,
 		"shortKey":"CwWrCwWr:RyCpRyCp",
 		"author":"player#788177352",
-		"completions":6,
+		"completions":11,
 		"id":5047,
 		"completed":false,
 		"title":"EasyReverse",

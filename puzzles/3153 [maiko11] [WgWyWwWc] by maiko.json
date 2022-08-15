@@ -336,15 +336,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3571428571428571,
-		"averageTime":263.8888888888889,
-		"downloads":14,
+		"difficulty":0.2777777777777778,
+		"averageTime":231.53846153846155,
+		"downloads":18,
 		"shortKey":"WgWyWwWc",
 		"author":"maiko",
-		"completions":9,
+		"completions":13,
 		"id":3153,
 		"completed":false,
 		"title":"maiko11",

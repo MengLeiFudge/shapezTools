@@ -79,18 +79,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3306772908366534,
-		"averageTime":295.57142857142856,
-		"downloads":252,
+		"difficulty":0.2990936555891238,
+		"averageTime":309.4978448275862,
+		"downloads":662,
 		"shortKey":"Cr------:Cg------:Cb------:Cy------",
 		"author":"blac8",
-		"completions":168,
+		"completions":464,
 		"id":3573,
 		"completed":true,
 		"title":"easy swap",
-		"likes":93
+		"likes":206
 	}
 }

@@ -36,15 +36,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.03076923076923077,
-		"averageTime":117.4453262786596,
-		"downloads":1170,
+		"difficulty":0.032098765432098775,
+		"averageTime":114.47874149659864,
+		"downloads":1215,
 		"shortKey":"SrWg----:----RbCy",
 		"author":"anonymous",
-		"completions":1134,
+		"completions":1176,
 		"id":28,
 		"completed":true,
 		"title":"lane swap",
-		"likes":371
+		"likes":375
 	}
 }

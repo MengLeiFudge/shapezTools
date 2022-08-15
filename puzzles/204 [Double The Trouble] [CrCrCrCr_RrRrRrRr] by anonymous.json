@@ -134,12 +134,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":36.166666666666664,
-		"downloads":18,
+		"difficulty":0.30000000000000004,
+		"averageTime":35.57142857142857,
+		"downloads":20,
 		"shortKey":"CrCrCrCr:RrRrRrRr",
 		"author":"anonymous",
-		"completions":12,
+		"completions":14,
 		"id":204,
 		"completed":false,
 		"title":"Double The Trouble",

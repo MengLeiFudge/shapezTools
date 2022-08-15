@@ -92,16 +92,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.7093023255813953,
+		"averageTime":631.64,
+		"downloads":87,
 		"shortKey":"--Cb----:--Cb----:--Rr----",
 		"author":"Zoren001",
-		"completions":4,
+		"completions":25,
 		"id":5616,
 		"completed":false,
 		"title":"Close Fit",
-		"likes":4
+		"likes":15
 	}
 }

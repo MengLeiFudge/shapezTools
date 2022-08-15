@@ -42,15 +42,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.12,
-		"averageTime":47.31818181818182,
-		"downloads":25,
+		"difficulty":0.10526315789473684,
+		"averageTime":46.294117647058826,
+		"downloads":38,
 		"shortKey":"--Rr--Rr:--Sb--Sb:--Sr--Sr:--Rb--Rb",
 		"author":"luckywill06",
-		"completions":22,
+		"completions":34,
 		"id":2637,
 		"completed":false,
 		"title":"Diagonal",

@@ -45,15 +45,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.38095238095238093,
-		"averageTime":483.05128205128204,
-		"downloads":126,
+		"difficulty":0.32738095238095233,
+		"averageTime":452.4778761061947,
+		"downloads":168,
 		"shortKey":"SuSbSuSr",
 		"author":"anonymous",
-		"completions":78,
+		"completions":113,
 		"id":119,
 		"completed":false,
 		"title":"Shape Strip",
-		"likes":40
+		"likes":50
 	}
 }

@@ -114,15 +114,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":188.06666666666666,
-		"downloads":26,
+		"difficulty":0.35,
+		"averageTime":345.8076923076923,
+		"downloads":40,
 		"shortKey":"CwCwSrSr",
 		"author":"milkcupatstarbu",
-		"completions":15,
+		"completions":26,
 		"id":3581,
 		"completed":true,
 		"title":"Thing 23 fixed",
-		"likes":8
+		"likes":9
 	}
 }

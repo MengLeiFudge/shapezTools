@@ -106,18 +106,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1694915254237288,
-		"averageTime":153.73469387755102,
-		"downloads":118,
+		"difficulty":0.1470588235294118,
+		"averageTime":145.35344827586206,
+		"downloads":136,
 		"shortKey":"RuWuWuRu:RuWuWuRu:RuWuWuRu:RuWuWuRu",
 		"author":"DualBoot",
-		"completions":98,
+		"completions":116,
 		"id":1927,
 		"completed":false,
 		"title":"Square A La Dente",
-		"likes":34
+		"likes":39
 	}
 }

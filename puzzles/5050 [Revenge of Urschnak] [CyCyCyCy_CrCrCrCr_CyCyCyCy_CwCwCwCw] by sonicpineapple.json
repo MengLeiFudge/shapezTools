@@ -67,10 +67,12 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"downloads":14,
 		"shortKey":"CyCyCyCy:CrCrCrCr:CyCyCyCy:CwCwCwCw",
 		"author":"sonicpineapple",
 		"completions":2,

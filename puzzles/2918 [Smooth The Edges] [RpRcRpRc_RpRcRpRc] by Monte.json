@@ -25,18 +25,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.14722536806342013,
-		"averageTime":73.17397078353254,
-		"downloads":884,
+		"difficulty":0.16082121471343025,
+		"averageTime":75.83333333333333,
+		"downloads":2338,
 		"shortKey":"RpRcRpRc:RpRcRpRc",
 		"author":"Monte",
-		"completions":753,
+		"completions":1962,
 		"id":2918,
 		"completed":true,
 		"title":"Smooth The Edges",
-		"likes":245
+		"likes":510
 	}
 }

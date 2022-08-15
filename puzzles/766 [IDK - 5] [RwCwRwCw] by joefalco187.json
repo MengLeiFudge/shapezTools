@@ -110,15 +110,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.014423076923076872,
-		"averageTime":35.90243902439025,
-		"downloads":208,
+		"difficulty":0.010600706713780883,
+		"averageTime":36.19285714285714,
+		"downloads":283,
 		"shortKey":"RwCwRwCw",
 		"author":"joefalco187",
-		"completions":205,
+		"completions":280,
 		"id":766,
 		"completed":false,
 		"title":"IDK - 5",
-		"likes":41
+		"likes":51
 	}
 }

@@ -188,18 +188,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.29333333333333333,
-		"averageTime":184.0754716981132,
-		"downloads":75,
+		"difficulty":0.211864406779661,
+		"averageTime":333.8709677419355,
+		"downloads":119,
 		"shortKey":"RbRbRbRb:SrSrSrSr",
 		"author":"case4",
-		"completions":53,
+		"completions":93,
 		"id":5415,
 		"completed":false,
 		"title":"First try",
-		"likes":22
+		"likes":34
 	}
 }

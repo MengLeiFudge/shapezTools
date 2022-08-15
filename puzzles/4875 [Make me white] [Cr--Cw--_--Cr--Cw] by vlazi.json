@@ -261,18 +261,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03488372093023251,
-		"averageTime":71.04819277108433,
-		"downloads":86,
+		"difficulty":0.02824858757062143,
+		"averageTime":74.53488372093024,
+		"downloads":178,
 		"shortKey":"Cr--Cw--:--Cr--Cw",
 		"author":"vlazi",
-		"completions":83,
+		"completions":172,
 		"id":4875,
 		"completed":true,
 		"title":"Make me white",
-		"likes":18
+		"likes":30
 	}
 }

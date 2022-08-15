@@ -50,15 +50,17 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":11.428571428571429,
-		"downloads":18,
+		"difficulty":0.19999999999999996,
+		"averageTime":11.4375,
+		"downloads":20,
 		"shortKey":"RgRwRwRg:CbCbCbCb",
 		"author":"player#848975978",
-		"completions":14,
+		"completions":16,
 		"id":2657,
 		"completed":false,
 		"title":"RgRgRgRg",

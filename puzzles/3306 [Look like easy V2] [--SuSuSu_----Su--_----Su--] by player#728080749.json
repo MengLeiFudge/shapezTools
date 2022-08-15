@@ -89,18 +89,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4651162790697675,
-		"averageTime":460.95652173913044,
-		"downloads":45,
+		"difficulty":0.375,
+		"averageTime":481.9111111111111,
+		"downloads":73,
 		"shortKey":"--SuSuSu:----Su--:----Su--",
 		"author":"player#728080749",
-		"completions":23,
+		"completions":45,
 		"id":3306,
 		"completed":true,
 		"title":"Look like easy V2",
-		"likes":14
+		"likes":19
 	}
 }

@@ -60,15 +60,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3529411764705882,
-		"averageTime":30.363636363636363,
-		"downloads":17,
+		"difficulty":0.26086956521739135,
+		"averageTime":28.88235294117647,
+		"downloads":23,
 		"shortKey":"CuCuCuCu:CrCrCrCr:CbCbCbCb:CrCrCrCr",
 		"author":"alex_x90",
-		"completions":11,
+		"completions":17,
 		"id":538,
 		"completed":false,
 		"title":"Basics - 5th layer",
-		"likes":2
+		"likes":4
 	}
 }

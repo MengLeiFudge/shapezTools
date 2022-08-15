@@ -153,12 +153,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.32258064516129037,
-		"averageTime":109.0952380952381,
-		"downloads":31,
+		"difficulty":0.3125,
+		"averageTime":327.77272727272725,
+		"downloads":32,
 		"shortKey":"RgRgWuWu",
 		"author":"player#429578393",
-		"completions":21,
+		"completions":22,
 		"id":4904,
 		"completed":false,
 		"title":"First level",

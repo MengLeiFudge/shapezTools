@@ -173,18 +173,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6666666666666667,
-		"averageTime":259.5,
-		"downloads":12,
+		"difficulty":0.5238095238095238,
+		"averageTime":386.7,
+		"downloads":23,
 		"shortKey":"RrRbRbRr:--Cc--Cy",
 		"author":"Bagel03",
-		"completions":4,
+		"completions":10,
 		"id":4360,
 		"completed":false,
 		"title":"Hot and Cold - Test2",
-		"likes":2
+		"likes":5
 	}
 }

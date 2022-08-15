@@ -211,15 +211,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4516129032258065,
-		"averageTime":503.11764705882354,
-		"downloads":35,
+		"difficulty":0.5263157894736843,
+		"averageTime":482.5,
+		"downloads":38,
 		"shortKey":"CcRcRcCc:CcRcRcCc:CcRcRcCc:CcRcRcCc",
 		"author":"2370673307",
-		"completions":17,
+		"completions":18,
 		"id":5300,
 		"completed":false,
 		"title":"CcRcRcCc",

@@ -61,15 +61,17 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23529411764705888,
-		"averageTime":166.76923076923077,
-		"downloads":34,
+		"difficulty":0.2222222222222222,
+		"averageTime":162.17857142857142,
+		"downloads":36,
 		"shortKey":"WyWuWbWu",
 		"author":"Jawdan",
-		"completions":26,
+		"completions":28,
 		"id":3563,
 		"completed":false,
 		"title":"CrissCross",

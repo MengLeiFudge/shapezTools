@@ -43,15 +43,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23529411764705888,
-		"averageTime":80.61538461538461,
-		"downloads":17,
+		"difficulty":0.21052631578947367,
+		"averageTime":75.4,
+		"downloads":19,
 		"shortKey":"RgRgCgCg",
 		"author":"StarM3wtw0",
-		"completions":13,
+		"completions":15,
 		"id":1750,
 		"completed":false,
 		"title":"Trashed Challenge",

@@ -110,15 +110,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.04761904761904767,
-		"averageTime":22.521428571428572,
-		"downloads":147,
+		"difficulty":0.030042918454935674,
+		"averageTime":23.539823008849556,
+		"downloads":233,
 		"shortKey":"CwSgCw--:ScCbScCb",
 		"author":"BlueSynopsis",
-		"completions":140,
+		"completions":226,
 		"id":2321,
 		"completed":false,
 		"title":"29 - Configuration",
-		"likes":32
+		"likes":42
 	}
 }

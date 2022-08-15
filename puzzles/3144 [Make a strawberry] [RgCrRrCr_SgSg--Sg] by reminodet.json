@@ -115,18 +115,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.19056261343012704,
-		"averageTime":229.10986547085201,
-		"downloads":551,
+		"difficulty":0.18457943925233644,
+		"averageTime":234.81232091690543,
+		"downloads":856,
 		"shortKey":"RgCrRrCr:SgSg--Sg",
 		"author":"reminodet",
-		"completions":446,
+		"completions":698,
 		"id":3144,
 		"completed":true,
 		"title":"Make a strawberry",
-		"likes":203
+		"likes":270
 	}
 }

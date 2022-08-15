@@ -110,15 +110,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.04347826086956519,
-		"averageTime":59.78409090909091,
-		"downloads":184,
+		"difficulty":0.02481389578163773,
+		"averageTime":63.10687022900763,
+		"downloads":403,
 		"shortKey":"CyCyCyCy:CyCyCyCy:CyCyCyCy:CyCy----",
 		"author":"MrTaco",
-		"completions":176,
+		"completions":393,
 		"id":3179,
 		"completed":true,
 		"title":"Fit It In 2",
-		"likes":42
+		"likes":80
 	}
 }

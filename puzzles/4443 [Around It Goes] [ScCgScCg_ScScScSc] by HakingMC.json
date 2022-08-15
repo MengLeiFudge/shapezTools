@@ -443,18 +443,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5652173913043479,
-		"averageTime":832.2,
-		"downloads":24,
+		"difficulty":0.52,
+		"averageTime":738,
+		"downloads":25,
 		"shortKey":"ScCgScCg:ScScScSc",
 		"author":"HakingMC",
-		"completions":10,
+		"completions":12,
 		"id":4443,
 		"completed":false,
 		"title":"Around It Goes",
-		"likes":6
+		"likes":7
 	}
 }

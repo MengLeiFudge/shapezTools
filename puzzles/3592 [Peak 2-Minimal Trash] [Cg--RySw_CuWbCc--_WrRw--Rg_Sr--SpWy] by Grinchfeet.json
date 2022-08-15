@@ -1384,15 +1384,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5454545454545454,
-		"averageTime":1516.6,
-		"downloads":11,
+		"difficulty":0.46153846153846156,
+		"averageTime":1441.7142857142858,
+		"downloads":13,
 		"shortKey":"Cg--RySw:CuWbCc--:WrRw--Rg:Sr--SpWy",
 		"author":"Grinchfeet",
-		"completions":5,
+		"completions":7,
 		"id":3592,
 		"completed":true,
 		"title":"Peak 2-Minimal Trash",
-		"likes":3
+		"likes":4
 	}
 }

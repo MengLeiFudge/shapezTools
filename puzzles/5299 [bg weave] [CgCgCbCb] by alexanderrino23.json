@@ -467,18 +467,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2272727272727273,
-		"averageTime":100.11764705882354,
-		"downloads":24,
+		"difficulty":0.29032258064516125,
+		"averageTime":96.72727272727273,
+		"downloads":31,
 		"shortKey":"CgCgCbCb",
 		"author":"alexanderrino23",
-		"completions":17,
+		"completions":22,
 		"id":5299,
 		"completed":false,
 		"title":"bg weave",
-		"likes":3
+		"likes":4
 	}
 }

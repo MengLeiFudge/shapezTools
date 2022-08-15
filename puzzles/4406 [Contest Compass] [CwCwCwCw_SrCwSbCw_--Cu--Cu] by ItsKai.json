@@ -1160,7 +1160,9 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.5666666666666667,

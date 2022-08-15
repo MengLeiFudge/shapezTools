@@ -91,12 +91,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":22.454545454545453,
-		"downloads":14,
+		"difficulty":0.15000000000000002,
+		"averageTime":25.41176470588235,
+		"downloads":20,
 		"shortKey":"RgRgRgRg:WyWyWyWy:SbSbSbSb:CrCrCrCr",
 		"author":"corcoll",
-		"completions":11,
+		"completions":17,
 		"id":1083,
 		"completed":false,
 		"title":"Flow",

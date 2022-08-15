@@ -52,18 +52,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11805555555555558,
-		"averageTime":62.94488188976378,
-		"downloads":144,
+		"difficulty":0.10344827586206895,
+		"averageTime":266.86538461538464,
+		"downloads":174,
 		"shortKey":"------Cu:Cu------:--Cu----:----Cu--",
 		"author":"Sooka",
-		"completions":127,
+		"completions":156,
 		"id":5155,
 		"completed":true,
 		"title":"Sooka03",
-		"likes":34
+		"likes":40
 	}
 }

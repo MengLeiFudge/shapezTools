@@ -228,12 +228,14 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.9230769230769231,
 		"averageTime":444,
-		"downloads":16,
+		"downloads":17,
 		"shortKey":"CuRuWuSu:RuWuSuCu:WuSuCuRu:SuCuRuWu",
 		"author":"ThiccCoccMan",
 		"completions":1,

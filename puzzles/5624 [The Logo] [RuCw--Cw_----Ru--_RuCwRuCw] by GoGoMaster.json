@@ -825,10 +825,12 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.6666666666666667,
+		"averageTime":170.25,
+		"downloads":12,
 		"shortKey":"RuCw--Cw:----Ru--:RuCwRuCw",
 		"author":"GoGoMaster",
-		"completions":2,
+		"completions":4,
 		"id":5624,
 		"completed":false,
 		"title":"The Logo",

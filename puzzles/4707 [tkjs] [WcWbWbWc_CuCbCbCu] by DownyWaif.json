@@ -300,15 +300,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11111111111111116,
-		"averageTime":120.125,
-		"downloads":54,
+		"difficulty":0.11864406779661019,
+		"averageTime":116.71153846153847,
+		"downloads":59,
 		"shortKey":"WcWbWbWc:CuCbCbCu",
 		"author":"DownyWaif",
-		"completions":48,
+		"completions":52,
 		"id":4707,
 		"completed":false,
 		"title":"tkjs",

@@ -144,15 +144,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.664179104477612,
-		"averageTime":478.1333333333333,
-		"downloads":136,
+		"difficulty":0.6598639455782314,
+		"averageTime":445.04,
+		"downloads":148,
 		"shortKey":"RuCuSuCu",
 		"author":"anonymous",
-		"completions":45,
+		"completions":50,
 		"id":83,
 		"completed":true,
 		"title":"puzzlemod remake lv5",
-		"likes":24
+		"likes":25
 	}
 }

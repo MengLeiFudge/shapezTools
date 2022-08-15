@@ -371,10 +371,12 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"downloads":10,
 		"shortKey":"CwCrCwCr:CrCwCrCw:CwCrCwCr:CrCwCrCw",
 		"author":"QuestCube",
 		"completions":4,

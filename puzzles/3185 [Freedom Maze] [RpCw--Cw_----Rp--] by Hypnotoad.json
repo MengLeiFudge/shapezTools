@@ -195,18 +195,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.26136363636363635,
-		"averageTime":684.723076923077,
-		"downloads":176,
+		"difficulty":0.24537037037037035,
+		"averageTime":591.1165644171779,
+		"downloads":216,
 		"shortKey":"RpCw--Cw:----Rp--",
 		"author":"Hypnotoad",
-		"completions":130,
+		"completions":163,
 		"id":3185,
 		"completed":false,
 		"title":"Freedom Maze",
-		"likes":57
+		"likes":63
 	}
 }

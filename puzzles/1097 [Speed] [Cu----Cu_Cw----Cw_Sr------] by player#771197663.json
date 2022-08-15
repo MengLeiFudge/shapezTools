@@ -197,18 +197,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.14626865671641787,
-		"averageTime":143.1118881118881,
-		"downloads":335,
+		"difficulty":0.11973392461197341,
+		"averageTime":136.41309823677582,
+		"downloads":452,
 		"shortKey":"Cu----Cu:Cw----Cw:Sr------",
 		"author":"player#771197663",
-		"completions":286,
+		"completions":397,
 		"id":1097,
-		"completed":false,
+		"completed":true,
 		"title":"Speed",
-		"likes":111
+		"likes":140
 	}
 }

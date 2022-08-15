@@ -513,15 +513,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16666666666666663,
-		"averageTime":21.666666666666668,
-		"downloads":18,
+		"difficulty":0.13636363636363635,
+		"averageTime":21.105263157894736,
+		"downloads":22,
 		"shortKey":"CbCgCbCg:SgWcSgWc",
 		"author":"Frozen_Wo1f",
-		"completions":15,
+		"completions":19,
 		"id":1505,
 		"completed":false,
 		"title":"A simple maze",

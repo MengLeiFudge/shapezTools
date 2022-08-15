@@ -238,15 +238,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.13157894736842102,
-		"averageTime":74.65151515151516,
-		"downloads":76,
+		"difficulty":0.08759124087591241,
+		"averageTime":92.44,
+		"downloads":137,
 		"shortKey":"CyCyCyCy:CrCrCrCr:Cg--Cg--:--Cg--Cg",
 		"author":"Sooka",
-		"completions":66,
+		"completions":125,
 		"id":5186,
 		"completed":false,
 		"title":"Sooka07",
-		"likes":15
+		"likes":27
 	}
 }

@@ -85,18 +85,20 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":261,
-		"downloads":12,
+		"difficulty":0.5989304812834224,
+		"averageTime":536.36,
+		"downloads":187,
 		"shortKey":"CbCbCbCb:CrCrCrCr:CgCgCgCg",
 		"author":"hippolippo",
-		"completions":6,
+		"completions":75,
 		"id":5635,
-		"completed":false,
+		"completed":true,
 		"title":"Triple Channelling",
-		"likes":5
+		"likes":39
 	}
 }

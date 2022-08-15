@@ -74,18 +74,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04895104895104896,
-		"averageTime":44.38235294117647,
-		"downloads":143,
+		"difficulty":0.04402515723270439,
+		"averageTime":52.5,
+		"downloads":318,
 		"shortKey":"SpRbSpRb:CrCpCrCp",
 		"author":"BeiSuQF",
-		"completions":136,
+		"completions":304,
 		"id":2951,
 		"completed":true,
 		"title":"Super easy",
-		"likes":31
+		"likes":62
 	}
 }

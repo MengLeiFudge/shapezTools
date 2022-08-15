@@ -175,18 +175,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7619047619047619,
-		"averageTime":838.2,
-		"downloads":33,
+		"difficulty":0.8333333333333334,
+		"averageTime":738.1666666666666,
+		"downloads":37,
 		"shortKey":"--Rg----:--Cu----",
 		"author":"player#558856681",
-		"completions":5,
+		"completions":6,
 		"id":4687,
 		"completed":false,
 		"title":"Split n stack",
-		"likes":5
+		"likes":6
 	}
 }

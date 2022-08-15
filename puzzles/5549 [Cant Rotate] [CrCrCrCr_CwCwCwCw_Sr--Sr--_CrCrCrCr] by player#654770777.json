@@ -90,15 +90,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6226415094339622,
-		"averageTime":287.05,
-		"downloads":54,
+		"difficulty":0.5694444444444444,
+		"averageTime":278.61290322580646,
+		"downloads":74,
 		"shortKey":"CrCrCrCr:CwCwCwCw:Sr--Sr--:CrCrCrCr",
 		"author":"player#654770777",
-		"completions":20,
+		"completions":31,
 		"id":5549,
 		"completed":false,
 		"title":"Cant Rotate",
-		"likes":13
+		"likes":17
 	}
 }

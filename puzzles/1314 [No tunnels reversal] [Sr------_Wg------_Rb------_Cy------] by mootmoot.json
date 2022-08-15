@@ -86,13 +86,15 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.28125,
+		"averageTime":164.34782608695653,
+		"downloads":32,
 		"shortKey":"Sr------:Wg------:Rb------:Cy------",
 		"author":"mootmoot",
-		"completions":5,
+		"completions":23,
 		"id":1314,
 		"completed":true,
 		"title":"No tunnels reversal",
-		"likes":5
+		"likes":7
 	}
 }

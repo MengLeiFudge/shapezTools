@@ -103,18 +103,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":63.81818181818182,
-		"downloads":14,
+		"difficulty":0.1578947368421053,
+		"averageTime":63.625,
+		"downloads":19,
 		"shortKey":"WrCrWrCr:RrRrRrRr",
 		"author":"kailynik9",
-		"completions":11,
+		"completions":16,
 		"id":2685,
 		"completed":false,
 		"title":"MINI MINI MINI GAME",
-		"likes":2
+		"likes":3
 	}
 }

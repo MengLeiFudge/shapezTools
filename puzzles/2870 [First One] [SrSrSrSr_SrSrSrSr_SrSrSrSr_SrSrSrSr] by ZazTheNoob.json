@@ -149,15 +149,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.16000000000000003,
-		"averageTime":138.05555555555554,
-		"downloads":150,
+		"difficulty":0.14583333333333337,
+		"averageTime":127.6219512195122,
+		"downloads":192,
 		"shortKey":"SrSrSrSr:SrSrSrSr:SrSrSrSr:SrSrSrSr",
 		"author":"ZazTheNoob",
-		"completions":126,
+		"completions":164,
 		"id":2870,
 		"completed":true,
 		"title":"First One",
-		"likes":49
+		"likes":59
 	}
 }

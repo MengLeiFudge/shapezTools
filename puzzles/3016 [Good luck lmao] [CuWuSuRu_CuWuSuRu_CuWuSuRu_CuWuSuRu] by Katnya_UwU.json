@@ -1324,18 +1324,20 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.125,
-		"averageTime":186.42857142857142,
-		"downloads":16,
+		"difficulty":0.09999999999999998,
+		"averageTime":174.16666666666666,
+		"downloads":20,
 		"shortKey":"CuWuSuRu:CuWuSuRu:CuWuSuRu:CuWuSuRu",
 		"author":"Katnya_UwU",
-		"completions":14,
+		"completions":18,
 		"id":3016,
 		"completed":false,
 		"title":"Good luck lmao",
-		"likes":3
+		"likes":4
 	}
 }

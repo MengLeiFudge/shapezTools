@@ -115,13 +115,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.21875,
+		"averageTime":74.6,
+		"downloads":32,
 		"shortKey":"Cc----Cr:CrCc----",
 		"author":"alex_x90",
-		"completions":5,
+		"completions":25,
 		"id":539,
 		"completed":false,
 		"title":"Basics - repainting",
-		"likes":3
+		"likes":7
 	}
 }

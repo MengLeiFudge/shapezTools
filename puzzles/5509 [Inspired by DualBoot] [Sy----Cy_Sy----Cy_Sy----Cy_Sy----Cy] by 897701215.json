@@ -88,15 +88,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4054054054054054,
-		"averageTime":328.45454545454544,
-		"downloads":37,
+		"difficulty":0.31818181818181823,
+		"averageTime":453.8222222222222,
+		"downloads":66,
 		"shortKey":"Sy----Cy:Sy----Cy:Sy----Cy:Sy----Cy",
 		"author":"897701215",
-		"completions":22,
+		"completions":45,
 		"id":5509,
 		"completed":true,
 		"title":"Inspired by DualBoot",
-		"likes":10
+		"likes":17
 	}
 }

@@ -108,15 +108,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":203.77777777777777,
-		"downloads":15,
+		"difficulty":0.3529411764705882,
+		"averageTime":178.45454545454547,
+		"downloads":17,
 		"shortKey":"CgRgCgRg:RyCyRyCy",
 		"author":"player#449257356",
-		"completions":9,
+		"completions":11,
 		"id":4057,
 		"completed":false,
 		"title":"Sprite",

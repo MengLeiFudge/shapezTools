@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.14754098360655743,
-		"averageTime":95.84615384615384,
-		"downloads":61,
+		"difficulty":0.13636363636363635,
+		"averageTime":93.70175438596492,
+		"downloads":67,
 		"shortKey":"--Ru--Cu",
 		"author":"Bagel03",
-		"completions":52,
+		"completions":57,
 		"id":4338,
 		"completed":false,
 		"title":"Proof Of Concept",
-		"likes":16
+		"likes":17
 	}
 }

@@ -539,15 +539,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1428571428571429,
-		"averageTime":50.888888888888886,
-		"downloads":21,
+		"difficulty":0.07894736842105265,
+		"averageTime":56.51428571428571,
+		"downloads":38,
 		"shortKey":"WuWpRgSg:RrSpWcRw",
 		"author":"KingLui",
-		"completions":18,
+		"completions":35,
 		"id":3063,
 		"completed":false,
 		"title":"The way-the goal",
-		"likes":3
+		"likes":5
 	}
 }

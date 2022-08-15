@@ -240,13 +240,15 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.17647058823529416,
+		"averageTime":24.071428571428573,
+		"downloads":17,
 		"shortKey":"SbCgSbCg:CgRbCgRb",
 		"author":"Ironfamily",
-		"completions":7,
+		"completions":14,
 		"id":5019,
 		"completed":false,
 		"title":"No belts",
-		"likes":1
+		"likes":2
 	}
 }

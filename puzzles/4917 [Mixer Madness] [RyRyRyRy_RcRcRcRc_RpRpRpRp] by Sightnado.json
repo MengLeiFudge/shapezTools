@@ -182,15 +182,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.41025641025641024,
-		"averageTime":407.5217391304348,
-		"downloads":39,
+		"difficulty":0.4,
+		"averageTime":487.2,
+		"downloads":50,
 		"shortKey":"RyRyRyRy:RcRcRcRc:RpRpRpRp",
 		"author":"Sightnado",
-		"completions":23,
+		"completions":30,
 		"id":4917,
 		"completed":true,
 		"title":"Mixer Madness",

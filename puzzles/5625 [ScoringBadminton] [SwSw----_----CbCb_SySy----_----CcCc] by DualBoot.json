@@ -132,16 +132,18 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"SwSw----:----CbCb:SySy----:----CcCc",
 		"author":"DualBoot",
-		"completions":5,
+		"completions":6,
 		"id":5625,
 		"completed":false,
 		"title":"ScoringBadminton",
-		"likes":2
+		"likes":3
 	}
 }

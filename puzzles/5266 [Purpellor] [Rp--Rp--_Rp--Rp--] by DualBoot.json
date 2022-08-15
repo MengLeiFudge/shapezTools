@@ -34,18 +34,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13793103448275867,
-		"averageTime":99,
-		"downloads":29,
+		"difficulty":0.1515151515151515,
+		"averageTime":94.03571428571429,
+		"downloads":34,
 		"shortKey":"Rp--Rp--:Rp--Rp--",
 		"author":"DualBoot",
-		"completions":25,
+		"completions":28,
 		"id":5266,
 		"completed":false,
 		"title":"Purpellor",
-		"likes":7
+		"likes":8
 	}
 }

@@ -329,15 +329,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.34080717488789236,
-		"averageTime":252.42857142857142,
-		"downloads":223,
+		"difficulty":0.32295719844357973,
+		"averageTime":241.51149425287358,
+		"downloads":257,
 		"shortKey":"CyCyCgCg",
 		"author":"Nejy",
-		"completions":147,
+		"completions":174,
 		"id":1176,
 		"completed":true,
 		"title":"No Tunnels Allowed",
-		"likes":64
+		"likes":69
 	}
 }

@@ -131,18 +131,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.8571428571428572,
-		"averageTime":803,
-		"downloads":14,
+		"difficulty":0.75,
+		"averageTime":1476.8,
+		"downloads":25,
 		"shortKey":"CgCrCgCr:CyCyCyCy",
 		"author":"milkcupatstarbu",
-		"completions":2,
+		"completions":5,
 		"id":1621,
 		"completed":true,
 		"title":"Thing 13",
-		"likes":2
+		"likes":5
 	}
 }

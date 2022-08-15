@@ -1866,15 +1866,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":362.8,
-		"downloads":18,
+		"difficulty":0.42105263157894735,
+		"averageTime":341,
+		"downloads":19,
 		"shortKey":"Rp--Rp--:RpRpRpRp:RwRw--Rp:CuSuRwSp",
 		"author":"player#115938246",
-		"completions":10,
+		"completions":11,
 		"id":4328,
 		"completed":false,
 		"title":"Function combination",

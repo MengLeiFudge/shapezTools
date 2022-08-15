@@ -141,15 +141,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.040000000000000036,
-		"averageTime":38.361111111111114,
-		"downloads":75,
+		"difficulty":0.050000000000000044,
+		"averageTime":36.97894736842105,
+		"downloads":100,
 		"shortKey":"CwRbRrRg",
 		"author":"rubenverg",
-		"completions":72,
+		"completions":95,
 		"id":3384,
 		"completed":false,
 		"title":"just a random test",
-		"likes":14
+		"likes":15
 	}
 }

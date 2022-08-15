@@ -172,15 +172,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.33043478260869563,
-		"averageTime":239.05194805194805,
-		"downloads":115,
+		"difficulty":0.29850746268656714,
+		"averageTime":225.38297872340425,
+		"downloads":136,
 		"shortKey":"CuRuCuRu",
 		"author":"anonymous",
-		"completions":77,
+		"completions":94,
 		"id":305,
 		"completed":false,
 		"title":"Medium",
-		"likes":33
+		"likes":35
 	}
 }

@@ -399,18 +399,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7272727272727273,
-		"averageTime":910.8,
-		"downloads":66,
+		"difficulty":0.76,
+		"averageTime":818.1111111111111,
+		"downloads":76,
 		"shortKey":"SuSuSuSu:SuSu----:SuSu----",
 		"author":"Azurite",
-		"completions":15,
+		"completions":18,
 		"id":2958,
 		"completed":true,
 		"title":"Symmetry",
-		"likes":11
+		"likes":13
 	}
 }

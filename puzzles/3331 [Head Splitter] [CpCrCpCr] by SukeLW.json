@@ -83,15 +83,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.15000000000000002,
-		"averageTime":40.1764705882353,
-		"downloads":20,
+		"difficulty":0.07692307692307687,
+		"averageTime":35.72222222222222,
+		"downloads":39,
 		"shortKey":"CpCrCpCr",
 		"author":"SukeLW",
-		"completions":17,
+		"completions":36,
 		"id":3331,
 		"completed":false,
 		"title":"Head Splitter",
-		"likes":3
+		"likes":5
 	}
 }

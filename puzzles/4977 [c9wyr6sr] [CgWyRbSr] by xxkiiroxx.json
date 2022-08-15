@@ -1003,18 +1003,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4878048780487805,
-		"averageTime":963.9047619047619,
-		"downloads":43,
+		"difficulty":0.48888888888888893,
+		"averageTime":974.6086956521739,
+		"downloads":45,
 		"shortKey":"CgWyRbSr",
 		"author":"xxkiiroxx",
-		"completions":21,
+		"completions":23,
 		"id":4977,
 		"completed":false,
 		"title":"c9wyr6sr",
-		"likes":10
+		"likes":11
 	}
 }

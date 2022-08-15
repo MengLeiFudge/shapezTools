@@ -123,13 +123,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.7857142857142857,
+		"averageTime":182.66666666666666,
+		"downloads":14,
 		"shortKey":"WwSbCcSb:CcCbCc--",
 		"author":"Bagel03",
-		"completions":0,
+		"completions":3,
 		"id":4488,
 		"completed":false,
 		"title":"Test",
-		"likes":0
+		"likes":1
 	}
 }

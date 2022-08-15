@@ -290,18 +290,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5454545454545454,
-		"averageTime":883.8,
-		"downloads":11,
+		"difficulty":0.46153846153846156,
+		"averageTime":653.1428571428571,
+		"downloads":13,
 		"shortKey":"RwRwRwRw:CwCwCwCw",
 		"author":"Zarah",
-		"completions":5,
+		"completions":7,
 		"id":1043,
 		"completed":false,
 		"title":"Resource Management",
-		"likes":2
+		"likes":3
 	}
 }

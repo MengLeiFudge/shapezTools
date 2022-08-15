@@ -53,15 +53,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0273972602739726,
-		"averageTime":19.380281690140844,
-		"downloads":73,
+		"difficulty":0.015503875968992276,
+		"averageTime":23.992125984251967,
+		"downloads":129,
 		"shortKey":"CbRbCbRb:WbCbWbCb",
 		"author":"player#104606695",
-		"completions":71,
+		"completions":127,
 		"id":4642,
 		"completed":true,
 		"title":"Rotater",
-		"likes":15
+		"likes":20
 	}
 }

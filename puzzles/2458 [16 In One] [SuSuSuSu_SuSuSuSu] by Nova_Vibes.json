@@ -2581,18 +2581,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25547445255474455,
-		"averageTime":365.221568627451,
-		"downloads":1370,
+		"difficulty":0.29835718071012185,
+		"averageTime":402.43429003021146,
+		"downloads":3774,
 		"shortKey":"SuSuSuSu:SuSuSuSu",
 		"author":"Nova_Vibes",
-		"completions":1020,
+		"completions":2648,
 		"id":2458,
 		"completed":true,
 		"title":"16 In One",
-		"likes":512
+		"likes":1198
 	}
 }

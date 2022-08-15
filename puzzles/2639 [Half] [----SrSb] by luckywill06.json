@@ -106,15 +106,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09999999999999998,
-		"averageTime":95.88888888888889,
-		"downloads":20,
+		"difficulty":0.09090909090909094,
+		"averageTime":90.6,
+		"downloads":22,
 		"shortKey":"----SrSb",
 		"author":"luckywill06",
-		"completions":18,
+		"completions":20,
 		"id":2639,
 		"completed":false,
 		"title":"Half",

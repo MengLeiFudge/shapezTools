@@ -323,10 +323,12 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"downloads":10,
 		"shortKey":"SbSwSbSw",
 		"author":"vlazi",
 		"completions":6,

@@ -118,15 +118,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2666666666666667,
-		"averageTime":35.54545454545455,
-		"downloads":15,
+		"difficulty":0.2222222222222222,
+		"averageTime":38.5,
+		"downloads":18,
 		"shortKey":"SgWrSgWr:SgCySgCy",
 		"author":"Esperpritzie",
-		"completions":11,
+		"completions":14,
 		"id":2722,
 		"completed":false,
 		"title":"EASY PUZZLE 1",

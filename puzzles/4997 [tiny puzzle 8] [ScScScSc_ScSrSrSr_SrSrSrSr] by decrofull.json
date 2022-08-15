@@ -91,18 +91,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08108108108108103,
-		"averageTime":34.205882352941174,
-		"downloads":37,
+		"difficulty":0.08510638297872342,
+		"averageTime":34.325581395348834,
+		"downloads":47,
 		"shortKey":"ScScScSc:ScSrSrSr:SrSrSrSr",
 		"author":"decrofull",
-		"completions":34,
+		"completions":43,
 		"id":4997,
 		"completed":false,
 		"title":"tiny puzzle 8",
-		"likes":4
+		"likes":6
 	}
 }

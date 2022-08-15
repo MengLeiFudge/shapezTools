@@ -76,16 +76,18 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"CpRpRpCp:Cw----Cw",
 		"author":"BTDubs",
-		"completions":1,
+		"completions":2,
 		"id":777,
 		"completed":false,
 		"title":"Among Us Purple",
-		"likes":1
+		"likes":2
 	}
 }

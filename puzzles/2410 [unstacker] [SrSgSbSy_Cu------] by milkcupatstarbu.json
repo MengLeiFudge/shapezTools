@@ -81,18 +81,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":638.8,
-		"downloads":10,
+		"difficulty":0.5333333333333333,
+		"averageTime":509.7142857142857,
+		"downloads":20,
 		"shortKey":"SrSgSbSy:Cu------",
 		"author":"milkcupatstarbu",
-		"completions":5,
+		"completions":7,
 		"id":2410,
 		"completed":true,
 		"title":"unstacker",
-		"likes":4
+		"likes":5
 	}
 }

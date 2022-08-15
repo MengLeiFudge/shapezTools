@@ -100,18 +100,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16935483870967738,
-		"averageTime":418.8252427184466,
-		"downloads":124,
+		"difficulty":0.12605042016806722,
+		"averageTime":316.3894230769231,
+		"downloads":238,
 		"shortKey":"Sw----Sw:SwSw----",
 		"author":"guardiandown",
-		"completions":103,
+		"completions":208,
 		"id":3509,
-		"completed":false,
+		"completed":true,
 		"title":"mixs",
-		"likes":40
+		"likes":73
 	}
 }

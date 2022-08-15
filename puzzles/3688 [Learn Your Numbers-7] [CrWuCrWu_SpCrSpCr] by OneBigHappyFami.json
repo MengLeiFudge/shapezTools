@@ -557,15 +557,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09999999999999998,
-		"averageTime":114.81481481481481,
-		"downloads":60,
+		"difficulty":0.11940298507462688,
+		"averageTime":116.67796610169492,
+		"downloads":67,
 		"shortKey":"CrWuCrWu:SpCrSpCr",
 		"author":"OneBigHappyFami",
-		"completions":54,
+		"completions":59,
 		"id":3688,
 		"completed":false,
 		"title":"Learn Your Numbers-7",

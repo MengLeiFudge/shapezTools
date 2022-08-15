@@ -124,13 +124,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
+		"difficulty":0.75,
+		"averageTime":226.33333333333334,
 		"downloads":12,
 		"shortKey":"RrRrRrRr:SwSwSwSw:RcRcRcRc:SwSwSwSw",
 		"author":"polyminecrafter",
-		"completions":2,
+		"completions":3,
 		"id":3192,
 		"completed":false,
 		"title":"IJPIOJ",

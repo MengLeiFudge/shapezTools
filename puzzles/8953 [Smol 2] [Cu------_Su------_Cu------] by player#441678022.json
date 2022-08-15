@@ -1,0 +1,50 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"SuSu----",
+				"pos":{
+					"r":0,
+					"x":-2,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"----SuSu",
+				"pos":{
+					"r":0,
+					"x":1,
+					"y":-1
+				},
+				"type":"goal"
+			},
+			{
+				"pos":{
+					"r":0,
+					"x":0,
+					"y":-1
+				},
+				"type":"block"
+			}
+		],
+		"bounds":{
+			"w":4,
+			"h":2
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"downloads":8,
+		"shortKey":"Cu------:Su------:Cu------",
+		"author":"player#441678022",
+		"completions":5,
+		"id":8953,
+		"completed":false,
+		"title":"Smol 2",
+		"likes":0
+	}
+}

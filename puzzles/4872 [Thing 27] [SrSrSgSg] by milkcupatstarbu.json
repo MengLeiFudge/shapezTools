@@ -167,15 +167,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6477272727272727,
-		"averageTime":815.3548387096774,
-		"downloads":97,
+		"difficulty":0.6583850931677019,
+		"averageTime":657,
+		"downloads":162,
 		"shortKey":"SrSrSgSg",
 		"author":"milkcupatstarbu",
-		"completions":31,
+		"completions":55,
 		"id":4872,
 		"completed":true,
 		"title":"Thing 27",
-		"likes":19
+		"likes":29
 	}
 }

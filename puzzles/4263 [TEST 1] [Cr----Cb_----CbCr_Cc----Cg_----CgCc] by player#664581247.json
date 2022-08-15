@@ -83,15 +83,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5714285714285714,
-		"averageTime":306.1666666666667,
-		"downloads":28,
+		"difficulty":0.5,
+		"averageTime":283.2105263157895,
+		"downloads":38,
 		"shortKey":"Cr----Cb:----CbCr:Cc----Cg:----CgCc",
 		"author":"player#664581247",
-		"completions":12,
+		"completions":19,
 		"id":4263,
 		"completed":false,
 		"title":"TEST 1",
-		"likes":6
+		"likes":8
 	}
 }

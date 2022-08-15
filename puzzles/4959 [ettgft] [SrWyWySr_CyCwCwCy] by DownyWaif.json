@@ -421,16 +421,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.023809523809523836,
+		"averageTime":52.58536585365854,
+		"downloads":126,
 		"shortKey":"SrWyWySr:CyCwCwCy",
 		"author":"DownyWaif",
-		"completions":7,
+		"completions":123,
 		"id":4959,
 		"completed":false,
 		"title":"ettgft",
-		"likes":2
+		"likes":20
 	}
 }

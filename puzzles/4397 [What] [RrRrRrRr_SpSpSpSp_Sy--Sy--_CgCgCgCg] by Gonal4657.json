@@ -79,15 +79,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3529411764705882,
-		"averageTime":244.45454545454547,
-		"downloads":17,
+		"difficulty":0.33333333333333337,
+		"averageTime":228.5,
+		"downloads":19,
 		"shortKey":"RrRrRrRr:SpSpSpSp:Sy--Sy--:CgCgCgCg",
 		"author":"Gonal4657",
-		"completions":11,
+		"completions":12,
 		"id":4397,
 		"completed":false,
 		"title":"What",

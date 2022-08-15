@@ -236,13 +236,15 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.5909090909090908,
+		"averageTime":611.7777777777778,
+		"downloads":22,
 		"shortKey":"CyCcCyCc:RwScRwSc",
 		"author":"Bagel03",
-		"completions":2,
+		"completions":9,
 		"id":4755,
 		"completed":false,
 		"title":"Another Test",
-		"likes":2
+		"likes":5
 	}
 }

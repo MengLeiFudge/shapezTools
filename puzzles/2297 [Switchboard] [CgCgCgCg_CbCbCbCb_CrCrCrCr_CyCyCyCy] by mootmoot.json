@@ -493,12 +493,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.10389610389610393,
-		"averageTime":103.52173913043478,
-		"downloads":77,
+		"difficulty":0.09876543209876543,
+		"averageTime":103.67123287671232,
+		"downloads":81,
 		"shortKey":"CgCgCgCg:CbCbCbCb:CrCrCrCr:CyCyCyCy",
 		"author":"mootmoot",
-		"completions":69,
+		"completions":73,
 		"id":2297,
 		"completed":false,
 		"title":"Switchboard",

@@ -108,15 +108,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7727272727272727,
-		"averageTime":1700.4,
-		"downloads":28,
+		"difficulty":0.7857142857142857,
+		"averageTime":1471,
+		"downloads":29,
 		"shortKey":"CbCbCbCb:CwCwCwCw:CrCrCrCr",
 		"author":"oliver.clarke.c",
-		"completions":5,
+		"completions":6,
 		"id":3448,
 		"completed":true,
 		"title":"Red White and Blue",

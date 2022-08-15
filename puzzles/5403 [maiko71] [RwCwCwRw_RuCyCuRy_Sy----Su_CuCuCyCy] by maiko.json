@@ -651,15 +651,17 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7692307692307692,
-		"averageTime":966.3333333333334,
-		"downloads":16,
+		"difficulty":0.7777777777777778,
+		"averageTime":868.5,
+		"downloads":23,
 		"shortKey":"RwCwCwRw:RuCyCuRy:Sy----Su:CuCuCyCy",
 		"author":"maiko",
-		"completions":3,
+		"completions":4,
 		"id":5403,
 		"completed":false,
 		"title":"maiko71",

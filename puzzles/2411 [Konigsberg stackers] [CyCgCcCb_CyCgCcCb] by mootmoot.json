@@ -489,12 +489,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.47058823529411764,
-		"averageTime":1142.2222222222222,
-		"downloads":18,
+		"difficulty":0.42105263157894735,
+		"averageTime":1235.909090909091,
+		"downloads":20,
 		"shortKey":"CyCgCcCb:CyCgCcCb",
 		"author":"mootmoot",
-		"completions":9,
+		"completions":11,
 		"id":2411,
 		"completed":true,
 		"title":"Konigsberg stackers",

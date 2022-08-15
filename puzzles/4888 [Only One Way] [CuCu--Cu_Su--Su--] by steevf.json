@@ -267,18 +267,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.052023121387283267,
-		"averageTime":41.86585365853659,
-		"downloads":173,
+		"difficulty":0.022044088176352727,
+		"averageTime":47.35245901639344,
+		"downloads":499,
 		"shortKey":"CuCu--Cu:Su--Su--",
 		"author":"steevf",
-		"completions":164,
+		"completions":488,
 		"id":4888,
 		"completed":true,
 		"title":"Only One Way",
-		"likes":41
+		"likes":104
 	}
 }

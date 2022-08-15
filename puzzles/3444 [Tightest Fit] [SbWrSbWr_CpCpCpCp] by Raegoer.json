@@ -397,18 +397,20 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2943262411347518,
-		"averageTime":435.5075376884422,
-		"downloads":282,
+		"difficulty":0.28431372549019607,
+		"averageTime":469.9269406392694,
+		"downloads":613,
 		"shortKey":"SbWrSbWr:CpCpCpCp",
 		"author":"Raegoer",
-		"completions":199,
+		"completions":438,
 		"id":3444,
 		"completed":true,
 		"title":"Tightest Fit",
-		"likes":103
+		"likes":189
 	}
 }

@@ -225,18 +225,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.12167300380228141,
-		"averageTime":194.6839826839827,
-		"downloads":264,
+		"difficulty":0.10863509749303624,
+		"averageTime":186.1875,
+		"downloads":360,
 		"shortKey":"Cw----Cw:Cg----Cr:Sy------",
 		"author":"notxyr0za",
-		"completions":231,
+		"completions":320,
 		"id":1930,
 		"completed":true,
 		"title":"Gear shift",
-		"likes":93
+		"likes":111
 	}
 }

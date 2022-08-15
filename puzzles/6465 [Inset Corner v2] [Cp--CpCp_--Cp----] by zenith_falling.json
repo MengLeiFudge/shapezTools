@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CpCpCpCp",
+				"pos":{
+					"r":90,
+					"x":-5,
+					"y":-1
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"Cp--CpCp:--Cp----",
+				"pos":{
+					"r":90,
+					"x":4,
+					"y":-1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":10,
+			"h":3
+		},
+		"version":1,
+		"excludedBuildings":[
+			"mixer",
+			"painter",
+			"underground_belt"
+		]
+	},
+	"meta":{
+		"downloads":20,
+		"shortKey":"Cp--CpCp:--Cp----",
+		"author":"zenith_falling",
+		"completions":1,
+		"id":6465,
+		"completed":false,
+		"title":"Inset Corner v2",
+		"likes":0
+	}
+}

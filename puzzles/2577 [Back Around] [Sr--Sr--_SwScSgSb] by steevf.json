@@ -814,15 +814,17 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.8,
-		"averageTime":594,
+		"difficulty":0.7,
+		"averageTime":460.6666666666667,
 		"downloads":10,
 		"shortKey":"Sr--Sr--:SwScSgSb",
 		"author":"steevf",
-		"completions":2,
+		"completions":3,
 		"id":2577,
 		"completed":false,
 		"title":"Back Around",

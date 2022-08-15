@@ -291,15 +291,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.31818181818181823,
-		"averageTime":257.8,
-		"downloads":23,
+		"difficulty":0.34615384615384615,
+		"averageTime":252.7058823529412,
+		"downloads":27,
 		"shortKey":"RuRuRuRu:CcCuCuCu:SuScScSc",
 		"author":"Sariandat",
-		"completions":15,
+		"completions":17,
 		"id":2853,
 		"completed":false,
 		"title":"The Timer",

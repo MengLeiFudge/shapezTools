@@ -27,12 +27,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.125,
-		"averageTime":21.666666666666668,
-		"downloads":24,
+		"difficulty":0.11538461538461542,
+		"averageTime":20.565217391304348,
+		"downloads":26,
 		"shortKey":"----RwRu",
 		"author":"anonymous",
-		"completions":21,
+		"completions":23,
 		"id":248,
 		"completed":false,
 		"title":"Compaction II",

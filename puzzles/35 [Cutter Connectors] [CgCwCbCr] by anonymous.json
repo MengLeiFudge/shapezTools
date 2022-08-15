@@ -171,15 +171,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.5899280575539568,
-		"averageTime":715.3684210526316,
-		"downloads":139,
+		"difficulty":0.5804195804195804,
+		"averageTime":728.6166666666667,
+		"downloads":144,
 		"shortKey":"CgCwCbCr",
 		"author":"anonymous",
-		"completions":57,
+		"completions":60,
 		"id":35,
 		"completed":false,
 		"title":"Cutter Connectors",
-		"likes":37
+		"likes":39
 	}
 }

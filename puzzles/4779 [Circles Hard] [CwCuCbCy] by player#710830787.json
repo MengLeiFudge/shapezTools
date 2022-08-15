@@ -145,15 +145,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.06870229007633588,
-		"averageTime":44.114754098360656,
-		"downloads":131,
+		"difficulty":0.03543307086614178,
+		"averageTime":43.012244897959185,
+		"downloads":254,
 		"shortKey":"CwCuCbCy",
 		"author":"player#710830787",
-		"completions":122,
+		"completions":245,
 		"id":4779,
 		"completed":true,
 		"title":"Circles Hard",
-		"likes":29
+		"likes":46
 	}
 }

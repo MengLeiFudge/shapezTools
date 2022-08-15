@@ -45,10 +45,12 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.3846153846153846,
+		"averageTime":57.5,
+		"downloads":13,
 		"shortKey":"SpScSwSg:WgWbWyWr",
 		"author":"anonymous",
-		"completions":4,
+		"completions":8,
 		"id":154,
 		"completed":false,
 		"title":"a small puzzle",

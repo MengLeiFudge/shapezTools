@@ -570,15 +570,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.050000000000000044,
-		"averageTime":92.28947368421052,
-		"downloads":80,
+		"difficulty":0.042735042735042694,
+		"averageTime":90.08928571428571,
+		"downloads":118,
 		"shortKey":"RyRwRyRw:RwRyRwRy:RyRwRyRw:RwRyRwRy",
 		"author":"mrkib",
-		"completions":76,
+		"completions":112,
 		"id":4734,
 		"completed":false,
 		"title":"lol 5",
-		"likes":25
+		"likes":35
 	}
 }

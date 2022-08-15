@@ -1507,15 +1507,17 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.41666666666666663,
-		"averageTime":129.85714285714286,
-		"downloads":12,
+		"difficulty":0.3571428571428571,
+		"averageTime":126,
+		"downloads":14,
 		"shortKey":"RpRpRpRp:RpRpRpRp:RpRpRpRp:RpRpRpRp",
 		"author":"finn.williams",
-		"completions":7,
+		"completions":9,
 		"id":2564,
 		"completed":false,
 		"title":"not too hard 3",

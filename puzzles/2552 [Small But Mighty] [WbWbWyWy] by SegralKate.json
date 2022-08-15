@@ -131,15 +131,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09859154929577463,
-		"averageTime":129.78125,
-		"downloads":71,
+		"difficulty":0.09459459459459463,
+		"averageTime":126.61194029850746,
+		"downloads":74,
 		"shortKey":"WbWbWyWy",
 		"author":"SegralKate",
-		"completions":64,
+		"completions":67,
 		"id":2552,
 		"completed":true,
 		"title":"Small But Mighty",

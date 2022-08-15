@@ -1758,15 +1758,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":815.1428571428571,
-		"downloads":14,
+		"difficulty":0.4666666666666667,
+		"averageTime":743.625,
+		"downloads":15,
 		"shortKey":"RbWrRbWr:RwWwRwWw",
 		"author":"xxkiiroxx",
-		"completions":7,
+		"completions":8,
 		"id":3742,
 		"completed":false,
 		"title":"29lvl",

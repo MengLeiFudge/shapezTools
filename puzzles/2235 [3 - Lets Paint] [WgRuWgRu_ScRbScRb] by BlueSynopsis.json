@@ -298,18 +298,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2666666666666667,
-		"averageTime":10.545454545454545,
-		"downloads":15,
+		"difficulty":0.14814814814814814,
+		"averageTime":14.347826086956522,
+		"downloads":27,
 		"shortKey":"WgRuWgRu:ScRbScRb",
 		"author":"BlueSynopsis",
-		"completions":11,
+		"completions":23,
 		"id":2235,
 		"completed":false,
 		"title":"3 - Lets Paint",
-		"likes":3
+		"likes":4
 	}
 }

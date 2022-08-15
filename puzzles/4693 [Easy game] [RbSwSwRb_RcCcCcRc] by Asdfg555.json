@@ -50,18 +50,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04761904761904767,
-		"averageTime":56.21666666666667,
-		"downloads":63,
+		"difficulty":0.02898550724637683,
+		"averageTime":53.798507462686565,
+		"downloads":138,
 		"shortKey":"RbSwSwRb:RcCcCcRc",
 		"author":"Asdfg555",
-		"completions":60,
+		"completions":134,
 		"id":4693,
 		"completed":false,
 		"title":"Easy game",
-		"likes":12
+		"likes":23
 	}
 }

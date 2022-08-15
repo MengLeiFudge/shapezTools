@@ -126,15 +126,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.4571428571428572,
-		"averageTime":647.0526315789474,
-		"downloads":36,
+		"difficulty":0.359375,
+		"averageTime":644.9756097560976,
+		"downloads":65,
 		"shortKey":"CbCwCwCb:Sr----Sr:CwCwCwCw:CwCwCwCw",
 		"author":"anonymous",
-		"completions":19,
+		"completions":41,
 		"id":30,
 		"completed":false,
 		"title":"Pokemon Great Ball",
-		"likes":12
+		"likes":19
 	}
 }

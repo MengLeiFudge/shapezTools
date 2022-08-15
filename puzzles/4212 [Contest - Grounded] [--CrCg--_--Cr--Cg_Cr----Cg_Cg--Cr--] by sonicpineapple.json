@@ -76,13 +76,15 @@
 		]
 	},
 	"meta":{
-		"downloads":15,
+		"difficulty":0.8636363636363636,
+		"averageTime":71.33333333333333,
+		"downloads":23,
 		"shortKey":"--CrCg--:--Cr--Cg:Cr----Cg:Cg--Cr--",
 		"author":"sonicpineapple",
-		"completions":0,
+		"completions":3,
 		"id":4212,
 		"completed":false,
 		"title":"Contest - Grounded",
-		"likes":0
+		"likes":2
 	}
 }

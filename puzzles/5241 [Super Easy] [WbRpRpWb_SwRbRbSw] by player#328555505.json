@@ -306,15 +306,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.24444444444444446,
-		"averageTime":127.20588235294117,
-		"downloads":45,
+		"difficulty":0.24,
+		"averageTime":129.07894736842104,
+		"downloads":50,
 		"shortKey":"WbRpRpWb:SwRbRbSw",
 		"author":"player#328555505",
-		"completions":34,
+		"completions":38,
 		"id":5241,
 		"completed":false,
 		"title":"Super Easy",

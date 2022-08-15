@@ -92,18 +92,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0389016018306636,
-		"averageTime":44.016666666666666,
-		"downloads":437,
+		"difficulty":0.041612483745123496,
+		"averageTime":53.587516960651286,
+		"downloads":769,
 		"shortKey":"CrRrRrCr:CwCwCwCw",
 		"author":"WeedSeagull",
-		"completions":420,
+		"completions":737,
 		"id":2079,
 		"completed":true,
 		"title":"amogsus",
-		"likes":113
+		"likes":154
 	}
 }

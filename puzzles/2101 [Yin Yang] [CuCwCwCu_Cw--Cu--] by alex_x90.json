@@ -690,18 +690,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.9065420560747663,
-		"averageTime":1767.6,
-		"downloads":193,
+		"difficulty":0.953125,
+		"averageTime":2223.4166666666665,
+		"downloads":258,
 		"shortKey":"CuCwCwCu:Cw--Cu--",
 		"author":"alex_x90",
-		"completions":10,
+		"completions":12,
 		"id":2101,
 		"completed":false,
 		"title":"Yin Yang",
-		"likes":7
+		"likes":9
 	}
 }

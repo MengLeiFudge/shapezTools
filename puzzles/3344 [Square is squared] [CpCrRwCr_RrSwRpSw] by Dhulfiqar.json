@@ -25,16 +25,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.2222222222222222,
+		"averageTime":66.71428571428571,
+		"downloads":18,
 		"shortKey":"CpCrRwCr:RrSwRpSw",
 		"author":"Dhulfiqar",
-		"completions":7,
+		"completions":14,
 		"id":3344,
 		"completed":false,
 		"title":"Square is squared",
-		"likes":2
+		"likes":3
 	}
 }

@@ -97,18 +97,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.44067796610169496,
-		"averageTime":235.0909090909091,
-		"downloads":61,
+		"difficulty":0.37142857142857144,
+		"averageTime":269.95454545454544,
+		"downloads":107,
 		"shortKey":"RwRwRwRw:Cy----Cy:--RyRy--",
 		"author":"maiko",
-		"completions":33,
+		"completions":66,
 		"id":3440,
 		"completed":true,
 		"title":"maiko18",
-		"likes":19
+		"likes":32
 	}
 }

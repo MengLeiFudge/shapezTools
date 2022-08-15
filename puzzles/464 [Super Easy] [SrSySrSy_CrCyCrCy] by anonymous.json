@@ -166,15 +166,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":24,
-		"downloads":15,
+		"difficulty":0.23809523809523814,
+		"averageTime":26.9375,
+		"downloads":21,
 		"shortKey":"SrSySrSy:CrCyCrCy",
 		"author":"anonymous",
-		"completions":10,
+		"completions":16,
 		"id":464,
 		"completed":false,
 		"title":"Super Easy",
-		"likes":1
+		"likes":3
 	}
 }

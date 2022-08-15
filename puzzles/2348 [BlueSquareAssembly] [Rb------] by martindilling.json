@@ -57,18 +57,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0641025641025641,
-		"averageTime":78.98630136986301,
-		"downloads":156,
+		"difficulty":0.05084745762711862,
+		"averageTime":79.50892857142857,
+		"downloads":237,
 		"shortKey":"Rb------",
 		"author":"martindilling",
-		"completions":146,
+		"completions":224,
 		"id":2348,
 		"completed":false,
 		"title":"BlueSquareAssembly",
-		"likes":33
+		"likes":42
 	}
 }

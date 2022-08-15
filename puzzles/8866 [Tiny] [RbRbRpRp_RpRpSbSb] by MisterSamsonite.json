@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CuCu----",
+				"pos":{
+					"r":0,
+					"x":0,
+					"y":-2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":3
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"downloads":9,
+		"shortKey":"RbRbRpRp:RpRpSbSb",
+		"author":"MisterSamsonite",
+		"completions":8,
+		"id":8866,
+		"completed":false,
+		"title":"Tiny",
+		"likes":2
+	}
+}

@@ -1029,12 +1029,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.8333333333333334,
-		"averageTime":701,
-		"downloads":18,
+		"difficulty":0.8421052631578947,
+		"averageTime":488,
+		"downloads":22,
 		"shortKey":"RuRuRuRu:CuCuCuCu:WuWuWuWu:SuSuSuSu",
 		"author":"anonymous",
-		"completions":2,
+		"completions":3,
 		"id":435,
 		"completed":false,
 		"title":"Fun simple challenge",

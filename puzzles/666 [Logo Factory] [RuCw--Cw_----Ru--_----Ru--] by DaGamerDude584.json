@@ -157,10 +157,12 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"RuCw--Cw:----Ru--:----Ru--",
 		"author":"DaGamerDude584",
 		"completions":1,

@@ -1531,15 +1531,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.030927835051546393,
-		"averageTime":64.44680851063829,
-		"downloads":194,
+		"difficulty":0.020547945205479423,
+		"averageTime":71.91608391608392,
+		"downloads":292,
 		"shortKey":"SySwSySw",
 		"author":"anonymous",
-		"completions":188,
+		"completions":286,
 		"id":363,
 		"completed":false,
 		"title":"The Maze",
-		"likes":42
+		"likes":53
 	}
 }

@@ -42,18 +42,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03125,
-		"averageTime":22.50537634408602,
-		"downloads":96,
+		"difficulty":0.01807228915662651,
+		"averageTime":24.66871165644172,
+		"downloads":166,
 		"shortKey":"WrWrWgWg:SwSwWwWw",
 		"author":"britishball",
-		"completions":93,
+		"completions":163,
 		"id":2612,
 		"completed":false,
 		"title":"How to X2 an item",
-		"likes":20
+		"likes":28
 	}
 }

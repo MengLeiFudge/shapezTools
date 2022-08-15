@@ -230,13 +230,15 @@
 		]
 	},
 	"meta":{
-		"downloads":8,
+		"difficulty":0.33333333333333337,
+		"averageTime":145.75,
+		"downloads":12,
 		"shortKey":"RuSyRuSy:CrRgCrRg",
 		"author":"Mr.Happy",
-		"completions":4,
+		"completions":8,
 		"id":5564,
 		"completed":false,
 		"title":"eyyyyyyyyyyyyyyyyyyt",
-		"likes":1
+		"likes":2
 	}
 }

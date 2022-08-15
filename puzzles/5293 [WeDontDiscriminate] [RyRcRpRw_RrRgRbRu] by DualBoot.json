@@ -175,15 +175,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.09999999999999998,
-		"averageTime":40.111111111111114,
-		"downloads":60,
+		"difficulty":0.09090909090909094,
+		"averageTime":45.48571428571429,
+		"downloads":77,
 		"shortKey":"RyRcRpRw:RrRgRbRu",
 		"author":"DualBoot",
-		"completions":54,
+		"completions":70,
 		"id":5293,
 		"completed":false,
 		"title":"WeDontDiscriminate",
-		"likes":10
+		"likes":11
 	}
 }

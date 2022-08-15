@@ -34,18 +34,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.18500000000000005,
-		"averageTime":224.22699386503066,
-		"downloads":400,
+		"difficulty":0.16620498614958445,
+		"averageTime":220.35215946843854,
+		"downloads":723,
 		"shortKey":"CwRwCwRw:CwRwCwRw",
 		"author":"joefalco187",
-		"completions":326,
+		"completions":602,
 		"id":4176,
 		"completed":true,
 		"title":"18x2 Seed Generator",
-		"likes":147
+		"likes":226
 	}
 }

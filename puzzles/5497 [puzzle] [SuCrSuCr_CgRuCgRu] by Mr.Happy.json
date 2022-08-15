@@ -354,10 +354,12 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.19999999999999996,
+		"averageTime":10.166666666666666,
+		"downloads":15,
 		"shortKey":"SuCrSuCr:CgRuCgRu",
 		"author":"Mr.Happy",
-		"completions":7,
+		"completions":12,
 		"id":5497,
 		"completed":false,
 		"title":"puzzle",

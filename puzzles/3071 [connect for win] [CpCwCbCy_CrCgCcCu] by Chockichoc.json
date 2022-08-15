@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.052631578947368474,
-		"averageTime":38.291666666666664,
-		"downloads":76,
+		"difficulty":0.03703703703703709,
+		"averageTime":38.40769230769231,
+		"downloads":135,
 		"shortKey":"CpCwCbCy:CrCgCcCu",
 		"author":"Chockichoc",
-		"completions":72,
+		"completions":130,
 		"id":3071,
 		"completed":false,
 		"title":"connect for win",
-		"likes":14
+		"likes":22
 	}
 }

@@ -380,15 +380,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.72,
-		"averageTime":1208.857142857143,
-		"downloads":27,
+		"difficulty":0.7222222222222222,
+		"averageTime":1035.6,
+		"downloads":41,
 		"shortKey":"----Cb--:CrCb----:--CrCg--:--Cw----",
 		"author":"alex_x90",
-		"completions":7,
+		"completions":10,
 		"id":3872,
 		"completed":true,
 		"title":"Rhino v2",
-		"likes":5
+		"likes":7
 	}
 }

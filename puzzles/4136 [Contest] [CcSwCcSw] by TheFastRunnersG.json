@@ -700,15 +700,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.04854368932038833,
-		"averageTime":49.36734693877551,
-		"downloads":103,
+		"difficulty":0.031746031746031744,
+		"averageTime":47.30327868852459,
+		"downloads":126,
 		"shortKey":"CcSwCcSw",
 		"author":"TheFastRunnersG",
-		"completions":98,
+		"completions":122,
 		"id":4136,
 		"completed":false,
 		"title":"Contest",
-		"likes":17
+		"likes":19
 	}
 }

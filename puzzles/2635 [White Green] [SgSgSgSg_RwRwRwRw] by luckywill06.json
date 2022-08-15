@@ -150,15 +150,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5333333333333333,
-		"averageTime":178.71428571428572,
-		"downloads":15,
+		"difficulty":0.5,
+		"averageTime":170,
+		"downloads":17,
 		"shortKey":"SgSgSgSg:RwRwRwRw",
 		"author":"luckywill06",
-		"completions":7,
+		"completions":8,
 		"id":2635,
 		"completed":false,
 		"title":"White Green",

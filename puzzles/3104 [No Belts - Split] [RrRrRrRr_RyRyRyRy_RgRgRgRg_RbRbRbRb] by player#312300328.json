@@ -250,15 +250,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.26315789473684215,
-		"averageTime":51.357142857142854,
-		"downloads":20,
+		"difficulty":0.26086956521739135,
+		"averageTime":47.76470588235294,
+		"downloads":23,
 		"shortKey":"RrRrRrRr:RyRyRyRy:RgRgRgRg:RbRbRbRb",
 		"author":"player#312300328",
-		"completions":14,
+		"completions":17,
 		"id":3104,
 		"completed":false,
 		"title":"No Belts - Split",
-		"likes":4
+		"likes":5
 	}
 }

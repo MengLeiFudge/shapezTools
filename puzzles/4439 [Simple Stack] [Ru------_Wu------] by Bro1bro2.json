@@ -34,18 +34,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15873015873015872,
-		"averageTime":82.79245283018868,
-		"downloads":63,
+		"difficulty":0.14084507042253525,
+		"averageTime":102.54098360655738,
+		"downloads":71,
 		"shortKey":"Ru------:Wu------",
 		"author":"Bro1bro2",
-		"completions":53,
+		"completions":61,
 		"id":4439,
 		"completed":false,
 		"title":"Simple Stack",
-		"likes":12
+		"likes":13
 	}
 }

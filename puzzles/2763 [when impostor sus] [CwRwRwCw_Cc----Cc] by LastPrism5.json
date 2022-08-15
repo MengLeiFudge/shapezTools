@@ -208,15 +208,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5384615384615384,
-		"averageTime":203.5,
-		"downloads":13,
+		"difficulty":0.4666666666666667,
+		"averageTime":274.125,
+		"downloads":16,
 		"shortKey":"CwRwRwCw:Cc----Cc",
 		"author":"LastPrism5",
-		"completions":6,
+		"completions":8,
 		"id":2763,
 		"completed":false,
 		"title":"when impostor sus",

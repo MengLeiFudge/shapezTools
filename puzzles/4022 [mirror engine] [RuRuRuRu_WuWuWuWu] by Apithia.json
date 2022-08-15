@@ -183,13 +183,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.19999999999999996,
+		"averageTime":31.666666666666668,
+		"downloads":15,
 		"shortKey":"RuRuRuRu:WuWuWuWu",
 		"author":"Apithia",
-		"completions":8,
+		"completions":12,
 		"id":4022,
 		"completed":false,
 		"title":"mirror engine",

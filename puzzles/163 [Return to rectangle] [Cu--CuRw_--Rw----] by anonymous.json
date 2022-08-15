@@ -68,12 +68,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":1101.857142857143,
-		"downloads":14,
+		"difficulty":0.4375,
+		"averageTime":1053.3333333333333,
+		"downloads":16,
 		"shortKey":"Cu--CuRw:--Rw----",
 		"author":"anonymous",
-		"completions":7,
+		"completions":9,
 		"id":163,
 		"completed":false,
 		"title":"Return to rectangle",

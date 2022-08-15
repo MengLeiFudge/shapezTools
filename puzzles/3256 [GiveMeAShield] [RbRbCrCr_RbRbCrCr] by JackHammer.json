@@ -204,15 +204,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.34375,
-		"averageTime":219.47619047619048,
-		"downloads":32,
+		"difficulty":0.375,
+		"averageTime":225.32,
+		"downloads":41,
 		"shortKey":"RbRbCrCr:RbRbCrCr",
 		"author":"JackHammer",
-		"completions":21,
+		"completions":25,
 		"id":3256,
 		"completed":true,
 		"title":"GiveMeAShield",

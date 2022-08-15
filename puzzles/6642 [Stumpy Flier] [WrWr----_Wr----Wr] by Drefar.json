@@ -1,0 +1,53 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"WuWuWuWu",
+				"pos":{
+					"r":0,
+					"x":-2,
+					"y":1
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"red",
+				"pos":{
+					"r":90,
+					"x":0,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"WrWr----:Wr----Wr",
+				"pos":{
+					"r":270,
+					"x":-1,
+					"y":1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":4,
+			"h":4
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.2222222222222222,
+		"averageTime":219.78571428571428,
+		"downloads":19,
+		"shortKey":"WrWr----:Wr----Wr",
+		"author":"Drefar",
+		"completions":14,
+		"id":6642,
+		"completed":false,
+		"title":"Stumpy Flier",
+		"likes":4
+	}
+}

@@ -188,18 +188,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06594885598923284,
-		"averageTime":88.94956772334294,
-		"downloads":743,
+		"difficulty":0.07343283582089555,
+		"averageTime":79.14368556701031,
+		"downloads":1675,
 		"shortKey":"SySySySy:SrSrSrSr:SbSbSbSb:SgSgSgSg",
 		"author":"Eddie",
-		"completions":694,
+		"completions":1552,
 		"id":625,
 		"completed":true,
 		"title":"RainbowStar",
-		"likes":198
+		"likes":361
 	}
 }

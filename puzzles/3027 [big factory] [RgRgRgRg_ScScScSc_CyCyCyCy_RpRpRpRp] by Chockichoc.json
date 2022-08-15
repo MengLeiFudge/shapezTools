@@ -409,15 +409,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.32558139534883723,
-		"averageTime":147,
-		"downloads":43,
+		"difficulty":0.2295081967213115,
+		"averageTime":158.0212765957447,
+		"downloads":61,
 		"shortKey":"RgRgRgRg:ScScScSc:CyCyCyCy:RpRpRpRp",
 		"author":"Chockichoc",
-		"completions":29,
+		"completions":47,
 		"id":3027,
 		"completed":false,
 		"title":"big factory",
-		"likes":12
+		"likes":16
 	}
 }

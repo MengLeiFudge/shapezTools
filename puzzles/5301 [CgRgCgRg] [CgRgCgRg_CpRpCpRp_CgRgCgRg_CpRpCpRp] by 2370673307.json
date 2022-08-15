@@ -442,18 +442,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":399.73333333333335,
-		"downloads":30,
+		"difficulty":0.5151515151515151,
+		"averageTime":389.8125,
+		"downloads":33,
 		"shortKey":"CgRgCgRg:CpRpCpRp:CgRgCgRg:CpRpCpRp",
 		"author":"2370673307",
-		"completions":15,
+		"completions":16,
 		"id":5301,
 		"completed":false,
 		"title":"CgRgCgRg",
-		"likes":5
+		"likes":6
 	}
 }

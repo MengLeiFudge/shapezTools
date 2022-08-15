@@ -142,18 +142,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3571428571428571,
-		"averageTime":379.77777777777777,
-		"downloads":16,
+		"difficulty":0.2857142857142857,
+		"averageTime":3900.3333333333335,
+		"downloads":21,
 		"shortKey":"CcCrCgCb:CuCuCuCu:CpCyCgCr:CpCpCwCw",
 		"author":"tattlegameing",
-		"completions":9,
+		"completions":15,
 		"id":5182,
 		"completed":false,
 		"title":"super hard",
-		"likes":3
+		"likes":5
 	}
 }

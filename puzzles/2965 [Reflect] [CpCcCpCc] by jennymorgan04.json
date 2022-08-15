@@ -247,15 +247,17 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08695652173913049,
-		"averageTime":100.84126984126983,
-		"downloads":69,
+		"difficulty":0.08333333333333337,
+		"averageTime":96.89393939393939,
+		"downloads":72,
 		"shortKey":"CpCcCpCc",
 		"author":"jennymorgan04",
-		"completions":63,
+		"completions":66,
 		"id":2965,
 		"completed":false,
 		"title":"Reflect",

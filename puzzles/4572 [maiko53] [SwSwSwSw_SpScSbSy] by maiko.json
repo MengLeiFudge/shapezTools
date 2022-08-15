@@ -1536,15 +1536,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3770491803278688,
-		"averageTime":333.2631578947368,
-		"downloads":61,
+		"difficulty":0.3055555555555556,
+		"averageTime":311.93333333333334,
+		"downloads":108,
 		"shortKey":"SwSwSwSw:SpScSbSy",
 		"author":"maiko",
-		"completions":38,
+		"completions":75,
 		"id":4572,
 		"completed":true,
 		"title":"maiko53",
-		"likes":19
+		"likes":29
 	}
 }

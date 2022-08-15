@@ -78,18 +78,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1286549707602339,
-		"averageTime":92.95302013422818,
-		"downloads":171,
+		"difficulty":0.13247863247863245,
+		"averageTime":95.50246305418719,
+		"downloads":234,
 		"shortKey":"--Wu----",
 		"author":"A_Person",
-		"completions":149,
+		"completions":203,
 		"id":2903,
 		"completed":true,
 		"title":"The Many Paths",
-		"likes":59
+		"likes":71
 	}
 }

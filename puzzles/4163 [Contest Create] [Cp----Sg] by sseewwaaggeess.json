@@ -978,15 +978,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4444444444444444,
-		"averageTime":532.3333333333334,
-		"downloads":31,
+		"difficulty":0.48571428571428577,
+		"averageTime":485.5,
+		"downloads":36,
 		"shortKey":"Cp----Sg",
 		"author":"sseewwaaggeess",
-		"completions":15,
+		"completions":18,
 		"id":4163,
 		"completed":false,
 		"title":"Contest Create",

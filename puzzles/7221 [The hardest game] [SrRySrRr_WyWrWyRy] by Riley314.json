@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":270,
+					"x":-1,
+					"y":0
+				},
+				"type":"goal"
+			},
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":90,
+					"x":-1,
+					"y":-1
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":2
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"downloads":10,
+		"shortKey":"SrRySrRr:WyWrWyRy",
+		"author":"Riley314",
+		"completions":9,
+		"id":7221,
+		"completed":false,
+		"title":"The hardest game",
+		"likes":0
+	}
+}

@@ -54,15 +54,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.08505154639175261,
-		"averageTime":90.6169014084507,
-		"downloads":388,
+		"difficulty":0.0861244019138756,
+		"averageTime":90.18062827225131,
+		"downloads":418,
 		"shortKey":"WwWwWwWw:WwWwWwWw:WwWwWwWw:WwWwWw--",
 		"author":"anonymous",
-		"completions":355,
+		"completions":382,
 		"id":334,
 		"completed":false,
 		"title":"wandmill",
-		"likes":120
+		"likes":122
 	}
 }

@@ -81,15 +81,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.052513128282070554,
-		"averageTime":89.37608867775138,
-		"downloads":1333,
+		"difficulty":0.052891396332863216,
+		"averageTime":90.06924795234549,
+		"downloads":1418,
 		"shortKey":"CrRgWbSp",
 		"author":"anonymous",
-		"completions":1263,
+		"completions":1343,
 		"id":110,
 		"completed":true,
 		"title":"Belt Madness 1",
-		"likes":368
+		"likes":387
 	}
 }

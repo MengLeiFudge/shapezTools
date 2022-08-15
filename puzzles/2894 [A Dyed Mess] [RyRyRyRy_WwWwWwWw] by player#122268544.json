@@ -124,15 +124,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":128.33333333333334,
-		"downloads":16,
+		"difficulty":0.23529411764705888,
+		"averageTime":124.15384615384616,
+		"downloads":17,
 		"shortKey":"RyRyRyRy:WwWwWwWw",
 		"author":"player#122268544",
-		"completions":12,
+		"completions":13,
 		"id":2894,
 		"completed":false,
 		"title":"A Dyed Mess",

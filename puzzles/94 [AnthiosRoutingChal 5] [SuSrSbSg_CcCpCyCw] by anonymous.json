@@ -531,12 +531,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.16000000000000003,
-		"averageTime":280.57142857142856,
-		"downloads":25,
+		"difficulty":0.1428571428571429,
+		"averageTime":263.25,
+		"downloads":28,
 		"shortKey":"SuSrSbSg:CcCpCyCw",
 		"author":"anonymous",
-		"completions":21,
+		"completions":24,
 		"id":94,
 		"completed":true,
 		"title":"AnthiosRoutingChal 5",

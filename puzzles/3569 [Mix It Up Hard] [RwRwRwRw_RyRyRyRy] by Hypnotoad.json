@@ -52,15 +52,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":185.23333333333332,
-		"downloads":42,
+		"difficulty":0.2666666666666667,
+		"averageTime":186,
+		"downloads":45,
 		"shortKey":"RwRwRwRw:RyRyRyRy",
 		"author":"Hypnotoad",
-		"completions":30,
+		"completions":33,
 		"id":3569,
 		"completed":false,
 		"title":"Mix It Up Hard",

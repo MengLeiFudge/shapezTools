@@ -54,15 +54,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.05154639175257736,
-		"averageTime":33.52173913043478,
-		"downloads":291,
+		"difficulty":0.03754940711462451,
+		"averageTime":33.17864476386037,
+		"downloads":506,
 		"shortKey":"SrSrSrSr",
 		"author":"anonymous",
-		"completions":276,
+		"completions":487,
 		"id":99,
 		"completed":true,
 		"title":"Merging Is Posibble",
-		"likes":67
+		"likes":101
 	}
 }

@@ -189,18 +189,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":322,
-		"downloads":48,
+		"difficulty":0.3015873015873016,
+		"averageTime":1377.5227272727273,
+		"downloads":63,
 		"shortKey":"CuCuCuCu:RrRrRrRr",
 		"author":"CodeNick",
-		"completions":32,
+		"completions":44,
 		"id":4414,
 		"completed":false,
 		"title":"Contest -Aisle Short",
-		"likes":14
+		"likes":17
 	}
 }

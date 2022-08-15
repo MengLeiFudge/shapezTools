@@ -554,10 +554,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"downloads":13,
 		"shortKey":"RyRrRyRr",
 		"author":"UnhealthyPoro",
 		"completions":8,

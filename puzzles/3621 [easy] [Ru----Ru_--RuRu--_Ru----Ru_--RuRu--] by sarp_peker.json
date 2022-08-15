@@ -79,15 +79,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":27.071428571428573,
-		"downloads":18,
+		"difficulty":0.19999999999999996,
+		"averageTime":27.8125,
+		"downloads":20,
 		"shortKey":"Ru----Ru:--RuRu--:Ru----Ru:--RuRu--",
 		"author":"sarp_peker",
-		"completions":14,
+		"completions":16,
 		"id":3621,
 		"completed":false,
 		"title":"easy",

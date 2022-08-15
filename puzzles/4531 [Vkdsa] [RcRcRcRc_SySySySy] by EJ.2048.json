@@ -142,15 +142,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":87.05555555555556,
-		"downloads":25,
+		"difficulty":0.2592592592592593,
+		"averageTime":90.4,
+		"downloads":27,
 		"shortKey":"RcRcRcRc:SySySySy",
 		"author":"EJ.2048",
-		"completions":18,
+		"completions":20,
 		"id":4531,
 		"completed":false,
 		"title":"Vkdsa",

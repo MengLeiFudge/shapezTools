@@ -127,15 +127,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.30000000000000004,
-		"averageTime":294.85714285714283,
-		"downloads":20,
+		"difficulty":0.36734693877551017,
+		"averageTime":237.67741935483872,
+		"downloads":49,
 		"shortKey":"CrCrCrCr:CyCyCyCy:CrCrCrCr",
 		"author":"jacobsedk",
-		"completions":14,
+		"completions":31,
 		"id":1087,
 		"completed":false,
 		"title":"Flow Free 12x12",
-		"likes":5
+		"likes":9
 	}
 }

@@ -84,18 +84,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.30000000000000004,
-		"averageTime":157.85714285714286,
-		"downloads":51,
+		"difficulty":0.21276595744680848,
+		"averageTime":140.83783783783784,
+		"downloads":94,
 		"shortKey":"Wp----Wp:WpWp----:SpSpSpSp",
 		"author":"adrilava",
-		"completions":35,
+		"completions":74,
 		"id":5141,
 		"completed":false,
 		"title":"Compact",
-		"likes":15
+		"likes":27
 	}
 }

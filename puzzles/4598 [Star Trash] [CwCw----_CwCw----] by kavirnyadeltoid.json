@@ -183,15 +183,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5882352941176471,
-		"averageTime":307.2857142857143,
-		"downloads":34,
+		"difficulty":0.5172413793103448,
+		"averageTime":275.60714285714283,
+		"downloads":58,
 		"shortKey":"CwCw----:CwCw----",
 		"author":"kavirnyadeltoid",
-		"completions":14,
+		"completions":28,
 		"id":4598,
 		"completed":false,
 		"title":"Star Trash",
-		"likes":9
+		"likes":13
 	}
 }

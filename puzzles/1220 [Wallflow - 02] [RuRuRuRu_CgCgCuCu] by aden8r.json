@@ -179,15 +179,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":12.4,
-		"downloads":14,
+		"difficulty":0.19999999999999996,
+		"averageTime":13,
+		"downloads":20,
 		"shortKey":"RuRuRuRu:CgCgCuCu",
 		"author":"aden8r",
-		"completions":10,
+		"completions":16,
 		"id":1220,
 		"completed":false,
 		"title":"Wallflow - 02",
-		"likes":2
+		"likes":3
 	}
 }

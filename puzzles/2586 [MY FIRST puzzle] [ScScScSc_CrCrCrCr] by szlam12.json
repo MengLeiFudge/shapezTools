@@ -165,15 +165,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.25552050473186116,
-		"averageTime":257.25847457627117,
-		"downloads":317,
+		"difficulty":0.23943661971830987,
+		"averageTime":404.46031746031747,
+		"downloads":497,
 		"shortKey":"ScScScSc:CrCrCrCr",
 		"author":"szlam12",
-		"completions":236,
+		"completions":378,
 		"id":2586,
 		"completed":true,
 		"title":"MY FIRST puzzle",
-		"likes":114
+		"likes":151
 	}
 }

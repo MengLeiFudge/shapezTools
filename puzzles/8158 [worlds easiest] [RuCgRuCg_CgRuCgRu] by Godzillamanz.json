@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"WuWuWuWu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"WuWuWuWu",
+				"pos":{
+					"r":90,
+					"x":0,
+					"y":-1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":2
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0,
+		"averageTime":6.5,
+		"downloads":21,
+		"shortKey":"RuCgRuCg:CgRuCgRu",
+		"author":"Godzillamanz",
+		"completions":20,
+		"id":8158,
+		"completed":false,
+		"title":"worlds easiest",
+		"likes":1
+	}
+}

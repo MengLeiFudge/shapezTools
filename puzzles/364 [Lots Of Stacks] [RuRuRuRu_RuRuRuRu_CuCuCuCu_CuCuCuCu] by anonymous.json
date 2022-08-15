@@ -109,15 +109,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.01538461538461533,
-		"averageTime":49.9609375,
-		"downloads":260,
+		"difficulty":0.010471204188481686,
+		"averageTime":55.664021164021165,
+		"downloads":382,
 		"shortKey":"RuRuRuRu:RuRuRuRu:CuCuCuCu:CuCuCuCu",
 		"author":"anonymous",
-		"completions":256,
+		"completions":378,
 		"id":364,
 		"completed":false,
 		"title":"Lots Of Stacks",
-		"likes":57
+		"likes":70
 	}
 }

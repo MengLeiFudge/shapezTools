@@ -109,10 +109,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.15384615384615385,
+		"averageTime":11,
+		"downloads":13,
 		"shortKey":"SySySyCw:WgCwWgWw",
 		"author":"Manite",
-		"completions":7,
+		"completions":11,
 		"id":2435,
 		"completed":false,
 		"title":"Flux - C - 5x5 - 14",

@@ -54,15 +54,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.10125260960334026,
-		"averageTime":134.0766550522648,
-		"downloads":958,
+		"difficulty":0.09369676320272569,
+		"averageTime":125.23402255639098,
+		"downloads":1174,
 		"shortKey":"WwWwWwWw",
 		"author":"anonymous",
-		"completions":861,
+		"completions":1064,
 		"id":12,
 		"completed":true,
 		"title":"Wind thing",
-		"likes":335
+		"likes":367
 	}
 }

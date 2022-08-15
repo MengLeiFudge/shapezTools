@@ -162,15 +162,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07722007722007718,
-		"averageTime":127.89958158995816,
-		"downloads":259,
+		"difficulty":0.0628019323671497,
+		"averageTime":132.16494845360825,
+		"downloads":415,
 		"shortKey":"RuWuSuCu:RuWuSuCu",
 		"author":"ComKat",
-		"completions":239,
+		"completions":388,
 		"id":4706,
-		"completed":false,
+		"completed":true,
 		"title":"CK_Flow_1",
-		"likes":95
+		"likes":128
 	}
 }

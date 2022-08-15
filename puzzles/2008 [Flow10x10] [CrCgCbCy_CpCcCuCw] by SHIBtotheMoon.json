@@ -151,18 +151,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09210526315789469,
-		"averageTime":85.8695652173913,
-		"downloads":152,
+		"difficulty":0.058441558441558406,
+		"averageTime":83.03448275862068,
+		"downloads":309,
 		"shortKey":"CrCgCbCy:CpCcCuCw",
 		"author":"SHIBtotheMoon",
-		"completions":138,
+		"completions":290,
 		"id":2008,
 		"completed":false,
 		"title":"Flow10x10",
-		"likes":34
+		"likes":56
 	}
 }

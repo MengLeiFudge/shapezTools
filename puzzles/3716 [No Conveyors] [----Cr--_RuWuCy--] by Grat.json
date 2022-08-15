@@ -43,13 +43,15 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.5263157894736843,
+		"averageTime":139,
+		"downloads":19,
 		"shortKey":"----Cr--:RuWuCy--",
 		"author":"Grat",
-		"completions":4,
+		"completions":9,
 		"id":3716,
 		"completed":false,
 		"title":"No Conveyors",
-		"likes":3
+		"likes":4
 	}
 }

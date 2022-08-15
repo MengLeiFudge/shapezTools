@@ -310,18 +310,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21052631578947367,
-		"averageTime":191.63333333333333,
-		"downloads":38,
+		"difficulty":0.1875,
+		"averageTime":184.92307692307693,
+		"downloads":48,
 		"shortKey":"WpWpWpWp:ScScScSc:ScScScSc",
 		"author":"GrumSlusher",
-		"completions":30,
+		"completions":39,
 		"id":5195,
 		"completed":false,
 		"title":"Narrow Enviroment",
-		"likes":11
+		"likes":13
 	}
 }

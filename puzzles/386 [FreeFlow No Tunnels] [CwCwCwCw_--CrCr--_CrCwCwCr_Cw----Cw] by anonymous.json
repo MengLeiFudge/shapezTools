@@ -367,15 +367,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.17272727272727273,
-		"averageTime":331.2197802197802,
-		"downloads":110,
+		"difficulty":0.19310344827586212,
+		"averageTime":326.6068376068376,
+		"downloads":145,
 		"shortKey":"CwCwCwCw:--CrCr--:CrCwCwCr:Cw----Cw",
 		"author":"anonymous",
-		"completions":91,
+		"completions":117,
 		"id":386,
 		"completed":false,
 		"title":"FreeFlow No Tunnels",
-		"likes":38
+		"likes":42
 	}
 }

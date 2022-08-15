@@ -161,10 +161,12 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":14,
+		"downloads":15,
 		"shortKey":"ScScScSc:RyRyRyRy:SySySySy",
 		"author":"maxytwigg",
 		"completions":7,

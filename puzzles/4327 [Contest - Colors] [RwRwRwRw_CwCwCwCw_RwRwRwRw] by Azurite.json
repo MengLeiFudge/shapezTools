@@ -580,15 +580,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.44999999999999996,
-		"averageTime":472.90909090909093,
-		"downloads":44,
+		"difficulty":0.3913043478260869,
+		"averageTime":404.3809523809524,
+		"downloads":70,
 		"shortKey":"RwRwRwRw:CwCwCwCw:RwRwRwRw",
 		"author":"Azurite",
-		"completions":22,
+		"completions":42,
 		"id":4327,
 		"completed":false,
 		"title":"Contest - Colors",
-		"likes":12
+		"likes":18
 	}
 }

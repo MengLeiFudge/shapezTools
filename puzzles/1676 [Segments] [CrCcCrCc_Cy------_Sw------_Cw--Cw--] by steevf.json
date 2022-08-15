@@ -558,13 +558,15 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"CrCcCrCc:Cy------:Sw------:Cw--Cw--",
 		"author":"steevf",
-		"completions":1,
+		"completions":2,
 		"id":1676,
 		"completed":false,
 		"title":"Segments",

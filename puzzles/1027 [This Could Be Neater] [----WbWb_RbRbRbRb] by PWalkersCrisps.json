@@ -127,10 +127,12 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"----WbWb:RbRbRbRb",
 		"author":"PWalkersCrisps",
 		"completions":1,

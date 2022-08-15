@@ -532,18 +532,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21052631578947367,
-		"averageTime":231.83333333333334,
-		"downloads":40,
+		"difficulty":0.22033898305084743,
+		"averageTime":226.52173913043478,
+		"downloads":59,
 		"shortKey":"CyCyCyCy:SgSgSgSg",
 		"author":"player#639461483",
-		"completions":30,
+		"completions":46,
 		"id":5390,
 		"completed":false,
 		"title":"okay",
-		"likes":12
+		"likes":13
 	}
 }

@@ -82,10 +82,11 @@
 	},
 	"meta":{
 		"difficulty":0.33333333333333337,
-		"downloads":8,
+		"averageTime":84,
+		"downloads":12,
 		"shortKey":"SuWuRuCu",
 		"author":"anonymous",
-		"completions":4,
+		"completions":8,
 		"id":60,
 		"completed":false,
 		"title":"shape swapper",

@@ -27,15 +27,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.027310924369747913,
-		"averageTime":23.77537796976242,
-		"downloads":476,
+		"difficulty":0.025401069518716568,
+		"averageTime":27.089163237311386,
+		"downloads":748,
 		"shortKey":"CuCuCuCu:CuCuCuCu:CuCuCuCu:CuCuCuCu",
 		"author":"anonymous",
-		"completions":463,
+		"completions":729,
 		"id":171,
 		"completed":true,
 		"title":"eazy",
-		"likes":114
+		"likes":151
 	}
 }

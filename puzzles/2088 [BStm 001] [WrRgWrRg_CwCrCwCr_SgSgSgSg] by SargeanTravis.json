@@ -181,10 +181,12 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"downloads":13,
 		"shortKey":"WrRgWrRg:CwCrCwCr:SgSgSgSg",
 		"author":"SargeanTravis",
 		"completions":1,

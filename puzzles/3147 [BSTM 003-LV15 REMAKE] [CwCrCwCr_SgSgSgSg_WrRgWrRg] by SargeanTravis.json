@@ -1130,12 +1130,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5384615384615384,
-		"averageTime":269.3333333333333,
-		"downloads":13,
+		"difficulty":0.5,
+		"averageTime":249,
+		"downloads":14,
 		"shortKey":"CwCrCwCr:SgSgSgSg:WrRgWrRg",
 		"author":"SargeanTravis",
-		"completions":6,
+		"completions":7,
 		"id":3147,
 		"completed":false,
 		"title":"BSTM 003-LV15 REMAKE",

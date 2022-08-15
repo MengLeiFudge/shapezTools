@@ -81,12 +81,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4285714285714286,
-		"averageTime":169.625,
-		"downloads":14,
+		"difficulty":0.3125,
+		"averageTime":135.45454545454547,
+		"downloads":16,
 		"shortKey":"--Ru----:--Cu----:--Ru----:--Su----",
 		"author":"KTSATeamkill",
-		"completions":8,
+		"completions":11,
 		"id":1368,
 		"completed":false,
 		"title":"Simple Stacker",

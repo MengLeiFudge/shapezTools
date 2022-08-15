@@ -394,12 +394,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3846153846153846,
-		"averageTime":895.875,
-		"downloads":13,
+		"difficulty":0.3571428571428571,
+		"averageTime":806,
+		"downloads":14,
 		"shortKey":"CrCrCrCr:CwRpRpCw",
 		"author":"Toreole",
-		"completions":8,
+		"completions":9,
 		"id":2943,
 		"completed":false,
 		"title":"Hello World",

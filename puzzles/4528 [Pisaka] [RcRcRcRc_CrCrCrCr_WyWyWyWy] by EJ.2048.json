@@ -409,15 +409,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.31818181818181823,
-		"averageTime":103.13333333333334,
-		"downloads":23,
+		"difficulty":0.31999999999999995,
+		"averageTime":100.58823529411765,
+		"downloads":25,
 		"shortKey":"RcRcRcRc:CrCrCrCr:WyWyWyWy",
 		"author":"EJ.2048",
-		"completions":15,
+		"completions":17,
 		"id":4528,
 		"completed":false,
 		"title":"Pisaka",

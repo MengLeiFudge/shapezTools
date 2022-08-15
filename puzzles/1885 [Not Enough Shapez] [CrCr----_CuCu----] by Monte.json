@@ -50,18 +50,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1597222222222222,
-		"averageTime":167.52892561983472,
-		"downloads":144,
+		"difficulty":0.14880952380952384,
+		"averageTime":158.62937062937064,
+		"downloads":169,
 		"shortKey":"CrCr----:CuCu----",
 		"author":"Monte",
-		"completions":121,
+		"completions":143,
 		"id":1885,
 		"completed":false,
 		"title":"Not Enough Shapez",
-		"likes":46
+		"likes":48
 	}
 }

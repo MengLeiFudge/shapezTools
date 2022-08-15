@@ -174,15 +174,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4482758620689655,
-		"averageTime":456.25,
-		"downloads":32,
+		"difficulty":0.5121951219512195,
+		"averageTime":523.9,
+		"downloads":41,
 		"shortKey":"CgWgSgRg",
 		"author":"milkcupatstarbu",
-		"completions":16,
+		"completions":20,
 		"id":5280,
 		"completed":true,
 		"title":"Thing 30",
-		"likes":8
+		"likes":9
 	}
 }

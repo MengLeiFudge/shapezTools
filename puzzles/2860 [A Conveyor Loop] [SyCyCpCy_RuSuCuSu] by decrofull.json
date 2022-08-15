@@ -57,15 +57,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15000000000000002,
-		"averageTime":10.941176470588236,
-		"downloads":20,
+		"difficulty":0.13636363636363635,
+		"averageTime":10.578947368421053,
+		"downloads":22,
 		"shortKey":"SyCyCpCy:RuSuCuSu",
 		"author":"decrofull",
-		"completions":17,
+		"completions":19,
 		"id":2860,
 		"completed":false,
 		"title":"A Conveyor Loop",

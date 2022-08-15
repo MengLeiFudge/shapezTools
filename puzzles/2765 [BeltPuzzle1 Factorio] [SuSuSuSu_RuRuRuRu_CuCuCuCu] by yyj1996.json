@@ -168,15 +168,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.019512195121951237,
-		"averageTime":63.124378109452735,
-		"downloads":205,
+		"difficulty":0.016786570743405282,
+		"averageTime":68.37073170731708,
+		"downloads":417,
 		"shortKey":"SuSuSuSu:RuRuRuRu:CuCuCuCu",
 		"author":"yyj1996",
-		"completions":201,
+		"completions":410,
 		"id":2765,
 		"completed":true,
 		"title":"BeltPuzzle1 Factorio",
-		"likes":46
+		"likes":81
 	}
 }

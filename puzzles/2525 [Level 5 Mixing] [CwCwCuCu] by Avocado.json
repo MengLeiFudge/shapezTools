@@ -93,15 +93,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.019704433497536922,
-		"averageTime":14.442211055276381,
-		"downloads":203,
+		"difficulty":0.010958904109588996,
+		"averageTime":16.78393351800554,
+		"downloads":365,
 		"shortKey":"CwCwCuCu",
 		"author":"Avocado",
-		"completions":199,
+		"completions":361,
 		"id":2525,
 		"completed":true,
 		"title":"Level 5 Mixing",
-		"likes":46
+		"likes":70
 	}
 }

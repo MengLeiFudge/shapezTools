@@ -95,18 +95,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4444444444444444,
-		"averageTime":394.3,
-		"downloads":18,
+		"difficulty":0.375,
+		"averageTime":335.25,
+		"downloads":32,
 		"shortKey":"WpRpWpRp:WpCpWpCp:WwRcWwRc:WcCwWcCw",
 		"author":"Drefar",
-		"completions":10,
+		"completions":20,
 		"id":3114,
 		"completed":false,
 		"title":"Intolerent Practices",
-		"likes":5
+		"likes":7
 	}
 }

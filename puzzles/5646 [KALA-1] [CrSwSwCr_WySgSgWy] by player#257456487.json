@@ -108,16 +108,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":1,
+		"difficulty":0.2272727272727273,
+		"averageTime":49.35294117647059,
+		"downloads":44,
 		"shortKey":"CrSwSwCr:WySgSgWy",
 		"author":"player#257456487",
-		"completions":0,
+		"completions":34,
 		"id":5646,
-		"completed":false,
+		"completed":true,
 		"title":"KALA-1",
-		"likes":0
+		"likes":9
 	}
 }

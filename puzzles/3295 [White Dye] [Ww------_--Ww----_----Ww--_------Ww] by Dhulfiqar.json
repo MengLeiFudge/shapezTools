@@ -119,13 +119,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.17647058823529416,
+		"averageTime":52.785714285714285,
+		"downloads":17,
 		"shortKey":"Ww------:--Ww----:----Ww--:------Ww",
 		"author":"Dhulfiqar",
-		"completions":6,
+		"completions":14,
 		"id":3295,
 		"completed":false,
 		"title":"White Dye",
-		"likes":2
+		"likes":3
 	}
 }

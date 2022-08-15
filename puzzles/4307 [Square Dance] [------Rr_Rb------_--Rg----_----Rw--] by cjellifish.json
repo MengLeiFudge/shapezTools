@@ -98,15 +98,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1724137931034483,
-		"averageTime":90.1875,
-		"downloads":58,
+		"difficulty":0.1515151515151515,
+		"averageTime":90.69642857142857,
+		"downloads":66,
 		"shortKey":"------Rr:Rb------:--Rg----:----Rw--",
 		"author":"cjellifish",
-		"completions":48,
+		"completions":56,
 		"id":4307,
 		"completed":false,
 		"title":"Square Dance",
-		"likes":14
+		"likes":15
 	}
 }

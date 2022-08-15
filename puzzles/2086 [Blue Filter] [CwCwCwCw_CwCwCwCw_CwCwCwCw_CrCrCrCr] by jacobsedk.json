@@ -114,18 +114,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1806981519507187,
-		"averageTime":89.73057644110276,
-		"downloads":974,
+		"difficulty":0.18243243243243246,
+		"averageTime":90.25265643447462,
+		"downloads":1036,
 		"shortKey":"CwCwCwCw:CwCwCwCw:CwCwCwCw:CrCrCrCr",
 		"author":"jacobsedk",
-		"completions":798,
+		"completions":847,
 		"id":2086,
 		"completed":true,
 		"title":"Blue Filter",
-		"likes":267
+		"likes":280
 	}
 }

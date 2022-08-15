@@ -61,15 +61,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.040590405904059046,
-		"averageTime":52.65769230769231,
-		"downloads":271,
+		"difficulty":0.025000000000000022,
+		"averageTime":48.248717948717946,
+		"downloads":400,
 		"shortKey":"RbRwRbRw:CrCyCrCy",
 		"author":"anonymous",
-		"completions":260,
+		"completions":390,
 		"id":284,
 		"completed":false,
 		"title":"No Tunnel 2D RGB",
-		"likes":59
+		"likes":73
 	}
 }

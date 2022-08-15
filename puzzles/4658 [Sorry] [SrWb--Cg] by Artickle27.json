@@ -43,15 +43,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13636363636363635,
-		"averageTime":23.894736842105264,
-		"downloads":66,
+		"difficulty":0.13043478260869568,
+		"averageTime":23.3,
+		"downloads":69,
 		"shortKey":"SrWb--Cg",
 		"author":"Artickle27",
-		"completions":57,
+		"completions":60,
 		"id":4658,
 		"completed":false,
 		"title":"Sorry",

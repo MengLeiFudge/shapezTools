@@ -628,18 +628,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09905660377358494,
-		"averageTime":148.66492146596858,
-		"downloads":213,
+		"difficulty":0.09144542772861353,
+		"averageTime":135.53246753246754,
+		"downloads":339,
 		"shortKey":"CySgCySg:WcRgWcRg",
 		"author":"BlueSynopsis",
-		"completions":191,
+		"completions":308,
 		"id":2320,
 		"completed":true,
 		"title":"28 - Shape Creator",
-		"likes":75
+		"likes":105
 	}
 }

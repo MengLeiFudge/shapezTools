@@ -357,15 +357,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.13960113960113962,
-		"averageTime":176.39403973509934,
-		"downloads":351,
+		"difficulty":0.11599999999999999,
+		"averageTime":173.48190045248867,
+		"downloads":500,
 		"shortKey":"Ry----Ry:----RyRy",
 		"author":"anonymous",
-		"completions":302,
+		"completions":442,
 		"id":303,
 		"completed":true,
 		"title":"Funky Rectangles",
-		"likes":123
+		"likes":155
 	}
 }

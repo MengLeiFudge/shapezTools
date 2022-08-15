@@ -67,18 +67,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6764705882352942,
-		"averageTime":656.7272727272727,
-		"downloads":108,
+		"difficulty":0.6946564885496183,
+		"averageTime":634.775,
+		"downloads":134,
 		"shortKey":"--Rb--Rb:Rb--Rb--:--Rw--Rw",
 		"author":"hocus22",
-		"completions":33,
+		"completions":40,
 		"id":2787,
 		"completed":true,
 		"title":"Odd Layering",
-		"likes":21
+		"likes":23
 	}
 }

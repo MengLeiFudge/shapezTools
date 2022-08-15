@@ -520,15 +520,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.11111111111111116,
-		"averageTime":91.75,
-		"downloads":27,
+		"difficulty":0.12121212121212122,
+		"averageTime":90.6896551724138,
+		"downloads":34,
 		"shortKey":"CrCuCrCu:CuCrCuCr:CrCuCrCu:CuCrCuCr",
 		"author":"anonymous",
-		"completions":24,
+		"completions":29,
 		"id":450,
 		"completed":false,
 		"title":"My second Puzzle",
-		"likes":9
+		"likes":10
 	}
 }

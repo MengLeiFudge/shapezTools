@@ -303,18 +303,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1711711711711712,
-		"averageTime":231.30434782608697,
-		"downloads":111,
+		"difficulty":0.12745098039215685,
+		"averageTime":225.72471910112358,
+		"downloads":204,
 		"shortKey":"WuCuCuWu:--Cu--Wu",
 		"author":"Azurite",
-		"completions":92,
+		"completions":178,
 		"id":2961,
 		"completed":true,
 		"title":"Symmetry 2",
-		"likes":36
+		"likes":63
 	}
 }

@@ -102,15 +102,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.04347826086956519,
-		"averageTime":71.13636363636364,
-		"downloads":253,
+		"difficulty":0.029629629629629672,
+		"averageTime":73.45038167938931,
+		"downloads":405,
 		"shortKey":"WcScWcSc",
 		"author":"kedros",
-		"completions":242,
+		"completions":393,
 		"id":1154,
 		"completed":false,
 		"title":"Where is belts fixed",
-		"likes":56
+		"likes":74
 	}
 }

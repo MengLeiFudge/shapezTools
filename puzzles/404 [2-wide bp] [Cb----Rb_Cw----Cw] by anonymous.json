@@ -192,12 +192,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.21212121212121215,
-		"averageTime":106.03846153846153,
-		"downloads":33,
+		"difficulty":0.18918918918918914,
+		"averageTime":103.9,
+		"downloads":37,
 		"shortKey":"Cb----Rb:Cw----Cw",
 		"author":"anonymous",
-		"completions":26,
+		"completions":30,
 		"id":404,
 		"completed":false,
 		"title":"2-wide bp",

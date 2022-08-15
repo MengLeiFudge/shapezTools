@@ -183,18 +183,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.75,
-		"averageTime":1347.6,
-		"downloads":30,
+		"difficulty":0.7948717948717949,
+		"averageTime":1065.625,
+		"downloads":46,
 		"shortKey":"Cc------:Su----Su:Wu----Wu",
 		"author":"GlowWoomii",
-		"completions":5,
+		"completions":8,
 		"id":5519,
 		"completed":false,
 		"title":"Mysterious Machine",
-		"likes":5
+		"likes":8
 	}
 }

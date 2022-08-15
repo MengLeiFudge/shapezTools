@@ -75,15 +75,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":77.33333333333333,
-		"downloads":16,
+		"difficulty":0.2222222222222222,
+		"averageTime":78.71428571428571,
+		"downloads":18,
 		"shortKey":"WcWcWcWc:WyWyWyWy",
 		"author":"player#828395693",
-		"completions":12,
+		"completions":14,
 		"id":3004,
 		"completed":false,
 		"title":"20210713",

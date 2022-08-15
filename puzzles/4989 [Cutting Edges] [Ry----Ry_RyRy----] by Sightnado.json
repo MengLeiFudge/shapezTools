@@ -99,15 +99,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":94.93333333333334,
-		"downloads":22,
+		"difficulty":0.2692307692307693,
+		"averageTime":91.05263157894737,
+		"downloads":26,
 		"shortKey":"Ry----Ry:RyRy----",
 		"author":"Sightnado",
-		"completions":15,
+		"completions":19,
 		"id":4989,
 		"completed":false,
 		"title":"Cutting Edges",

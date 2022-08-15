@@ -70,13 +70,17 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.4375,
+		"averageTime":372.1111111111111,
+		"downloads":16,
 		"shortKey":"CuCuCuCu:CwCwCwCw:--Sr--Sb",
 		"author":"wnllixiao",
-		"completions":7,
+		"completions":9,
 		"id":5315,
 		"completed":false,
 		"title":"Contest-cn Compass",

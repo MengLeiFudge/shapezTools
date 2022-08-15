@@ -229,15 +229,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.05405405405405406,
-		"averageTime":65.42857142857143,
-		"downloads":37,
+		"difficulty":0.05084745762711862,
+		"averageTime":61.32142857142857,
+		"downloads":59,
 		"shortKey":"RrRrRrRr:CcCcRrRr:RrRrRrRr:CcCcRrRr",
 		"author":"Jaiihawk",
-		"completions":35,
+		"completions":56,
 		"id":5319,
 		"completed":false,
 		"title":"What da",
-		"likes":7
+		"likes":8
 	}
 }

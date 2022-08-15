@@ -135,15 +135,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.8108108108108107,
-		"averageTime":1603.7142857142858,
-		"downloads":43,
+		"difficulty":0.8222222222222222,
+		"averageTime":1429,
+		"downloads":49,
 		"shortKey":"SgWcRbCr",
 		"author":"micromicrocosm",
-		"completions":7,
+		"completions":8,
 		"id":2939,
 		"completed":true,
 		"title":"Not Microsoft",
-		"likes":7
+		"likes":8
 	}
 }

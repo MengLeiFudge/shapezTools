@@ -427,15 +427,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2586206896551724,
-		"averageTime":271.5348837209302,
-		"downloads":59,
+		"difficulty":0.2666666666666667,
+		"averageTime":266.6363636363636,
+		"downloads":60,
 		"shortKey":"CrCrCrCr:CwCwCwCw:CrCrCrCr:CwCwCgCw",
 		"author":"player#760325370",
-		"completions":43,
+		"completions":44,
 		"id":2252,
 		"completed":false,
 		"title":"Target Practice",

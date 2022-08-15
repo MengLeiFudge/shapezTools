@@ -307,18 +307,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.42307692307692313,
-		"averageTime":495.8,
-		"downloads":27,
+		"difficulty":0.34285714285714286,
+		"averageTime":551.2173913043479,
+		"downloads":36,
 		"shortKey":"Sy------:Sr------",
 		"author":"adrilava",
-		"completions":15,
+		"completions":23,
 		"id":5124,
 		"completed":false,
 		"title":"SAHhHhH",
-		"likes":5
+		"likes":8
 	}
 }

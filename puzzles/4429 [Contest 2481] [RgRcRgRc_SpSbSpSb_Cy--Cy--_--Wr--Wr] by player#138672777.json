@@ -669,18 +669,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7619047619047619,
-		"averageTime":1688.4,
-		"downloads":72,
+		"difficulty":0.794392523364486,
+		"averageTime":1671.090909090909,
+		"downloads":118,
 		"shortKey":"RgRcRgRc:SpSbSpSb:Cy--Cy--:--Wr--Wr",
 		"author":"player#138672777",
-		"completions":15,
+		"completions":22,
 		"id":4429,
 		"completed":true,
 		"title":"Contest 2481",
-		"likes":14
+		"likes":20
 	}
 }

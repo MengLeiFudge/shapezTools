@@ -25,18 +25,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23404255319148937,
-		"averageTime":273.30555555555554,
-		"downloads":50,
+		"difficulty":0.25373134328358204,
+		"averageTime":260.64,
+		"downloads":68,
 		"shortKey":"CrCrCrCr:CyCyCyCy:CgCgCgCg:CpCpCpCp",
 		"author":"LastPrism5",
-		"completions":36,
+		"completions":50,
 		"id":3437,
 		"completed":false,
 		"title":"Make a Rainbow v3",
-		"likes":14
+		"likes":16
 	}
 }

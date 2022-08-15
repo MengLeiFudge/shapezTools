@@ -154,13 +154,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.2857142857142857,
+		"averageTime":62.2,
+		"downloads":14,
 		"shortKey":"Sr----Wr:Wr----Cr:Wr----Rr:Wr----Rr",
 		"author":"PanicAshG4Skins",
-		"completions":5,
+		"completions":10,
 		"id":4961,
 		"completed":false,
 		"title":"Pretty cool puzzle",

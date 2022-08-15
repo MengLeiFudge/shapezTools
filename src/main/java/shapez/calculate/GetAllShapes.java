@@ -115,7 +115,7 @@ public class GetAllShapes {
     }
 
     /**
-     * only for mod.
+     * 三切（去掉右上角），only for mod.
      *
      * @param id
      * @return
@@ -247,7 +247,7 @@ public class GetAllShapes {
             }
         }
         long t2 = System.currentTimeMillis();
-        System.out.println("用时" + (t2 - t1) / 1000 + "s" + (t2 - t1) % 1000 + "ms");
+        System.out.println("用时" + (t2 - t1) / 1000.0 + "s");
     }
 
     private void show(int id) {

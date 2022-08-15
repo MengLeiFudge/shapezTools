@@ -219,18 +219,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23039480800432666,
-		"averageTime":210.31693605059732,
-		"downloads":1849,
+		"difficulty":0.24100813861906012,
+		"averageTime":230.69249394673125,
+		"downloads":3810,
 		"shortKey":"CwCbCwCb",
 		"author":"ridcully",
-		"completions":1423,
+		"completions":2891,
 		"id":771,
 		"completed":true,
 		"title":"Car logo manufactory",
-		"likes":688
+		"likes":1208
 	}
 }

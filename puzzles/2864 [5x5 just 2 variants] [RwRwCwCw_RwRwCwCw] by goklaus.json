@@ -52,18 +52,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.19047619047619047,
-		"averageTime":182.88746803069054,
-		"downloads":483,
+		"difficulty":0.18623853211009178,
+		"averageTime":195.1228861330327,
+		"downloads":1090,
 		"shortKey":"RwRwCwCw:RwRwCwCw",
 		"author":"goklaus",
-		"completions":391,
+		"completions":887,
 		"id":2864,
 		"completed":true,
 		"title":"5x5 just 2 variants",
-		"likes":178
+		"likes":344
 	}
 }

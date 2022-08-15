@@ -1309,12 +1309,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.16129032258064513,
-		"averageTime":98.65384615384616,
-		"downloads":31,
+		"difficulty":0.1428571428571429,
+		"averageTime":105.05555555555556,
+		"downloads":42,
 		"shortKey":"CrRrRrCr:CyCyCyCy",
 		"author":"jacobsedk",
-		"completions":26,
+		"completions":36,
 		"id":1226,
 		"completed":false,
 		"title":"Free Flow 4x8x8",

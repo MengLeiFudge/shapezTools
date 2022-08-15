@@ -689,18 +689,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":253.3,
-		"downloads":57,
+		"difficulty":0.28358208955223885,
+		"averageTime":242.9375,
+		"downloads":68,
 		"shortKey":"RcRcRrRr:RbRbRyRy:RpRpRgRg",
 		"author":"TheLManbergian",
-		"completions":40,
+		"completions":48,
 		"id":4936,
 		"completed":false,
 		"title":"make it even",
-		"likes":14
+		"likes":15
 	}
 }

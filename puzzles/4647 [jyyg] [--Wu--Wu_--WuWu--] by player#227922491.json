@@ -185,18 +185,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7142857142857143,
-		"averageTime":307.875,
-		"downloads":37,
+		"difficulty":0.7380952380952381,
+		"averageTime":261.8181818181818,
+		"downloads":47,
 		"shortKey":"--Wu--Wu:--WuWu--",
 		"author":"player#227922491",
-		"completions":8,
+		"completions":11,
 		"id":4647,
 		"completed":false,
 		"title":"jyyg",
-		"likes":7
+		"likes":8
 	}
 }

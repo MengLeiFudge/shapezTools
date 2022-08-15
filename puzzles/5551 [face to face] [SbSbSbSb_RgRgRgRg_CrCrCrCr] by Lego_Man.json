@@ -764,15 +764,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4814814814814815,
-		"averageTime":375.5,
-		"downloads":27,
+		"difficulty":0.38235294117647056,
+		"averageTime":583.7142857142857,
+		"downloads":34,
 		"shortKey":"SbSbSbSb:RgRgRgRg:CrCrCrCr",
 		"author":"Lego_Man",
-		"completions":14,
+		"completions":21,
 		"id":5551,
 		"completed":false,
 		"title":"face to face",
-		"likes":4
+		"likes":6
 	}
 }

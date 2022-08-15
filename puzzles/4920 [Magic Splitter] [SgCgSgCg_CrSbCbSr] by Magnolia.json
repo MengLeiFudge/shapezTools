@@ -242,13 +242,15 @@
 		]
 	},
 	"meta":{
-		"downloads":23,
+		"difficulty":0.8461538461538461,
+		"averageTime":339.75,
+		"downloads":27,
 		"shortKey":"SgCgSgCg:CrSbCbSr",
 		"author":"Magnolia",
-		"completions":3,
+		"completions":4,
 		"id":4920,
 		"completed":true,
 		"title":"Magic Splitter",
-		"likes":3
+		"likes":4
 	}
 }

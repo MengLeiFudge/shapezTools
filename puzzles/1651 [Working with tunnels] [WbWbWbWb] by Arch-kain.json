@@ -140,10 +140,12 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.1333333333333333,
+		"averageTime":48.15384615384615,
+		"downloads":15,
 		"shortKey":"WbWbWbWb",
 		"author":"Arch-kain",
-		"completions":9,
+		"completions":13,
 		"id":1651,
 		"completed":false,
 		"title":"Working with tunnels",

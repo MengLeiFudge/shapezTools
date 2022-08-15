@@ -117,16 +117,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"difficulty":0.38888888888888884,
+		"averageTime":390.8181818181818,
+		"downloads":18,
 		"shortKey":"SwSwSwSw:SySySySy:CbCbCbCb:SwSwSwSw",
 		"author":"DualBoot",
-		"completions":4,
+		"completions":11,
 		"id":5608,
 		"completed":false,
 		"title":"AquaNova",
-		"likes":2
+		"likes":4
 	}
 }

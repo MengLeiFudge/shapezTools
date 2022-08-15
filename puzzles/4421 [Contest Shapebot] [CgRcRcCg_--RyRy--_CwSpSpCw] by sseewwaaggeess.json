@@ -1070,12 +1070,14 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.6428571428571428,
 		"averageTime":527.2,
-		"downloads":15,
+		"downloads":16,
 		"shortKey":"CgRcRcCg:--RyRy--:CwSpSpCw",
 		"author":"sseewwaaggeess",
 		"completions":5,

@@ -258,13 +258,17 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":14,
+		"difficulty":0.3529411764705882,
+		"averageTime":101.9090909090909,
+		"downloads":17,
 		"shortKey":"CbRyCrRg",
 		"author":"sseewwaaggeess",
-		"completions":7,
+		"completions":11,
 		"id":4109,
 		"completed":false,
 		"title":"Contest Reconstruct",

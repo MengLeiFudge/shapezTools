@@ -515,18 +515,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.18695652173913047,
-		"averageTime":189.36898395721926,
-		"downloads":230,
+		"difficulty":0.18604651162790697,
+		"averageTime":183.53333333333333,
+		"downloads":258,
 		"shortKey":"CrCgCrCg",
 		"author":"player#760325370",
-		"completions":187,
+		"completions":210,
 		"id":1498,
 		"completed":false,
 		"title":"watermellon",
-		"likes":72
+		"likes":76
 	}
 }

@@ -186,15 +186,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.04705882352941182,
-		"averageTime":43.58024691358025,
-		"downloads":85,
+		"difficulty":0.037735849056603765,
+		"averageTime":45.35294117647059,
+		"downloads":106,
 		"shortKey":"CuRcCuRc:WgCuWgCu",
 		"author":"player#827209725",
-		"completions":81,
+		"completions":102,
 		"id":4073,
 		"completed":false,
 		"title":"Be a Maze",
-		"likes":13
+		"likes":16
 	}
 }

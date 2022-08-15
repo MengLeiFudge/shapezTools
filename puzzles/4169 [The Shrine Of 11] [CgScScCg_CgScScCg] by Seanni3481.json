@@ -781,15 +781,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":270.26666666666665,
-		"downloads":24,
+		"difficulty":0.34615384615384615,
+		"averageTime":245.35294117647058,
+		"downloads":26,
 		"shortKey":"CgScScCg:CgScScCg",
 		"author":"Seanni3481",
-		"completions":15,
+		"completions":17,
 		"id":4169,
 		"completed":false,
 		"title":"The Shrine Of 11",

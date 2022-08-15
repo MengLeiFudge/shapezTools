@@ -114,15 +114,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5789473684210527,
-		"averageTime":950,
-		"downloads":21,
+		"difficulty":0.5652173913043479,
+		"averageTime":890.1,
+		"downloads":23,
 		"shortKey":"WgWgWbWr:CyCcCcCp",
 		"author":"Neferryze",
-		"completions":8,
+		"completions":10,
 		"id":4980,
 		"completed":false,
 		"title":"9x8 Color Craft",
-		"likes":5
+		"likes":6
 	}
 }

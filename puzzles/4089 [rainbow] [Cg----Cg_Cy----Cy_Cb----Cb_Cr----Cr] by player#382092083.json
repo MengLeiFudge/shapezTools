@@ -97,18 +97,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10606060606060608,
-		"averageTime":111.9322033898305,
-		"downloads":66,
+		"difficulty":0.09859154929577463,
+		"averageTime":114.75,
+		"downloads":72,
 		"shortKey":"Cg----Cg:Cy----Cy:Cb----Cb:Cr----Cr",
 		"author":"player#382092083",
-		"completions":59,
+		"completions":64,
 		"id":4089,
 		"completed":false,
 		"title":"rainbow",
-		"likes":15
+		"likes":17
 	}
 }

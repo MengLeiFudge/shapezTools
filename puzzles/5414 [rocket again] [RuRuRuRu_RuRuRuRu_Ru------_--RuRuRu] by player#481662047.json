@@ -79,10 +79,12 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":15,
+		"downloads":18,
 		"shortKey":"RuRuRuRu:RuRuRuRu:Ru------:--RuRuRu",
 		"author":"player#481662047",
 		"completions":2,

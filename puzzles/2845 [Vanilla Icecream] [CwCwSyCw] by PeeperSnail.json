@@ -387,15 +387,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1681818181818182,
-		"averageTime":240.7704918032787,
-		"downloads":221,
+		"difficulty":0.12096774193548387,
+		"averageTime":217.085626911315,
+		"downloads":372,
 		"shortKey":"CwCwSyCw",
 		"author":"PeeperSnail",
-		"completions":183,
+		"completions":327,
 		"id":2845,
 		"completed":true,
 		"title":"Vanilla Icecream",
-		"likes":78
+		"likes":115
 	}
 }

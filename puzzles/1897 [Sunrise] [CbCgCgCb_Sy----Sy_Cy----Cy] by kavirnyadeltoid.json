@@ -333,18 +333,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6947368421052631,
-		"averageTime":1023.9655172413793,
-		"downloads":193,
+		"difficulty":0.7038216560509554,
+		"averageTime":931.4516129032259,
+		"downloads":316,
 		"shortKey":"CbCgCgCb:Sy----Sy:Cy----Cy",
 		"author":"kavirnyadeltoid",
-		"completions":58,
+		"completions":93,
 		"id":1897,
 		"completed":true,
 		"title":"Sunrise",
-		"likes":36
+		"likes":57
 	}
 }

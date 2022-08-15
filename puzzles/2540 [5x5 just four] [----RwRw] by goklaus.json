@@ -83,15 +83,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.38095238095238093,
-		"averageTime":39.92307692307692,
-		"downloads":21,
+		"difficulty":0.34782608695652173,
+		"averageTime":38.2,
+		"downloads":23,
 		"shortKey":"----RwRw",
 		"author":"goklaus",
-		"completions":13,
+		"completions":15,
 		"id":2540,
 		"completed":false,
 		"title":"5x5 just four",

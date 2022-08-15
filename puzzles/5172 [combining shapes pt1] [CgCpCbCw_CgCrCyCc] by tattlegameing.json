@@ -162,18 +162,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.34615384615384615,
-		"averageTime":238.23529411764707,
-		"downloads":27,
+		"difficulty":0.33333333333333337,
+		"averageTime":229.6,
+		"downloads":32,
 		"shortKey":"CgCpCbCw:CgCrCyCc",
 		"author":"tattlegameing",
-		"completions":17,
+		"completions":20,
 		"id":5172,
 		"completed":false,
 		"title":"combining shapes pt1",
-		"likes":6
+		"likes":7
 	}
 }

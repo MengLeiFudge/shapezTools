@@ -227,15 +227,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23529411764705888,
-		"averageTime":47.76923076923077,
-		"downloads":17,
+		"difficulty":0.21052631578947367,
+		"averageTime":46.733333333333334,
+		"downloads":19,
 		"shortKey":"RcRpRcRp:SuSbSuSb",
 		"author":"player#782157285",
-		"completions":13,
+		"completions":15,
 		"id":3374,
 		"completed":false,
 		"title":"1010",

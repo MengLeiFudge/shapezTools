@@ -171,18 +171,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07692307692307687,
-		"averageTime":15.208333333333334,
-		"downloads":26,
+		"difficulty":0.050000000000000044,
+		"averageTime":15,
+		"downloads":40,
 		"shortKey":"CbScCbSc:ScWbScWb",
 		"author":"BlueSynopsis",
-		"completions":24,
+		"completions":38,
 		"id":2236,
 		"completed":false,
 		"title":"4 - Tunneling",
-		"likes":5
+		"likes":6
 	}
 }

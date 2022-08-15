@@ -149,18 +149,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09090909090909094,
-		"averageTime":75.54,
-		"downloads":55,
+		"difficulty":0.07926829268292679,
+		"averageTime":90.21192052980132,
+		"downloads":164,
 		"shortKey":"CyCrCrCy:RyCrCrRy",
 		"author":"player#797912316",
-		"completions":50,
+		"completions":151,
 		"id":4711,
 		"completed":false,
 		"title":"18 Again",
-		"likes":11
+		"likes":33
 	}
 }

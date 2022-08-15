@@ -1,0 +1,51 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RuRuRuRu:CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-2
+				},
+				"type":"goal"
+			},
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":0,
+					"y":0
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":3
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"downloads":6,
+		"shortKey":"WrScCgRp",
+		"author":"nstankova3602",
+		"completions":5,
+		"id":9143,
+		"completed":false,
+		"title":"super puzzle go borr",
+		"likes":0
+	}
+}

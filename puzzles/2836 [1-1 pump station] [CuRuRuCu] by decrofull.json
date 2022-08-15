@@ -235,15 +235,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13043478260869568,
-		"averageTime":89.4,
-		"downloads":69,
+		"difficulty":0.10588235294117643,
+		"averageTime":84.26315789473684,
+		"downloads":85,
 		"shortKey":"CuRuRuCu",
 		"author":"decrofull",
-		"completions":60,
+		"completions":76,
 		"id":2836,
 		"completed":false,
 		"title":"1-1 pump station",

@@ -4,6 +4,7 @@ import org.apache.http.Consts;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.RequestBuilder;
+import org.apache.http.entity.ContentType;
 import org.apache.http.entity.mime.HttpMultipartMode;
 import org.apache.http.entity.mime.MultipartEntityBuilder;
 import org.apache.http.impl.client.HttpClients;
@@ -17,6 +18,9 @@ import java.net.HttpURLConnection;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
+import java.net.http.HttpClient;
+import java.net.http.HttpRequest;
+import java.net.http.HttpResponse;
 import java.nio.charset.StandardCharsets;
 import java.text.DecimalFormat;
 import java.util.Locale;
@@ -38,12 +42,21 @@ public class SettingsAndUtils {
     public static final DecimalFormat dfNoPercent = new DecimalFormat("0.0");
     public static final DecimalFormat dfP = new DecimalFormat("00.00%");
 
-    /**
-     * 萌泪的Token，不要滥用哦.
-     */
-    public static final String TOKEN = "9666d5f2-a357-4164-81da-2d1e0a44ed28";
-
     public static final int THREAD_NUM = Runtime.getRuntime().availableProcessors();
+
+    /**
+     * 休眠指定时间，单位ms.
+     *
+     * @param milliseconds 要休眠的时间
+     */
+    public static void sleep(long milliseconds) {
+        try {
+            Thread.sleep(milliseconds);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+            Thread.currentThread().interrupt();
+        }
+    }
 
     /**
      * 存放官方谜题的路径.
@@ -65,28 +78,29 @@ public class SettingsAndUtils {
      * <p>
      * 谜题有可能会被删除，更新本地谜题可以将被删除的谜题移动到其他位置。
      */
-    public static final boolean UPDATE_LOCAL_PUZZLES = true;
+    public static final boolean UPDATE_LOCAL_PUZZLES = false;
 
     /**
-     * 如果本地没有某个ID（小于最大ID）的谜题，是否获取该谜题数据.
+     * 如果本地没有某个ID（小于本地最大ID）的谜题，是否获取该谜题数据.
      * <p>
-     * 谜题未下载全的时候，应该将此项设为true，
+     * 谜题未下载全的时候，应该将此项设为true。
      */
     public static final boolean GET_NON_EXISTS_PUZZLES = false;
 
     /**
-     * 休眠指定时间，单位ms.
-     *
-     * @param milliseconds 要休眠的时间
+     * Shapez Token，用于下载谜题.
+     * <p>
+     * Token 通过抓包方式获取，且可能随版本更新而变化。
      */
-    public static void sleep(long milliseconds) {
-        try {
-            Thread.sleep(milliseconds);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-            Thread.currentThread().interrupt();
-        }
-    }
+    public static final String TOKEN = "c1408e60-07ab-41a8-9bd6-702d6fb57c4e";
+
+    /**
+     * Shapez UA，用于下载谜题.
+     * <p>
+     * UA 通过抓包方式获取，且随版本更新而变化。
+     */
+    public static final String USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) " +
+            "shapez/1.5.5 Chrome/96.0.4664.174 Electron/16.2.8 Safari/537.36";
 
     /**
      * 从网站获取字符串，通常是 json 格式数据.
@@ -100,6 +114,19 @@ public class SettingsAndUtils {
      */
     public static String getInfoFromUrl(String httpUrl, Map<String, String> urlParams, Map<String, String> headerParams) {
         try {
+
+  /*          System.setProperty("http.proxyHost", "127.0.0.1");
+            System.setProperty("https.proxyHost", "127.0.0.1");
+            System.setProperty("http.proxyPort", "443"); // 8888 是 Charles 的默认端口号，请填写你使用的端口号
+            System.setProperty("https.proxyPort", "443");*/
+/*
+            HttpRequest request = HttpRequest.newBuilder()
+                    .uri(URI.create("http://localhost:8081"))
+                    .build();
+            HttpResponse response = HttpClient.newBuilder().build().send(request, HttpResponse.BodyHandlers.ofString());
+
+*/
+
             StringBuilder urlSb = new StringBuilder(httpUrl);
             if (urlParams != null && !urlParams.isEmpty()) {
                 boolean firstParam = true;
@@ -158,11 +185,17 @@ public class SettingsAndUtils {
      * @return 反馈的字符串
      */
     public static String postInfoToUrl(String httpUrl, Map<String, String> headerParams, Map<String, String> bodyParams, Map<String, File> bodyFileParams) {
+
+        System.setProperty("http.proxyHost", "127.0.0.1");
+        System.setProperty("https.proxyHost", "127.0.0.1");
+        System.setProperty("http.proxyPort", "8888"); // 8888 是 Charles 的默认端口号，请填写你使用的端口号
+        System.setProperty("https.proxyPort", "8888");
         RequestBuilder requestBuilder;
         try {
             MultipartEntityBuilder multipartEntityBuilder = MultipartEntityBuilder.create()
-                    .setBoundary("------------------------" + getRandomHexStr(false, 16))
-                    .setMode(HttpMultipartMode.BROWSER_COMPATIBLE);
+                    //.setBoundary("------------------------" + getRandomHexStr(false, 16))
+                    .setMode(HttpMultipartMode.BROWSER_COMPATIBLE)
+                    .setContentType(ContentType.APPLICATION_JSON);
             if (bodyParams != null && !bodyParams.isEmpty()) {
                 for (Map.Entry<String, String> entry : bodyParams.entrySet()) {
                     if (entry.getValue() != null) {

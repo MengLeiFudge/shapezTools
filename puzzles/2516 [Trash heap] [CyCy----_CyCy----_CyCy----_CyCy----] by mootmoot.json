@@ -32,12 +32,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.17647058823529416,
-		"averageTime":28.642857142857142,
-		"downloads":17,
+		"difficulty":0.1578947368421053,
+		"averageTime":26.125,
+		"downloads":19,
 		"shortKey":"CyCy----:CyCy----:CyCy----:CyCy----",
 		"author":"mootmoot",
-		"completions":14,
+		"completions":16,
 		"id":2516,
 		"completed":false,
 		"title":"Trash heap",

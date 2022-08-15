@@ -70,15 +70,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15476190476190477,
-		"averageTime":124.7605633802817,
-		"downloads":84,
+		"difficulty":0.1477272727272727,
+		"averageTime":121.42666666666666,
+		"downloads":89,
 		"shortKey":"RgRgRgRg:RbRbRbRb",
 		"author":"StarM3wtw0",
-		"completions":71,
+		"completions":75,
 		"id":1759,
 		"completed":false,
 		"title":"Cubes",

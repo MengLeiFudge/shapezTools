@@ -202,15 +202,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.46875,
-		"averageTime":210.64705882352942,
-		"downloads":32,
+		"difficulty":0.4722222222222222,
+		"averageTime":198.21052631578948,
+		"downloads":36,
 		"shortKey":"--Cu----:--Ru----:--Wu----:--Su----",
 		"author":"labyrinthlion",
-		"completions":17,
+		"completions":19,
 		"id":4548,
 		"completed":false,
 		"title":"Divide_Split_Join",

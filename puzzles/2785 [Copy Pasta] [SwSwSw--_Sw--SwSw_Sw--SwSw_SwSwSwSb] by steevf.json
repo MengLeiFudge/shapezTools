@@ -339,15 +339,17 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6,
-		"averageTime":551.3333333333334,
-		"downloads":15,
+		"difficulty":0.5625,
+		"averageTime":530.8571428571429,
+		"downloads":16,
 		"shortKey":"SwSwSw--:Sw--SwSw:Sw--SwSw:SwSwSwSb",
 		"author":"steevf",
-		"completions":6,
+		"completions":7,
 		"id":2785,
 		"completed":false,
 		"title":"Copy Pasta",

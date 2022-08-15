@@ -294,13 +294,15 @@
 		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.8461538461538461,
+		"averageTime":627,
+		"downloads":14,
 		"shortKey":"Cb--Cc--:CwRyCwCw:CrCgCrCb:Cb----Cw",
 		"author":"player#138672777",
-		"completions":1,
+		"completions":2,
 		"id":5431,
 		"completed":false,
 		"title":"GOOD IDEA VER 7",
-		"likes":1
+		"likes":2
 	}
 }

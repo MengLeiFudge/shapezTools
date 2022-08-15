@@ -237,10 +237,12 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"Cr------:Cy------:Cg------:Cb------",
 		"author":"NotApplicable",
 		"completions":3,

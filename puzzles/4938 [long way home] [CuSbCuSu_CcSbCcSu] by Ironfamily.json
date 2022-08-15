@@ -179,18 +179,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":17.818181818181817,
-		"downloads":14,
+		"difficulty":0.15000000000000002,
+		"averageTime":17.41176470588235,
+		"downloads":20,
 		"shortKey":"CuSbCuSu:CcSbCcSu",
 		"author":"Ironfamily",
-		"completions":11,
+		"completions":17,
 		"id":4938,
 		"completed":false,
 		"title":"long way home",
-		"likes":1
+		"likes":2
 	}
 }

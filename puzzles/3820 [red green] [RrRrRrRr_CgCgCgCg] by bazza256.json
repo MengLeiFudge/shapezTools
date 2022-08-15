@@ -52,18 +52,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.14814814814814814,
-		"averageTime":32.21739130434783,
-		"downloads":27,
+		"difficulty":0.08823529411764708,
+		"averageTime":35.29032258064516,
+		"downloads":34,
 		"shortKey":"RrRrRrRr:CgCgCgCg",
 		"author":"bazza256",
-		"completions":23,
+		"completions":31,
 		"id":3820,
 		"completed":false,
 		"title":"red green",
-		"likes":3
+		"likes":4
 	}
 }

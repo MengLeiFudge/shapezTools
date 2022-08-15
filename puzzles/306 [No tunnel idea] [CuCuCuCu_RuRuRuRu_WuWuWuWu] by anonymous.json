@@ -87,15 +87,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":493.55555555555554,
-		"downloads":18,
+		"difficulty":0.40909090909090906,
+		"averageTime":360.3076923076923,
+		"downloads":23,
 		"shortKey":"CuCuCuCu:RuRuRuRu:WuWuWuWu",
 		"author":"anonymous",
-		"completions":9,
+		"completions":13,
 		"id":306,
 		"completed":false,
 		"title":"No tunnel idea",
-		"likes":3
+		"likes":5
 	}
 }

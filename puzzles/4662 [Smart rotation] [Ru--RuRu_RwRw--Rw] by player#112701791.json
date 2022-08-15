@@ -130,15 +130,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4509803921568627,
-		"averageTime":1087.2857142857142,
-		"downloads":54,
+		"difficulty":0.3955223880597015,
+		"averageTime":567.7530864197531,
+		"downloads":134,
 		"shortKey":"Ru--RuRu:RwRw--Rw",
 		"author":"player#112701791",
-		"completions":28,
+		"completions":81,
 		"id":4662,
 		"completed":true,
 		"title":"Smart rotation",
-		"likes":16
+		"likes":40
 	}
 }

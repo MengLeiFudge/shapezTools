@@ -180,15 +180,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":765.6666666666666,
-		"downloads":12,
+		"difficulty":0.46153846153846156,
+		"averageTime":723.1428571428571,
+		"downloads":14,
 		"shortKey":"SbSbSbSb:SwSwSwSw",
 		"author":"Vector4",
-		"completions":6,
+		"completions":7,
 		"id":2344,
 		"completed":false,
 		"title":"A star is born",

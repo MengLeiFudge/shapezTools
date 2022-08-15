@@ -67,18 +67,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6666666666666667,
-		"averageTime":201.8,
-		"downloads":17,
+		"difficulty":0.5833333333333333,
+		"averageTime":507.1,
+		"downloads":24,
 		"shortKey":"CgCyCyCg",
 		"author":"unsoughtspoon",
-		"completions":5,
+		"completions":10,
 		"id":2095,
 		"completed":false,
 		"title":"Simple but not",
-		"likes":2
+		"likes":5
 	}
 }

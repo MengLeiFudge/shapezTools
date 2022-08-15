@@ -107,15 +107,17 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1071428571428571,
-		"averageTime":21.64,
-		"downloads":28,
+		"difficulty":0.09090909090909094,
+		"averageTime":20.033333333333335,
+		"downloads":33,
 		"shortKey":"CyCrCyCr:CrCyCrCy",
 		"author":"player#263168873",
-		"completions":25,
+		"completions":30,
 		"id":4053,
 		"completed":false,
 		"title":"Small tunnel only",

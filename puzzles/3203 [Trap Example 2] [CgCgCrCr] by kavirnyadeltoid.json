@@ -395,16 +395,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":14,
+		"difficulty":0.6380368098159509,
+		"averageTime":577.7796610169491,
+		"downloads":165,
 		"shortKey":"CgCgCrCr",
 		"author":"kavirnyadeltoid",
-		"completions":3,
+		"completions":59,
 		"id":3203,
 		"completed":false,
 		"title":"Trap Example 2",
-		"likes":2
+		"likes":32
 	}
 }

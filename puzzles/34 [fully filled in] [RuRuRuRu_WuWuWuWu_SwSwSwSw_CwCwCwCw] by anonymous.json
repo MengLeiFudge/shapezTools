@@ -81,15 +81,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.21271393643031788,
-		"averageTime":276.79813664596276,
-		"downloads":409,
+		"difficulty":0.1875,
+		"averageTime":316.44615384615383,
+		"downloads":641,
 		"shortKey":"RuRuRuRu:WuWuWuWu:SwSwSwSw:CwCwCwCw",
 		"author":"anonymous",
-		"completions":322,
+		"completions":520,
 		"id":34,
 		"completed":true,
 		"title":"fully filled in",
-		"likes":150
+		"likes":199
 	}
 }

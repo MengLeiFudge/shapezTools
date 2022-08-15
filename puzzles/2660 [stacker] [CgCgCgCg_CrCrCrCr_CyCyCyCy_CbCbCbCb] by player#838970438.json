@@ -142,15 +142,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.09999999999999998,
-		"averageTime":93.993894993895,
-		"downloads":910,
+		"difficulty":0.0955284552845529,
+		"averageTime":91.25842696629213,
+		"downloads":984,
 		"shortKey":"CgCgCgCg:CrCrCrCr:CyCyCyCy:CbCbCbCb",
 		"author":"player#838970438",
-		"completions":819,
+		"completions":890,
 		"id":2660,
 		"completed":true,
 		"title":"stacker",
-		"likes":290
+		"likes":305
 	}
 }

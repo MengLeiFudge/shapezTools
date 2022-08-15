@@ -164,15 +164,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16666666666666663,
-		"averageTime":126.75384615384615,
-		"downloads":78,
+		"difficulty":0.15476190476190477,
+		"averageTime":124.2394366197183,
+		"downloads":85,
 		"shortKey":"CrCrCrCr:Cc----Cc",
 		"author":"decrofull",
-		"completions":65,
+		"completions":71,
 		"id":2696,
 		"completed":false,
 		"title":"challenge 1 - sus",

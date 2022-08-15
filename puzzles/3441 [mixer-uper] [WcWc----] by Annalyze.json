@@ -211,18 +211,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.17460317460317465,
-		"averageTime":99.53846153846153,
-		"downloads":64,
+		"difficulty":0.17910447761194026,
+		"averageTime":96.0909090909091,
+		"downloads":67,
 		"shortKey":"WcWc----",
 		"author":"Annalyze",
-		"completions":52,
+		"completions":55,
 		"id":3441,
 		"completed":false,
 		"title":"mixer-uper",
-		"likes":16
+		"likes":17
 	}
 }

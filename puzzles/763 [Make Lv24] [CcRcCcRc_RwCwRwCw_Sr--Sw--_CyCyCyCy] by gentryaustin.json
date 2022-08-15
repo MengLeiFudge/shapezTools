@@ -451,13 +451,15 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"CcRcCcRc:RwCwRwCw:Sr--Sw--:CyCyCyCy",
 		"author":"gentryaustin",
-		"completions":3,
+		"completions":4,
 		"id":763,
 		"completed":false,
 		"title":"Make Lv24",

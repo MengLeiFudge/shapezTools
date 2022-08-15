@@ -129,15 +129,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1166666666666667,
-		"averageTime":106.28301886792453,
-		"downloads":60,
+		"difficulty":0.11111111111111116,
+		"averageTime":104.14285714285714,
+		"downloads":63,
 		"shortKey":"RwRcRwRc:RbRbRbRb",
 		"author":"ahkellogg",
-		"completions":53,
+		"completions":56,
 		"id":4666,
 		"completed":false,
 		"title":"Missing Colors",

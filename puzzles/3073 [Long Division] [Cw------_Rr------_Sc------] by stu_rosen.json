@@ -315,15 +315,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.13043478260869568,
-		"averageTime":103.25,
-		"downloads":23,
+		"difficulty":0.11538461538461542,
+		"averageTime":101.43478260869566,
+		"downloads":26,
 		"shortKey":"Cw------:Rr------:Sc------",
 		"author":"stu_rosen",
-		"completions":20,
+		"completions":23,
 		"id":3073,
 		"completed":false,
 		"title":"Long Division",
-		"likes":6
+		"likes":7
 	}
 }

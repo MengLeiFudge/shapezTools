@@ -149,10 +149,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.1333333333333333,
+		"averageTime":11.461538461538462,
+		"downloads":15,
 		"shortKey":"CrCrCrCr:----CrCr",
 		"author":"TheChris2009",
-		"completions":7,
+		"completions":13,
 		"id":1435,
 		"completed":false,
 		"title":"TC2K9 Series 1-1",

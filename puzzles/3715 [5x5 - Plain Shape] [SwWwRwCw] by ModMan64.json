@@ -92,18 +92,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06666666666666665,
-		"averageTime":35.12244897959184,
-		"downloads":105,
+		"difficulty":0.03883495145631066,
+		"averageTime":43.515151515151516,
+		"downloads":206,
 		"shortKey":"SwWwRwCw",
 		"author":"ModMan64",
-		"completions":98,
+		"completions":198,
 		"id":3715,
 		"completed":false,
 		"title":"5x5 - Plain Shape",
-		"likes":21
+		"likes":37
 	}
 }

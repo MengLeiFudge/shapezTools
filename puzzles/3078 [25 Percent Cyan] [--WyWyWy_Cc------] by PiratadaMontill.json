@@ -34,18 +34,20 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.27586206896551724,
-		"averageTime":419.3333333333333,
-		"downloads":87,
+		"difficulty":0.2272727272727273,
+		"averageTime":438.77450980392155,
+		"downloads":132,
 		"shortKey":"--WyWyWy:Cc------",
 		"author":"PiratadaMontill",
-		"completions":63,
+		"completions":102,
 		"id":3078,
 		"completed":true,
 		"title":"25 Percent Cyan",
-		"likes":30
+		"likes":38
 	}
 }

@@ -121,15 +121,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6799999999999999,
-		"averageTime":735.75,
-		"downloads":37,
+		"difficulty":0.7560975609756098,
+		"averageTime":635.6,
+		"downloads":53,
 		"shortKey":"CbCwCwCw",
 		"author":"mootmoot",
-		"completions":8,
+		"completions":10,
 		"id":2851,
 		"completed":true,
 		"title":"Ammonia oxidization",
-		"likes":7
+		"likes":9
 	}
 }

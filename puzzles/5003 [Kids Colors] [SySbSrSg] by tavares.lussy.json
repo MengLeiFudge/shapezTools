@@ -61,13 +61,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.4,
+		"averageTime":110.22222222222223,
+		"downloads":15,
 		"shortKey":"SySbSrSg",
 		"author":"tavares.lussy",
-		"completions":4,
+		"completions":9,
 		"id":5003,
 		"completed":false,
 		"title":"Kids Colors",

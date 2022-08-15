@@ -254,15 +254,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.08433734939759041,
-		"averageTime":135.92105263157896,
-		"downloads":167,
+		"difficulty":0.06910569105691056,
+		"averageTime":124.41484716157206,
+		"downloads":246,
 		"shortKey":"RuRuRuRu:SbSbSbSb",
 		"author":"mootmoot",
-		"completions":152,
+		"completions":229,
 		"id":2306,
 		"completed":true,
 		"title":"Which split",
-		"likes":60
+		"likes":76
 	}
 }

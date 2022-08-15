@@ -1491,18 +1491,20 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":763,
-		"downloads":50,
+		"difficulty":0.4461538461538461,
+		"averageTime":789.5555555555555,
+		"downloads":67,
 		"shortKey":"CyCw--Cw",
 		"author":"player#328555505",
-		"completions":25,
+		"completions":36,
 		"id":5065,
 		"completed":true,
 		"title":"15x20 Puzzle Game",
-		"likes":15
+		"likes":18
 	}
 }

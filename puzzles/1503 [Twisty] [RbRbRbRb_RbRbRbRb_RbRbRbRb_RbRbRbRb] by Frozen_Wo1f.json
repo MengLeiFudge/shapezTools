@@ -269,15 +269,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3098591549295775,
-		"averageTime":151.14285714285714,
-		"downloads":71,
+		"difficulty":0.3013698630136986,
+		"averageTime":148.86274509803923,
+		"downloads":73,
 		"shortKey":"RbRbRbRb:RbRbRbRb:RbRbRbRb:RbRbRbRb",
 		"author":"Frozen_Wo1f",
-		"completions":49,
+		"completions":51,
 		"id":1503,
 		"completed":false,
 		"title":"Twisty",

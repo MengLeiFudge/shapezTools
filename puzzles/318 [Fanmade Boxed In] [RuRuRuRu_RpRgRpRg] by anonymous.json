@@ -606,15 +606,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.7659574468085106,
-		"averageTime":1365.1818181818182,
-		"downloads":49,
+		"difficulty":0.7818181818181819,
+		"averageTime":1265.25,
+		"downloads":59,
 		"shortKey":"RuRuRuRu:RpRgRpRg",
 		"author":"anonymous",
-		"completions":11,
+		"completions":12,
 		"id":318,
 		"completed":true,
 		"title":"Fanmade Boxed In",
-		"likes":9
+		"likes":10
 	}
 }

@@ -470,15 +470,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.30000000000000004,
-		"averageTime":217.5873015873016,
-		"downloads":90,
+		"difficulty":0.2755905511811023,
+		"averageTime":333.6521739130435,
+		"downloads":127,
 		"shortKey":"RgRyRbRr:RyRbRrRg:RbRrRgRy:RrRgRyRb",
 		"author":"player#312300328",
-		"completions":63,
+		"completions":92,
 		"id":3050,
 		"completed":true,
 		"title":"Microsoft",
-		"likes":27
+		"likes":34
 	}
 }

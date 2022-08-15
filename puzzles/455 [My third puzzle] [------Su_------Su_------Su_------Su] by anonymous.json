@@ -339,12 +339,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.23076923076923073,
-		"averageTime":68.4,
-		"downloads":13,
+		"difficulty":0.16666666666666663,
+		"averageTime":60.6,
+		"downloads":19,
 		"shortKey":"------Su:------Su:------Su:------Su",
 		"author":"anonymous",
-		"completions":10,
+		"completions":15,
 		"id":455,
 		"completed":false,
 		"title":"My third puzzle",

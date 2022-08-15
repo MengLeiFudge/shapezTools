@@ -43,13 +43,15 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"CuScCuSc:SuRuSuRu",
 		"author":"EJ.2048",
-		"completions":2,
+		"completions":3,
 		"id":4677,
 		"completed":false,
 		"title":"game Logo Lv 20",

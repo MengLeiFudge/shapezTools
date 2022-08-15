@@ -106,15 +106,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4137931034482759,
-		"averageTime":260,
-		"downloads":29,
+		"difficulty":0.375,
+		"averageTime":254.6,
+		"downloads":32,
 		"shortKey":"CyCgCyCg:CgCyCgCy:CyCgCyCg",
 		"author":"vlazi",
-		"completions":17,
+		"completions":20,
 		"id":4844,
 		"completed":false,
 		"title":"Apple pie",

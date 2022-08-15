@@ -435,10 +435,12 @@
 		]
 	},
 	"meta":{
-		"downloads":13,
+		"difficulty":0.7857142857142857,
+		"averageTime":223,
+		"downloads":14,
 		"shortKey":"--Rw--Rw:--Ru--Ru:--Sb--Sb:CyCyCyCy",
 		"author":"steevf",
-		"completions":2,
+		"completions":3,
 		"id":1654,
 		"completed":false,
 		"title":"What Goes Where",

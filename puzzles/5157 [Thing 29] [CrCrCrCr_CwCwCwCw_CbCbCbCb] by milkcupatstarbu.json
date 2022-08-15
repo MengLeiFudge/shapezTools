@@ -149,18 +149,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7142857142857143,
-		"averageTime":616.25,
-		"downloads":22,
+		"difficulty":0.719626168224299,
+		"averageTime":1528.2333333333333,
+		"downloads":110,
 		"shortKey":"CrCrCrCr:CwCwCwCw:CbCbCbCb",
 		"author":"milkcupatstarbu",
-		"completions":4,
+		"completions":30,
 		"id":5157,
 		"completed":true,
 		"title":"Thing 29",
-		"likes":4
+		"likes":19
 	}
 }

@@ -27,13 +27,15 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.1578947368421053,
+		"averageTime":104.5625,
+		"downloads":19,
 		"shortKey":"RbRbRbRb:CwCwCwCw",
 		"author":"anonymous",
-		"completions":8,
+		"completions":16,
 		"id":167,
 		"completed":false,
 		"title":"square blueprint",
-		"likes":6
+		"likes":7
 	}
 }

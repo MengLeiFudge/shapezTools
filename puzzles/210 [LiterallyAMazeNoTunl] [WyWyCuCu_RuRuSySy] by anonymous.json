@@ -1195,15 +1195,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.0492424242424242,
-		"averageTime":38.59362549800797,
-		"downloads":264,
+		"difficulty":0.042944785276073594,
+		"averageTime":40.70192307692308,
+		"downloads":326,
 		"shortKey":"WyWyCuCu:RuRuSySy",
 		"author":"anonymous",
-		"completions":251,
+		"completions":312,
 		"id":210,
 		"completed":false,
 		"title":"LiterallyAMazeNoTunl",
-		"likes":52
+		"likes":57
 	}
 }

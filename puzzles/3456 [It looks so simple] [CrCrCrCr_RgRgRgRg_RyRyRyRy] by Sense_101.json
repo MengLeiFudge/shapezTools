@@ -381,15 +381,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.18656716417910446,
-		"averageTime":416.55045871559633,
-		"downloads":134,
+		"difficulty":0.18055555555555558,
+		"averageTime":354.1638418079096,
+		"downloads":217,
 		"shortKey":"CrCrCrCr:RgRgRgRg:RyRyRyRy",
 		"author":"Sense_101",
-		"completions":109,
+		"completions":177,
 		"id":3456,
 		"completed":true,
 		"title":"It looks so simple",
-		"likes":45
+		"likes":67
 	}
 }

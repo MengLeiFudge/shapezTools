@@ -117,15 +117,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.11764705882352944,
-		"averageTime":30,
-		"downloads":17,
+		"difficulty":0.11111111111111116,
+		"averageTime":28.5,
+		"downloads":27,
 		"shortKey":"RrRyRgRb:CbCrCyCg:WrWyWgWb:WbWrWyWg",
 		"author":"anonymous",
-		"completions":15,
+		"completions":24,
 		"id":315,
 		"completed":false,
 		"title":"Connect the Circles",
-		"likes":3
+		"likes":4
 	}
 }

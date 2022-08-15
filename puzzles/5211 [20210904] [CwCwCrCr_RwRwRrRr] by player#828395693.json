@@ -84,18 +84,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.28125,
-		"averageTime":120.6086956521739,
-		"downloads":32,
+		"difficulty":0.22448979591836737,
+		"averageTime":152.07894736842104,
+		"downloads":49,
 		"shortKey":"CwCwCrCr:RwRwRrRr",
 		"author":"player#828395693",
-		"completions":23,
+		"completions":38,
 		"id":5211,
 		"completed":false,
 		"title":"20210904",
-		"likes":10
+		"likes":11
 	}
 }

@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":-3,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":90,
+					"x":2,
+					"y":-2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.040000000000000036,
+		"averageTime":13.916666666666666,
+		"downloads":26,
+		"shortKey":"WbRcWbRc:SbCcSbCc",
+		"author":"vincentgangi39",
+		"completions":24,
+		"id":7520,
+		"completed":false,
+		"title":"TEST01",
+		"likes":2
+	}
+}

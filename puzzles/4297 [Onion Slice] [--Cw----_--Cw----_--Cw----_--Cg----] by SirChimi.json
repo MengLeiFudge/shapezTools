@@ -60,18 +60,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2432432432432432,
-		"averageTime":414.1607142857143,
-		"downloads":74,
+		"difficulty":0.1869158878504673,
+		"averageTime":310.9655172413793,
+		"downloads":107,
 		"shortKey":"--Cw----:--Cw----:--Cw----:--Cg----",
 		"author":"SirChimi",
-		"completions":56,
+		"completions":87,
 		"id":4297,
 		"completed":false,
 		"title":"Onion Slice",
-		"likes":24
+		"likes":31
 	}
 }

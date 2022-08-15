@@ -124,18 +124,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.05594405594405594,
-		"averageTime":76.96296296296296,
-		"downloads":143,
+		"difficulty":0.037190082644628086,
+		"averageTime":77.98712446351931,
+		"downloads":242,
 		"shortKey":"CcCcRcRc",
 		"author":"MisterSamsonite",
-		"completions":135,
+		"completions":233,
 		"id":3275,
 		"completed":false,
 		"title":"Cutty Colors",
-		"likes":31
+		"likes":43
 	}
 }

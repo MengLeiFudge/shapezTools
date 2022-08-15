@@ -91,15 +91,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.06976744186046513,
-		"averageTime":43.704166666666666,
-		"downloads":258,
+		"difficulty":0.04487179487179482,
+		"averageTime":61.40268456375839,
+		"downloads":468,
 		"shortKey":"SpRr--Wy:RyRbWbRg:Wp--RrCy:RcWwScCr",
 		"author":"GoldenCrab",
-		"completions":240,
+		"completions":447,
 		"id":1989,
-		"completed":false,
+		"completed":true,
 		"title":"Just Belts 004",
-		"likes":58
+		"likes":94
 	}
 }

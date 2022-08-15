@@ -284,15 +284,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.03144654088050314,
-		"averageTime":34.29220779220779,
-		"downloads":159,
+		"difficulty":0.024489795918367308,
+		"averageTime":32.89958158995816,
+		"downloads":245,
 		"shortKey":"SbWbWbSb:SbWbWbSb",
 		"author":"HumanoidHedgeho",
-		"completions":154,
+		"completions":239,
 		"id":2006,
 		"completed":false,
 		"title":"this is prob trash",
-		"likes":33
+		"likes":44
 	}
 }

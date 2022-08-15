@@ -344,15 +344,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5882352941176471,
-		"averageTime":369.42857142857144,
-		"downloads":17,
+		"difficulty":0.5263157894736843,
+		"averageTime":329.8888888888889,
+		"downloads":21,
 		"shortKey":"WuWuSuSu",
 		"author":"milkcupatstarbu",
-		"completions":7,
+		"completions":9,
 		"id":1975,
 		"completed":true,
 		"title":"spiral thing",
-		"likes":4
+		"likes":5
 	}
 }

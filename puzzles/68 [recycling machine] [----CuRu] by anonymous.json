@@ -63,14 +63,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":1,
-		"downloads":10,
+		"difficulty":0.5263157894736843,
+		"averageTime":530.2222222222222,
+		"downloads":19,
 		"shortKey":"----CuRu",
 		"author":"anonymous",
-		"completions":2,
+		"completions":9,
 		"id":68,
 		"completed":false,
 		"title":"recycling machine",
-		"likes":2
+		"likes":4
 	}
 }

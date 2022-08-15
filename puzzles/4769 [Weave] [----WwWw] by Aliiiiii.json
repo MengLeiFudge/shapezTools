@@ -258,18 +258,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.22857142857142854,
-		"averageTime":136.62962962962962,
-		"downloads":70,
+		"difficulty":0.18367346938775508,
+		"averageTime":186.35,
+		"downloads":98,
 		"shortKey":"----WwWw",
 		"author":"Aliiiiii",
-		"completions":54,
+		"completions":80,
 		"id":4769,
 		"completed":false,
 		"title":"Weave",
-		"likes":22
+		"likes":29
 	}
 }

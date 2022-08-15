@@ -435,13 +435,17 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":13,
+		"difficulty":0.8571428571428572,
+		"averageTime":532,
+		"downloads":20,
 		"shortKey":"--CuSu--:CgCgSbSw:CgWpRpSu",
 		"author":"ruben.f.eisen",
-		"completions":1,
+		"completions":2,
 		"id":5054,
 		"completed":false,
 		"title":"Impossible or is it",

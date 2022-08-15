@@ -58,13 +58,15 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.08974358974358976,
+		"averageTime":91.90140845070422,
+		"downloads":78,
 		"shortKey":"Ww------:WuWuWuWu",
 		"author":"ruben.f.eisen",
-		"completions":6,
+		"completions":71,
 		"id":5049,
 		"completed":false,
 		"title":"Assemble and decolor",
-		"likes":4
+		"likes":16
 	}
 }

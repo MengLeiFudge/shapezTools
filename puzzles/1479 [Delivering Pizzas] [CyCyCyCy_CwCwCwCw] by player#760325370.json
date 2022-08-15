@@ -815,16 +815,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.36363636363636365,
+		"averageTime":269.42857142857144,
+		"downloads":11,
 		"shortKey":"CyCyCyCy:CwCwCwCw",
 		"author":"player#760325370",
-		"completions":5,
+		"completions":7,
 		"id":1479,
 		"completed":false,
 		"title":"Delivering Pizzas",
-		"likes":1
+		"likes":2
 	}
 }

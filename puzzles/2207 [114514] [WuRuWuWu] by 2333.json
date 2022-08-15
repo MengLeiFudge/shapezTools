@@ -217,10 +217,12 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"WuRuWuWu",
 		"author":"2333",
 		"completions":5,

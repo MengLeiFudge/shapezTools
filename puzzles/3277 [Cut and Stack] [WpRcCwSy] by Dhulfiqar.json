@@ -671,15 +671,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.14492753623188404,
-		"averageTime":141.91525423728814,
-		"downloads":69,
+		"difficulty":0.0980392156862745,
+		"averageTime":154.2608695652174,
+		"downloads":102,
 		"shortKey":"WpRcCwSy",
 		"author":"Dhulfiqar",
-		"completions":59,
+		"completions":92,
 		"id":3277,
 		"completed":false,
 		"title":"Cut and Stack",
-		"likes":22
+		"likes":30
 	}
 }

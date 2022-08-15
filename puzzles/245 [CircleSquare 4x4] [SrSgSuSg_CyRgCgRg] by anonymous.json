@@ -36,15 +36,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.03448275862068961,
-		"averageTime":28.211904761904762,
-		"downloads":435,
+		"difficulty":0.024147727272727293,
+		"averageTime":30.800582241630277,
+		"downloads":704,
 		"shortKey":"SrSgSuSg:CyRgCgRg",
 		"author":"anonymous",
-		"completions":420,
+		"completions":687,
 		"id":245,
 		"completed":true,
 		"title":"CircleSquare 4x4",
-		"likes":103
+		"likes":141
 	}
 }

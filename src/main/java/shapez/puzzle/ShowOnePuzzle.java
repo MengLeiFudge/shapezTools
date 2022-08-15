@@ -22,13 +22,6 @@ public class ShowOnePuzzle {
     public void process() {
         System.out.println("请输入谜题ID或短代码");
         String puzzleStr = sc.nextLine().trim();
-      /*  File dir = new File(PUZZLES_DIR,
-                id + " [" + title + "] [" + shortKey + "] by " + author + ".json");
-        if(){
-
-        }
-
-*/
         System.out.println("请稍等....");
         String info = getPuzzleStr(puzzleStr);
         if (info == null) {

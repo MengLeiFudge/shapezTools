@@ -66,15 +66,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07534246575342463,
-		"averageTime":91.29629629629629,
-		"downloads":146,
+		"difficulty":0.07482993197278909,
+		"averageTime":90.92647058823529,
+		"downloads":147,
 		"shortKey":"--RuRu--:--RrRr--",
 		"author":"GodHunter",
-		"completions":135,
+		"completions":136,
 		"id":2740,
 		"completed":false,
 		"title":"0001",

@@ -111,15 +111,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1298701298701299,
-		"averageTime":116.46268656716418,
-		"downloads":77,
+		"difficulty":0.125,
+		"averageTime":106.13186813186813,
+		"downloads":104,
 		"shortKey":"SyCrRgWb:CwRpWcSu:RpWgSbCy:WrScCuRw",
 		"author":"hohlenuss44",
-		"completions":67,
+		"completions":91,
 		"id":3330,
 		"completed":false,
 		"title":"No Belts",
-		"likes":25
+		"likes":29
 	}
 }

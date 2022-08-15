@@ -87,18 +87,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3607594936708861,
-		"averageTime":326.2475247524753,
-		"downloads":161,
+		"difficulty":0.34397163120567376,
+		"averageTime":300.43243243243245,
+		"downloads":283,
 		"shortKey":"------Cb:------Cw:------Cp:------Cg",
 		"author":"Professorlf",
-		"completions":101,
+		"completions":185,
 		"id":3625,
 		"completed":true,
 		"title":"super easy swap",
-		"likes":57
+		"likes":84
 	}
 }

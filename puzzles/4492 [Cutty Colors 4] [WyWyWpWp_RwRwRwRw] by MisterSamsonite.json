@@ -270,10 +270,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"WyWyWpWp:RwRwRwRw",
 		"author":"MisterSamsonite",
 		"completions":2,

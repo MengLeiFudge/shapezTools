@@ -39,15 +39,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.7916666666666666,
-		"averageTime":277,
-		"downloads":27,
+		"difficulty":0.7777777777777778,
+		"averageTime":238.83333333333334,
+		"downloads":36,
 		"shortKey":"Rb--Rb--:--Rb--Rb:Rw--Rw--:--Rw--Rw",
 		"author":"Hypnotoad",
-		"completions":5,
+		"completions":6,
 		"id":5058,
 		"completed":false,
 		"title":"Broken Mirror",
-		"likes":5
+		"likes":6
 	}
 }

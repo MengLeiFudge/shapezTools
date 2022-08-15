@@ -37,13 +37,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.07692307692307687,
+		"averageTime":4.5,
+		"downloads":13,
 		"shortKey":"SpRuSpRr:WuRuWuCr",
 		"author":"Bananaling",
-		"completions":8,
+		"completions":12,
 		"id":5538,
 		"completed":false,
 		"title":"2 By 2",
-		"likes":0
+		"likes":1
 	}
 }

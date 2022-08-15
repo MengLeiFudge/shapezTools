@@ -106,15 +106,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5306122448979591,
-		"averageTime":207.69565217391303,
-		"downloads":49,
+		"difficulty":0.5294117647058824,
+		"averageTime":204.29166666666666,
+		"downloads":51,
 		"shortKey":"CwCwCwCw:WrWyWrWy:SgScSgSc:CbCbCbCb",
 		"author":"darkomarsy",
-		"completions":23,
+		"completions":24,
 		"id":5423,
 		"completed":false,
 		"title":"Rotation",
-		"likes":10
+		"likes":11
 	}
 }

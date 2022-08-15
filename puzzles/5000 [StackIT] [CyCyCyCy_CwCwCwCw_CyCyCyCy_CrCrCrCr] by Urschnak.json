@@ -59,12 +59,14 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.75,
 		"averageTime":936,
-		"downloads":22,
+		"downloads":23,
 		"shortKey":"CyCyCyCy:CwCwCwCw:CyCyCyCy:CrCrCrCr",
 		"author":"Urschnak",
 		"completions":3,

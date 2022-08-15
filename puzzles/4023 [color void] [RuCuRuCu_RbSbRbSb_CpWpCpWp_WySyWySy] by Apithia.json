@@ -111,13 +111,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.3125,
+		"averageTime":16,
+		"downloads":16,
 		"shortKey":"RuCuRuCu:RbSbRbSb:CpWpCpWp:WySyWySy",
 		"author":"Apithia",
-		"completions":7,
+		"completions":11,
 		"id":4023,
 		"completed":false,
 		"title":"color void",

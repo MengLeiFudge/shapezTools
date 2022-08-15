@@ -116,15 +116,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10650887573964496,
-		"averageTime":116.48344370860927,
-		"downloads":169,
+		"difficulty":0.11979166666666663,
+		"averageTime":122.39644970414201,
+		"downloads":192,
 		"shortKey":"Sw--Sw--",
 		"author":"bluez",
-		"completions":151,
+		"completions":169,
 		"id":1753,
 		"completed":false,
 		"title":"half a snowflake",

@@ -160,15 +160,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.09876543209876543,
-		"averageTime":144.53424657534248,
-		"downloads":81,
+		"difficulty":0.09219858156028371,
+		"averageTime":139.2734375,
+		"downloads":141,
 		"shortKey":"Cr----Cr:Cr----Cr:Cr----Cr",
 		"author":"mootmoot",
-		"completions":73,
+		"completions":128,
 		"id":2758,
 		"completed":false,
 		"title":"Waste not want not",
-		"likes":28
+		"likes":43
 	}
 }

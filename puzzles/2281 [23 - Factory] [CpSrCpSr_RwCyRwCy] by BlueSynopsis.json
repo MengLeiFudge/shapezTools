@@ -674,15 +674,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.10526315789473684,
-		"averageTime":84.67226890756302,
-		"downloads":133,
+		"difficulty":0.06716417910447758,
+		"averageTime":76.848,
+		"downloads":268,
 		"shortKey":"CpSrCpSr:RwCyRwCy",
 		"author":"BlueSynopsis",
-		"completions":119,
+		"completions":250,
 		"id":2281,
 		"completed":false,
 		"title":"23 - Factory",
-		"likes":33
+		"likes":48
 	}
 }

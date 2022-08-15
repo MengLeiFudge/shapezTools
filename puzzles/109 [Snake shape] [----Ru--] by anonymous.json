@@ -123,15 +123,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.03349282296650713,
-		"averageTime":52.43960396039604,
-		"downloads":1045,
+		"difficulty":0.034733022291342674,
+		"averageTime":51.98066595059076,
+		"downloads":1929,
 		"shortKey":"----Ru--",
 		"author":"anonymous",
-		"completions":1010,
+		"completions":1862,
 		"id":109,
 		"completed":true,
 		"title":"Snake shape",
-		"likes":280
+		"likes":414
 	}
 }

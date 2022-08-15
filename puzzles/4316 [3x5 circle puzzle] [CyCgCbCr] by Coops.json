@@ -51,15 +51,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":30.428571428571427,
-		"downloads":18,
+		"difficulty":0.13043478260869568,
+		"averageTime":29.1,
+		"downloads":23,
 		"shortKey":"CyCgCbCr",
 		"author":"Coops",
-		"completions":14,
+		"completions":20,
 		"id":4316,
 		"completed":false,
 		"title":"3x5 circle puzzle",
-		"likes":2
+		"likes":3
 	}
 }

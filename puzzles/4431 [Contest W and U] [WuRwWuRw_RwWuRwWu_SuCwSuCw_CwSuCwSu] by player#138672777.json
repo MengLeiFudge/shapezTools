@@ -365,15 +365,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6666666666666667,
-		"averageTime":285.14285714285717,
-		"downloads":22,
+		"difficulty":0.6774193548387097,
+		"averageTime":282.1,
+		"downloads":31,
 		"shortKey":"WuRwWuRw:RwWuRwWu:SuCwSuCw:CwSuCwSu",
 		"author":"player#138672777",
-		"completions":7,
+		"completions":10,
 		"id":4431,
 		"completed":true,
 		"title":"Contest W and U",
-		"likes":4
+		"likes":5
 	}
 }

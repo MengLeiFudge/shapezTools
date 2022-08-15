@@ -63,15 +63,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.028225806451612878,
-		"averageTime":12.489626556016598,
-		"downloads":248,
+		"difficulty":0.024169184290030232,
+		"averageTime":12.969040247678018,
+		"downloads":331,
 		"shortKey":"CyCyCyCy",
 		"author":"anonymous",
-		"completions":241,
+		"completions":323,
 		"id":201,
 		"completed":false,
 		"title":"Lines Puzzle 1",
-		"likes":50
+		"likes":60
 	}
 }

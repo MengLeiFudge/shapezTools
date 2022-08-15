@@ -205,12 +205,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.4375,
-		"averageTime":213,
-		"downloads":16,
+		"difficulty":0.38888888888888884,
+		"averageTime":186.36363636363637,
+		"downloads":19,
 		"shortKey":"RwCbRwCr",
 		"author":"anonymous",
-		"completions":9,
+		"completions":11,
 		"id":383,
 		"completed":false,
 		"title":"Tunnel Trouble 1",

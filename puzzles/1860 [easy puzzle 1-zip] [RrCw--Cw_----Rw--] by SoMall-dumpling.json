@@ -67,12 +67,14 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.75,
 		"averageTime":235.66666666666666,
-		"downloads":12,
+		"downloads":13,
 		"shortKey":"RrCw--Cw:----Rw--",
 		"author":"SoMall-dumpling",
 		"completions":3,

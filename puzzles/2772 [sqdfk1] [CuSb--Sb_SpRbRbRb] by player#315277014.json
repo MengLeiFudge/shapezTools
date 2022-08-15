@@ -52,15 +52,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":20.4,
-		"downloads":14,
+		"difficulty":0.25,
+		"averageTime":22.916666666666668,
+		"downloads":16,
 		"shortKey":"CuSb--Sb:SpRbRbRb",
 		"author":"player#315277014",
-		"completions":10,
+		"completions":12,
 		"id":2772,
 		"completed":false,
 		"title":"sqdfk1",

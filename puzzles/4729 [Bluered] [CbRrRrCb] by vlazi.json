@@ -132,10 +132,12 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":13,
+		"downloads":14,
 		"shortKey":"CbRrRrCb",
 		"author":"vlazi",
 		"completions":3,

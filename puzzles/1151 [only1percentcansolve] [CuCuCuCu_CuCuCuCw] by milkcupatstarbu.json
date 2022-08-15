@@ -34,18 +34,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11864406779661019,
-		"averageTime":24.423076923076923,
-		"downloads":59,
+		"difficulty":0.0625,
+		"averageTime":28.383333333333333,
+		"downloads":128,
 		"shortKey":"CuCuCuCu:CuCuCuCw",
 		"author":"milkcupatstarbu",
-		"completions":52,
+		"completions":120,
 		"id":1151,
 		"completed":true,
 		"title":"only1percentcansolve",
-		"likes":13
+		"likes":20
 	}
 }

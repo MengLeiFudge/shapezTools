@@ -183,15 +183,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2792792792792793,
-		"averageTime":192.7375,
-		"downloads":111,
+		"difficulty":0.26086956521739135,
+		"averageTime":196.41176470588235,
+		"downloads":161,
 		"shortKey":"RrRrRrRr:CwCwCwCw",
 		"author":"milkcupatstarbu",
-		"completions":80,
+		"completions":119,
 		"id":2913,
 		"completed":true,
 		"title":"Thing 18",
-		"likes":36
+		"likes":47
 	}
 }

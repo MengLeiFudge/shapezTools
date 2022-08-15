@@ -88,16 +88,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.052631578947368474,
+		"averageTime":63.94444444444444,
+		"downloads":38,
 		"shortKey":"WrSpSpWr:SpSrSrSp",
 		"author":"aleksic.skaza",
-		"completions":8,
+		"completions":36,
 		"id":5245,
 		"completed":false,
 		"title":"my first puzzle",
-		"likes":4
+		"likes":5
 	}
 }

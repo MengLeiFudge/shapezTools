@@ -767,13 +767,15 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.16000000000000003,
+		"averageTime":153.47619047619048,
+		"downloads":25,
 		"shortKey":"WwRwSwCw",
 		"author":"Azurite",
-		"completions":7,
+		"completions":21,
 		"id":4102,
 		"completed":false,
 		"title":"Contest - Vertigo",
-		"likes":4
+		"likes":7
 	}
 }

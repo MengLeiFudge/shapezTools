@@ -149,18 +149,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4193548387096774,
-		"averageTime":374.81944444444446,
-		"downloads":129,
+		"difficulty":0.35655737704918034,
+		"averageTime":409.4140127388535,
+		"downloads":244,
 		"shortKey":"SpSwRySw:CpRpSrRp:----Ru--",
 		"author":"reminodet",
-		"completions":72,
+		"completions":157,
 		"id":3173,
 		"completed":false,
 		"title":"Assemble the rocket",
-		"likes":42
+		"likes":73
 	}
 }

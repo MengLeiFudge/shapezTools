@@ -171,15 +171,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15384615384615385,
-		"averageTime":112,
-		"downloads":39,
+		"difficulty":0.16279069767441856,
+		"averageTime":106.33333333333333,
+		"downloads":44,
 		"shortKey":"Cy--CyCy:Cr--CrCr",
 		"author":"JackAMelon",
-		"completions":33,
+		"completions":36,
 		"id":4586,
 		"completed":false,
 		"title":"Pizza yum",

@@ -334,18 +334,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6941176470588235,
-		"averageTime":802.2307692307693,
-		"downloads":85,
+		"difficulty":0.6868686868686869,
+		"averageTime":745.516129032258,
+		"downloads":99,
 		"shortKey":"Cc------",
 		"author":"milkcupatstarbu",
-		"completions":26,
+		"completions":31,
 		"id":1755,
 		"completed":true,
 		"title":"where throughput",
-		"likes":14
+		"likes":16
 	}
 }

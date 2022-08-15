@@ -195,15 +195,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2248520710059172,
-		"averageTime":132.73282442748092,
-		"downloads":169,
+		"difficulty":0.19313304721030045,
+		"averageTime":125.45744680851064,
+		"downloads":233,
 		"shortKey":"RbRbRbRb:RwRwRwRw",
 		"author":"MrTaco",
-		"completions":131,
+		"completions":188,
 		"id":4877,
 		"completed":true,
 		"title":"1-Bit Steam",
-		"likes":58
+		"likes":69
 	}
 }

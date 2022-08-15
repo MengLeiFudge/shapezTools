@@ -189,18 +189,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7032967032967032,
-		"averageTime":1094.3456790123457,
-		"downloads":277,
+		"difficulty":0.6951219512195121,
+		"averageTime":1033.792,
+		"downloads":418,
 		"shortKey":"RrRrRrRr:CwCwCwCw:CbCbCbCb",
 		"author":"KTSATeamkill",
-		"completions":81,
+		"completions":125,
 		"id":1459,
 		"completed":true,
 		"title":"On Target",
-		"likes":55
+		"likes":73
 	}
 }

@@ -63,15 +63,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.09195402298850575,
-		"averageTime":114.17721518987342,
-		"downloads":87,
+		"difficulty":0.10256410256410253,
+		"averageTime":102.88571428571429,
+		"downloads":117,
 		"shortKey":"------Su:------Su:CuCuCu--",
 		"author":"anonymous",
-		"completions":79,
+		"completions":105,
 		"id":70,
 		"completed":true,
 		"title":"Comet Swap",
-		"likes":30
+		"likes":34
 	}
 }

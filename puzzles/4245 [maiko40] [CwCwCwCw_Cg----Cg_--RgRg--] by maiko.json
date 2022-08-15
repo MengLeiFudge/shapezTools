@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.08333333333333337,
-		"averageTime":57.04545454545455,
-		"downloads":72,
+		"difficulty":0.05128205128205132,
+		"averageTime":60.013513513513516,
+		"downloads":156,
 		"shortKey":"CwCwCwCw:Cg----Cg:--RgRg--",
 		"author":"maiko",
-		"completions":66,
+		"completions":148,
 		"id":4245,
 		"completed":false,
 		"title":"maiko40",
-		"likes":14
+		"likes":27
 	}
 }

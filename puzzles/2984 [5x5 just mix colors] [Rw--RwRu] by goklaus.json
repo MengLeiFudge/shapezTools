@@ -86,15 +86,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0803571428571429,
-		"averageTime":109.32038834951456,
-		"downloads":112,
+		"difficulty":0.07647058823529407,
+		"averageTime":95.27388535031847,
+		"downloads":171,
 		"shortKey":"Rw--RwRu",
 		"author":"goklaus",
-		"completions":103,
+		"completions":157,
 		"id":2984,
 		"completed":true,
 		"title":"5x5 just mix colors",
-		"likes":37
+		"likes":51
 	}
 }

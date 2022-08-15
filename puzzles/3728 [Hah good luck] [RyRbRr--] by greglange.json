@@ -1260,18 +1260,20 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3833333333333333,
-		"averageTime":357.56756756756755,
-		"downloads":61,
+		"difficulty":0.29729729729729726,
+		"averageTime":376.96153846153845,
+		"downloads":74,
 		"shortKey":"RyRbRr--",
 		"author":"greglange",
-		"completions":37,
+		"completions":52,
 		"id":3728,
 		"completed":false,
 		"title":"Hah good luck",
-		"likes":17
+		"likes":18
 	}
 }

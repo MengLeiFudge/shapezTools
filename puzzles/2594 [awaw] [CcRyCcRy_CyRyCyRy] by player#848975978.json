@@ -1937,15 +1937,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10526315789473684,
-		"averageTime":93.11764705882354,
-		"downloads":19,
+		"difficulty":0.09523809523809523,
+		"averageTime":94.42105263157895,
+		"downloads":21,
 		"shortKey":"CcRyCcRy:CyRyCyRy",
 		"author":"player#848975978",
-		"completions":17,
+		"completions":19,
 		"id":2594,
 		"completed":false,
 		"title":"awaw",

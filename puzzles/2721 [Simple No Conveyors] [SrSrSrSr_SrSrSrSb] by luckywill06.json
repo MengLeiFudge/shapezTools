@@ -50,12 +50,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":7.636363636363637,
-		"downloads":14,
+		"difficulty":0.16666666666666663,
+		"averageTime":7.866666666666666,
+		"downloads":18,
 		"shortKey":"SrSrSrSr:SrSrSrSb",
 		"author":"luckywill06",
-		"completions":11,
+		"completions":15,
 		"id":2721,
 		"completed":false,
 		"title":"Simple No Conveyors",

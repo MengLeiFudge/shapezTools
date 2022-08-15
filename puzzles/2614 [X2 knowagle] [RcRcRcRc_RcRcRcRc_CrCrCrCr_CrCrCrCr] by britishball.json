@@ -215,15 +215,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":73.11111111111111,
-		"downloads":15,
+		"difficulty":0.3529411764705882,
+		"averageTime":78.9090909090909,
+		"downloads":17,
 		"shortKey":"RcRcRcRc:RcRcRcRc:CrCrCrCr:CrCrCrCr",
 		"author":"britishball",
-		"completions":9,
+		"completions":11,
 		"id":2614,
 		"completed":true,
 		"title":"X2 knowagle",

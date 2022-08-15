@@ -91,18 +91,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4473684210526315,
-		"averageTime":346.14285714285717,
-		"downloads":41,
+		"difficulty":0.4666666666666667,
+		"averageTime":370.25,
+		"downloads":45,
 		"shortKey":"----CpCp:----CpCp:----CwCw:----CwCw",
 		"author":"mygime",
-		"completions":21,
+		"completions":24,
 		"id":5371,
 		"completed":false,
 		"title":"round",
-		"likes":8
+		"likes":10
 	}
 }

@@ -143,12 +143,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.38888888888888884,
-		"averageTime":54.63636363636363,
-		"downloads":18,
+		"difficulty":0.35,
+		"averageTime":52.84615384615385,
+		"downloads":20,
 		"shortKey":"WrSgCbRy:CpRcWuSw:SbWyRrCg:RuCwSpWc",
 		"author":"adrian_baloi_2",
-		"completions":11,
+		"completions":13,
 		"id":4056,
 		"completed":false,
 		"title":"go far",

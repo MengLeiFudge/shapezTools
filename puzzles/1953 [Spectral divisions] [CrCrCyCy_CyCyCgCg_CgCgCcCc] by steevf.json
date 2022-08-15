@@ -491,15 +491,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1996527777777778,
-		"averageTime":254.68980477223428,
-		"downloads":1152,
+		"difficulty":0.20943952802359878,
+		"averageTime":264.4085820895522,
+		"downloads":2034,
 		"shortKey":"CrCrCyCy:CyCyCgCg:CgCgCcCc",
 		"author":"steevf",
-		"completions":922,
+		"completions":1608,
 		"id":1953,
 		"completed":true,
 		"title":"Spectral divisions",
-		"likes":429
+		"likes":644
 	}
 }

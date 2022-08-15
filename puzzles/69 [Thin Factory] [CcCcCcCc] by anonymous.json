@@ -45,15 +45,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.09602776706517546,
-		"averageTime":90.04991467576792,
-		"downloads":2593,
+		"difficulty":0.10841253079901447,
+		"averageTime":90.0485590209238,
+		"downloads":2841,
 		"shortKey":"CcCcCcCc",
 		"author":"anonymous",
-		"completions":2344,
+		"completions":2533,
 		"id":69,
 		"completed":true,
 		"title":"Thin Factory",
-		"likes":766
+		"likes":807
 	}
 }

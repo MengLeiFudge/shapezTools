@@ -325,18 +325,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.43999999999999995,
-		"averageTime":274.2142857142857,
-		"downloads":27,
+		"difficulty":0.4642857142857143,
+		"averageTime":262.8666666666667,
+		"downloads":28,
 		"shortKey":"CbCbCbCb:WyWyWyWy:WyWyWyWy:RyRyRyRy",
 		"author":"Saberuneko",
-		"completions":14,
+		"completions":15,
 		"id":5106,
 		"completed":false,
 		"title":"Spinny Artifacts",
-		"likes":4
+		"likes":5
 	}
 }

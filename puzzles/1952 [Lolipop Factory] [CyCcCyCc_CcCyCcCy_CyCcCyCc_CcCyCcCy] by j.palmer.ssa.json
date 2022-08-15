@@ -565,12 +565,14 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.7857142857142857,
 		"averageTime":671,
-		"downloads":16,
+		"downloads":17,
 		"shortKey":"CyCcCyCc:CcCyCcCy:CyCcCyCc:CcCyCcCy",
 		"author":"j.palmer.ssa",
 		"completions":3,

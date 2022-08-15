@@ -50,13 +50,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.1875,
+		"averageTime":18.692307692307693,
+		"downloads":16,
 		"shortKey":"WrSpSpWr:WbWrWrWb",
 		"author":"Dodocrafter",
-		"completions":7,
+		"completions":13,
 		"id":5020,
 		"completed":false,
 		"title":"Yes it easy",

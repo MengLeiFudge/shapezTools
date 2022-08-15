@@ -405,15 +405,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.02777777777777779,
-		"averageTime":12.742857142857142,
-		"downloads":36,
+		"difficulty":0.0444444444444444,
+		"averageTime":12.55813953488372,
+		"downloads":45,
 		"shortKey":"CwCwCwCw:--Cw--Cw:Cw--Cw--:CwCwCwCw",
 		"author":"DualBoot",
-		"completions":35,
+		"completions":43,
 		"id":5294,
 		"completed":false,
 		"title":"-MaM-",
-		"likes":4
+		"likes":5
 	}
 }

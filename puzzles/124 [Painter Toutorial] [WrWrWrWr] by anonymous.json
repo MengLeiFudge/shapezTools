@@ -36,15 +36,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.21052631578947367,
-		"averageTime":9.6,
-		"downloads":19,
+		"difficulty":0.16666666666666663,
+		"averageTime":165.65,
+		"downloads":24,
 		"shortKey":"WrWrWrWr",
 		"author":"anonymous",
-		"completions":15,
+		"completions":20,
 		"id":124,
 		"completed":false,
 		"title":"Painter Toutorial",
-		"likes":2
+		"likes":3
 	}
 }

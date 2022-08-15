@@ -1802,15 +1802,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":177.9,
-		"downloads":14,
+		"difficulty":0.2666666666666667,
+		"averageTime":170.36363636363637,
+		"downloads":15,
 		"shortKey":"SuCpSuCp",
 		"author":"Oplong",
-		"completions":10,
+		"completions":11,
 		"id":2893,
 		"completed":false,
 		"title":"Maze",

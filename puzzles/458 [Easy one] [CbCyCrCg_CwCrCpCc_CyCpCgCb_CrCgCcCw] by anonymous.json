@@ -195,15 +195,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.04054054054054057,
-		"averageTime":30.774647887323944,
-		"downloads":74,
+		"difficulty":0.020270270270270285,
+		"averageTime":30.06206896551724,
+		"downloads":148,
 		"shortKey":"CbCyCrCg:CwCrCpCc:CyCpCgCb:CrCgCcCw",
 		"author":"anonymous",
-		"completions":71,
+		"completions":145,
 		"id":458,
 		"completed":false,
 		"title":"Easy one",
-		"likes":15
+		"likes":26
 	}
 }

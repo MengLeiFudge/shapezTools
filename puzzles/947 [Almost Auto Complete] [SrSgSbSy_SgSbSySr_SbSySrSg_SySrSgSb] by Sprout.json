@@ -121,13 +121,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.2857142857142857,
+		"averageTime":6.6,
+		"downloads":14,
 		"shortKey":"SrSgSbSy:SgSbSySr:SbSySrSg:SySrSgSb",
 		"author":"Sprout",
-		"completions":6,
+		"completions":10,
 		"id":947,
 		"completed":false,
 		"title":"Almost Auto Complete",

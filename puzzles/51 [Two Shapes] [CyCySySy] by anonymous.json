@@ -63,14 +63,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.5714285714285714,
-		"downloads":11,
+		"difficulty":0.3913043478260869,
+		"averageTime":149.71428571428572,
+		"downloads":23,
 		"shortKey":"CyCySySy",
 		"author":"anonymous",
-		"completions":4,
+		"completions":14,
 		"id":51,
 		"completed":false,
 		"title":"Two Shapes",
-		"likes":4
+		"likes":5
 	}
 }

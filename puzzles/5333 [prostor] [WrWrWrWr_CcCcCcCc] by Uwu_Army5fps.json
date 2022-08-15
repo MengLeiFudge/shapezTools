@@ -156,18 +156,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4130434782608695,
-		"averageTime":1963.7407407407406,
-		"downloads":49,
+		"difficulty":0.4528301886792453,
+		"averageTime":1834.896551724138,
+		"downloads":53,
 		"shortKey":"WrWrWrWr:CcCcCcCc",
 		"author":"Uwu_Army5fps",
-		"completions":27,
+		"completions":29,
 		"id":5333,
 		"completed":false,
 		"title":"prostor",
-		"likes":10
+		"likes":11
 	}
 }

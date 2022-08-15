@@ -629,12 +629,14 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.5666666666666667,
 		"averageTime":1154.7692307692307,
-		"downloads":30,
+		"downloads":31,
 		"shortKey":"CbRwCbRw:SpCbSpCb",
 		"author":"TangibleLight",
 		"completions":13,

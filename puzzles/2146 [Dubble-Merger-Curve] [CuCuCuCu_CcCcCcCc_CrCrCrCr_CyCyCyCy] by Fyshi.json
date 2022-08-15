@@ -435,18 +435,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06801736613603471,
-		"averageTime":134.18478260869566,
-		"downloads":691,
+		"difficulty":0.06631499623210246,
+		"averageTime":137.04358353510895,
+		"downloads":1328,
 		"shortKey":"CuCuCuCu:CcCcCcCc:CrCrCrCr:CyCyCyCy",
 		"author":"Fyshi",
-		"completions":644,
+		"completions":1239,
 		"id":2146,
 		"completed":true,
 		"title":"Dubble-Merger-Curve",
-		"likes":257
+		"likes":419
 	}
 }

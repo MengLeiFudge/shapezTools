@@ -548,15 +548,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4482758620689655,
-		"averageTime":293.5625,
-		"downloads":31,
+		"difficulty":0.4722222222222222,
+		"averageTime":276.1578947368421,
+		"downloads":40,
 		"shortKey":"RcRgRcRg:WgRyWgRy",
 		"author":"Salamoonder",
-		"completions":16,
+		"completions":19,
 		"id":5563,
 		"completed":false,
 		"title":"Tunnel Maze",
-		"likes":6
+		"likes":7
 	}
 }

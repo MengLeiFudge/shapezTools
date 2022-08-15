@@ -534,18 +534,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.28888888888888886,
-		"averageTime":316.40625,
-		"downloads":48,
+		"difficulty":0.2833333333333333,
+		"averageTime":297.51162790697674,
+		"downloads":60,
 		"shortKey":"CuCrCuCu:Cu----Cb:--CuCy--:Cg--CuCu",
 		"author":"MattiDragon",
-		"completions":32,
+		"completions":43,
 		"id":3527,
 		"completed":false,
 		"title":"Tunnel Maze",
-		"likes":13
+		"likes":15
 	}
 }

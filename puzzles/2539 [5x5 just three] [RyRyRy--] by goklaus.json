@@ -91,15 +91,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2727272727272727,
-		"averageTime":31.25,
-		"downloads":22,
+		"difficulty":0.25,
+		"averageTime":30.27777777777778,
+		"downloads":24,
 		"shortKey":"RyRyRy--",
 		"author":"goklaus",
-		"completions":16,
+		"completions":18,
 		"id":2539,
 		"completed":false,
 		"title":"5x5 just three",

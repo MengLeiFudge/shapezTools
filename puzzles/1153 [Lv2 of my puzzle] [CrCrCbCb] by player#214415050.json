@@ -275,18 +275,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.013736263736263687,
-		"averageTime":63.33983286908078,
-		"downloads":364,
+		"difficulty":0.014903129657228065,
+		"averageTime":66.01664145234493,
+		"downloads":671,
 		"shortKey":"CrCrCbCb",
 		"author":"player#214415050",
-		"completions":359,
+		"completions":661,
 		"id":1153,
 		"completed":true,
 		"title":"Lv2 of my puzzle",
-		"likes":91
+		"likes":135
 	}
 }

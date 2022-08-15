@@ -281,15 +281,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07692307692307687,
-		"averageTime":91.3125,
-		"downloads":156,
+		"difficulty":0.07547169811320753,
+		"averageTime":90.68027210884354,
+		"downloads":159,
 		"shortKey":"--Ru----:--Ru----:--Ru----:--Ru----",
 		"author":"Jaiihawk",
-		"completions":144,
+		"completions":147,
 		"id":903,
 		"completed":false,
 		"title":"eeewwwwwww",

@@ -91,18 +91,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3090909090909091,
-		"averageTime":390.3421052631579,
-		"downloads":55,
+		"difficulty":0.26249999999999996,
+		"averageTime":326.5762711864407,
+		"downloads":80,
 		"shortKey":"SwSwSwSw:SwSwSwSw",
 		"author":"NerdKnight66",
-		"completions":38,
+		"completions":59,
 		"id":4472,
 		"completed":false,
 		"title":"A very small factory",
-		"likes":15
+		"likes":21
 	}
 }

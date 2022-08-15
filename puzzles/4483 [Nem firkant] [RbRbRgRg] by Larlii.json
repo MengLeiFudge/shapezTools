@@ -75,18 +75,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":79.95454545454545,
-		"downloads":33,
+		"difficulty":0.3055555555555556,
+		"averageTime":76.24,
+		"downloads":36,
 		"shortKey":"RbRbRgRg",
 		"author":"Larlii",
-		"completions":22,
+		"completions":25,
 		"id":4483,
 		"completed":false,
 		"title":"Nem firkant",
-		"likes":5
+		"likes":6
 	}
 }

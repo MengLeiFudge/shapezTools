@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RwRwRwRw:RcRcRcRc:RbRbRbRb:RpRpRpRp",
+				"pos":{
+					"r":0,
+					"x":-4,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RwRwRwRw:RcRcRcRc:RbRbRbRb:RpRpRpRp",
+				"pos":{
+					"r":180,
+					"x":3,
+					"y":2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0,
+		"averageTime":18.333333333333332,
+		"downloads":22,
+		"shortKey":"RwRwRwRw:RcRcRcRc:RbRbRbRb:RpRpRpRp",
+		"author":"CeruleanGhost",
+		"completions":21,
+		"id":7901,
+		"completed":false,
+		"title":"aaweas",
+		"likes":2
+	}
+}

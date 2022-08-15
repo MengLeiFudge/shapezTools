@@ -81,18 +81,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7894736842105263,
-		"averageTime":867.4285714285714,
-		"downloads":134,
+		"difficulty":0.7714285714285715,
+		"averageTime":794.1875,
+		"downloads":142,
 		"shortKey":"------Cu:----Cu--:--Cu----:Cu------",
 		"author":"milkcupatstarbu",
-		"completions":28,
+		"completions":32,
 		"id":1267,
 		"completed":true,
 		"title":"Thing 11",
-		"likes":17
+		"likes":18
 	}
 }

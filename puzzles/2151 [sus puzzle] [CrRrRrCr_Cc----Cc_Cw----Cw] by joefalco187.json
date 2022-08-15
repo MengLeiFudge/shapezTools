@@ -333,18 +333,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.24285714285714288,
-		"averageTime":390.0188679245283,
-		"downloads":70,
+		"difficulty":0.23809523809523814,
+		"averageTime":363.40625,
+		"downloads":85,
 		"shortKey":"CrRrRrCr:Cc----Cc:Cw----Cw",
 		"author":"joefalco187",
-		"completions":53,
+		"completions":64,
 		"id":2151,
 		"completed":false,
 		"title":"sus puzzle",
-		"likes":18
+		"likes":19
 	}
 }

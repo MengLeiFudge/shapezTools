@@ -625,18 +625,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08823529411764708,
-		"averageTime":47.04838709677419,
-		"downloads":68,
+		"difficulty":0.06451612903225812,
+		"averageTime":46.793103448275865,
+		"downloads":93,
 		"shortKey":"SrRpSrRp:SpSbSpSb",
 		"author":"adrilava",
-		"completions":62,
+		"completions":87,
 		"id":5116,
 		"completed":false,
 		"title":"Pour rauster",
-		"likes":10
+		"likes":14
 	}
 }

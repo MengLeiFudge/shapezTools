@@ -59,18 +59,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07167832167832167,
-		"averageTime":36.653483992467045,
-		"downloads":572,
+		"difficulty":0.07811491284699801,
+		"averageTime":38.55672268907563,
+		"downloads":1549,
 		"shortKey":"----Ry--:------Ry",
 		"author":"kavirnyadeltoid",
-		"completions":531,
+		"completions":1428,
 		"id":2581,
 		"completed":true,
 		"title":"Floating Tutorial",
-		"likes":152
+		"likes":331
 	}
 }

@@ -206,18 +206,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06795016987542468,
-		"averageTime":90.42527339003645,
-		"downloads":883,
+		"difficulty":0.0714285714285714,
+		"averageTime":90.50452488687783,
+		"downloads":952,
 		"shortKey":"CpCpCpRp:CwCwCwCw",
 		"author":"gentryaustin",
-		"completions":823,
+		"completions":884,
 		"id":691,
 		"completed":true,
 		"title":"Make Lv12",
-		"likes":277
+		"likes":288
 	}
 }

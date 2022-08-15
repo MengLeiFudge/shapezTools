@@ -210,15 +210,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.21276595744680848,
-		"averageTime":206.48648648648648,
-		"downloads":95,
+		"difficulty":0.23295454545454541,
+		"averageTime":218.22222222222223,
+		"downloads":176,
 		"shortKey":"RuSwRuSw",
 		"author":"PandaGhost",
-		"completions":74,
+		"completions":135,
 		"id":3552,
 		"completed":false,
 		"title":"Not Simple Painting",
-		"likes":31
+		"likes":52
 	}
 }

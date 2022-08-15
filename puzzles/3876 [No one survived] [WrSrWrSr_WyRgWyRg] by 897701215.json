@@ -276,10 +276,12 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"downloads":13,
 		"shortKey":"WrSrWrSr:WyRgWyRg",
 		"author":"897701215",
 		"completions":0,

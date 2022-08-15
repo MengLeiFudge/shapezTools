@@ -491,13 +491,15 @@
 		]
 	},
 	"meta":{
-		"downloads":8,
+		"difficulty":0.08045977011494254,
+		"averageTime":117.69375,
+		"downloads":174,
 		"shortKey":"RuCuRuCu:RuCbRuCb",
 		"author":"Mr.Happy",
-		"completions":6,
+		"completions":160,
 		"id":5601,
 		"completed":false,
 		"title":"tilo07uygrff",
-		"likes":3
+		"likes":35
 	}
 }

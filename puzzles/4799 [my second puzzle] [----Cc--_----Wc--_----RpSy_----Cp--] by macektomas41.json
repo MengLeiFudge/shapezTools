@@ -276,15 +276,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.5,
-		"averageTime":418.75,
-		"downloads":33,
+		"averageTime":406.4117647058824,
+		"downloads":36,
 		"shortKey":"----Cc--:----Wc--:----RpSy:----Cp--",
 		"author":"macektomas41",
-		"completions":16,
+		"completions":17,
 		"id":4799,
 		"completed":false,
 		"title":"my second puzzle",

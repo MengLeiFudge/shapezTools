@@ -508,10 +508,12 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.75,
+		"averageTime":817,
+		"downloads":13,
 		"shortKey":"RbRyRpRc:WwWwWwWw:WbWyWpWc:SwSwSwSw",
 		"author":"maiko",
-		"completions":2,
+		"completions":3,
 		"id":5256,
 		"completed":false,
 		"title":"maiko65",

@@ -57,18 +57,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15436241610738255,
-		"averageTime":186.04761904761904,
-		"downloads":149,
+		"difficulty":0.14767932489451474,
+		"averageTime":207.36138613861385,
+		"downloads":237,
 		"shortKey":"--Rb--Rb:--Rb--Rb:--Rb--Rb:--Rb--Rb",
 		"author":"luckywill06",
-		"completions":126,
+		"completions":202,
 		"id":2794,
 		"completed":true,
 		"title":"Crunch",
-		"likes":51
+		"likes":72
 	}
 }

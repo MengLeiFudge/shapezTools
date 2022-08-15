@@ -828,18 +828,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.05714285714285716,
-		"averageTime":54.72727272727273,
-		"downloads":35,
+		"difficulty":0.050000000000000044,
+		"averageTime":57.88157894736842,
+		"downloads":80,
 		"shortKey":"--WyWy--:----CyCy",
 		"author":"jackbock",
-		"completions":33,
+		"completions":76,
 		"id":5432,
 		"completed":false,
 		"title":"hard idk",
-		"likes":5
+		"likes":12
 	}
 }

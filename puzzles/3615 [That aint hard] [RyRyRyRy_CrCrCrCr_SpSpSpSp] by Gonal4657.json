@@ -70,18 +70,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04878048780487809,
-		"averageTime":71.93589743589743,
-		"downloads":82,
+		"difficulty":0.02564102564102566,
+		"averageTime":71.88157894736842,
+		"downloads":156,
 		"shortKey":"RyRyRyRy:CrCrCrCr:SpSpSpSp",
 		"author":"Gonal4657",
-		"completions":78,
+		"completions":152,
 		"id":3615,
 		"completed":false,
 		"title":"That aint hard",
-		"likes":16
+		"likes":28
 	}
 }

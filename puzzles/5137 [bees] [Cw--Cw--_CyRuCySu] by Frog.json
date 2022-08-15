@@ -180,18 +180,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.45360824742268047,
-		"averageTime":396.50943396226415,
-		"downloads":97,
+		"difficulty":0.35443037974683544,
+		"averageTime":394.4313725490196,
+		"downloads":159,
 		"shortKey":"Cw--Cw--:CyRuCySu",
 		"author":"Frog",
-		"completions":53,
+		"completions":102,
 		"id":5137,
 		"completed":false,
 		"title":"bees",
-		"likes":30
+		"likes":47
 	}
 }

@@ -235,12 +235,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.26136363636363635,
-		"averageTime":263.0615384615385,
-		"downloads":88,
+		"difficulty":0.25773195876288657,
+		"averageTime":253.16666666666666,
+		"downloads":97,
 		"shortKey":"CrCbCrCb",
 		"author":"KelHard",
-		"completions":65,
+		"completions":72,
 		"id":1749,
 		"completed":false,
 		"title":"Split and Split",

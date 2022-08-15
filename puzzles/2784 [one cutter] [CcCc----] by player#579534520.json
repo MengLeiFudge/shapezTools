@@ -420,18 +420,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.17948717948717952,
-		"averageTime":257.046875,
-		"downloads":78,
+		"difficulty":0.14782608695652177,
+		"averageTime":265.1020408163265,
+		"downloads":115,
 		"shortKey":"CcCc----",
 		"author":"player#579534520",
-		"completions":64,
+		"completions":98,
 		"id":2784,
 		"completed":true,
 		"title":"one cutter",
-		"likes":25
+		"likes":34
 	}
 }

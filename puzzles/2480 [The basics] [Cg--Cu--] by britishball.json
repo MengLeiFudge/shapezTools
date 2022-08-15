@@ -1656,18 +1656,20 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16190476190476188,
-		"averageTime":305.59659090909093,
-		"downloads":210,
+		"difficulty":0.15053763440860213,
+		"averageTime":329.7721518987342,
+		"downloads":372,
 		"shortKey":"Cg--Cu--",
 		"author":"britishball",
-		"completions":176,
+		"completions":316,
 		"id":2480,
 		"completed":true,
 		"title":"The basics",
-		"likes":77
+		"likes":115
 	}
 }

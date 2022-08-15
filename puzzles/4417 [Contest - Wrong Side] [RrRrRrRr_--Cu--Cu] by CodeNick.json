@@ -61,18 +61,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04347826086956519,
-		"averageTime":79.7159090909091,
-		"downloads":92,
+		"difficulty":0.043010752688172005,
+		"averageTime":92.84269662921348,
+		"downloads":186,
 		"shortKey":"RrRrRrRr:--Cu--Cu",
 		"author":"CodeNick",
-		"completions":88,
+		"completions":178,
 		"id":4417,
 		"completed":false,
 		"title":"Contest - Wrong Side",
-		"likes":20
+		"likes":34
 	}
 }

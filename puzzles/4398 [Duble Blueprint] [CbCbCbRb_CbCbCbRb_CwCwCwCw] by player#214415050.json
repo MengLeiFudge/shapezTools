@@ -324,18 +324,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6666666666666667,
-		"averageTime":1112.4705882352941,
-		"downloads":53,
+		"difficulty":0.6732673267326732,
+		"averageTime":938.2121212121212,
+		"downloads":106,
 		"shortKey":"CbCbCbRb:CbCbCbRb:CwCwCwCw",
 		"author":"player#214415050",
-		"completions":17,
+		"completions":33,
 		"id":4398,
 		"completed":false,
 		"title":"Duble Blueprint",
-		"likes":12
+		"likes":18
 	}
 }

@@ -70,13 +70,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.41666666666666663,
+		"averageTime":275.57142857142856,
+		"downloads":12,
 		"shortKey":"CbCbCbRb:RwCwCwCw",
 		"author":"godslayer",
-		"completions":4,
+		"completions":7,
 		"id":3543,
 		"completed":false,
 		"title":"Blueprint",

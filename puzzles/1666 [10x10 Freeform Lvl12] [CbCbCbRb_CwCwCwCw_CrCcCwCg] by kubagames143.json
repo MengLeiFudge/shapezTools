@@ -70,10 +70,12 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":8,
 		"shortKey":"CbCbCbRb:CwCwCwCw:CrCcCwCg",
 		"author":"kubagames143",
 		"completions":2,

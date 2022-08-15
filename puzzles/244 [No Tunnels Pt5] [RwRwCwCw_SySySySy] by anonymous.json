@@ -263,15 +263,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.368421052631579,
-		"averageTime":80.5,
-		"downloads":19,
+		"difficulty":0.31818181818181823,
+		"averageTime":108.33333333333333,
+		"downloads":22,
 		"shortKey":"RwRwCwCw:SySySySy",
 		"author":"anonymous",
-		"completions":12,
+		"completions":15,
 		"id":244,
 		"completed":false,
 		"title":"No Tunnels Pt5",
-		"likes":3
+		"likes":4
 	}
 }

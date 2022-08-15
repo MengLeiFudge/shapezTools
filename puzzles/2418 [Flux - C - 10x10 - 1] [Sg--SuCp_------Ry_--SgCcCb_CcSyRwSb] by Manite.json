@@ -181,15 +181,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0639269406392694,
-		"averageTime":57.59268292682927,
-		"downloads":438,
+		"difficulty":0.05739514348785868,
+		"averageTime":60.366510538641684,
+		"downloads":906,
 		"shortKey":"Sg--SuCp:------Ry:--SgCcCb:CcSyRwSb",
 		"author":"Manite",
-		"completions":410,
+		"completions":854,
 		"id":2418,
 		"completed":true,
 		"title":"Flux - C - 10x10 - 1",
-		"likes":114
+		"likes":185
 	}
 }

@@ -75,18 +75,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03349282296650713,
-		"averageTime":22.73267326732673,
-		"downloads":209,
+		"difficulty":0.02034883720930236,
+		"averageTime":19.234421364985163,
+		"downloads":344,
 		"shortKey":"ScScScSc",
 		"author":"gentryaustin",
-		"completions":202,
+		"completions":337,
 		"id":687,
 		"completed":false,
 		"title":"Make Lv10",
-		"likes":46
+		"likes":63
 	}
 }

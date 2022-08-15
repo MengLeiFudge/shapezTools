@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1428571428571429,
-		"averageTime":115.5,
-		"downloads":21,
+		"difficulty":0.20588235294117652,
+		"averageTime":104.4074074074074,
+		"downloads":34,
 		"shortKey":"CuRyRuCy:SbSwSbSw",
 		"author":"Guffie",
-		"completions":18,
+		"completions":27,
 		"id":3148,
 		"completed":false,
 		"title":"Connect the dots",
-		"likes":5
+		"likes":7
 	}
 }

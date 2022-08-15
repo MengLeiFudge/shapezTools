@@ -162,12 +162,14 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.4666666666666667,
 		"averageTime":453.1875,
-		"downloads":33,
+		"downloads":36,
 		"shortKey":"Sr------:CrCr----",
 		"author":"Gutagi13",
 		"completions":16,

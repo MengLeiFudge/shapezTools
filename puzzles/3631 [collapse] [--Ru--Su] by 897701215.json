@@ -167,18 +167,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.46153846153846156,
-		"averageTime":341.6190476190476,
-		"downloads":39,
+		"difficulty":0.38888888888888884,
+		"averageTime":374.969696969697,
+		"downloads":54,
 		"shortKey":"--Ru--Su",
 		"author":"897701215",
-		"completions":21,
+		"completions":33,
 		"id":3631,
 		"completed":true,
 		"title":"collapse",
-		"likes":11
+		"likes":12
 	}
 }

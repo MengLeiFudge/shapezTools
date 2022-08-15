@@ -217,13 +217,15 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.19999999999999996,
+		"averageTime":36.333333333333336,
+		"downloads":15,
 		"shortKey":"WyWuWuWy:RgWuWuRg",
 		"author":"Mr.Happy",
-		"completions":7,
+		"completions":12,
 		"id":5483,
 		"completed":false,
 		"title":"frrrrrrrrrrrrrrrrrre",
-		"likes":2
+		"likes":3
 	}
 }

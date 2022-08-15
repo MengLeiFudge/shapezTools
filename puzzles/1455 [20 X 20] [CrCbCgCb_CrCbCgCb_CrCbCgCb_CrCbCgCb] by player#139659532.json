@@ -1433,15 +1433,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.24951267056530213,
-		"averageTime":325.87792207792205,
-		"downloads":513,
+		"difficulty":0.23035952063914777,
+		"averageTime":307.52595155709344,
+		"downloads":753,
 		"shortKey":"CrCbCgCb:CrCbCgCb:CrCbCgCb:CrCbCgCb",
 		"author":"player#139659532",
-		"completions":385,
+		"completions":578,
 		"id":1455,
 		"completed":true,
 		"title":"20 X 20",
-		"likes":176
+		"likes":232
 	}
 }

@@ -204,18 +204,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1842105263157895,
-		"averageTime":151.67741935483872,
-		"downloads":76,
+		"difficulty":0.16455696202531644,
+		"averageTime":148.24242424242425,
+		"downloads":80,
 		"shortKey":"SuSuWuWu",
 		"author":"Krowhose26",
-		"completions":62,
+		"completions":66,
 		"id":3871,
 		"completed":true,
 		"title":"Confusion",
-		"likes":19
+		"likes":20
 	}
 }

@@ -182,15 +182,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.13,
-		"averageTime":222.27586206896552,
-		"downloads":102,
+		"difficulty":0.11832061068702293,
+		"averageTime":202.53246753246754,
+		"downloads":262,
 		"shortKey":"WwRpWwRp:SrWbSrWb",
 		"author":"CodeNick",
-		"completions":87,
+		"completions":231,
 		"id":4412,
-		"completed":false,
+		"completed":true,
 		"title":"My first puzzle",
-		"likes":36
+		"likes":81
 	}
 }

@@ -66,16 +66,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"difficulty":0.30000000000000004,
+		"averageTime":129.14285714285714,
+		"downloads":11,
 		"shortKey":"CwRwRwCw:Cu----Cu",
 		"author":"BTDubs",
-		"completions":4,
+		"completions":7,
 		"id":786,
 		"completed":false,
 		"title":"Among Us White",
-		"likes":2
+		"likes":3
 	}
 }

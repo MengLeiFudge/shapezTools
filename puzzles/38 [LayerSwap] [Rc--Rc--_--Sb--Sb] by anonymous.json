@@ -27,15 +27,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.5465838509316769,
-		"averageTime":599.068493150685,
-		"downloads":161,
+		"difficulty":0.5290697674418605,
+		"averageTime":615.4320987654321,
+		"downloads":175,
 		"shortKey":"Rc--Rc--:--Sb--Sb",
 		"author":"anonymous",
-		"completions":73,
+		"completions":81,
 		"id":38,
 		"completed":true,
 		"title":"LayerSwap",
-		"likes":38
+		"likes":39
 	}
 }

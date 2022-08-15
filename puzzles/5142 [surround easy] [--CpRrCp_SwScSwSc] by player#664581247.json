@@ -187,18 +187,20 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.047169811320754707,
-		"averageTime":70,
-		"downloads":106,
+		"difficulty":0.0359281437125748,
+		"averageTime":113.34782608695652,
+		"downloads":167,
 		"shortKey":"--CpRrCp:SwScSwSc",
 		"author":"player#664581247",
-		"completions":101,
+		"completions":161,
 		"id":5142,
 		"completed":true,
 		"title":"surround easy",
-		"likes":23
+		"likes":35
 	}
 }

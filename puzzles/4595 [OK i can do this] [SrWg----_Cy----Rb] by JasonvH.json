@@ -25,18 +25,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.19417475728155342,
-		"averageTime":144.8132530120482,
-		"downloads":206,
+		"difficulty":0.16614420062695923,
+		"averageTime":141.81954887218046,
+		"downloads":320,
 		"shortKey":"SrWg----:Cy----Rb",
 		"author":"JasonvH",
-		"completions":166,
+		"completions":266,
 		"id":4595,
 		"completed":true,
 		"title":"OK i can do this",
-		"likes":75
+		"likes":99
 	}
 }

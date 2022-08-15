@@ -251,15 +251,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1875,
-		"averageTime":28,
-		"downloads":16,
+		"difficulty":0.1578947368421053,
+		"averageTime":31.125,
+		"downloads":19,
 		"shortKey":"WpCpWpCp:RbCpRbCp",
 		"author":"BlueSynopsis",
-		"completions":13,
+		"completions":16,
 		"id":2238,
 		"completed":false,
 		"title":"7 - Many At Once",

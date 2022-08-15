@@ -132,18 +132,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4528301886792453,
-		"averageTime":449.6551724137931,
-		"downloads":54,
+		"difficulty":0.3835616438356164,
+		"averageTime":476.77777777777777,
+		"downloads":73,
 		"shortKey":"SgSg----:SgSg----:RcCc----",
 		"author":"player#558856681",
-		"completions":29,
+		"completions":45,
 		"id":4672,
 		"completed":false,
 		"title":"Cut in half",
-		"likes":16
+		"likes":19
 	}
 }

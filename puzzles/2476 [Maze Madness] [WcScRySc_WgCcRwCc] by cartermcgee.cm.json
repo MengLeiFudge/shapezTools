@@ -396,10 +396,12 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"downloads":12,
 		"shortKey":"WcScRySc:WgCcRwCc",
 		"author":"cartermcgee.cm",
 		"completions":0,

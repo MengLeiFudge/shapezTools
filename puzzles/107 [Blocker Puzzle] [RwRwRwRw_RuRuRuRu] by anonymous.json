@@ -141,15 +141,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.10964912280701755,
-		"averageTime":95.0295566502463,
-		"downloads":228,
+		"difficulty":0.10756972111553786,
+		"averageTime":356.51339285714283,
+		"downloads":251,
 		"shortKey":"RwRwRwRw:RuRuRuRu",
 		"author":"anonymous",
-		"completions":203,
+		"completions":224,
 		"id":107,
 		"completed":false,
 		"title":"Blocker Puzzle",
-		"likes":66
+		"likes":68
 	}
 }

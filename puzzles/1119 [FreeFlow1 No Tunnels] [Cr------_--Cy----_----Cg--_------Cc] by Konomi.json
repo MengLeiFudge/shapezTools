@@ -637,18 +637,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3157894736842105,
-		"averageTime":303.7692307692308,
-		"downloads":19,
+		"difficulty":0.3548387096774194,
+		"averageTime":311.35,
+		"downloads":31,
 		"shortKey":"Cr------:--Cy----:----Cg--:------Cc",
 		"author":"Konomi",
-		"completions":13,
+		"completions":20,
 		"id":1119,
 		"completed":false,
 		"title":"FreeFlow1 No Tunnels",
-		"likes":5
+		"likes":6
 	}
 }

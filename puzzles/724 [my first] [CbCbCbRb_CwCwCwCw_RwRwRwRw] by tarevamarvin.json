@@ -43,18 +43,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.02766798418972327,
-		"averageTime":49.04471544715447,
-		"downloads":253,
+		"difficulty":0.022556390977443663,
+		"averageTime":45.08205128205128,
+		"downloads":399,
 		"shortKey":"CbCbCbRb:CwCwCwCw:RwRwRwRw",
 		"author":"tarevamarvin",
-		"completions":246,
+		"completions":390,
 		"id":724,
 		"completed":true,
 		"title":"my first",
-		"likes":56
+		"likes":76
 	}
 }

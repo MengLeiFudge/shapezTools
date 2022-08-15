@@ -42,15 +42,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.22088353413654616,
-		"averageTime":219.53092783505156,
-		"downloads":1246,
+		"difficulty":0.23005060334760608,
+		"averageTime":211.51516683518705,
+		"downloads":2569,
 		"shortKey":"----RbCc",
 		"author":"mootmoot",
-		"completions":970,
+		"completions":1978,
 		"id":2987,
 		"completed":true,
 		"title":"Tiny problem",
-		"likes":466
+		"likes":815
 	}
 }

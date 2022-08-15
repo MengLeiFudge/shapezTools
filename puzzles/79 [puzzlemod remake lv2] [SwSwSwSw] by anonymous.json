@@ -153,15 +153,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.01872659176029967,
-		"averageTime":33.840648854961835,
-		"downloads":1068,
+		"difficulty":0.019589106545628288,
+		"averageTime":35.41130604288499,
+		"downloads":2093,
 		"shortKey":"SwSwSwSw",
 		"author":"anonymous",
-		"completions":1048,
+		"completions":2052,
 		"id":79,
 		"completed":true,
 		"title":"puzzlemod remake lv2",
-		"likes":289
+		"likes":449
 	}
 }

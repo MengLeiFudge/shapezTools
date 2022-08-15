@@ -51,18 +51,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09004092769440653,
-		"averageTime":53.32983508245877,
-		"downloads":733,
+		"difficulty":0.08905013192612132,
+		"averageTime":55.84721216509776,
+		"downloads":1516,
 		"shortKey":"----Ru--:------Ru",
 		"author":"KTSATeamkill",
-		"completions":667,
+		"completions":1381,
 		"id":2536,
 		"completed":true,
 		"title":"Easy Floating Layers",
-		"likes":201
+		"likes":323
 	}
 }

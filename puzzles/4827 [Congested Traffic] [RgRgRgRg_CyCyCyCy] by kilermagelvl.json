@@ -410,15 +410,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.09352517985611508,
-		"averageTime":161.35714285714286,
-		"downloads":139,
+		"difficulty":0.07692307692307687,
+		"averageTime":133.96666666666667,
+		"downloads":195,
 		"shortKey":"RgRgRgRg:CyCyCyCy",
 		"author":"kilermagelvl",
-		"completions":126,
+		"completions":180,
 		"id":4827,
 		"completed":false,
 		"title":"Congested Traffic",
-		"likes":46
+		"likes":60
 	}
 }

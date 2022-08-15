@@ -159,15 +159,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6,
-		"averageTime":1402.5714285714287,
-		"downloads":35,
+		"difficulty":0.5333333333333333,
+		"averageTime":1104.142857142857,
+		"downloads":45,
 		"shortKey":"--CuCp--",
 		"author":"milkcupatstarbu",
-		"completions":14,
+		"completions":21,
 		"id":4380,
 		"completed":true,
 		"title":"Thing 26",
-		"likes":9
+		"likes":14
 	}
 }

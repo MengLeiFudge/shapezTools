@@ -368,13 +368,15 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"CgCyCwCc:CcCgCyCw:CwCcCgCy:CyCwCcCg",
 		"author":"maiko",
-		"completions":2,
+		"completions":3,
 		"id":3289,
 		"completed":false,
 		"title":"maiko13",

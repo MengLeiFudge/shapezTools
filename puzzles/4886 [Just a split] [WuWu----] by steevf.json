@@ -234,18 +234,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.024390243902439046,
-		"averageTime":21.575,
-		"downloads":82,
+		"difficulty":0.019230769230769273,
+		"averageTime":22.901960784313726,
+		"downloads":156,
 		"shortKey":"WuWu----",
 		"author":"steevf",
-		"completions":80,
+		"completions":153,
 		"id":4886,
 		"completed":true,
 		"title":"Just a split",
-		"likes":16
+		"likes":26
 	}
 }

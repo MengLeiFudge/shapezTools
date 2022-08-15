@@ -355,18 +355,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04938271604938271,
-		"averageTime":56.58441558441559,
-		"downloads":81,
+		"difficulty":0.025974025974025983,
+		"averageTime":56.06666666666667,
+		"downloads":154,
 		"shortKey":"--WyWy--:--WyWy--:--WyWy--:--WyWy--",
 		"author":"qMythic",
-		"completions":77,
+		"completions":150,
 		"id":4885,
 		"completed":true,
 		"title":"Yeah",
-		"likes":16
+		"likes":26
 	}
 }

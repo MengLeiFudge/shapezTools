@@ -271,15 +271,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11111111111111116,
-		"averageTime":61.208333333333336,
-		"downloads":28,
+		"difficulty":0.03669724770642202,
+		"averageTime":26.16190476190476,
+		"downloads":109,
 		"shortKey":"CyCyCyCy:SbSbSbSb:RgRgRgRg:CrCrCrCr",
 		"author":"thomas2020davis",
-		"completions":24,
+		"completions":105,
 		"id":5557,
-		"completed":false,
+		"completed":true,
 		"title":"Just a simple puzzle",
-		"likes":3
+		"likes":18
 	}
 }

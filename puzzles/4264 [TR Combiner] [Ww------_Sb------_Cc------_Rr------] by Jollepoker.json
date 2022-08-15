@@ -115,15 +115,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":788.5,
-		"downloads":36,
+		"difficulty":0.3733333333333333,
+		"averageTime":671.6382978723404,
+		"downloads":75,
 		"shortKey":"Ww------:Sb------:Cc------:Rr------",
 		"author":"Jollepoker",
-		"completions":18,
+		"completions":47,
 		"id":4264,
 		"completed":false,
 		"title":"TR Combiner",
-		"likes":10
+		"likes":22
 	}
 }

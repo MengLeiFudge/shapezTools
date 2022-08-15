@@ -100,18 +100,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04938271604938271,
-		"averageTime":48.35064935064935,
-		"downloads":81,
+		"difficulty":0.03738317757009346,
+		"averageTime":43.53398058252427,
+		"downloads":107,
 		"shortKey":"CwRwSwWw",
 		"author":"sseewwaaggeess",
-		"completions":77,
+		"completions":103,
 		"id":4251,
 		"completed":false,
 		"title":"Contest Squeeze",
-		"likes":13
+		"likes":16
 	}
 }

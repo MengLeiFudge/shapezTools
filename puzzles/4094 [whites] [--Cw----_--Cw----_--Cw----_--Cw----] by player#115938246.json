@@ -263,18 +263,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2272727272727273,
-		"averageTime":85.29411764705883,
-		"downloads":22,
+		"difficulty":0.19999999999999996,
+		"averageTime":100,
+		"downloads":25,
 		"shortKey":"--Cw----:--Cw----:--Cw----:--Cw----",
 		"author":"player#115938246",
-		"completions":17,
+		"completions":20,
 		"id":4094,
 		"completed":false,
 		"title":"whites",
-		"likes":4
+		"likes":5
 	}
 }

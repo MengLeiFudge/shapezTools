@@ -87,15 +87,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.38095238095238093,
-		"averageTime":50.84615384615385,
-		"downloads":21,
+		"difficulty":0.34782608695652173,
+		"averageTime":57.06666666666667,
+		"downloads":23,
 		"shortKey":"CbRbRbCb",
 		"author":"Norock",
-		"completions":13,
+		"completions":15,
 		"id":2876,
 		"completed":false,
 		"title":"Pac Man",

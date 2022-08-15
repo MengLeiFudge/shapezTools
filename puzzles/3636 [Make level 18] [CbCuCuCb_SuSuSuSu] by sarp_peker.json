@@ -52,15 +52,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.17500000000000004,
-		"averageTime":187.27272727272728,
-		"downloads":40,
+		"difficulty":0.16279069767441856,
+		"averageTime":189.41666666666666,
+		"downloads":45,
 		"shortKey":"CbCuCuCb:SuSuSuSu",
 		"author":"sarp_peker",
-		"completions":33,
+		"completions":36,
 		"id":3636,
 		"completed":false,
 		"title":"Make level 18",

@@ -115,18 +115,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.125,
-		"averageTime":90.55555555555556,
-		"downloads":72,
+		"difficulty":0.1132075471698113,
+		"averageTime":84.45744680851064,
+		"downloads":106,
 		"shortKey":"CrCrCrCr:Cr--Cr--",
 		"author":"PiratadaMontill",
-		"completions":63,
+		"completions":94,
 		"id":1965,
 		"completed":false,
 		"title":"VariaNOTs",
-		"likes":12
+		"likes":16
 	}
 }

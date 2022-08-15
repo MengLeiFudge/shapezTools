@@ -229,10 +229,12 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"WrSwWrCw:WrCyWrRr",
 		"author":"Shankoh",
 		"completions":2,

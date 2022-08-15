@@ -173,18 +173,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.64,
-		"averageTime":608.4074074074074,
-		"downloads":79,
+		"difficulty":0.5869565217391304,
+		"averageTime":1001.8684210526316,
+		"downloads":92,
 		"shortKey":"CwRwRwCw",
 		"author":"player#430540577",
-		"completions":27,
+		"completions":38,
 		"id":4486,
 		"completed":false,
 		"title":"Arched Square",
-		"likes":15
+		"likes":23
 	}
 }

@@ -452,18 +452,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.625,
-		"averageTime":403,
-		"downloads":26,
+		"difficulty":0.633587786259542,
+		"averageTime":557.5833333333334,
+		"downloads":134,
 		"shortKey":"CcRrRrCu",
 		"author":"mootmoot",
-		"completions":6,
+		"completions":48,
 		"id":2526,
 		"completed":true,
 		"title":"False symmetry",
-		"likes":5
+		"likes":24
 	}
 }

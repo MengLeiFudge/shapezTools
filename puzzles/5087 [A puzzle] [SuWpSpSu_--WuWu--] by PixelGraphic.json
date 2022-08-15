@@ -203,18 +203,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7857142857142857,
-		"averageTime":294.6666666666667,
-		"downloads":19,
+		"difficulty":0.7692307692307692,
+		"averageTime":1484.5,
+		"downloads":35,
 		"shortKey":"SuWpSpSu:--WuWu--",
 		"author":"PixelGraphic",
-		"completions":3,
+		"completions":6,
 		"id":5087,
 		"completed":false,
 		"title":"A puzzle",
-		"likes":3
+		"likes":6
 	}
 }

@@ -211,18 +211,20 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.735632183908046,
-		"averageTime":683.9565217391304,
-		"downloads":88,
+		"difficulty":0.7398373983739837,
+		"averageTime":544.09375,
+		"downloads":131,
 		"shortKey":"RrRbRrRb:RrRbRrRb:RrRbRrRb:RrRbRrRb",
 		"author":"player#517499863",
-		"completions":23,
+		"completions":32,
 		"id":4708,
 		"completed":false,
 		"title":"Squished Up",
-		"likes":17
+		"likes":22
 	}
 }

@@ -149,18 +149,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.006451612903225823,
-		"averageTime":50.38961038961039,
-		"downloads":155,
+		"difficulty":0.025000000000000022,
+		"averageTime":62.11188811188811,
+		"downloads":440,
 		"shortKey":"Sr----Sr:CgCgCgCg:RuRuRuRu",
 		"author":"doofycash11",
-		"completions":154,
+		"completions":429,
 		"id":3584,
 		"completed":true,
 		"title":"tiky",
-		"likes":34
+		"likes":89
 	}
 }

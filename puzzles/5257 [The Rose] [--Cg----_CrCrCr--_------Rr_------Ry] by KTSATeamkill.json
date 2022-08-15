@@ -462,12 +462,14 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.6363636363636364,
 		"averageTime":955.25,
-		"downloads":26,
+		"downloads":29,
 		"shortKey":"--Cg----:CrCrCr--:------Rr:------Ry",
 		"author":"KTSATeamkill",
 		"completions":4,

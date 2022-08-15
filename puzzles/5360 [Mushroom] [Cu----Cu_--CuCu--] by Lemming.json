@@ -129,10 +129,12 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":20,
+		"downloads":22,
 		"shortKey":"Cu----Cu:--CuCu--",
 		"author":"Lemming",
 		"completions":4,

@@ -103,18 +103,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.12698412698412698,
-		"averageTime":79.67878787878787,
-		"downloads":189,
+		"difficulty":0.06818181818181823,
+		"averageTime":79.04212860310422,
+		"downloads":484,
 		"shortKey":"----WrWr:CuCuCuCu:RwRwRwRw",
 		"author":"player#558856681",
-		"completions":165,
+		"completions":451,
 		"id":4685,
 		"completed":true,
 		"title":"Filled",
-		"likes":44
+		"likes":98
 	}
 }

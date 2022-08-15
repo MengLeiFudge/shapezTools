@@ -89,15 +89,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.19189189189189193,
-		"averageTime":126.40468227424749,
-		"downloads":371,
+		"difficulty":0.13242009132420096,
+		"averageTime":114.22105263157894,
+		"downloads":657,
 		"shortKey":"SrSbSgSw",
 		"author":"amchap",
-		"completions":299,
+		"completions":570,
 		"id":4751,
 		"completed":true,
 		"title":"Stack-Cut Swapper",
-		"likes":136
+		"likes":204
 	}
 }

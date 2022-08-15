@@ -25,16 +25,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.4117647058823529,
+		"averageTime":14.4,
+		"downloads":17,
 		"shortKey":"RySgSgRy:CgWrWrCg",
 		"author":"anonymous",
-		"completions":3,
+		"completions":10,
 		"id":461,
 		"completed":false,
 		"title":"Test",
-		"likes":1
+		"likes":3
 	}
 }

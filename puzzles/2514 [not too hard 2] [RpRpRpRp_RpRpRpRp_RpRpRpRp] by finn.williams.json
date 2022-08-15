@@ -83,18 +83,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.34065934065934067,
-		"averageTime":234.93333333333334,
-		"downloads":91,
+		"difficulty":0.272,
+		"averageTime":289.75824175824175,
+		"downloads":126,
 		"shortKey":"RpRpRpRp:RpRpRpRp:RpRpRpRp",
 		"author":"finn.williams",
-		"completions":60,
+		"completions":91,
 		"id":2514,
 		"completed":true,
 		"title":"not too hard 2",
-		"likes":27
+		"likes":36
 	}
 }

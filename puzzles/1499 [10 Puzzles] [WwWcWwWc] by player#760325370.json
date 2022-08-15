@@ -1801,18 +1801,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.20297029702970293,
-		"averageTime":471.2546583850932,
-		"downloads":202,
+		"difficulty":0.19396551724137934,
+		"averageTime":448.3850267379679,
+		"downloads":232,
 		"shortKey":"WwWcWwWc",
 		"author":"player#760325370",
-		"completions":161,
+		"completions":187,
 		"id":1499,
 		"completed":false,
 		"title":"10 Puzzles",
-		"likes":63
+		"likes":67
 	}
 }

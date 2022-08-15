@@ -165,15 +165,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2941176470588235,
-		"averageTime":11.5,
-		"downloads":17,
+		"difficulty":0.25,
+		"averageTime":10.333333333333334,
+		"downloads":20,
 		"shortKey":"CrCuCrCu:CrSrCrSr",
 		"author":"decrofull",
-		"completions":12,
+		"completions":15,
 		"id":2690,
 		"completed":false,
 		"title":"belts",
-		"likes":1
+		"likes":2
 	}
 }

@@ -32,15 +32,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4411764705882353,
-		"averageTime":599.421052631579,
-		"downloads":34,
+		"difficulty":0.39473684210526316,
+		"averageTime":526,
+		"downloads":38,
 		"shortKey":"Sb----Sb:Sb----Sb:Sg----Sg:Sg----Sg",
 		"author":"Hitei",
-		"completions":19,
+		"completions":23,
 		"id":5493,
 		"completed":true,
 		"title":"Yay yay",
-		"likes":5
+		"likes":8
 	}
 }

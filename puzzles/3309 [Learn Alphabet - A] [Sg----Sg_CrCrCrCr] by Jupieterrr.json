@@ -350,18 +350,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5263157894736843,
-		"averageTime":606.0370370370371,
-		"downloads":57,
+		"difficulty":0.45238095238095233,
+		"averageTime":534.9565217391304,
+		"downloads":84,
 		"shortKey":"Sg----Sg:CrCrCrCr",
 		"author":"Jupieterrr",
-		"completions":27,
+		"completions":46,
 		"id":3309,
 		"completed":true,
 		"title":"Learn Alphabet - A",
-		"likes":16
+		"likes":22
 	}
 }

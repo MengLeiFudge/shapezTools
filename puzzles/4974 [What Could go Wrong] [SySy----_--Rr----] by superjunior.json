@@ -106,13 +106,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.46153846153846156,
+		"averageTime":790.5714285714286,
+		"downloads":13,
 		"shortKey":"SySy----:--Rr----",
 		"author":"superjunior",
-		"completions":5,
+		"completions":7,
 		"id":4974,
 		"completed":false,
 		"title":"What Could go Wrong",

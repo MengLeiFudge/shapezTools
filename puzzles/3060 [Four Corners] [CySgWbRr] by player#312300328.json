@@ -424,18 +424,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21794871794871795,
-		"averageTime":153.80327868852459,
-		"downloads":79,
+		"difficulty":0.19791666666666663,
+		"averageTime":155.8961038961039,
+		"downloads":96,
 		"shortKey":"CySgWbRr",
 		"author":"player#312300328",
-		"completions":61,
+		"completions":77,
 		"id":3060,
 		"completed":false,
 		"title":"Four Corners",
-		"likes":25
+		"likes":26
 	}
 }

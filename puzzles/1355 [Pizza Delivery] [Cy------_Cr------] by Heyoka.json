@@ -34,18 +34,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.22395406070549628,
-		"averageTime":211.1622621564482,
-		"downloads":2438,
+		"difficulty":0.2516062176165803,
+		"averageTime":203.7504846302963,
+		"downloads":4825,
 		"shortKey":"Cy------:Cr------",
 		"author":"Heyoka",
-		"completions":1892,
+		"completions":3611,
 		"id":1355,
 		"completed":true,
 		"title":"Pizza Delivery",
-		"likes":908
+		"likes":1531
 	}
 }

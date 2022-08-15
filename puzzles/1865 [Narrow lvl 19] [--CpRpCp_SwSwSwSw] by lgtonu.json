@@ -60,10 +60,12 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"--CpRpCp:SwSwSwSw",
 		"author":"lgtonu",
 		"completions":2,

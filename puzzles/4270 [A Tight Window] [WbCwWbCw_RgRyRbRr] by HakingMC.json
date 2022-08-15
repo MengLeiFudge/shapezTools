@@ -1778,15 +1778,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":699.0416666666666,
-		"downloads":48,
+		"difficulty":0.4084507042253521,
+		"averageTime":688.7142857142857,
+		"downloads":71,
 		"shortKey":"WbCwWbCw:RgRyRbRr",
 		"author":"HakingMC",
-		"completions":24,
+		"completions":42,
 		"id":4270,
 		"completed":false,
 		"title":"A Tight Window",
-		"likes":15
+		"likes":21
 	}
 }

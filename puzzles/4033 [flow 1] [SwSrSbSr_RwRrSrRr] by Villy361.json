@@ -109,15 +109,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.08163265306122447,
-		"averageTime":25.666666666666668,
-		"downloads":49,
+		"difficulty":0.05405405405405406,
+		"averageTime":22.542857142857144,
+		"downloads":74,
 		"shortKey":"SwSrSbSr:RwRrSrRr",
 		"author":"Villy361",
-		"completions":45,
+		"completions":70,
 		"id":4033,
 		"completed":false,
 		"title":"flow 1",
-		"likes":7
+		"likes":11
 	}
 }

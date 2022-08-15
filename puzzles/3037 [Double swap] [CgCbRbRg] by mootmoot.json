@@ -154,15 +154,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":382.2261904761905,
-		"downloads":127,
+		"difficulty":0.33043478260869563,
+		"averageTime":401.53679653679654,
+		"downloads":345,
 		"shortKey":"CgCbRbRg",
 		"author":"mootmoot",
-		"completions":84,
+		"completions":231,
 		"id":3037,
 		"completed":true,
 		"title":"Double swap",
-		"likes":46
+		"likes":106
 	}
 }

@@ -484,12 +484,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07692307692307687,
-		"averageTime":26.208333333333332,
-		"downloads":26,
+		"difficulty":0.06896551724137934,
+		"averageTime":25.962962962962962,
+		"downloads":29,
 		"shortKey":"CcRrWwSp",
 		"author":"decrofull",
-		"completions":24,
+		"completions":27,
 		"id":2691,
 		"completed":false,
 		"title":"belts 2",

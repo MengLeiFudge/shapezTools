@@ -52,15 +52,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.22045855379188717,
-		"averageTime":183.02262443438914,
-		"downloads":569,
+		"difficulty":0.1852913085004776,
+		"averageTime":173.0187573270809,
+		"downloads":1048,
 		"shortKey":"--Cr----:Cr------",
 		"author":"mootmoot",
-		"completions":442,
+		"completions":853,
 		"id":3246,
 		"completed":true,
 		"title":"Flip the float",
-		"likes":209
+		"likes":331
 	}
 }

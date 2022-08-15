@@ -63,15 +63,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.11023622047244097,
-		"averageTime":88.84955752212389,
-		"downloads":254,
+		"difficulty":0.10606060606060608,
+		"averageTime":90.14830508474576,
+		"downloads":265,
 		"shortKey":"CbCuCbCu:CbCbCbCb:CuCuCuCu",
 		"author":"anonymous",
-		"completions":226,
+		"completions":236,
 		"id":146,
 		"completed":false,
 		"title":"color delete",
-		"likes":67
+		"likes":68
 	}
 }

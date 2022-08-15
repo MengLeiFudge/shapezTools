@@ -88,10 +88,12 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"downloads":16,
 		"shortKey":"Sr------:Sr------:RwRwRwRw:Sr------",
 		"author":"Rodomify",
 		"completions":4,

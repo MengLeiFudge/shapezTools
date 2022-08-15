@@ -180,15 +180,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2666666666666667,
-		"averageTime":162.77272727272728,
-		"downloads":30,
+		"difficulty":0.25,
+		"averageTime":166.79166666666666,
+		"downloads":32,
 		"shortKey":"--CrCr--:CrCr----:WbWbWbWb",
 		"author":"wcopeland25",
-		"completions":22,
+		"completions":24,
 		"id":3551,
 		"completed":false,
 		"title":"Straight Forward",

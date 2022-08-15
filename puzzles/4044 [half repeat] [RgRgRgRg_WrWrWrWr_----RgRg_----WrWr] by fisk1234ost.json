@@ -52,15 +52,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.28888888888888886,
-		"averageTime":181.4375,
-		"downloads":50,
+		"difficulty":0.34615384615384615,
+		"averageTime":173.38235294117646,
+		"downloads":52,
 		"shortKey":"RgRgRgRg:WrWrWrWr:----RgRg:----WrWr",
 		"author":"fisk1234ost",
-		"completions":32,
+		"completions":34,
 		"id":4044,
 		"completed":false,
 		"title":"half repeat",

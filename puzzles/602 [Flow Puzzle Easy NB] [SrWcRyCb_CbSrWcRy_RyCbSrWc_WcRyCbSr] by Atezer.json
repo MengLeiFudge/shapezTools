@@ -173,12 +173,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.06000000000000005,
-		"averageTime":29.574468085106382,
-		"downloads":50,
+		"difficulty":0.05714285714285716,
+		"averageTime":30.575757575757574,
+		"downloads":70,
 		"shortKey":"SrWcRyCb:CbSrWcRy:RyCbSrWc:WcRyCbSr",
 		"author":"Atezer",
-		"completions":47,
+		"completions":66,
 		"id":602,
 		"completed":false,
 		"title":"Flow Puzzle Easy NB",

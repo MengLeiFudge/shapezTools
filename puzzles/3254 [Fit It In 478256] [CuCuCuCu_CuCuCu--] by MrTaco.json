@@ -92,18 +92,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06211180124223603,
-		"averageTime":59,
-		"downloads":161,
+		"difficulty":0.047970479704797064,
+		"averageTime":57.20542635658915,
+		"downloads":271,
 		"shortKey":"CuCuCuCu:CuCuCu--",
 		"author":"MrTaco",
-		"completions":151,
+		"completions":258,
 		"id":3254,
 		"completed":true,
 		"title":"Fit It In 478256",
-		"likes":35
+		"likes":50
 	}
 }

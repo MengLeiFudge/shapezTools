@@ -67,15 +67,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.125,
-		"averageTime":132,
-		"downloads":16,
+		"difficulty":0.09999999999999998,
+		"averageTime":125.88888888888889,
+		"downloads":20,
 		"shortKey":"----RuRu:----RuRu",
 		"author":"A_Person",
-		"completions":14,
+		"completions":18,
 		"id":3021,
 		"completed":false,
 		"title":"TheWayoftheSquare",
-		"likes":4
+		"likes":5
 	}
 }

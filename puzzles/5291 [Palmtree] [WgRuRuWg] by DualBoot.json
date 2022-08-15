@@ -141,18 +141,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.043010752688172005,
-		"averageTime":58.01123595505618,
-		"downloads":93,
+		"difficulty":0.02645502645502651,
+		"averageTime":57.266304347826086,
+		"downloads":189,
 		"shortKey":"WgRuRuWg",
 		"author":"DualBoot",
-		"completions":89,
+		"completions":184,
 		"id":5291,
 		"completed":true,
 		"title":"Palmtree",
-		"likes":20
+		"likes":33
 	}
 }

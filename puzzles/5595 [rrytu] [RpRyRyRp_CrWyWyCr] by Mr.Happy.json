@@ -533,13 +533,15 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"RpRyRyRp:CrWyWyCr",
 		"author":"Mr.Happy",
-		"completions":5,
+		"completions":6,
 		"id":5595,
 		"completed":false,
 		"title":"rrytu",

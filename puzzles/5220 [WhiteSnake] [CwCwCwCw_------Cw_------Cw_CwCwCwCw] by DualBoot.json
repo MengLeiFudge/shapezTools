@@ -100,18 +100,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.031746031746031744,
-		"averageTime":30.57377049180328,
-		"downloads":63,
+		"difficulty":0.021505376344086002,
+		"averageTime":31.384615384615383,
+		"downloads":93,
 		"shortKey":"CwCwCwCw:------Cw:------Cw:CwCwCwCw",
 		"author":"DualBoot",
-		"completions":61,
+		"completions":91,
 		"id":5220,
 		"completed":false,
 		"title":"WhiteSnake",
-		"likes":12
+		"likes":14
 	}
 }

@@ -393,10 +393,12 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":15,
+		"downloads":17,
 		"shortKey":"SyCgRwWp:WbSwCcRy:RgWcSpCb:CwRpWrSc",
 		"author":"pengy",
 		"completions":0,

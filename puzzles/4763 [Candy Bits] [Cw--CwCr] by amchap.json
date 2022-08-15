@@ -50,15 +50,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":341.1,
-		"downloads":50,
+		"difficulty":0.35064935064935066,
+		"averageTime":263.7,
+		"downloads":77,
 		"shortKey":"Cw--CwCr",
 		"author":"amchap",
-		"completions":30,
+		"completions":50,
 		"id":4763,
 		"completed":false,
 		"title":"Candy Bits",
-		"likes":16
+		"likes":20
 	}
 }

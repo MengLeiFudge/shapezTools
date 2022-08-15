@@ -239,13 +239,15 @@
 		]
 	},
 	"meta":{
-		"downloads":7,
+		"difficulty":0.1428571428571429,
+		"averageTime":102.66666666666667,
+		"downloads":14,
 		"shortKey":"CrWrCrWr:CwCpCwCp",
 		"author":"player#650448579",
-		"completions":6,
+		"completions":12,
 		"id":5247,
 		"completed":false,
 		"title":"Complex Seperation",
-		"likes":3
+		"likes":5
 	}
 }

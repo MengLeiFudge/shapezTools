@@ -1144,12 +1144,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.4545454545454546,
-		"averageTime":835.5,
-		"downloads":13,
+		"difficulty":0.4375,
+		"averageTime":752.5555555555555,
+		"downloads":17,
 		"shortKey":"SwSwSwSw:SwSwSwSw:SwSwSwSw:SwSwSwSw",
 		"author":"anonymous",
-		"completions":6,
+		"completions":9,
 		"id":314,
 		"completed":false,
 		"title":"Mini Factories",

@@ -244,18 +244,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7352941176470589,
-		"averageTime":738.7222222222222,
-		"downloads":75,
+		"difficulty":0.7439024390243902,
+		"averageTime":717.7142857142857,
+		"downloads":84,
 		"shortKey":"Rr----Rr:RrRr----:RrRr----:--RrRr--",
 		"author":"sykoe",
-		"completions":18,
+		"completions":21,
 		"id":2927,
 		"completed":false,
 		"title":"tripple small",
-		"likes":12
+		"likes":14
 	}
 }

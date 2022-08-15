@@ -106,15 +106,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.055374592833876246,
-		"averageTime":84.53103448275863,
-		"downloads":307,
+		"difficulty":0.049342105263157854,
+		"averageTime":87.56228373702422,
+		"downloads":608,
 		"shortKey":"CuCu----:CuCu----:CuCu----:CuCu----",
 		"author":"blac8",
-		"completions":290,
+		"completions":578,
 		"id":2800,
 		"completed":true,
 		"title":"random",
-		"likes":77
+		"likes":121
 	}
 }

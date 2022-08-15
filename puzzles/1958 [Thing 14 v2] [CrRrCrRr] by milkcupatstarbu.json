@@ -135,18 +135,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5072463768115942,
-		"averageTime":413.8235294117647,
-		"downloads":69,
+		"difficulty":0.475,
+		"averageTime":418.6190476190476,
+		"downloads":120,
 		"shortKey":"CrRrCrRr",
 		"author":"milkcupatstarbu",
-		"completions":34,
+		"completions":63,
 		"id":1958,
 		"completed":true,
 		"title":"Thing 14 v2",
-		"likes":23
+		"likes":34
 	}
 }

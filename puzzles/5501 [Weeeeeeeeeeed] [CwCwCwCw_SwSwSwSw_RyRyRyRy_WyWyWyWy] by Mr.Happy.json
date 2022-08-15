@@ -408,18 +408,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.12195121951219512,
-		"averageTime":50.22222222222222,
-		"downloads":41,
+		"difficulty":0.058558558558558516,
+		"averageTime":83.1531100478469,
+		"downloads":222,
 		"shortKey":"CwCwCwCw:SwSwSwSw:RyRyRyRy:WyWyWyWy",
 		"author":"Mr.Happy",
-		"completions":36,
+		"completions":209,
 		"id":5501,
-		"completed":false,
+		"completed":true,
 		"title":"Weeeeeeeeeeed",
-		"likes":7
+		"likes":43
 	}
 }

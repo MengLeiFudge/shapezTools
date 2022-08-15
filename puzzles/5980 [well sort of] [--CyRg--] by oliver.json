@@ -1,0 +1,53 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"--CyRg--",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"--Cy----",
+				"pos":{
+					"r":270,
+					"x":0,
+					"y":0
+				},
+				"type":"goal"
+			},
+			{
+				"item":"----Rg--",
+				"pos":{
+					"r":180,
+					"x":-2,
+					"y":0
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":4,
+			"h":3
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0,
+		"averageTime":14,
+		"downloads":18,
+		"shortKey":"--CyRg--",
+		"author":"oliver",
+		"completions":17,
+		"id":5980,
+		"completed":false,
+		"title":"well sort of",
+		"likes":3
+	}
+}

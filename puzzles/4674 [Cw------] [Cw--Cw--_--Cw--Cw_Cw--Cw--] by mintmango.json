@@ -90,18 +90,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13861386138613863,
-		"averageTime":118.20689655172414,
-		"downloads":101,
+		"difficulty":0.10191082802547768,
+		"averageTime":113.07801418439716,
+		"downloads":157,
 		"shortKey":"Cw--Cw--:--Cw--Cw:Cw--Cw--",
 		"author":"mintmango",
-		"completions":87,
+		"completions":141,
 		"id":4674,
 		"completed":false,
 		"title":"Cw------",
-		"likes":34
+		"likes":48
 	}
 }

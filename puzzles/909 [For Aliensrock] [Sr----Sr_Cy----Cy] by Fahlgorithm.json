@@ -349,10 +349,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"Sr----Sr:Cy----Cy",
 		"author":"Fahlgorithm",
 		"completions":1,

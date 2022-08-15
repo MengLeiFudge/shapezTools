@@ -25,18 +25,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13043478260869568,
-		"averageTime":30.4,
-		"downloads":23,
+		"difficulty":0.0714285714285714,
+		"averageTime":29.28205128205128,
+		"downloads":42,
 		"shortKey":"--SuSuSu",
 		"author":"player#835892658",
-		"completions":20,
+		"completions":39,
 		"id":5349,
 		"completed":false,
 		"title":"ok gfhgh",
-		"likes":4
+		"likes":5
 	}
 }

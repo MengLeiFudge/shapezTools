@@ -580,15 +580,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3571428571428571,
-		"averageTime":206.11111111111111,
-		"downloads":14,
+		"difficulty":0.3125,
+		"averageTime":179.36363636363637,
+		"downloads":16,
 		"shortKey":"CcCcCcCc:RyRyRyRy",
 		"author":"Ignitor",
-		"completions":9,
+		"completions":11,
 		"id":2999,
 		"completed":false,
 		"title":"THE MAZE",

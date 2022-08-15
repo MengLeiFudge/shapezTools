@@ -2202,16 +2202,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.1875,
+		"averageTime":251.3846153846154,
+		"downloads":16,
 		"shortKey":"CgRgRgCg:CcCcCcCc",
 		"author":"EJ.2048",
-		"completions":6,
+		"completions":13,
 		"id":5205,
 		"completed":false,
 		"title":"hghfg",
-		"likes":3
+		"likes":4
 	}
 }

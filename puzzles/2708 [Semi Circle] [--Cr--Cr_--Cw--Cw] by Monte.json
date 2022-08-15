@@ -90,18 +90,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.45238095238095233,
-		"averageTime":441.39130434782606,
-		"downloads":86,
+		"difficulty":0.35820895522388063,
+		"averageTime":426.69767441860466,
+		"downloads":135,
 		"shortKey":"--Cr--Cr:--Cw--Cw",
 		"author":"Monte",
-		"completions":46,
+		"completions":86,
 		"id":2708,
 		"completed":false,
 		"title":"Semi Circle",
-		"likes":28
+		"likes":40
 	}
 }

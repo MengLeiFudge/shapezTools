@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CrRbCrRb",
+				"pos":{
+					"r":180,
+					"x":-5,
+					"y":-6
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CrRbRbCr:RbCrRbCr:RbCrCrRb:RbCrRbCr",
+				"pos":{
+					"r":180,
+					"x":-3,
+					"y":4
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":13,
+			"h":11
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.41666666666666663,
+		"averageTime":450.2857142857143,
+		"downloads":38,
+		"shortKey":"CrRbRbCr:RbCrRbCr:RbCrCrRb:RbCrRbCr",
+		"author":"player#639461483",
+		"completions":21,
+		"id":6009,
+		"completed":false,
+		"title":"Ivulka Puzzle 3",
+		"likes":7
+	}
+}

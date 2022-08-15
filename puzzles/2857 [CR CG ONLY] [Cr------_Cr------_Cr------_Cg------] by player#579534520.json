@@ -322,18 +322,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06382978723404253,
-		"averageTime":64.67424242424242,
-		"downloads":141,
+		"difficulty":0.04761904761904767,
+		"averageTime":62.90909090909091,
+		"downloads":231,
 		"shortKey":"Cr------:Cr------:Cr------:Cg------",
 		"author":"player#579534520",
-		"completions":132,
+		"completions":220,
 		"id":2857,
 		"completed":false,
 		"title":"CR CG ONLY",
-		"likes":30
+		"likes":41
 	}
 }

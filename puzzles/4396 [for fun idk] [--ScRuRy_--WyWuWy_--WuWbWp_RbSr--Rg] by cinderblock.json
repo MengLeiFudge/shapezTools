@@ -248,13 +248,17 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.41666666666666663,
+		"averageTime":125.57142857142857,
+		"downloads":12,
 		"shortKey":"--ScRuRy:--WyWuWy:--WuWbWp:RbSr--Rg",
 		"author":"cinderblock",
-		"completions":6,
+		"completions":7,
 		"id":4396,
 		"completed":false,
 		"title":"for fun idk",

@@ -80,15 +80,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.03418803418803418,
-		"averageTime":10.309734513274336,
-		"downloads":234,
+		"difficulty":0.024539877300613466,
+		"averageTime":13.742138364779874,
+		"downloads":326,
 		"shortKey":"CpCpCpRp",
 		"author":"gentryaustin",
-		"completions":226,
+		"completions":318,
 		"id":684,
 		"completed":false,
 		"title":"Make Lv9",
-		"likes":50
+		"likes":59
 	}
 }

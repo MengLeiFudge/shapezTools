@@ -174,13 +174,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":13,
+		"difficulty":0.6428571428571428,
+		"averageTime":237,
+		"downloads":14,
 		"shortKey":"CwRuRuCw:SySySySy",
 		"author":"DualBoot",
-		"completions":4,
+		"completions":5,
 		"id":5183,
 		"completed":false,
 		"title":"StarObservatory",

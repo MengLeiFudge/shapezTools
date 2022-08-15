@@ -70,18 +70,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10526315789473684,
-		"averageTime":140.6,
-		"downloads":95,
+		"difficulty":0.10833333333333328,
+		"averageTime":136.02803738317758,
+		"downloads":120,
 		"shortKey":"RgSgSgRg",
 		"author":"zoeymsummers",
-		"completions":85,
+		"completions":107,
 		"id":2760,
 		"completed":false,
 		"title":"The green  The grey",
-		"likes":30
+		"likes":34
 	}
 }

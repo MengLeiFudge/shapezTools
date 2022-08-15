@@ -1627,18 +1627,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.33333333333333337,
-		"averageTime":495.9166666666667,
-		"downloads":37,
+		"averageTime":457.76666666666665,
+		"downloads":45,
 		"shortKey":"----RpRp:----WpWp:----RpRp:----WpWp",
 		"author":"Bhilibb0506",
-		"completions":24,
+		"completions":30,
 		"id":5357,
 		"completed":false,
 		"title":"XXL Puzzel_RushB",
-		"likes":9
+		"likes":10
 	}
 }

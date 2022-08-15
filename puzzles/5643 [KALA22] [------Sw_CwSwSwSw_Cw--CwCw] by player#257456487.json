@@ -251,16 +251,18 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":2,
+		"downloads":6,
 		"shortKey":"------Sw:CwSwSwSw:Cw--CwCw",
 		"author":"player#257456487",
-		"completions":0,
+		"completions":3,
 		"id":5643,
-		"completed":false,
+		"completed":true,
 		"title":"KALA22",
-		"likes":0
+		"likes":2
 	}
 }

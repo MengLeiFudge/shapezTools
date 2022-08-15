@@ -151,15 +151,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.16348448687350836,
-		"averageTime":134.60057061340942,
-		"downloads":838,
+		"difficulty":0.14986737400530503,
+		"averageTime":131.5436817472699,
+		"downloads":1508,
 		"shortKey":"RrCrCrRr:RgCgCgRg:RbCbCbRb",
 		"author":"jacobsedk",
-		"completions":701,
+		"completions":1282,
 		"id":1240,
 		"completed":true,
 		"title":"RGB Factory",
-		"likes":304
+		"likes":477
 	}
 }

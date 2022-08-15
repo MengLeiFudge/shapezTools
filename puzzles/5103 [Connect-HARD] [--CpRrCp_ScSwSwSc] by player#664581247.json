@@ -253,15 +253,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6956521739130435,
-		"averageTime":787,
-		"downloads":26,
+		"difficulty":0.7209302325581395,
+		"averageTime":628.0833333333334,
+		"downloads":43,
 		"shortKey":"--CpRrCp:ScSwSwSc",
 		"author":"player#664581247",
-		"completions":7,
+		"completions":12,
 		"id":5103,
 		"completed":false,
 		"title":"Connect-HARD",
-		"likes":5
+		"likes":7
 	}
 }

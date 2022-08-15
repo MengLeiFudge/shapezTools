@@ -127,15 +127,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0625,
-		"averageTime":17.666666666666668,
-		"downloads":64,
+		"difficulty":0.02659574468085102,
+		"averageTime":176.88524590163934,
+		"downloads":188,
 		"shortKey":"CwCwCwCw:CrCyCgCp",
 		"author":"reminodet",
-		"completions":60,
+		"completions":183,
 		"id":4180,
-		"completed":false,
+		"completed":true,
 		"title":"Flow free",
-		"likes":11
+		"likes":39
 	}
 }

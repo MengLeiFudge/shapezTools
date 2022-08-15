@@ -237,18 +237,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5454545454545454,
-		"averageTime":277.53333333333336,
-		"downloads":37,
+		"difficulty":0.5609756097560976,
+		"averageTime":265.3888888888889,
+		"downloads":43,
 		"shortKey":"CrCyCgCb:Sr------:--CrSrCr:CwCwCwCw",
 		"author":"sseewwaaggeess",
-		"completions":15,
+		"completions":18,
 		"id":4174,
 		"completed":false,
 		"title":"Contest Rocket",
-		"likes":6
+		"likes":7
 	}
 }

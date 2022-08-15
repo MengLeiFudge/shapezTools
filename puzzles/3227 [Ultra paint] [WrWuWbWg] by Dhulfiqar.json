@@ -415,16 +415,18 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"WrWuWbWg",
 		"author":"Dhulfiqar",
-		"completions":3,
+		"completions":4,
 		"id":3227,
 		"completed":false,
 		"title":"Ultra paint",
-		"likes":0
+		"likes":1
 	}
 }

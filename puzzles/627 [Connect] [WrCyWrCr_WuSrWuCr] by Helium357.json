@@ -161,13 +161,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.25,
+		"averageTime":39.333333333333336,
+		"downloads":16,
 		"shortKey":"WrCyWrCr:WuSrWuCr",
 		"author":"Helium357",
-		"completions":5,
+		"completions":12,
 		"id":627,
 		"completed":false,
 		"title":"Connect",
-		"likes":2
+		"likes":3
 	}
 }

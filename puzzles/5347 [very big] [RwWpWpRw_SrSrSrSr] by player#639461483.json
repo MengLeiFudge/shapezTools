@@ -559,15 +559,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.040000000000000036,
-		"averageTime":109.29166666666667,
-		"downloads":25,
+		"difficulty":0.06896551724137934,
+		"averageTime":106.81481481481481,
+		"downloads":29,
 		"shortKey":"RwWpWpRw:SrSrSrSr",
 		"author":"player#639461483",
-		"completions":24,
+		"completions":27,
 		"id":5347,
 		"completed":false,
 		"title":"very big",

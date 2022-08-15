@@ -218,18 +218,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.27083333333333337,
-		"averageTime":614.5714285714286,
-		"downloads":96,
+		"difficulty":0.2535211267605634,
+		"averageTime":1025.622641509434,
+		"downloads":143,
 		"shortKey":"CbCbCbRb:CwCwCwCw:CbCbCbCw",
 		"author":"PandaGhost",
-		"completions":70,
+		"completions":106,
 		"id":3458,
 		"completed":true,
 		"title":"Blueprints",
-		"likes":32
+		"likes":42
 	}
 }

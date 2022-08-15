@@ -552,12 +552,14 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.6666666666666667,
 		"averageTime":388,
-		"downloads":17,
+		"downloads":18,
 		"shortKey":"RwCwRwCw:CbCbCbCb:CwCwCwCw",
 		"author":"matthias_agent_",
 		"completions":5,

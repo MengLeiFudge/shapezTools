@@ -25,13 +25,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.25,
+		"averageTime":20.555555555555557,
+		"downloads":12,
 		"shortKey":"--RuRu--",
 		"author":"PWalkersCrisps",
-		"completions":6,
+		"completions":9,
 		"id":1323,
 		"completed":false,
 		"title":"Compact Machinery",

@@ -1470,15 +1470,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.8125,
-		"averageTime":1504.3333333333333,
-		"downloads":19,
+		"difficulty":0.8,
+		"averageTime":1169.25,
+		"downloads":25,
 		"shortKey":"Cy----Cg:--Cg--Cy:SyRrRpSb:CbSrSpCr",
 		"author":"player#138672777",
-		"completions":3,
+		"completions":4,
 		"id":3719,
 		"completed":false,
 		"title":"Real Roulette II",
-		"likes":3
+		"likes":4
 	}
 }

@@ -162,15 +162,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1166666666666667,
-		"averageTime":74.54716981132076,
-		"downloads":60,
+		"difficulty":0.1029411764705882,
+		"averageTime":78.67213114754098,
+		"downloads":69,
 		"shortKey":"SbSrSrSr",
 		"author":"Amaris3004",
-		"completions":53,
+		"completions":61,
 		"id":4881,
 		"completed":false,
 		"title":"stars",

@@ -90,15 +90,17 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.12307692307692308,
-		"averageTime":94.73684210526316,
-		"downloads":65,
+		"difficulty":0.11940298507462688,
+		"averageTime":92.9322033898305,
+		"downloads":67,
 		"shortKey":"SrCbCbCb",
 		"author":"Grumphre31",
-		"completions":57,
+		"completions":59,
 		"id":2337,
 		"completed":false,
 		"title":"Just a Circle",

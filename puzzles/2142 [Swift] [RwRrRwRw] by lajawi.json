@@ -76,18 +76,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.022727272727272707,
-		"averageTime":32.91472868217054,
-		"downloads":660,
+		"difficulty":0.021014492753623215,
+		"averageTime":32.88749074759438,
+		"downloads":1380,
 		"shortKey":"RwRrRwRw",
 		"author":"lajawi",
-		"completions":645,
+		"completions":1351,
 		"id":2142,
 		"completed":true,
 		"title":"Swift",
-		"likes":177
+		"likes":294
 	}
 }

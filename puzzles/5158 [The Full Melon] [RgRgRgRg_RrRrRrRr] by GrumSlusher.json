@@ -157,15 +157,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.18181818181818177,
-		"averageTime":138.38888888888889,
-		"downloads":45,
+		"difficulty":0.16326530612244894,
+		"averageTime":134.0487804878049,
+		"downloads":49,
 		"shortKey":"RgRgRgRg:RrRrRrRr",
 		"author":"GrumSlusher",
-		"completions":36,
+		"completions":41,
 		"id":5158,
 		"completed":false,
 		"title":"The Full Melon",
-		"likes":12
+		"likes":13
 	}
 }

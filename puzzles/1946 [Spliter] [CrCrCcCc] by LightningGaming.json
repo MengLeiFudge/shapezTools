@@ -43,15 +43,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21052631578947367,
-		"averageTime":63.93333333333333,
-		"downloads":19,
+		"difficulty":0.18181818181818177,
+		"averageTime":60.666666666666664,
+		"downloads":22,
 		"shortKey":"CrCrCcCc",
 		"author":"LightningGaming",
-		"completions":15,
+		"completions":18,
 		"id":1946,
 		"completed":false,
 		"title":"Spliter",

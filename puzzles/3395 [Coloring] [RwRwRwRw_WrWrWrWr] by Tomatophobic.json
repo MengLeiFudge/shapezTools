@@ -132,18 +132,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.26315789473684215,
-		"averageTime":171.67857142857142,
-		"downloads":39,
+		"difficulty":0.22580645161290325,
+		"averageTime":196.20833333333334,
+		"downloads":62,
 		"shortKey":"RwRwRwRw:WrWrWrWr",
 		"author":"Tomatophobic",
-		"completions":28,
+		"completions":48,
 		"id":3395,
 		"completed":false,
 		"title":"Coloring",
-		"likes":11
+		"likes":15
 	}
 }

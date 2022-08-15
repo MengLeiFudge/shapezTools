@@ -218,15 +218,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2272727272727273,
-		"averageTime":19.58823529411765,
-		"downloads":22,
+		"difficulty":0.20833333333333337,
+		"averageTime":20.157894736842106,
+		"downloads":24,
 		"shortKey":"WwWbWbWb",
 		"author":"szlam12",
-		"completions":17,
+		"completions":19,
 		"id":2593,
 		"completed":false,
 		"title":"ehhhhhhhhhhhhhhhhhhh",

@@ -515,18 +515,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16666666666666663,
-		"averageTime":91.56666666666666,
-		"downloads":36,
+		"difficulty":0.08571428571428574,
+		"averageTime":90.3125,
+		"downloads":70,
 		"shortKey":"RwRwRwRw:RwRw----:----RwRw",
 		"author":"player#429578393",
-		"completions":30,
+		"completions":64,
 		"id":5548,
-		"completed":false,
+		"completed":true,
 		"title":"Cubism",
-		"likes":9
+		"likes":19
 	}
 }

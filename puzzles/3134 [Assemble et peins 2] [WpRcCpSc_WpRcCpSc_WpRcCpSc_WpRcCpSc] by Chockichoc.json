@@ -1116,18 +1116,20 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11428571428571432,
-		"averageTime":139.51612903225808,
-		"downloads":70,
+		"difficulty":0.1097560975609756,
+		"averageTime":134.6027397260274,
+		"downloads":82,
 		"shortKey":"WpRcCpSc:WpRcCpSc:WpRcCpSc:WpRcCpSc",
 		"author":"Chockichoc",
-		"completions":62,
+		"completions":73,
 		"id":3134,
 		"completed":true,
 		"title":"Assemble et peins 2",
-		"likes":21
+		"likes":22
 	}
 }

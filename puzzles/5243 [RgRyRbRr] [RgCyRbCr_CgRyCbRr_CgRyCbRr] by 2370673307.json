@@ -421,10 +421,12 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.33333333333333337,
+		"averageTime":64.7,
+		"downloads":15,
 		"shortKey":"RgCyRbCr:CgRyCbRr:CgRyCbRr",
 		"author":"2370673307",
-		"completions":5,
+		"completions":10,
 		"id":5243,
 		"completed":false,
 		"title":"RgRyRbRr",

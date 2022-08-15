@@ -164,15 +164,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.41666666666666663,
-		"averageTime":286.85714285714283,
-		"downloads":12,
+		"difficulty":0.3846153846153846,
+		"averageTime":267.5,
+		"downloads":13,
 		"shortKey":"RrCcWwSy",
 		"author":"DualBoot",
-		"completions":7,
+		"completions":8,
 		"id":2619,
 		"completed":false,
 		"title":"Back2Basic",

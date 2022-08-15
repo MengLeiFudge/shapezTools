@@ -489,12 +489,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07499999999999996,
-		"averageTime":72.08108108108108,
-		"downloads":40,
+		"difficulty":0.0535714285714286,
+		"averageTime":65.79245283018868,
+		"downloads":56,
 		"shortKey":"Cu------:CuCuCuCu",
 		"author":"dambien",
-		"completions":37,
+		"completions":53,
 		"id":2628,
 		"completed":false,
 		"title":"Split And Rejoin",

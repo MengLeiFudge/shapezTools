@@ -239,12 +239,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.31818181818181823,
-		"averageTime":128.13333333333333,
-		"downloads":22,
+		"difficulty":0.25,
+		"averageTime":106.04761904761905,
+		"downloads":28,
 		"shortKey":"WrWrWrWr:WrWrWrWr",
 		"author":"anonymous",
-		"completions":15,
+		"completions":21,
 		"id":129,
 		"completed":false,
 		"title":"painter madness",

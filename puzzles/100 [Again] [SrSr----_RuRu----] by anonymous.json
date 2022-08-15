@@ -333,15 +333,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.8647342995169083,
-		"averageTime":233.14285714285714,
-		"downloads":208,
+		"difficulty":0.85,
+		"averageTime":269,
+		"downloads":220,
 		"shortKey":"SrSr----:RuRu----",
 		"author":"anonymous",
-		"completions":28,
+		"completions":33,
 		"id":100,
 		"completed":false,
 		"title":"Again",
-		"likes":13
+		"likes":15
 	}
 }

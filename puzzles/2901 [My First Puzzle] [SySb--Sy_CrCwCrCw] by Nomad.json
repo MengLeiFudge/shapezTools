@@ -75,12 +75,14 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.5,
 		"averageTime":309.57142857142856,
-		"downloads":14,
+		"downloads":15,
 		"shortKey":"SySb--Sy:CrCwCrCw",
 		"author":"Nomad",
 		"completions":7,

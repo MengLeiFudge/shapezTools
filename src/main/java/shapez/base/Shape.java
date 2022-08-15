@@ -94,6 +94,7 @@ public class Shape extends Item {
         }
         this.corners = corners;
         this.layerNum = getLayerNum();
+        this.shortKey = shortKey;
     }
 
     /**
@@ -105,6 +106,7 @@ public class Shape extends Item {
         super();
         this.corners = corners;
         this.layerNum = getLayerNum();
+        this.shortKey = toOneLine();
     }
 
     /**
@@ -130,6 +132,7 @@ public class Shape extends Item {
         if (getId() != id) {
             throw new IllegalArgumentException("id 为 " + id + " 的图形存在全空层！");
         }
+        this.shortKey = toOneLine();
     }
 
     /**

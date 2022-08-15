@@ -50,18 +50,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.01773049645390068,
-		"averageTime":16.447653429602887,
-		"downloads":282,
+		"difficulty":0.012711864406779627,
+		"averageTime":18.465665236051503,
+		"downloads":472,
 		"shortKey":"RbRb----",
 		"author":"gentryaustin",
-		"completions":277,
+		"completions":466,
 		"id":682,
 		"completed":false,
 		"title":"Make Lv8",
-		"likes":63
+		"likes":91
 	}
 }

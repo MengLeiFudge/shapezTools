@@ -85,18 +85,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.24712643678160917,
-		"averageTime":243.36641221374046,
-		"downloads":349,
+		"difficulty":0.21955719557195574,
+		"averageTime":398.1513002364066,
+		"downloads":542,
 		"shortKey":"SwSwSwSw:CpCpCpCp",
 		"author":"bluez",
-		"completions":262,
+		"completions":423,
 		"id":2066,
 		"completed":true,
 		"title":"splice stack split",
-		"likes":126
+		"likes":167
 	}
 }

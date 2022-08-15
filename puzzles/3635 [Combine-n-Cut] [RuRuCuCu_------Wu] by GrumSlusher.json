@@ -130,15 +130,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.23188405797101452,
-		"averageTime":387.8867924528302,
-		"downloads":71,
+		"difficulty":0.19491525423728817,
+		"averageTime":329.69473684210527,
+		"downloads":118,
 		"shortKey":"RuRuCuCu:------Wu",
 		"author":"GrumSlusher",
-		"completions":53,
+		"completions":95,
 		"id":3635,
 		"completed":false,
 		"title":"Combine-n-Cut",
-		"likes":22
+		"likes":35
 	}
 }

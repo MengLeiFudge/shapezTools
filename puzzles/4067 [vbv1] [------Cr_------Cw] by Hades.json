@@ -330,18 +330,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":403.90909090909093,
-		"downloads":61,
+		"difficulty":0.3846153846153846,
+		"averageTime":377.3125,
+		"downloads":79,
 		"shortKey":"------Cr:------Cw",
 		"author":"Hades",
-		"completions":33,
+		"completions":48,
 		"id":4067,
 		"completed":false,
 		"title":"vbv1",
-		"likes":18
+		"likes":20
 	}
 }

@@ -177,18 +177,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.363013698630137,
-		"averageTime":720.7741935483871,
-		"downloads":146,
+		"difficulty":0.30434782608695654,
+		"averageTime":569.9291666666667,
+		"downloads":345,
 		"shortKey":"WbWbWbWb:CrCrCrCr:RyRyRyRy:SgSgSgSg",
 		"author":"KTSATeamkill",
-		"completions":93,
+		"completions":240,
 		"id":3145,
-		"completed":false,
+		"completed":true,
 		"title":"A Logical Conclusion",
-		"likes":52
+		"likes":106
 	}
 }

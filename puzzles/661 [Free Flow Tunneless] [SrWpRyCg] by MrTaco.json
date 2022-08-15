@@ -109,15 +109,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1875,
-		"averageTime":39,
-		"downloads":16,
+		"difficulty":0.1785714285714286,
+		"averageTime":37.47826086956522,
+		"downloads":28,
 		"shortKey":"SrWpRyCg",
 		"author":"MrTaco",
-		"completions":13,
+		"completions":23,
 		"id":661,
 		"completed":false,
 		"title":"Free Flow Tunneless",
-		"likes":1
+		"likes":2
 	}
 }

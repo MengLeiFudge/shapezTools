@@ -141,12 +141,14 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.40476190476190477,
 		"averageTime":704.52,
-		"downloads":42,
+		"downloads":43,
 		"shortKey":"WbWbWbWb:Wg--Wr--",
 		"author":"Setrod_s",
 		"completions":25,

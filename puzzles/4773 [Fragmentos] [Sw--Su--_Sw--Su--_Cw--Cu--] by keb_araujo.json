@@ -285,12 +285,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":229,
-		"downloads":28,
+		"difficulty":0.48275862068965514,
+		"averageTime":224.8,
+		"downloads":32,
 		"shortKey":"Sw--Su--:Sw--Su--:Cw--Cu--",
 		"author":"keb_araujo",
-		"completions":14,
+		"completions":15,
 		"id":4773,
 		"completed":false,
 		"title":"Fragmentos",

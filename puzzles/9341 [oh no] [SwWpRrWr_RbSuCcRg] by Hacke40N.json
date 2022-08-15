@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":0,
+					"y":-2
+				},
+				"type":"goal"
+			},
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":0,
+					"y":1
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"downloads":8,
+		"shortKey":"SwWpRrWr:RbSuCcRg",
+		"author":"Hacke40N",
+		"completions":6,
+		"id":9341,
+		"completed":false,
+		"title":"oh no",
+		"likes":2
+	}
+}

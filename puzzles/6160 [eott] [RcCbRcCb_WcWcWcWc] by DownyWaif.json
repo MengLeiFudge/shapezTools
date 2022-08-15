@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"SuSuSuSu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"SuSuSuSu",
+				"pos":{
+					"r":180,
+					"x":4,
+					"y":4
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":10,
+			"h":10
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.06666666666666665,
+		"averageTime":21.928571428571427,
+		"downloads":16,
+		"shortKey":"RcCbRcCb:WcWcWcWc",
+		"author":"DownyWaif",
+		"completions":14,
+		"id":6160,
+		"completed":false,
+		"title":"eott",
+		"likes":0
+	}
+}

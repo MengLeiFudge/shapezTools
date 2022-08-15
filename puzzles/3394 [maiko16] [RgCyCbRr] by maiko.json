@@ -1568,15 +1568,17 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5294117647058824,
-		"averageTime":526.0625,
-		"downloads":34,
+		"difficulty":0.5263157894736843,
+		"averageTime":519.2222222222222,
+		"downloads":41,
 		"shortKey":"RgCyCbRr",
 		"author":"maiko",
-		"completions":16,
+		"completions":18,
 		"id":3394,
 		"completed":true,
 		"title":"maiko16",

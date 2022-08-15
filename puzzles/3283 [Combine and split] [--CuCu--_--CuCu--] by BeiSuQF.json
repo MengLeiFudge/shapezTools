@@ -65,18 +65,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.034912718204488824,
-		"averageTime":69.73385012919897,
-		"downloads":401,
+		"difficulty":0.028112449799196804,
+		"averageTime":73.60537190082644,
+		"downloads":996,
 		"shortKey":"--CuCu--:--CuCu--",
 		"author":"BeiSuQF",
-		"completions":387,
+		"completions":968,
 		"id":3283,
 		"completed":true,
 		"title":"Combine and split",
-		"likes":105
+		"likes":211
 	}
 }

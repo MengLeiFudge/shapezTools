@@ -839,10 +839,12 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":10,
 		"shortKey":"Sr------:--CrSrCr:--Cw----",
 		"author":"1071651610",
 		"completions":1,

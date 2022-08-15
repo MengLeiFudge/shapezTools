@@ -92,15 +92,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2666666666666667,
-		"averageTime":33.36363636363637,
-		"downloads":15,
+		"difficulty":0.23529411764705888,
+		"averageTime":32.53846153846154,
+		"downloads":17,
 		"shortKey":"SpSyScSr",
 		"author":"EffElYouEx",
-		"completions":11,
+		"completions":13,
 		"id":504,
 		"completed":false,
 		"title":"Efficient Splitting",

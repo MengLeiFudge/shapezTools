@@ -733,15 +733,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.46153846153846156,
-		"averageTime":186.28571428571428,
-		"downloads":13,
+		"difficulty":0.4285714285714286,
+		"averageTime":172.25,
+		"downloads":14,
 		"shortKey":"SwSwCwCw:ScScCbCb",
 		"author":"BlueSynopsis",
-		"completions":7,
+		"completions":8,
 		"id":2287,
 		"completed":false,
 		"title":"26 - Sugery On Shape",

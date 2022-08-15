@@ -517,15 +517,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.035019455252918275,
-		"averageTime":69.79435483870968,
-		"downloads":257,
+		"difficulty":0.025000000000000022,
+		"averageTime":71.57549857549857,
+		"downloads":720,
 		"shortKey":"WpWpWpWp:WcWcWcWc:WpWpWpWp:WcWcWcWc",
 		"author":"1FrostySlime",
-		"completions":248,
+		"completions":702,
 		"id":2713,
 		"completed":true,
 		"title":"That Looks Nice",
-		"likes":63
+		"likes":148
 	}
 }

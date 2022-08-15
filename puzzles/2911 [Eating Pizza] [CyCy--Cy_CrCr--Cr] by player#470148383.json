@@ -111,12 +111,14 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.5454545454545454,
 		"averageTime":376,
-		"downloads":34,
+		"downloads":37,
 		"shortKey":"CyCy--Cy:CrCr--Cr",
 		"author":"player#470148383",
 		"completions":15,

@@ -236,15 +236,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.23717948717948723,
-		"averageTime":313.4873949579832,
-		"downloads":312,
+		"difficulty":0.2222222222222222,
+		"averageTime":304.1770186335404,
+		"downloads":415,
 		"shortKey":"SySpSbSc",
 		"author":"akeyes",
-		"completions":238,
+		"completions":322,
 		"id":1375,
 		"completed":false,
 		"title":"The maze",
-		"likes":105
+		"likes":125
 	}
 }

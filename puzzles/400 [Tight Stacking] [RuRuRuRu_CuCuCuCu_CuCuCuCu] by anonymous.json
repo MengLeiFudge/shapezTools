@@ -100,12 +100,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.1923076923076923,
-		"averageTime":26.38095238095238,
-		"downloads":26,
+		"difficulty":0.1785714285714286,
+		"averageTime":25.17391304347826,
+		"downloads":28,
 		"shortKey":"RuRuRuRu:CuCuCuCu:CuCuCuCu",
 		"author":"anonymous",
-		"completions":21,
+		"completions":23,
 		"id":400,
 		"completed":false,
 		"title":"Tight Stacking",

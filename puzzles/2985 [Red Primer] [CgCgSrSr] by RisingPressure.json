@@ -91,15 +91,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":127,
-		"downloads":15,
+		"difficulty":0.30000000000000004,
+		"averageTime":95.64285714285714,
+		"downloads":20,
 		"shortKey":"CgCgSrSr",
 		"author":"RisingPressure",
-		"completions":9,
+		"completions":14,
 		"id":2985,
 		"completed":false,
 		"title":"Red Primer",

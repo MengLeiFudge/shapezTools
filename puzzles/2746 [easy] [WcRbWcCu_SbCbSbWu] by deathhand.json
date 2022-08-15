@@ -50,15 +50,17 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3125,
-		"averageTime":26.545454545454547,
-		"downloads":16,
+		"difficulty":0.26315789473684215,
+		"averageTime":26.642857142857142,
+		"downloads":19,
 		"shortKey":"WcRbWcCu:SbCbSbWu",
 		"author":"deathhand",
-		"completions":11,
+		"completions":14,
 		"id":2746,
 		"completed":false,
 		"title":"easy",

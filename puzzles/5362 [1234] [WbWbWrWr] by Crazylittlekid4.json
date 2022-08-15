@@ -61,18 +61,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15384615384615385,
-		"averageTime":104.27272727272727,
-		"downloads":26,
+		"difficulty":0.16129032258064513,
+		"averageTime":101.6923076923077,
+		"downloads":31,
 		"shortKey":"WbWbWrWr",
 		"author":"Crazylittlekid4",
-		"completions":22,
+		"completions":26,
 		"id":5362,
 		"completed":false,
 		"title":"1234",
-		"likes":5
+		"likes":7
 	}
 }

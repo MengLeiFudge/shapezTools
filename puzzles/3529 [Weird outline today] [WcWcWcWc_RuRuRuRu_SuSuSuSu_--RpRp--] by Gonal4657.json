@@ -70,15 +70,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23809523809523814,
-		"averageTime":204.125,
-		"downloads":42,
+		"difficulty":0.196078431372549,
+		"averageTime":197.90243902439025,
+		"downloads":51,
 		"shortKey":"WcWcWcWc:RuRuRuRu:SuSuSuSu:--RpRp--",
 		"author":"Gonal4657",
-		"completions":32,
+		"completions":41,
 		"id":3529,
 		"completed":false,
 		"title":"Weird outline today",

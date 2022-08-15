@@ -69,15 +69,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4375,
-		"averageTime":263.5,
-		"downloads":32,
+		"difficulty":0.38888888888888884,
+		"averageTime":266.95454545454544,
+		"downloads":37,
 		"shortKey":"RgRrRbRy",
 		"author":"CodeNick",
-		"completions":18,
+		"completions":22,
 		"id":4649,
 		"completed":false,
 		"title":"No Rotation Needed",
-		"likes":7
+		"likes":8
 	}
 }

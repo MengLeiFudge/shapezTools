@@ -1,0 +1,53 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"SySySySr",
+				"pos":{
+					"r":0,
+					"x":-5,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"SrSySrSr",
+				"pos":{
+					"r":180,
+					"x":-5,
+					"y":-3
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"SySySySy",
+				"pos":{
+					"r":180,
+					"x":4,
+					"y":2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":10,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.039215686274509776,
+		"averageTime":111.06122448979592,
+		"downloads":52,
+		"shortKey":"SySrSySr",
+		"author":"sculler14",
+		"completions":49,
+		"id":6218,
+		"completed":false,
+		"title":"prefered color",
+		"likes":10
+	}
+}

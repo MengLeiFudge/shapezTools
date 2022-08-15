@@ -389,15 +389,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.46153846153846156,
-		"averageTime":831.375,
-		"downloads":108,
+		"difficulty":0.41698841698841704,
+		"averageTime":1096.1523178807947,
+		"downloads":259,
 		"shortKey":"CrCrCrCr:CyCyCyCy:CbCbCbCb",
 		"author":"kilermagelvl",
-		"completions":56,
+		"completions":151,
 		"id":4807,
 		"completed":true,
 		"title":"Compact 4to16 Split",
-		"likes":38
+		"likes":80
 	}
 }

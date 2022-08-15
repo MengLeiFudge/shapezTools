@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"SuSuSuSu",
+				"pos":{
+					"r":0,
+					"x":-4,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"SuSuSuSu",
+				"pos":{
+					"r":0,
+					"x":3,
+					"y":-3
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0,
+		"averageTime":28.772727272727273,
+		"downloads":23,
+		"shortKey":"SuSuSuSy",
+		"author":"Olivier",
+		"completions":22,
+		"id":7652,
+		"completed":false,
+		"title":"Easy level",
+		"likes":2
+	}
+}

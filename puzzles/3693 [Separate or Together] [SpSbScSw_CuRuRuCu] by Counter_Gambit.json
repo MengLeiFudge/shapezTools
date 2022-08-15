@@ -1183,10 +1183,12 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"SpSbScSw:CuRuRuCu",
 		"author":"Counter_Gambit",
 		"completions":1,

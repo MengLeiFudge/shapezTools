@@ -160,18 +160,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.34426229508196726,
-		"averageTime":174.225,
-		"downloads":63,
+		"difficulty":0.3246753246753247,
+		"averageTime":166.15384615384616,
+		"downloads":77,
 		"shortKey":"--Cw----:RwCb----:--Sb----:--Su----",
 		"author":"player#138672777",
-		"completions":40,
+		"completions":52,
 		"id":3791,
 		"completed":false,
 		"title":"idea test",
-		"likes":17
+		"likes":18
 	}
 }

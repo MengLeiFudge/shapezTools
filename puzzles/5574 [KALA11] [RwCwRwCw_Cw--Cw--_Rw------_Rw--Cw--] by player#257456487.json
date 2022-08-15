@@ -386,10 +386,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":9,
 		"shortKey":"RwCwRwCw:Cw--Cw--:Rw------:Rw--Cw--",
 		"author":"player#257456487",
 		"completions":1,

@@ -137,15 +137,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.7,
-		"averageTime":438.4166666666667,
-		"downloads":40,
+		"difficulty":0.6417910447761195,
+		"averageTime":371.875,
+		"downloads":67,
 		"shortKey":"CwCwCwCw:SgSgSgSg:CwCwCwCw:SgSgSgSg",
 		"author":"897701215",
-		"completions":12,
+		"completions":24,
 		"id":4943,
 		"completed":false,
 		"title":"yes-no 2",
-		"likes":7
+		"likes":11
 	}
 }

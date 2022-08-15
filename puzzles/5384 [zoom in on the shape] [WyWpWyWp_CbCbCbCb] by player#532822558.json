@@ -1886,18 +1886,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2777777777777778,
-		"averageTime":115,
-		"downloads":20,
+		"difficulty":0.29166666666666663,
+		"averageTime":4621.294117647059,
+		"downloads":24,
 		"shortKey":"WyWpWyWp:CbCbCbCb",
 		"author":"player#532822558",
-		"completions":13,
+		"completions":17,
 		"id":5384,
 		"completed":false,
 		"title":"zoom in on the shape",
-		"likes":1
+		"likes":2
 	}
 }

@@ -84,18 +84,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.19999999999999996,
-		"averageTime":124.6875,
-		"downloads":20,
+		"difficulty":0.16666666666666663,
+		"averageTime":117,
+		"downloads":24,
 		"shortKey":"CwRbWgSr",
 		"author":"sAnc",
-		"completions":16,
+		"completions":20,
 		"id":3161,
 		"completed":false,
 		"title":"CrRgWbSw",
-		"likes":3
+		"likes":4
 	}
 }

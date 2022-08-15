@@ -435,15 +435,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.38888888888888884,
-		"averageTime":69.27272727272727,
-		"downloads":18,
+		"difficulty":0.34782608695652173,
+		"averageTime":73.46666666666667,
+		"downloads":23,
 		"shortKey":"RuRu----:----RuRu:RuRu----:----RuRu",
 		"author":"anonymous",
-		"completions":11,
+		"completions":15,
 		"id":457,
 		"completed":false,
 		"title":"Rectangle",
-		"likes":3
+		"likes":4
 	}
 }

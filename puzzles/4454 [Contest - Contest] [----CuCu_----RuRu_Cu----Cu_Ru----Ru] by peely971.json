@@ -674,15 +674,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.35,
-		"averageTime":94.76923076923077,
-		"downloads":20,
+		"difficulty":0.34782608695652173,
+		"averageTime":110.13333333333334,
+		"downloads":23,
 		"shortKey":"----CuCu:----RuRu:Cu----Cu:Ru----Ru",
 		"author":"peely971",
-		"completions":13,
+		"completions":15,
 		"id":4454,
 		"completed":false,
 		"title":"Contest - Contest",

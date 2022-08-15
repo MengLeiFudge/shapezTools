@@ -114,15 +114,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10526315789473684,
-		"averageTime":112.29411764705883,
-		"downloads":19,
+		"difficulty":0.09090909090909094,
+		"averageTime":111.55,
+		"downloads":22,
 		"shortKey":"CuCuCuCu:RuCw--Cw:----Ru--",
 		"author":"player#312300328",
-		"completions":17,
+		"completions":20,
 		"id":3086,
 		"completed":false,
 		"title":"Return to Beggining",

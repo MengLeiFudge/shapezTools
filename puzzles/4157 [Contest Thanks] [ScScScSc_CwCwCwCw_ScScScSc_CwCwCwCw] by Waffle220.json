@@ -384,18 +384,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2931034482758621,
-		"averageTime":166.8048780487805,
-		"downloads":58,
+		"difficulty":0.27419354838709675,
+		"averageTime":159.13333333333333,
+		"downloads":62,
 		"shortKey":"ScScScSc:CwCwCwCw:ScScScSc:CwCwCwCw",
 		"author":"Waffle220",
-		"completions":41,
+		"completions":45,
 		"id":4157,
 		"completed":false,
 		"title":"Contest Thanks",
-		"likes":12
+		"likes":13
 	}
 }

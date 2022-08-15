@@ -592,15 +592,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.11538461538461542,
-		"averageTime":49.73913043478261,
-		"downloads":26,
+		"difficulty":0.09999999999999998,
+		"averageTime":49.74074074074074,
+		"downloads":30,
 		"shortKey":"CrCrCrCr:CwCwCwCw:CrCrCrCr:CwCwCwCw",
 		"author":"anonymous",
-		"completions":23,
+		"completions":27,
 		"id":311,
 		"completed":false,
 		"title":"target found",
-		"likes":2
+		"likes":3
 	}
 }

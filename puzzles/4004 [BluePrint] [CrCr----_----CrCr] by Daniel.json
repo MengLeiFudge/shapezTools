@@ -229,13 +229,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.3125,
+		"averageTime":24.454545454545453,
+		"downloads":17,
 		"shortKey":"CrCr----:----CrCr",
 		"author":"Daniel",
-		"completions":7,
+		"completions":11,
 		"id":4004,
 		"completed":false,
 		"title":"BluePrint",

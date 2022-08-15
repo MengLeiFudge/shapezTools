@@ -172,12 +172,14 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.8064516129032258,
 		"averageTime":1121.8333333333333,
-		"downloads":33,
+		"downloads":34,
 		"shortKey":"Cr------:CuCuWuCu:------Ww",
 		"author":"amberdots",
 		"completions":6,

@@ -714,15 +714,17 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2666666666666667,
-		"averageTime":140.9090909090909,
-		"downloads":30,
+		"difficulty":0.25806451612903225,
+		"averageTime":136.8695652173913,
+		"downloads":31,
 		"shortKey":"--Cu--Ru",
 		"author":"OneBigHappyFami",
-		"completions":22,
+		"completions":23,
 		"id":3588,
 		"completed":false,
 		"title":"Learn Your Numbers-1",

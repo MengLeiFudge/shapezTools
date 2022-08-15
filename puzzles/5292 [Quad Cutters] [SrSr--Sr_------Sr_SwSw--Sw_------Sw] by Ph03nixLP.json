@@ -544,18 +544,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5777777777777777,
-		"averageTime":875.1578947368421,
-		"downloads":46,
+		"difficulty":0.5714285714285714,
+		"averageTime":808.6190476190476,
+		"downloads":49,
 		"shortKey":"SrSr--Sr:------Sr:SwSw--Sw:------Sw",
 		"author":"Ph03nixLP",
-		"completions":19,
+		"completions":21,
 		"id":5292,
 		"completed":false,
 		"title":"Quad Cutters",
-		"likes":11
+		"likes":12
 	}
 }

@@ -67,18 +67,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11111111111111116,
-		"averageTime":16.375,
-		"downloads":18,
+		"difficulty":0.09090909090909094,
+		"averageTime":15.65,
+		"downloads":22,
 		"shortKey":"RyCyRyCy:CgRgCgRg",
 		"author":"Apithia",
-		"completions":16,
+		"completions":20,
 		"id":4014,
 		"completed":false,
 		"title":"deliver the fruit",
-		"likes":0
+		"likes":1
 	}
 }

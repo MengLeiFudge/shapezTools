@@ -428,18 +428,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7254901960784313,
-		"averageTime":380.85714285714283,
-		"downloads":51,
+		"difficulty":0.736842105263158,
+		"averageTime":449.6666666666667,
+		"downloads":59,
 		"shortKey":"CrCyCgRb:CwCwCwCw:CrCyCgRb:CwCwCwCw",
 		"author":"rootysoda",
-		"completions":14,
+		"completions":15,
 		"id":4349,
 		"completed":false,
 		"title":"blueplritnt",
-		"likes":8
+		"likes":9
 	}
 }

@@ -469,15 +469,17 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4285714285714286,
-		"averageTime":127,
-		"downloads":15,
+		"difficulty":0.4375,
+		"averageTime":134.11111111111111,
+		"downloads":16,
 		"shortKey":"CwCwCwCw:RuRuRuRu:CwCwCwCw:RuRuRuRu",
 		"author":"player#589516339",
-		"completions":8,
+		"completions":9,
 		"id":5014,
 		"completed":false,
 		"title":"Mixup",

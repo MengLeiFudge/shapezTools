@@ -109,18 +109,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0641509433962264,
-		"averageTime":77.12903225806451,
-		"downloads":265,
+		"difficulty":0.06504065040650409,
+		"averageTime":80.93623188405797,
+		"downloads":738,
 		"shortKey":"RyRyCwCw",
 		"author":"player#760325370",
-		"completions":248,
+		"completions":690,
 		"id":3101,
 		"completed":true,
 		"title":"Squares and circles",
-		"likes":66
+		"likes":157
 	}
 }

@@ -125,15 +125,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.054545454545454564,
-		"averageTime":24.48076923076923,
-		"downloads":55,
+		"difficulty":0.04020100502512558,
+		"averageTime":26.387434554973822,
+		"downloads":199,
 		"shortKey":"Ru------:--Cu----:----Su--:------Wu",
 		"author":"Vasse",
-		"completions":52,
+		"completions":191,
 		"id":4028,
-		"completed":false,
+		"completed":true,
 		"title":"my first flow free",
-		"likes":9
+		"likes":33
 	}
 }

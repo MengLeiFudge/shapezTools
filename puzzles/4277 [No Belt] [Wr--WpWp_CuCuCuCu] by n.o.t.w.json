@@ -319,10 +319,12 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.25,
+		"averageTime":81.25,
+		"downloads":16,
 		"shortKey":"Wr--WpWp:CuCuCuCu",
 		"author":"n.o.t.w",
-		"completions":6,
+		"completions":12,
 		"id":4277,
 		"completed":false,
 		"title":"No Belt",

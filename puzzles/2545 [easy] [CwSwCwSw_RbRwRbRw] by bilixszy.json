@@ -193,15 +193,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":24.083333333333332,
-		"downloads":16,
+		"difficulty":0.2222222222222222,
+		"averageTime":23.071428571428573,
+		"downloads":18,
 		"shortKey":"CwSwCwSw:RbRwRbRw",
 		"author":"bilixszy",
-		"completions":12,
+		"completions":14,
 		"id":2545,
 		"completed":false,
 		"title":"easy",

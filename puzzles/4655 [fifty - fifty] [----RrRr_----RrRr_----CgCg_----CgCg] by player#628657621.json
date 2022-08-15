@@ -114,18 +114,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25806451612903225,
-		"averageTime":163.93478260869566,
-		"downloads":62,
+		"difficulty":0.22499999999999998,
+		"averageTime":149.88709677419354,
+		"downloads":80,
 		"shortKey":"----RrRr:----RrRr:----CgCg:----CgCg",
 		"author":"player#628657621",
-		"completions":46,
+		"completions":62,
 		"id":4655,
 		"completed":false,
 		"title":"fifty - fifty",
-		"likes":18
+		"likes":21
 	}
 }

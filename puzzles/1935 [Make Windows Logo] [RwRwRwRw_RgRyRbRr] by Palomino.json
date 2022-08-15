@@ -83,15 +83,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.02941176470588236,
-		"averageTime":48.93939393939394,
-		"downloads":272,
+		"difficulty":0.02857142857142858,
+		"averageTime":57.294117647058826,
+		"downloads":525,
 		"shortKey":"RwRwRwRw:RgRyRbRr",
 		"author":"Palomino",
-		"completions":264,
+		"completions":510,
 		"id":1935,
 		"completed":false,
 		"title":"Make Windows Logo",
-		"likes":61
+		"likes":105
 	}
 }

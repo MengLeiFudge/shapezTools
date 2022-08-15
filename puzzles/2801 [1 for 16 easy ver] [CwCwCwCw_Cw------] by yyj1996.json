@@ -160,15 +160,17 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.375,
-		"averageTime":89.1,
-		"downloads":16,
+		"difficulty":0.30000000000000004,
+		"averageTime":93.57142857142857,
+		"downloads":20,
 		"shortKey":"CwCwCwCw:Cw------",
 		"author":"yyj1996",
-		"completions":10,
+		"completions":14,
 		"id":2801,
 		"completed":false,
 		"title":"1 for 16 easy ver",

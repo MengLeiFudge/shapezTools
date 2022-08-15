@@ -98,15 +98,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":93.21428571428571,
-		"downloads":19,
+		"difficulty":0.26086956521739135,
+		"averageTime":88.3529411764706,
+		"downloads":23,
 		"shortKey":"ScRyScRy:WrWuWrWu",
 		"author":"player#492175345",
-		"completions":14,
+		"completions":17,
 		"id":5407,
 		"completed":false,
 		"title":"Super Ez",

@@ -333,18 +333,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5238095238095238,
-		"averageTime":1014.9,
-		"downloads":21,
+		"difficulty":0.5,
+		"averageTime":979,
+		"downloads":22,
 		"shortKey":"--CcCr--:WgWg----",
 		"author":"PrallvollesEute",
-		"completions":10,
+		"completions":11,
 		"id":4954,
 		"completed":false,
 		"title":"Some Random Shape",
-		"likes":4
+		"likes":5
 	}
 }

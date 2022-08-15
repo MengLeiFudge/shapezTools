@@ -221,15 +221,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11363636363636365,
-		"averageTime":100.71794871794872,
-		"downloads":44,
+		"difficulty":0.12244897959183676,
+		"averageTime":97.34883720930233,
+		"downloads":49,
 		"shortKey":"RwRwRwCw:RbRbRbRb",
 		"author":"Sike",
-		"completions":39,
+		"completions":43,
 		"id":3412,
 		"completed":false,
 		"title":"Inverted Blueprint",
-		"likes":10
+		"likes":11
 	}
 }

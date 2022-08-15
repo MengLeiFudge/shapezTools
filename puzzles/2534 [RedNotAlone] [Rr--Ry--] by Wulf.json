@@ -179,15 +179,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.48684210526315785,
-		"averageTime":674.6923076923077,
-		"downloads":76,
+		"difficulty":0.48051948051948057,
+		"averageTime":660.275,
+		"downloads":77,
 		"shortKey":"Rr--Ry--",
 		"author":"Wulf",
-		"completions":39,
+		"completions":40,
 		"id":2534,
 		"completed":true,
 		"title":"RedNotAlone",

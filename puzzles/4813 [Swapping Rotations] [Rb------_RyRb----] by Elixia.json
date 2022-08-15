@@ -43,15 +43,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.31799163179916323,
-		"averageTime":325.83435582822085,
-		"downloads":239,
+		"difficulty":0.2605633802816901,
+		"averageTime":316.6063492063492,
+		"downloads":426,
 		"shortKey":"Rb------:RyRb----",
 		"author":"Elixia",
-		"completions":163,
+		"completions":315,
 		"id":4813,
 		"completed":true,
 		"title":"Swapping Rotations",
-		"likes":87
+		"likes":131
 	}
 }

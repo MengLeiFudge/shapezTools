@@ -151,15 +151,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0803571428571429,
-		"averageTime":66.02912621359224,
-		"downloads":112,
+		"difficulty":0.06451612903225812,
+		"averageTime":75.3103448275862,
+		"downloads":186,
 		"shortKey":"CrCrCrCr:Cr------:CrCrCrCr:CrCrCrCr",
 		"author":"rootysoda",
-		"completions":103,
+		"completions":174,
 		"id":3936,
 		"completed":false,
 		"title":"no conveyors",
-		"likes":24
+		"likes":31
 	}
 }

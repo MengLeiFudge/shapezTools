@@ -61,13 +61,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.5,
+		"averageTime":233.8,
+		"downloads":10,
 		"shortKey":"--Sy--Sy:CcCbCcCb:CwCuCwCu:Sy--Sy--",
 		"author":"maiko",
-		"completions":3,
+		"completions":5,
 		"id":4258,
 		"completed":false,
 		"title":"maiko43",

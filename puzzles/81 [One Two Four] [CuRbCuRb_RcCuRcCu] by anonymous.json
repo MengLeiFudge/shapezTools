@@ -81,12 +81,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.5882352941176471,
-		"averageTime":768.7142857142857,
-		"downloads":17,
+		"difficulty":0.5,
+		"averageTime":636,
+		"downloads":20,
 		"shortKey":"CuRbCuRb:RcCuRcCu",
 		"author":"anonymous",
-		"completions":7,
+		"completions":10,
 		"id":81,
 		"completed":false,
 		"title":"One Two Four",

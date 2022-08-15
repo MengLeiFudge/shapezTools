@@ -25,10 +25,12 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"Sy------:Sw------:SySySySy:SwSwSwSw",
 		"author":"DualBoot",
 		"completions":4,

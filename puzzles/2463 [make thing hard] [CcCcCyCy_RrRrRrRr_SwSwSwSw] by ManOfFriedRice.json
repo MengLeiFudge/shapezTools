@@ -434,15 +434,17 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5833333333333333,
-		"averageTime":425,
-		"downloads":12,
+		"difficulty":0.5384615384615384,
+		"averageTime":377.3333333333333,
+		"downloads":13,
 		"shortKey":"CcCcCyCy:RrRrRrRr:SwSwSwSw",
 		"author":"ManOfFriedRice",
-		"completions":5,
+		"completions":6,
 		"id":2463,
 		"completed":false,
 		"title":"make thing hard",

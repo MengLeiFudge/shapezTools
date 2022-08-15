@@ -153,18 +153,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07692307692307687,
-		"averageTime":72.75,
-		"downloads":27,
+		"difficulty":0.06766917293233088,
+		"averageTime":73.11290322580645,
+		"downloads":133,
 		"shortKey":"SgRuRuWg",
 		"author":"DualBoot",
-		"completions":24,
+		"completions":124,
 		"id":5631,
-		"completed":false,
+		"completed":true,
 		"title":"Pine Tree",
-		"likes":8
+		"likes":21
 	}
 }

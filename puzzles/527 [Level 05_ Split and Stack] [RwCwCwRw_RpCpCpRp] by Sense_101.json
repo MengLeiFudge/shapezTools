@@ -91,15 +91,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.02234051133155901,
-		"averageTime":63.46246493977891,
-		"downloads":12399,
+		"difficulty":0.03431967014309967,
+		"averageTime":67.14605048348612,
+		"downloads":24738,
 		"shortKey":"RwCwCwRw:RpCpCpRp",
 		"author":"Sense_101",
-		"completions":12122,
+		"completions":23889,
 		"id":527,
 		"completed":true,
 		"title":"Level 05: Split and Stack",
-		"likes":2234
+		"likes":3693
 	}
 }

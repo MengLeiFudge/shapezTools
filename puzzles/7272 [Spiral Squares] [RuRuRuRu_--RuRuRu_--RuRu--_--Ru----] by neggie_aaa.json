@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":-4,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RuRuRuRu:--RuRuRu:--RuRu--:--Ru----",
+				"pos":{
+					"r":180,
+					"x":2,
+					"y":2
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":7,
+			"h":7
+		},
+		"version":1,
+		"excludedBuildings":[
+			"mixer",
+			"painter",
+			"underground_belt"
+		]
+	},
+	"meta":{
+		"downloads":12,
+		"shortKey":"RuRuRuRu:--RuRuRu:--RuRu--:--Ru----",
+		"author":"neggie_aaa",
+		"completions":3,
+		"id":7272,
+		"completed":false,
+		"title":"Spiral Squares",
+		"likes":2
+	}
+}

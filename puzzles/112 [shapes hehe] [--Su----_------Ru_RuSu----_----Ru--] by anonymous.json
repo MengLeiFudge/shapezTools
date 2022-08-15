@@ -347,15 +347,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.010526315789473717,
-		"averageTime":25.68617021276596,
-		"downloads":190,
+		"difficulty":0.0074349442379182396,
+		"averageTime":26.98876404494382,
+		"downloads":270,
 		"shortKey":"--Su----:------Ru:RuSu----:----Ru--",
 		"author":"anonymous",
-		"completions":188,
+		"completions":267,
 		"id":112,
 		"completed":false,
 		"title":"shapes hehe",
-		"likes":38
+		"likes":48
 	}
 }

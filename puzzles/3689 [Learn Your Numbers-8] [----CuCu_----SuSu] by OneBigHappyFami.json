@@ -367,15 +367,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.30952380952380953,
-		"averageTime":267.3448275862069,
-		"downloads":45,
+		"difficulty":0.2962962962962963,
+		"averageTime":257.9736842105263,
+		"downloads":54,
 		"shortKey":"----CuCu:----SuSu",
 		"author":"OneBigHappyFami",
-		"completions":29,
+		"completions":38,
 		"id":3689,
 		"completed":false,
 		"title":"Learn Your Numbers-8",

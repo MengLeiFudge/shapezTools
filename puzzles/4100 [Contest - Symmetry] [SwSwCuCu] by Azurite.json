@@ -303,18 +303,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.19117647058823528,
-		"averageTime":94.7090909090909,
-		"downloads":136,
+		"difficulty":0.16500000000000004,
+		"averageTime":94.1377245508982,
+		"downloads":200,
 		"shortKey":"SwSwCuCu",
 		"author":"Azurite",
-		"completions":110,
+		"completions":167,
 		"id":4100,
 		"completed":false,
 		"title":"Contest - Symmetry",
-		"likes":47
+		"likes":59
 	}
 }

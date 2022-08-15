@@ -568,18 +568,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4326923076923077,
-		"averageTime":826.1864406779661,
-		"downloads":104,
+		"difficulty":0.38139534883720927,
+		"averageTime":852.375939849624,
+		"downloads":217,
 		"shortKey":"SgCyWrRb",
 		"author":"ModMan64",
-		"completions":59,
+		"completions":133,
 		"id":3714,
 		"completed":false,
 		"title":"Multigrain Shapes",
-		"likes":35
+		"likes":67
 	}
 }

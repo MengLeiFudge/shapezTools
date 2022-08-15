@@ -61,15 +61,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.05405405405405406,
-		"averageTime":6.8,
-		"downloads":37,
+		"difficulty":0.045454545454545414,
+		"averageTime":6.404761904761905,
+		"downloads":44,
 		"shortKey":"RwRuRwRu:RwRuRwRu:RwRuRwRu",
 		"author":"player#429578393",
-		"completions":35,
+		"completions":42,
 		"id":5240,
 		"completed":false,
 		"title":"one belt",
-		"likes":3
+		"likes":5
 	}
 }

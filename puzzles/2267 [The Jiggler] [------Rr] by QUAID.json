@@ -163,15 +163,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.28985507246376807,
-		"averageTime":302.0204081632653,
-		"downloads":70,
+		"difficulty":0.28,
+		"averageTime":1255.5555555555557,
+		"downloads":75,
 		"shortKey":"------Rr",
 		"author":"QUAID",
-		"completions":49,
+		"completions":54,
 		"id":2267,
 		"completed":false,
 		"title":"The Jiggler",

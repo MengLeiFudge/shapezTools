@@ -954,15 +954,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.22384428223844277,
-		"averageTime":273.3855799373041,
-		"downloads":411,
+		"difficulty":0.16546762589928055,
+		"averageTime":263.64224137931035,
+		"downloads":836,
 		"shortKey":"RwRwRwRw:WrWrWrWr:CyCyCyCy",
 		"author":"Monte",
-		"completions":319,
+		"completions":696,
 		"id":2798,
 		"completed":true,
 		"title":"No Split Splitscreen",
-		"likes":152
+		"likes":262
 	}
 }

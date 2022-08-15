@@ -167,12 +167,14 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.782608695652174,
 		"averageTime":1638.6,
-		"downloads":50,
+		"downloads":52,
 		"shortKey":"Ry--Rr--:----Cg--:Cp--Cp--:Cr------",
 		"author":"f3dx",
 		"completions":10,

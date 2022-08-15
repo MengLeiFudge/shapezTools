@@ -156,18 +156,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.05747126436781613,
-		"averageTime":20.963414634146343,
-		"downloads":87,
+		"difficulty":0.03448275862068961,
+		"averageTime":21.207142857142856,
+		"downloads":145,
 		"shortKey":"CpCpCpCp:CpCpCpCp",
 		"author":"McNuggets",
-		"completions":82,
+		"completions":140,
 		"id":3550,
 		"completed":false,
 		"title":"easy paint puzzle",
-		"likes":16
+		"likes":24
 	}
 }

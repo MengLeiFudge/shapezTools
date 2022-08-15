@@ -294,10 +294,12 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"RbRbRbRb:WgWgWgWg:----Sc--",
 		"author":"britishball",
 		"completions":3,

@@ -303,18 +303,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1580698835274542,
-		"averageTime":112.43478260869566,
-		"downloads":601,
+		"difficulty":0.1343719571567673,
+		"averageTime":114.93700787401575,
+		"downloads":1027,
 		"shortKey":"RuWuSuCu",
 		"author":"Azurite",
-		"completions":506,
+		"completions":889,
 		"id":3001,
 		"completed":true,
 		"title":"Symmetry 3",
-		"likes":222
+		"likes":324
 	}
 }

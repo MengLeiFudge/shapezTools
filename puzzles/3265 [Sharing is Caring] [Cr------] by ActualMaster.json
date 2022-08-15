@@ -408,15 +408,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2941176470588235,
-		"averageTime":436.80555555555554,
-		"downloads":51,
+		"difficulty":0.28735632183908044,
+		"averageTime":484.0967741935484,
+		"downloads":87,
 		"shortKey":"Cr------",
 		"author":"ActualMaster",
-		"completions":36,
+		"completions":62,
 		"id":3265,
 		"completed":true,
 		"title":"Sharing is Caring",
-		"likes":16
+		"likes":24
 	}
 }

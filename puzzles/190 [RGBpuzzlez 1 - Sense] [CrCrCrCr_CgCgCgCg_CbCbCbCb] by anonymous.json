@@ -110,12 +110,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.09999999999999998,
-		"averageTime":140.38888888888889,
-		"downloads":20,
+		"difficulty":0.12,
+		"averageTime":122.95454545454545,
+		"downloads":26,
 		"shortKey":"CrCrCrCr:CgCgCgCg:CbCbCbCb",
 		"author":"anonymous",
-		"completions":18,
+		"completions":22,
 		"id":190,
 		"completed":true,
 		"title":"RGBpuzzlez 1 - Sense",

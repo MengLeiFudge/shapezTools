@@ -27,15 +27,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.02083333333333337,
-		"averageTime":8.565957446808511,
-		"downloads":1200,
+		"difficulty":0.01708959088555151,
+		"averageTime":9.154899894625922,
+		"downloads":1931,
 		"shortKey":"RuRuRuRu",
 		"author":"tobspr",
-		"completions":1175,
+		"completions":1898,
 		"id":8,
 		"completed":true,
 		"title":"The first puzzle",
-		"likes":312
+		"likes":411
 	}
 }

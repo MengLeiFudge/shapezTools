@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.03359683794466406,
-		"averageTime":58.6359918200409,
-		"downloads":506,
+		"difficulty":0.04633204633204635,
+		"averageTime":60.73522267206478,
+		"downloads":1295,
 		"shortKey":"CcCrCrCc:CrCcCcCr",
 		"author":"chrjen",
-		"completions":489,
+		"completions":1235,
 		"id":2075,
 		"completed":true,
 		"title":"Connect the dots 2",
-		"likes":136
+		"likes":279
 	}
 }

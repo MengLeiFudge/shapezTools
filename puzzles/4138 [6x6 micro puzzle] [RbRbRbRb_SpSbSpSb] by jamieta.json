@@ -110,15 +110,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11818181818181817,
-		"averageTime":65.69072164948453,
-		"downloads":110,
+		"difficulty":0.04347826086956519,
+		"averageTime":83.14393939393939,
+		"downloads":276,
 		"shortKey":"RbRbRbRb:SpSbSpSb",
 		"author":"jamieta",
-		"completions":97,
+		"completions":264,
 		"id":4138,
 		"completed":false,
 		"title":"6x6 micro puzzle",
-		"likes":24
+		"likes":54
 	}
 }

@@ -70,15 +70,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2666666666666667,
-		"averageTime":212.36363636363637,
-		"downloads":16,
+		"difficulty":0.2777777777777778,
+		"averageTime":206.69230769230768,
+		"downloads":18,
 		"shortKey":"CbCbCbCb:RbRbRbRb:WuWuWuWu:SpSpSpSp",
 		"author":"Bro1bro2",
-		"completions":11,
+		"completions":13,
 		"id":4445,
 		"completed":false,
 		"title":"Double layer colour",

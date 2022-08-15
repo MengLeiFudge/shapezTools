@@ -217,15 +217,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5384615384615384,
-		"averageTime":230.83333333333334,
-		"downloads":40,
+		"difficulty":0.5227272727272727,
+		"averageTime":232.38095238095238,
+		"downloads":45,
 		"shortKey":"SbSbSbSb:RbRbRbRb:WbWbWbWb:CbCbCbCb",
 		"author":"2370673307",
-		"completions":18,
+		"completions":21,
 		"id":5231,
 		"completed":false,
 		"title":"CbCbCbCb",

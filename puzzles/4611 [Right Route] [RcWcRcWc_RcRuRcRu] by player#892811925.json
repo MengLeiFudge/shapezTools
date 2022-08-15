@@ -61,15 +61,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07608695652173914,
-		"averageTime":35.34117647058824,
-		"downloads":92,
+		"difficulty":0.04166666666666663,
+		"averageTime":37.81987577639752,
+		"downloads":168,
 		"shortKey":"RcWcRcWc:RcRuRcRu",
 		"author":"player#892811925",
-		"completions":85,
+		"completions":161,
 		"id":4611,
 		"completed":false,
 		"title":"Right Route",
-		"likes":19
+		"likes":30
 	}
 }

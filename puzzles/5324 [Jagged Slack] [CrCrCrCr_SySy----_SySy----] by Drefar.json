@@ -186,15 +186,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3695652173913043,
-		"averageTime":153.58620689655172,
-		"downloads":47,
+		"difficulty":0.3188405797101449,
+		"averageTime":154.10638297872342,
+		"downloads":69,
 		"shortKey":"CrCrCrCr:SySy----:SySy----",
 		"author":"Drefar",
-		"completions":29,
+		"completions":47,
 		"id":5324,
 		"completed":false,
 		"title":"Jagged Slack",
-		"likes":11
+		"likes":18
 	}
 }

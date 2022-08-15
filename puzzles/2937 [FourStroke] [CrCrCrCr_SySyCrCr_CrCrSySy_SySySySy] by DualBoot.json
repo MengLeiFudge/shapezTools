@@ -239,18 +239,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1166666666666667,
-		"averageTime":96.14339622641509,
-		"downloads":300,
+		"difficulty":0.1374321880650995,
+		"averageTime":90.46121593291404,
+		"downloads":553,
 		"shortKey":"CrCrCrCr:SySyCrCr:CrCrSySy:SySySySy",
 		"author":"DualBoot",
-		"completions":265,
+		"completions":477,
 		"id":2937,
 		"completed":true,
 		"title":"FourStroke",
-		"likes":104
+		"likes":171
 	}
 }

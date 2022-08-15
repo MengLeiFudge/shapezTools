@@ -354,15 +354,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.5760869565217391,
-		"averageTime":541.8173076923077,
-		"downloads":737,
+		"difficulty":0.56640625,
+		"averageTime":531.5255255255255,
+		"downloads":768,
 		"shortKey":"CrCgCbCy:CpCcCwCu:CrCgCbCy:CpCcCwCu",
 		"author":"anonymous",
-		"completions":312,
+		"completions":333,
 		"id":319,
 		"completed":true,
 		"title":"Flow hard",
-		"likes":183
+		"likes":190
 	}
 }

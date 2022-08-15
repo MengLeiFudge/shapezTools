@@ -72,15 +72,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07246376811594202,
-		"averageTime":52.078125,
-		"downloads":69,
+		"difficulty":0.04419889502762431,
+		"averageTime":66.05780346820809,
+		"downloads":181,
 		"shortKey":"CuCuCuCu:WuWuWuWu:CuCuCuCu",
 		"author":"tehBIGrat",
-		"completions":64,
+		"completions":173,
 		"id":4670,
 		"completed":false,
 		"title":"Twist",
-		"likes":14
+		"likes":32
 	}
 }

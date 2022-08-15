@@ -1720,15 +1720,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":66,
-		"downloads":14,
+		"difficulty":0.08333333333333337,
+		"averageTime":81.48484848484848,
+		"downloads":36,
 		"shortKey":"CuWrCuWr:Su--SuSu",
 		"author":"Jumper5050",
-		"completions":11,
+		"completions":33,
 		"id":4935,
 		"completed":false,
 		"title":"Circles Totaly Man",
-		"likes":2
+		"likes":5
 	}
 }

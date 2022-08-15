@@ -197,10 +197,12 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.3571428571428571,
+		"averageTime":183.55555555555554,
+		"downloads":14,
 		"shortKey":"RwCp--Cp:----Ry--",
 		"author":"player#664581247",
-		"completions":5,
+		"completions":9,
 		"id":5076,
 		"completed":false,
 		"title":"1 TO 6",

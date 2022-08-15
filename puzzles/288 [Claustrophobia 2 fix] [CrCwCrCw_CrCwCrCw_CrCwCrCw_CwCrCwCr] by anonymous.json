@@ -27,15 +27,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.07600950118764849,
-		"averageTime":91.44730077120822,
-		"downloads":421,
+		"difficulty":0.08463611859838271,
+		"averageTime":69.14664310954063,
+		"downloads":1855,
 		"shortKey":"CrCwCrCw:CrCwCrCw:CrCwCrCw:CwCrCwCr",
 		"author":"anonymous",
-		"completions":389,
+		"completions":1698,
 		"id":288,
-		"completed":false,
+		"completed":true,
 		"title":"Claustrophobia 2 fix",
-		"likes":143
+		"likes":401
 	}
 }

@@ -462,18 +462,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06666666666666665,
-		"averageTime":101.12142857142857,
-		"downloads":151,
+		"difficulty":0.07727272727272727,
+		"averageTime":98.95566502463055,
+		"downloads":220,
 		"shortKey":"RcWcRcWc:CcSgCcSg",
 		"author":"Jason",
-		"completions":140,
+		"completions":203,
 		"id":3946,
 		"completed":false,
 		"title":"TEST 2",
-		"likes":52
+		"likes":67
 	}
 }

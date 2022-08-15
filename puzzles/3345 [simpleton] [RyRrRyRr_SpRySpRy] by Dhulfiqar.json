@@ -198,16 +198,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.33333333333333337,
+		"averageTime":342.3333333333333,
+		"downloads":19,
 		"shortKey":"RyRrRyRr:SpRySpRy",
 		"author":"Dhulfiqar",
-		"completions":6,
+		"completions":12,
 		"id":3345,
 		"completed":false,
 		"title":"simpleton",
-		"likes":3
+		"likes":4
 	}
 }

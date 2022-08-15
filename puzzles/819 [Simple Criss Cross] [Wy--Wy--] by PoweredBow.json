@@ -145,10 +145,12 @@
 		]
 	},
 	"meta":{
+		"difficulty":0.6,
+		"averageTime":209.33333333333334,
 		"downloads":15,
 		"shortKey":"Wy--Wy--",
 		"author":"PoweredBow",
-		"completions":5,
+		"completions":6,
 		"id":819,
 		"completed":false,
 		"title":"Simple Criss Cross",

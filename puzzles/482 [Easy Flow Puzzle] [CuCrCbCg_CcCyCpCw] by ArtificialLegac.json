@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":38.2,
-		"downloads":20,
+		"difficulty":0.05128205128205132,
+		"averageTime":87.96621621621621,
+		"downloads":156,
 		"shortKey":"CuCrCbCg:CcCyCpCw",
 		"author":"ArtificialLegac",
-		"completions":15,
+		"completions":148,
 		"id":482,
 		"completed":false,
 		"title":"Easy Flow Puzzle",
-		"likes":5
+		"likes":28
 	}
 }

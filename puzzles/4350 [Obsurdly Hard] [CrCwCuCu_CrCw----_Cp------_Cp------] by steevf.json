@@ -106,13 +106,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.5454545454545454,
+		"averageTime":456.4,
+		"downloads":11,
 		"shortKey":"CrCwCuCu:CrCw----:Cp------:Cp------",
 		"author":"steevf",
-		"completions":3,
+		"completions":5,
 		"id":4350,
 		"completed":false,
 		"title":"Obsurdly Hard",

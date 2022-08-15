@@ -397,15 +397,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":67,
-		"downloads":14,
+		"difficulty":0.08560311284046696,
+		"averageTime":83.05106382978724,
+		"downloads":257,
 		"shortKey":"Sw------:--Sw----:----Sw--:------Sw",
 		"author":"Lemming",
-		"completions":11,
+		"completions":235,
 		"id":5376,
 		"completed":true,
 		"title":"Narrow White Paint",
-		"likes":0
+		"likes":48
 	}
 }

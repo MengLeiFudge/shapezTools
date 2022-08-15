@@ -539,13 +539,15 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.4,
+		"averageTime":373.44444444444446,
+		"downloads":15,
 		"shortKey":"CwCwCwCw:CwCwCwCw:CwCwCwCw:WwWw----",
 		"author":"MisterSamsonite",
-		"completions":4,
+		"completions":9,
 		"id":5561,
 		"completed":false,
 		"title":"Cutty White",
-		"likes":1
+		"likes":3
 	}
 }

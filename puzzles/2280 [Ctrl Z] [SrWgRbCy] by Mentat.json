@@ -58,15 +58,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.14930555555555558,
-		"averageTime":245.71836734693878,
-		"downloads":288,
+		"difficulty":0.13921568627450975,
+		"averageTime":283.23006833712986,
+		"downloads":510,
 		"shortKey":"SrWgRbCy",
 		"author":"Mentat",
-		"completions":245,
+		"completions":439,
 		"id":2280,
 		"completed":true,
 		"title":"Ctrl Z",
-		"likes":105
+		"likes":158
 	}
 }

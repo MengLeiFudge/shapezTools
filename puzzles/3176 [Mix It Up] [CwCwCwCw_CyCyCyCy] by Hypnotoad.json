@@ -52,18 +52,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16352201257861632,
-		"averageTime":115.46616541353383,
-		"downloads":160,
+		"difficulty":0.11934156378600824,
+		"averageTime":106.70093457943925,
+		"downloads":243,
 		"shortKey":"CwCwCwCw:CyCyCyCy",
 		"author":"Hypnotoad",
-		"completions":133,
+		"completions":214,
 		"id":3176,
-		"completed":false,
+		"completed":true,
 		"title":"Mix It Up",
-		"likes":56
+		"likes":75
 	}
 }

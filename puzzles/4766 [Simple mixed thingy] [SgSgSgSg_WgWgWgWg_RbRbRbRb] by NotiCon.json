@@ -127,15 +127,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.05128205128205132,
-		"averageTime":28.445945945945947,
-		"downloads":78,
+		"difficulty":0.028901734104046284,
+		"averageTime":54.44047619047619,
+		"downloads":173,
 		"shortKey":"SgSgSgSg:WgWgWgWg:RbRbRbRb",
 		"author":"NotiCon",
-		"completions":74,
+		"completions":168,
 		"id":4766,
 		"completed":true,
 		"title":"Simple mixed thingy",
-		"likes":16
+		"likes":31
 	}
 }

@@ -34,13 +34,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.2222222222222222,
+		"averageTime":11.857142857142858,
+		"downloads":18,
 		"shortKey":"WuRcWuRc:WcWuWcWu",
 		"author":"Gonal4657",
-		"completions":8,
+		"completions":14,
 		"id":3533,
 		"completed":false,
 		"title":"The compact splitter",

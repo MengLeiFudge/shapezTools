@@ -1303,18 +1303,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4423076923076923,
-		"averageTime":905.8275862068965,
-		"downloads":52,
+		"difficulty":0.4642857142857143,
+		"averageTime":1231.4,
+		"downloads":56,
 		"shortKey":"WbWcWbWc:WuWbWuWb",
 		"author":"HarshNoise",
-		"completions":29,
+		"completions":30,
 		"id":5402,
 		"completed":false,
 		"title":"The neck of a bottle",
-		"likes":13
+		"likes":14
 	}
 }

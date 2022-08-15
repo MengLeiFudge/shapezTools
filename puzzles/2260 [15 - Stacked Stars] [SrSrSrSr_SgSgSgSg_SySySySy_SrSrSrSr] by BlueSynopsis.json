@@ -908,15 +908,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.17441860465116277,
-		"averageTime":106.26760563380282,
-		"downloads":86,
+		"difficulty":0.17204301075268813,
+		"averageTime":105.67532467532467,
+		"downloads":93,
 		"shortKey":"SrSrSrSr:SgSgSgSg:SySySySy:SrSrSrSr",
 		"author":"BlueSynopsis",
-		"completions":71,
+		"completions":77,
 		"id":2260,
 		"completed":false,
 		"title":"15 - Stacked Stars",

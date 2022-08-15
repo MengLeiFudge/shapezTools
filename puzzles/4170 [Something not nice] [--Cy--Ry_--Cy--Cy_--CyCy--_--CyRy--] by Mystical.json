@@ -130,10 +130,12 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"--Cy--Ry:--Cy--Cy:--CyCy--:--CyRy--",
 		"author":"Mystical",
 		"completions":0,

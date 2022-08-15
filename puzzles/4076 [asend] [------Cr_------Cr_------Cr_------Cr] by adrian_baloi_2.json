@@ -196,15 +196,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2650602409638554,
-		"averageTime":262.672131147541,
-		"downloads":83,
+		"difficulty":0.2072072072072072,
+		"averageTime":239.2840909090909,
+		"downloads":111,
 		"shortKey":"------Cr:------Cr:------Cr:------Cr",
 		"author":"adrian_baloi_2",
-		"completions":61,
+		"completions":88,
 		"id":4076,
 		"completed":false,
 		"title":"asend",
-		"likes":25
+		"likes":28
 	}
 }

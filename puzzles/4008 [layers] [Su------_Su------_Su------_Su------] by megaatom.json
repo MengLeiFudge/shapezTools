@@ -52,15 +52,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3125,
-		"averageTime":31.181818181818183,
-		"downloads":16,
+		"difficulty":0.2777777777777778,
+		"averageTime":32.15384615384615,
+		"downloads":18,
 		"shortKey":"Su------:Su------:Su------:Su------",
 		"author":"megaatom",
-		"completions":11,
+		"completions":13,
 		"id":4008,
 		"completed":false,
 		"title":"layers",

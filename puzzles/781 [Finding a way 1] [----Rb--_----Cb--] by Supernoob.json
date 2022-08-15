@@ -74,15 +74,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11538461538461542,
-		"averageTime":91.1413043478261,
-		"downloads":104,
+		"difficulty":0.1132075471698113,
+		"averageTime":90.01063829787235,
+		"downloads":106,
 		"shortKey":"----Rb--:----Cb--",
 		"author":"Supernoob",
-		"completions":92,
+		"completions":94,
 		"id":781,
 		"completed":false,
 		"title":"Finding a way 1",

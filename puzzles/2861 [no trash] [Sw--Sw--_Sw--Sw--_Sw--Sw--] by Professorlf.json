@@ -58,15 +58,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4444444444444444,
-		"averageTime":505.44,
-		"downloads":49,
+		"difficulty":0.5,
+		"averageTime":488.3333333333333,
+		"downloads":54,
 		"shortKey":"Sw--Sw--:Sw--Sw--:Sw--Sw--",
 		"author":"Professorlf",
-		"completions":25,
+		"completions":27,
 		"id":2861,
 		"completed":false,
 		"title":"no trash",

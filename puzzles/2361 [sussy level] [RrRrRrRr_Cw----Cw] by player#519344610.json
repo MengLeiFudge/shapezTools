@@ -891,15 +891,17 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13749999999999996,
-		"averageTime":116.1304347826087,
-		"downloads":80,
+		"difficulty":0.13414634146341464,
+		"averageTime":114.11267605633803,
+		"downloads":82,
 		"shortKey":"RrRrRrRr:Cw----Cw",
 		"author":"player#519344610",
-		"completions":69,
+		"completions":71,
 		"id":2361,
 		"completed":false,
 		"title":"sussy level",

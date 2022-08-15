@@ -179,15 +179,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.27083333333333337,
-		"averageTime":229.4857142857143,
-		"downloads":48,
+		"difficulty":0.24137931034482762,
+		"averageTime":220.1590909090909,
+		"downloads":58,
 		"shortKey":"RuRuCrCr",
 		"author":"Casual",
-		"completions":35,
+		"completions":44,
 		"id":2856,
 		"completed":false,
 		"title":"Switch Production",

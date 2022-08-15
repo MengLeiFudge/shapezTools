@@ -947,12 +947,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.35,
-		"averageTime":504.6923076923077,
-		"downloads":20,
+		"difficulty":0.31999999999999995,
+		"averageTime":466.4117647058824,
+		"downloads":27,
 		"shortKey":"RuRpRuRc:RbRrRyRg",
 		"author":"mootmoot",
-		"completions":13,
+		"completions":17,
 		"id":3120,
 		"completed":true,
 		"title":"Vertex cover v2",

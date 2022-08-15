@@ -252,18 +252,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.275,
-		"averageTime":231.58620689655172,
-		"downloads":48,
+		"difficulty":0.32258064516129037,
+		"averageTime":193.78571428571428,
+		"downloads":62,
 		"shortKey":"ScScScSc:CwCwCwCw",
 		"author":"szlam12",
-		"completions":29,
+		"completions":42,
 		"id":4393,
 		"completed":false,
 		"title":"blue",
-		"likes":13
+		"likes":14
 	}
 }

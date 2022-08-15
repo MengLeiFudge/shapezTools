@@ -99,10 +99,12 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.1428571428571429,
+		"averageTime":109.16666666666667,
+		"downloads":14,
 		"shortKey":"CuCuCuCu:CwCwCwCw",
 		"author":"JanRodze",
-		"completions":8,
+		"completions":12,
 		"id":1716,
 		"completed":false,
 		"title":"Portal Importance",

@@ -115,15 +115,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6,
-		"averageTime":539.1666666666666,
-		"downloads":15,
+		"difficulty":0.5625,
+		"averageTime":476.14285714285717,
+		"downloads":18,
 		"shortKey":"Sw----Sw:Cb----Cg:Rb----Rr",
 		"author":"Snakeroot42",
-		"completions":6,
+		"completions":7,
 		"id":2358,
 		"completed":false,
 		"title":"Chokepoints",
-		"likes":2
+		"likes":3
 	}
 }

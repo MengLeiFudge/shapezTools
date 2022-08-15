@@ -73,15 +73,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1842105263157895,
-		"averageTime":92.88709677419355,
-		"downloads":76,
+		"difficulty":0.15909090909090906,
+		"averageTime":92.98648648648648,
+		"downloads":88,
 		"shortKey":"RuRu----:RuRu----:CuCu----:CuCu----",
 		"author":"_Hans_",
-		"completions":62,
+		"completions":74,
 		"id":5546,
-		"completed":false,
+		"completed":true,
 		"title":"Perfect Fit only",
-		"likes":19
+		"likes":23
 	}
 }

@@ -239,18 +239,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.293040293040293,
-		"averageTime":424.0103626943005,
-		"downloads":273,
+		"difficulty":0.2574031890660592,
+		"averageTime":399.9355828220859,
+		"downloads":439,
 		"shortKey":"WuSrWuSr:WpWuWpWu",
 		"author":"someitoj",
-		"completions":193,
+		"completions":326,
 		"id":827,
 		"completed":false,
 		"title":"Pillars",
-		"likes":93
+		"likes":134
 	}
 }

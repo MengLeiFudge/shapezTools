@@ -442,12 +442,14 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.9411764705882353,
 		"averageTime":2521,
-		"downloads":19,
+		"downloads":23,
 		"shortKey":"CyCyCyCy:RgRgRgRg",
 		"author":"897701215",
 		"completions":1,

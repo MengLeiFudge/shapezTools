@@ -1,0 +1,52 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":0,
+					"y":-1
+				},
+				"type":"goal"
+			},
+			{
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-1
+				},
+				"type":"block"
+			},
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":90,
+					"x":-1,
+					"y":0
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":2
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.0625,
+		"averageTime":6.933333333333334,
+		"downloads":33,
+		"shortKey":"SuSuSuSu:RcRcRuRu",
+		"author":"LevenCookie",
+		"completions":30,
+		"id":5810,
+		"completed":false,
+		"title":"Third Puzzle",
+		"likes":1
+	}
+}

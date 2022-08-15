@@ -345,18 +345,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":865.7,
-		"downloads":60,
+		"difficulty":0.4285714285714286,
+		"averageTime":907.5875,
+		"downloads":141,
 		"shortKey":"SrSpSySw",
 		"author":"player#664581247",
-		"completions":30,
+		"completions":80,
 		"id":4331,
 		"completed":false,
 		"title":"yuansu 1",
-		"likes":19
+		"likes":44
 	}
 }

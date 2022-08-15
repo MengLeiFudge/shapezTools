@@ -74,15 +74,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.12,
-		"averageTime":102.8409090909091,
-		"downloads":50,
+		"difficulty":0.10909090909090913,
+		"averageTime":103.42857142857143,
+		"downloads":55,
 		"shortKey":"SwSwSwSw:SpSpSpSp",
 		"author":"The_Guardian07",
-		"completions":44,
+		"completions":49,
 		"id":4149,
 		"completed":false,
 		"title":"contest thing",
-		"likes":12
+		"likes":13
 	}
 }

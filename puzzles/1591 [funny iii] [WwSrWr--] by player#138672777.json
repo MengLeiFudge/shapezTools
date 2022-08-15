@@ -89,13 +89,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.3571428571428571,
+		"averageTime":20.666666666666668,
+		"downloads":14,
 		"shortKey":"WwSrWr--",
 		"author":"player#138672777",
-		"completions":6,
+		"completions":9,
 		"id":1591,
 		"completed":false,
 		"title":"funny iii",

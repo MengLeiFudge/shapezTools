@@ -73,15 +73,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.17391304347826086,
-		"averageTime":24.736842105263158,
-		"downloads":23,
+		"difficulty":0.15384615384615385,
+		"averageTime":23.318181818181817,
+		"downloads":26,
 		"shortKey":"CpCpCpCp:CuCuCuCu",
 		"author":"MadProff2904",
-		"completions":19,
+		"completions":22,
 		"id":3026,
 		"completed":false,
 		"title":"rap around",
-		"likes":0
+		"likes":1
 	}
 }

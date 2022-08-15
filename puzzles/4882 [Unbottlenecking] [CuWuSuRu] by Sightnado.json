@@ -486,15 +486,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.46808510638297873,
-		"averageTime":419.04,
-		"downloads":47,
+		"difficulty":0.3709677419354839,
+		"averageTime":448.05128205128204,
+		"downloads":62,
 		"shortKey":"CuWuSuRu",
 		"author":"Sightnado",
-		"completions":25,
+		"completions":39,
 		"id":4882,
 		"completed":false,
 		"title":"Unbottlenecking",
-		"likes":13
+		"likes":15
 	}
 }

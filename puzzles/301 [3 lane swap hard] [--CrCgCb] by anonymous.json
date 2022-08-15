@@ -95,15 +95,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.09803023362345398,
-		"averageTime":82.83392585068563,
-		"downloads":2183,
+		"difficulty":0.10746147607461476,
+		"averageTime":113.47705588368923,
+		"downloads":2466,
 		"shortKey":"--CrCgCb",
 		"author":"anonymous",
-		"completions":1969,
+		"completions":2201,
 		"id":301,
 		"completed":true,
 		"title":"3 lane swap hard",
-		"likes":618
+		"likes":674
 	}
 }

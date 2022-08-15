@@ -420,18 +420,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6823821339950372,
-		"averageTime":508.3828125,
-		"downloads":412,
+		"difficulty":0.693304535637149,
+		"averageTime":502.7112676056338,
+		"downloads":465,
 		"shortKey":"Su------",
 		"author":"player#166972069",
-		"completions":128,
+		"completions":142,
 		"id":856,
 		"completed":true,
 		"title":"Shuriken Constructor",
-		"likes":74
+		"likes":80
 	}
 }

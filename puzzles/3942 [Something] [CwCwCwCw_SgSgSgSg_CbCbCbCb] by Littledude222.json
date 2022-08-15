@@ -211,18 +211,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.20765027322404372,
-		"averageTime":84.13103448275862,
-		"downloads":183,
+		"difficulty":0.2016129032258065,
+		"averageTime":89.71212121212122,
+		"downloads":248,
 		"shortKey":"CwCwCwCw:SgSgSgSg:CbCbCbCb",
 		"author":"Littledude222",
-		"completions":145,
+		"completions":198,
 		"id":3942,
 		"completed":true,
 		"title":"Something",
-		"likes":57
+		"likes":66
 	}
 }

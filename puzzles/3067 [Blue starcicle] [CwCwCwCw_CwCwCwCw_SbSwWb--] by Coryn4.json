@@ -50,18 +50,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.05797101449275366,
-		"averageTime":54.04615384615385,
-		"downloads":69,
+		"difficulty":0.027972027972028024,
+		"averageTime":47.25179856115108,
+		"downloads":143,
 		"shortKey":"CwCwCwCw:CwCwCwCw:SbSwWb--",
 		"author":"Coryn4",
-		"completions":65,
+		"completions":139,
 		"id":3067,
 		"completed":false,
 		"title":"Blue starcicle",
-		"likes":13
+		"likes":24
 	}
 }

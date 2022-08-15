@@ -150,15 +150,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.125,
-		"averageTime":55.642857142857146,
-		"downloads":16,
+		"difficulty":0.11111111111111116,
+		"averageTime":51.0625,
+		"downloads":18,
 		"shortKey":"SrWy--Cw:Ww----Sr",
 		"author":"player#846734011",
-		"completions":14,
+		"completions":16,
 		"id":2457,
 		"completed":false,
 		"title":"easy puzzle",

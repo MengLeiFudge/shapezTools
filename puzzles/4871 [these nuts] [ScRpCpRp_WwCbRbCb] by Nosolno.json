@@ -98,18 +98,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.20967741935483875,
-		"averageTime":76.3061224489796,
-		"downloads":63,
+		"difficulty":0.20618556701030932,
+		"averageTime":72.3896103896104,
+		"downloads":99,
 		"shortKey":"ScRpCpRp:WwCbRbCb",
 		"author":"Nosolno",
-		"completions":49,
+		"completions":77,
 		"id":4871,
 		"completed":false,
 		"title":"these nuts",
-		"likes":19
+		"likes":22
 	}
 }

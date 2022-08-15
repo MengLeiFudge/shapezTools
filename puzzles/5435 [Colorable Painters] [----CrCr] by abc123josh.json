@@ -43,15 +43,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07999999999999996,
-		"averageTime":28.507246376811594,
-		"downloads":75,
+		"difficulty":0.05102040816326525,
+		"averageTime":27.559139784946236,
+		"downloads":99,
 		"shortKey":"----CrCr",
 		"author":"abc123josh",
-		"completions":69,
+		"completions":93,
 		"id":5435,
-		"completed":false,
+		"completed":true,
 		"title":"Colorable Painters",
-		"likes":10
+		"likes":13
 	}
 }

@@ -100,18 +100,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.05797101449275366,
-		"averageTime":34.07692307692308,
-		"downloads":69,
+		"difficulty":0.027972027972028024,
+		"averageTime":146.19424460431654,
+		"downloads":143,
 		"shortKey":"RcRcRcRc:SrSrSrSr:CyCyCyCy",
 		"author":"goklaus",
-		"completions":65,
+		"completions":139,
 		"id":3518,
 		"completed":false,
 		"title":"5x5 just stack it",
-		"likes":13
+		"likes":24
 	}
 }

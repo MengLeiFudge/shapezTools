@@ -45,15 +45,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.12698412698412698,
-		"averageTime":86.03272727272727,
-		"downloads":315,
+		"difficulty":0.1175166297117517,
+		"averageTime":100.28391959798995,
+		"downloads":451,
 		"shortKey":"RcRcRcRc:CrCrCrCr",
 		"author":"mootmoot",
-		"completions":275,
+		"completions":398,
 		"id":3197,
 		"completed":true,
 		"title":"Tangle of 3",
-		"likes":80
+		"likes":116
 	}
 }

@@ -220,15 +220,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.12844036697247707,
-		"averageTime":271.9894736842105,
-		"downloads":109,
+		"difficulty":0.16885964912280704,
+		"averageTime":240.03430079155672,
+		"downloads":456,
 		"shortKey":"CwCwCwCw:WcWcWcWc:RrRrRrRr",
 		"author":"Legor455",
-		"completions":95,
+		"completions":379,
 		"id":5396,
-		"completed":false,
+		"completed":true,
 		"title":"8 tunnel 11 splitter",
-		"likes":40
+		"likes":141
 	}
 }

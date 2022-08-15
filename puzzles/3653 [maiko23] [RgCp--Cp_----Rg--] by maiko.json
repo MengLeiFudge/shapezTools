@@ -568,18 +568,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7142857142857143,
-		"averageTime":571.25,
-		"downloads":17,
+		"difficulty":0.7647058823529411,
+		"averageTime":948.75,
+		"downloads":36,
 		"shortKey":"RgCp--Cp:----Rg--",
 		"author":"maiko",
-		"completions":4,
+		"completions":8,
 		"id":3653,
 		"completed":true,
 		"title":"maiko23",
-		"likes":3
+		"likes":6
 	}
 }

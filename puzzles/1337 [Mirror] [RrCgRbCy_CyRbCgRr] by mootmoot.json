@@ -25,15 +25,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2727272727272727,
-		"averageTime":142.6875,
-		"downloads":22,
+		"difficulty":0.2222222222222222,
+		"averageTime":122.57142857142857,
+		"downloads":28,
 		"shortKey":"RrCgRbCy:CyRbCgRr",
 		"author":"mootmoot",
-		"completions":16,
+		"completions":21,
 		"id":1337,
 		"completed":true,
 		"title":"Mirror",

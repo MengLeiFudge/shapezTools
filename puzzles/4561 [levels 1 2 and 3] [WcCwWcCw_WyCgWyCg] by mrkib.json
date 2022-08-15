@@ -161,18 +161,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09090909090909094,
-		"averageTime":65.91428571428571,
-		"downloads":77,
+		"difficulty":0.06999999999999995,
+		"averageTime":63.46236559139785,
+		"downloads":100,
 		"shortKey":"WcCwWcCw:WyCgWyCg",
 		"author":"mrkib",
-		"completions":70,
+		"completions":93,
 		"id":4561,
 		"completed":false,
 		"title":"levels 1 2 and 3",
-		"likes":13
+		"likes":15
 	}
 }

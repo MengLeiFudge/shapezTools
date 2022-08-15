@@ -192,18 +192,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.22248243559718972,
-		"averageTime":249.17710843373493,
-		"downloads":2135,
+		"difficulty":0.24237288135593216,
+		"averageTime":257.2558724832215,
+		"downloads":4721,
 		"shortKey":"WwWwWrWw",
 		"author":"jacobsedk",
-		"completions":1660,
+		"completions":3576,
 		"id":2039,
 		"completed":true,
 		"title":"5 Mini Puzzles in 1",
-		"likes":798
+		"likes":1499
 	}
 }

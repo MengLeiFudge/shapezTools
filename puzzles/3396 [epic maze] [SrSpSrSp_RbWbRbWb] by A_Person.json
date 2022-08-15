@@ -1438,12 +1438,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.31034482758620685,
-		"averageTime":245.4,
-		"downloads":29,
+		"difficulty":0.28125,
+		"averageTime":234.08695652173913,
+		"downloads":32,
 		"shortKey":"SrSpSrSp:RbWbRbWb",
 		"author":"A_Person",
-		"completions":20,
+		"completions":23,
 		"id":3396,
 		"completed":false,
 		"title":"epic maze",

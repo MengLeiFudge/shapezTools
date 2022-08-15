@@ -169,15 +169,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":13.3,
-		"downloads":14,
+		"difficulty":0.23529411764705888,
+		"averageTime":14.307692307692308,
+		"downloads":17,
 		"shortKey":"SwCuCwCg",
 		"author":"player#227922491",
-		"completions":10,
+		"completions":13,
 		"id":4570,
 		"completed":false,
 		"title":"jiandan",

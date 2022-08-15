@@ -398,15 +398,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.48571428571428577,
-		"averageTime":495.3888888888889,
-		"downloads":36,
+		"difficulty":0.48888888888888893,
+		"averageTime":458.30434782608694,
+		"downloads":45,
 		"shortKey":"CrCrCrCr:CwCwCwCw:CwCwCwCw:CrCrCrCr",
 		"author":"Jupieterrr",
-		"completions":18,
+		"completions":23,
 		"id":3405,
 		"completed":true,
 		"title":"Learn Alphabet - C",

@@ -868,10 +868,12 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"SbSbSbSb:SrSr----:SrSr----:SgSg----",
 		"author":"zeus",
 		"completions":2,

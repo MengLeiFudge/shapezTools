@@ -109,15 +109,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.3551401869158879,
-		"averageTime":312.0869565217391,
-		"downloads":107,
+		"difficulty":0.32773109243697474,
+		"averageTime":286.1875,
+		"downloads":119,
 		"shortKey":"--Cg----:--Cr----",
 		"author":"anonymous",
-		"completions":69,
+		"completions":80,
 		"id":151,
 		"completed":false,
 		"title":"Melon madness",
-		"likes":26
+		"likes":27
 	}
 }

@@ -140,12 +140,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":195.86666666666667,
-		"downloads":21,
+		"difficulty":0.18518518518518523,
+		"averageTime":162.45454545454547,
+		"downloads":27,
 		"shortKey":"Cr--CrCr:CgCg--Cg:CbCbCb--",
 		"author":"anonymous",
-		"completions":15,
+		"completions":22,
 		"id":390,
 		"completed":false,
 		"title":"Split Paths",

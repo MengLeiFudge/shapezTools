@@ -223,15 +223,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3157894736842105,
-		"averageTime":331.38461538461536,
-		"downloads":39,
+		"difficulty":0.2666666666666667,
+		"averageTime":293.3333333333333,
+		"downloads":45,
 		"shortKey":"SuSwSuSu:WuWuWuWu:RuRuRuRu:CuCuCuCu",
 		"author":"yyj1996",
-		"completions":26,
+		"completions":33,
 		"id":2822,
 		"completed":false,
 		"title":"BeltPuzzle5 Factorio",

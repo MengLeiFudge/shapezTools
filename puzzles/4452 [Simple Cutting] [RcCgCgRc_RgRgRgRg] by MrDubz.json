@@ -34,15 +34,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.051948051948051965,
-		"averageTime":56.24657534246575,
-		"downloads":154,
+		"difficulty":0.03409090909090906,
+		"averageTime":53.62352941176471,
+		"downloads":264,
 		"shortKey":"RcCgCgRc:RgRgRgRg",
 		"author":"MrDubz",
-		"completions":146,
+		"completions":255,
 		"id":4452,
 		"completed":false,
 		"title":"Simple Cutting",
-		"likes":33
+		"likes":48
 	}
 }

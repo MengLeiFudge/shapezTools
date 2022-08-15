@@ -236,18 +236,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":1377.875,
-		"downloads":16,
+		"difficulty":0.4736842105263158,
+		"averageTime":1193.6,
+		"downloads":19,
 		"shortKey":"CrCrCrCr:CpCpCpCp:CbCbCbCb:CcCcCcCc",
 		"author":"mootmoot",
-		"completions":8,
+		"completions":10,
 		"id":2575,
 		"completed":true,
 		"title":"Inversion",
-		"likes":5
+		"likes":6
 	}
 }

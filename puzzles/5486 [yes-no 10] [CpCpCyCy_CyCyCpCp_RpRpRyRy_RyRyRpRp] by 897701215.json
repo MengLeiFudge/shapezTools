@@ -420,16 +420,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.9285714285714286,
+		"averageTime":2265,
+		"downloads":15,
 		"shortKey":"CpCpCyCy:CyCyCpCp:RpRpRyRy:RyRyRpRp",
 		"author":"897701215",
-		"completions":0,
+		"completions":1,
 		"id":5486,
 		"completed":false,
 		"title":"yes-no 10",
-		"likes":0
+		"likes":1
 	}
 }

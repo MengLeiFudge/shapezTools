@@ -159,18 +159,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1282051282051282,
-		"averageTime":175.4264705882353,
-		"downloads":78,
+		"difficulty":0.11111111111111116,
+		"averageTime":149.40131578947367,
+		"downloads":171,
 		"shortKey":"CcCcCwCw",
 		"author":"thijsvb",
-		"completions":68,
+		"completions":152,
 		"id":3373,
-		"completed":false,
+		"completed":true,
 		"title":"on the other side",
-		"likes":26
+		"likes":51
 	}
 }

@@ -74,15 +74,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.24137931034482762,
-		"averageTime":47.31818181818182,
-		"downloads":29,
+		"difficulty":0.21212121212121215,
+		"averageTime":45.19230769230769,
+		"downloads":33,
 		"shortKey":"--SwSw--",
 		"author":"marioavilla",
-		"completions":22,
+		"completions":26,
 		"id":4788,
 		"completed":false,
 		"title":"Primerizo",

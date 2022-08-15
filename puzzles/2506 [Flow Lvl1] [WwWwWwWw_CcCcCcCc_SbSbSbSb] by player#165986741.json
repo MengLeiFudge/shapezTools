@@ -367,18 +367,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08799999999999997,
-		"averageTime":71.84210526315789,
-		"downloads":125,
+		"difficulty":0.03735632183908044,
+		"averageTime":70.48955223880597,
+		"downloads":348,
 		"shortKey":"WwWwWwWw:CcCcCcCc:SbSbSbSb",
 		"author":"player#165986741",
-		"completions":114,
+		"completions":335,
 		"id":2506,
 		"completed":true,
 		"title":"Flow Lvl1",
-		"likes":28
+		"likes":69
 	}
 }

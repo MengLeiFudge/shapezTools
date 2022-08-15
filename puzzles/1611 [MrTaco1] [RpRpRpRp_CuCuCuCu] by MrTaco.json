@@ -156,12 +156,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":66.6,
-		"downloads":14,
+		"difficulty":0.25,
+		"averageTime":73.25,
+		"downloads":16,
 		"shortKey":"RpRpRpRp:CuCuCuCu",
 		"author":"MrTaco",
-		"completions":10,
+		"completions":12,
 		"id":1611,
 		"completed":false,
 		"title":"MrTaco1",

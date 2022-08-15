@@ -172,15 +172,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.34782608695652173,
-		"averageTime":132.8,
-		"downloads":23,
+		"difficulty":0.24242424242424243,
+		"averageTime":2083.16,
+		"downloads":33,
 		"shortKey":"Sw------",
 		"author":"anonymous",
-		"completions":15,
+		"completions":25,
 		"id":252,
 		"completed":false,
 		"title":"thing 4",
-		"likes":7
+		"likes":8
 	}
 }

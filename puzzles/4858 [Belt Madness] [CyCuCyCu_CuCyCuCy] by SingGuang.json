@@ -854,15 +854,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3076923076923077,
-		"averageTime":556.1111111111111,
-		"downloads":17,
+		"difficulty":0.4285714285714286,
+		"averageTime":546.5833333333334,
+		"downloads":23,
 		"shortKey":"CyCuCyCu:CuCyCuCy",
 		"author":"SingGuang",
-		"completions":9,
+		"completions":12,
 		"id":4858,
 		"completed":true,
 		"title":"Belt Madness",
-		"likes":4
+		"likes":5
 	}
 }

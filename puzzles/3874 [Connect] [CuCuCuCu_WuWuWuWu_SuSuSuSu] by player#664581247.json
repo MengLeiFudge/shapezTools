@@ -61,15 +61,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21739130434782605,
-		"averageTime":32.166666666666664,
-		"downloads":23,
+		"difficulty":0.12903225806451613,
+		"averageTime":37,
+		"downloads":31,
 		"shortKey":"CuCuCuCu:WuWuWuWu:SuSuSuSu",
 		"author":"player#664581247",
-		"completions":18,
+		"completions":27,
 		"id":3874,
 		"completed":false,
 		"title":"Connect",

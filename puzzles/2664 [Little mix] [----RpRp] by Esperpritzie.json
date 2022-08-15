@@ -171,15 +171,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":129.25,
-		"downloads":18,
+		"difficulty":0.3157894736842105,
+		"averageTime":123.76923076923077,
+		"downloads":19,
 		"shortKey":"----RpRp",
 		"author":"Esperpritzie",
-		"completions":12,
+		"completions":13,
 		"id":2664,
 		"completed":false,
 		"title":"Little mix",

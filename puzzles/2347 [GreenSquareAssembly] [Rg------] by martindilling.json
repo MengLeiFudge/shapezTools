@@ -25,18 +25,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.05280528052805278,
-		"averageTime":79.38675958188153,
-		"downloads":606,
+		"difficulty":0.04541631623212783,
+		"averageTime":83.29603524229074,
+		"downloads":1189,
 		"shortKey":"Rg------",
 		"author":"martindilling",
-		"completions":574,
+		"completions":1135,
 		"id":2347,
 		"completed":true,
 		"title":"GreenSquareAssembly",
-		"likes":161
+		"likes":254
 	}
 }

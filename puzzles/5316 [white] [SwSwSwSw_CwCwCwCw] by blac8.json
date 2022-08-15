@@ -136,18 +136,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6,
-		"averageTime":300.5,
-		"downloads":37,
+		"difficulty":0.6585365853658536,
+		"averageTime":296.35714285714283,
+		"downloads":43,
 		"shortKey":"SwSwSwSw:CwCwCwCw",
 		"author":"blac8",
-		"completions":12,
+		"completions":14,
 		"id":5316,
 		"completed":true,
 		"title":"white",
-		"likes":6
+		"likes":7
 	}
 }

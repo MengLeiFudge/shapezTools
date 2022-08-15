@@ -9,9 +9,9 @@ import lombok.Data;
 public class Building {
     private final BuildingType type;
     /**
-     * 如果建筑是生成器或接收器，则item表示生成的/需要的图形.
+     * 如果建筑是生成器或接收器，则item表示生成的/需要的图形/染料.
      */
-    private final Shape item;
+    private final Item item;
     /**
      * 角度，可能的值有0,90,180,-90.
      */
@@ -36,7 +36,7 @@ public class Building {
      * @param x    左下角为原点的建筑位置
      * @param y
      */
-    public Building(BuildingType type, Shape item, int r, int x, int y) {
+    public Building(BuildingType type, Item item, int r, int x, int y) {
         this.type = type;
         this.item = item;
         this.r = r;

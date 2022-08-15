@@ -301,15 +301,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":159.78571428571428,
-		"downloads":20,
+		"difficulty":0.26086956521739135,
+		"averageTime":141.8235294117647,
+		"downloads":23,
 		"shortKey":"Cw--CwSw",
 		"author":"rootysoda",
-		"completions":14,
+		"completions":17,
 		"id":3852,
 		"completed":false,
 		"title":"make a shape",

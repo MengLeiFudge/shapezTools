@@ -113,18 +113,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16666666666666663,
-		"averageTime":31.066666666666666,
-		"downloads":18,
+		"difficulty":0.11764705882352944,
+		"averageTime":40.166666666666664,
+		"downloads":34,
 		"shortKey":"RyWyRyWy:SyRgSyRg",
 		"author":"Dhulfiqar",
-		"completions":15,
+		"completions":30,
 		"id":3351,
 		"completed":false,
 		"title":"sunday school year 4",
-		"likes":3
+		"likes":4
 	}
 }

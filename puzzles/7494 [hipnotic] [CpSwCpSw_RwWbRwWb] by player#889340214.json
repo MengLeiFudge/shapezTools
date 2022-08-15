@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"SwSwSwSw:SwSwSwSw:SwSwSwSw:SwSwSwSw",
+				"pos":{
+					"r":0,
+					"x":-4,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"SwSwSwSw:SwSwSwSw:SwSwSwSw:SwSwSwSw",
+				"pos":{
+					"r":0,
+					"x":-4,
+					"y":0
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":8,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"downloads":10,
+		"shortKey":"CpSwCpSw:RwWbRwWb",
+		"author":"player#889340214",
+		"completions":8,
+		"id":7494,
+		"completed":false,
+		"title":"hipnotic",
+		"likes":1
+	}
+}

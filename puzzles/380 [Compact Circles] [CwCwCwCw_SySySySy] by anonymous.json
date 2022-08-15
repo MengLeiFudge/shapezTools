@@ -54,10 +54,12 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.33333333333333337,
+		"averageTime":76.5,
+		"downloads":19,
 		"shortKey":"CwCwCwCw:SySySySy",
 		"author":"anonymous",
-		"completions":6,
+		"completions":12,
 		"id":380,
 		"completed":false,
 		"title":"Compact Circles",

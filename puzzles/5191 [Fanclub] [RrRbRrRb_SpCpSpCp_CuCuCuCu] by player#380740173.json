@@ -85,15 +85,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":207.85714285714286,
-		"downloads":29,
+		"difficulty":0.25,
+		"averageTime":209.45833333333334,
+		"downloads":32,
 		"shortKey":"RrRbRrRb:SpCpSpCp:CuCuCuCu",
 		"author":"player#380740173",
-		"completions":21,
+		"completions":24,
 		"id":5191,
 		"completed":false,
 		"title":"Fanclub",

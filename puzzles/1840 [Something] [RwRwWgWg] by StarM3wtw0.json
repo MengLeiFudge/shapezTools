@@ -61,18 +61,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.18518518518518523,
-		"averageTime":153.1,
-		"downloads":135,
+		"difficulty":0.1719745222929936,
+		"averageTime":148.6846153846154,
+		"downloads":157,
 		"shortKey":"RwRwWgWg",
 		"author":"StarM3wtw0",
-		"completions":110,
+		"completions":130,
 		"id":1840,
 		"completed":false,
 		"title":"Something",
-		"likes":41
+		"likes":45
 	}
 }

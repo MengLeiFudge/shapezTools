@@ -371,15 +371,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":27.6,
-		"downloads":14,
+		"difficulty":0.23529411764705888,
+		"averageTime":35.15384615384615,
+		"downloads":17,
 		"shortKey":"CcRgCcRg:RyWcRyWc",
 		"author":"BlueSynopsis",
-		"completions":10,
+		"completions":13,
 		"id":2241,
 		"completed":false,
 		"title":"9 - Triple Demand",

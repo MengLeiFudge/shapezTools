@@ -981,15 +981,17 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4375,
-		"averageTime":432.1111111111111,
-		"downloads":17,
+		"difficulty":0.4736842105263158,
+		"averageTime":494,
+		"downloads":19,
 		"shortKey":"CpCpCpCp:WpWpWpWp:RpRpRpRp:WpWpWpWp",
 		"author":"Gamerboy166",
-		"completions":9,
+		"completions":10,
 		"id":5194,
 		"completed":false,
 		"title":"Uhhhhhhh",

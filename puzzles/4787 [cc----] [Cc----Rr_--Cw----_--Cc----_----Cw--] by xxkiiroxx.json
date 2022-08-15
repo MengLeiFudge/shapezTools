@@ -285,13 +285,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
+		"difficulty":0.75,
+		"averageTime":622,
 		"downloads":12,
 		"shortKey":"Cc----Rr:--Cw----:--Cc----:----Cw--",
 		"author":"xxkiiroxx",
-		"completions":2,
+		"completions":3,
 		"id":4787,
 		"completed":false,
 		"title":"cc----",

@@ -1389,10 +1389,12 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"Cw----Cw:Cw----Cw",
 		"author":"ActualMaster",
 		"completions":1,

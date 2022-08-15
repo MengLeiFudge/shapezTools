@@ -101,15 +101,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.08620689655172409,
-		"averageTime":97.83018867924528,
-		"downloads":59,
+		"difficulty":0.059633027522935755,
+		"averageTime":120.6780487804878,
+		"downloads":218,
 		"shortKey":"RrRrRrRr:WrWrWrWr",
 		"author":"DualBoot",
-		"completions":53,
+		"completions":205,
 		"id":5508,
-		"completed":false,
+		"completed":true,
 		"title":"KeepingItSimple",
-		"likes":21
+		"likes":51
 	}
 }

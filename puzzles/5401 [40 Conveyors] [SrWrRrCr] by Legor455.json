@@ -746,15 +746,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.7692307692307692,
-		"averageTime":1270.3333333333333,
-		"downloads":17,
+		"difficulty":0.7894736842105263,
+		"averageTime":1133.75,
+		"downloads":20,
 		"shortKey":"SrWrRrCr",
 		"author":"Legor455",
-		"completions":3,
+		"completions":4,
 		"id":5401,
 		"completed":false,
 		"title":"40 Conveyors",
-		"likes":1
+		"likes":2
 	}
 }

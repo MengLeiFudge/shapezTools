@@ -54,15 +54,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":349.1333333333333,
-		"downloads":125,
+		"difficulty":0.37323943661971826,
+		"averageTime":352.9325842696629,
+		"downloads":142,
 		"shortKey":"RcCrRcCr:CrRcCrRc",
 		"author":"anonymous",
-		"completions":75,
+		"completions":89,
 		"id":93,
 		"completed":false,
 		"title":"Checkered Lozenge",
-		"likes":33
+		"likes":36
 	}
 }

@@ -74,15 +74,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.26530612244897955,
-		"averageTime":184.77777777777777,
-		"downloads":49,
+		"difficulty":0.23076923076923073,
+		"averageTime":213.1,
+		"downloads":65,
 		"shortKey":"RuRuRuRu:Ww----Ww",
 		"author":"Flame",
-		"completions":36,
+		"completions":50,
 		"id":4428,
 		"completed":false,
 		"title":"Probably Bad",
-		"likes":15
+		"likes":16
 	}
 }

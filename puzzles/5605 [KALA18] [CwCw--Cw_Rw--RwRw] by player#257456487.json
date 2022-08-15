@@ -284,16 +284,18 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":9,
 		"shortKey":"CwCw--Cw:Rw--RwRw",
 		"author":"player#257456487",
-		"completions":1,
+		"completions":2,
 		"id":5605,
 		"completed":false,
 		"title":"KALA18",
-		"likes":1
+		"likes":2
 	}
 }

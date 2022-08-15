@@ -478,18 +478,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7010309278350515,
-		"averageTime":1049.5862068965516,
-		"downloads":194,
+		"difficulty":0.7125382262996942,
+		"averageTime":1861.1808510638298,
+		"downloads":327,
 		"shortKey":"CbCbCbCb:--Sy----:CwSrCwRc",
 		"author":"kavirnyadeltoid",
-		"completions":58,
+		"completions":94,
 		"id":1542,
 		"completed":true,
 		"title":"To the moon",
-		"likes":37
+		"likes":58
 	}
 }

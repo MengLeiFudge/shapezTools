@@ -1527,15 +1527,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.09677419354838712,
-		"averageTime":48.214285714285715,
-		"downloads":31,
+		"difficulty":0.09302325581395354,
+		"averageTime":48.51282051282051,
+		"downloads":43,
 		"shortKey":"--Ry----",
 		"author":"player#835892658",
-		"completions":28,
+		"completions":39,
 		"id":5350,
 		"completed":false,
 		"title":"rftgy89",
-		"likes":4
+		"likes":5
 	}
 }

@@ -82,15 +82,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":224.36363636363637,
-		"downloads":31,
+		"difficulty":0.2727272727272727,
+		"averageTime":214.45833333333334,
+		"downloads":33,
 		"shortKey":"ScScScSc:Sc------",
 		"author":"player#133368015",
-		"completions":22,
+		"completions":24,
 		"id":4389,
 		"completed":false,
 		"title":"Spreading",

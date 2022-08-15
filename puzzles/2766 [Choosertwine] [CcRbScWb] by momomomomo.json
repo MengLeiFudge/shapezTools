@@ -698,12 +698,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2727272727272727,
-		"averageTime":145.5,
-		"downloads":11,
+		"difficulty":0.25,
+		"averageTime":141,
+		"downloads":12,
 		"shortKey":"CcRbScWb",
 		"author":"momomomomo",
-		"completions":8,
+		"completions":9,
 		"id":2766,
 		"completed":false,
 		"title":"Choosertwine",

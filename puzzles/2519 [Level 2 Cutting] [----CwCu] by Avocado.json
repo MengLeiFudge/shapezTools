@@ -53,12 +53,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.050000000000000044,
-		"averageTime":7.7894736842105265,
-		"downloads":20,
+		"difficulty":0.04166666666666663,
+		"averageTime":7.608695652173913,
+		"downloads":24,
 		"shortKey":"----CwCu",
 		"author":"Avocado",
-		"completions":19,
+		"completions":23,
 		"id":2519,
 		"completed":true,
 		"title":"Level 2 Cutting",

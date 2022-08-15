@@ -93,15 +93,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.38888888888888884,
-		"averageTime":276.54545454545456,
-		"downloads":18,
+		"difficulty":0.36363636363636365,
+		"averageTime":246,
+		"downloads":23,
 		"shortKey":"CrCgCbCy:CwCwCwCw:Sb--Sb--:--Rb--Rb",
 		"author":"Norathem",
-		"completions":11,
+		"completions":14,
 		"id":4423,
 		"completed":false,
 		"title":"Contest - Swirl",

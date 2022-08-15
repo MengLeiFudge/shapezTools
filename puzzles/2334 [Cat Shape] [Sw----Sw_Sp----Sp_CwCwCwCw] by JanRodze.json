@@ -143,18 +143,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3984375,
-		"averageTime":624.2597402597403,
-		"downloads":128,
+		"difficulty":0.33529411764705885,
+		"averageTime":544,
+		"downloads":172,
 		"shortKey":"Sw----Sw:Sp----Sp:CwCwCwCw",
 		"author":"JanRodze",
-		"completions":77,
+		"completions":113,
 		"id":2334,
 		"completed":true,
 		"title":"Cat Shape",
-		"likes":40
+		"likes":49
 	}
 }

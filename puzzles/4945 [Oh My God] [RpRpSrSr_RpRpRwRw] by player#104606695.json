@@ -343,15 +343,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3125,
-		"averageTime":67.54545454545455,
-		"downloads":17,
+		"difficulty":0.2727272727272727,
+		"averageTime":59.5,
+		"downloads":22,
 		"shortKey":"RpRpSrSr:RpRpRwRw",
 		"author":"player#104606695",
-		"completions":11,
+		"completions":16,
 		"id":4945,
 		"completed":false,
 		"title":"Oh My God",
-		"likes":3
+		"likes":4
 	}
 }

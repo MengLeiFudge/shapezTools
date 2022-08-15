@@ -61,15 +61,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1428571428571429,
-		"averageTime":259.3,
-		"downloads":105,
+		"difficulty":0.13888888888888884,
+		"averageTime":255.93548387096774,
+		"downloads":109,
 		"shortKey":"WuWrWpWb:WwRpSwRw:SyCcWw--:SgCbRrWg",
 		"author":"player#136352764",
-		"completions":90,
+		"completions":93,
 		"id":2385,
 		"completed":true,
 		"title":"Microsoft",

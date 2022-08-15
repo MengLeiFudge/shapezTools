@@ -102,12 +102,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.23809523809523814,
-		"averageTime":17.625,
-		"downloads":21,
+		"difficulty":0.21739130434782605,
+		"averageTime":17.38888888888889,
+		"downloads":23,
 		"shortKey":"CrCrCrCr:RcRcRcRc",
 		"author":"anonymous",
-		"completions":16,
+		"completions":18,
 		"id":377,
 		"completed":false,
 		"title":"R or C",

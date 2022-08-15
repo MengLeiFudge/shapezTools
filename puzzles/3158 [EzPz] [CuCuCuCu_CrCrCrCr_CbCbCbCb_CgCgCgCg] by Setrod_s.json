@@ -125,15 +125,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11026615969581754,
-		"averageTime":132.0854700854701,
-		"downloads":264,
+		"difficulty":0.09302325581395354,
+		"averageTime":131.3051282051282,
+		"downloads":430,
 		"shortKey":"CuCuCuCu:CrCrCrCr:CbCbCbCb:CgCgCgCg",
 		"author":"Setrod_s",
-		"completions":234,
+		"completions":390,
 		"id":3158,
-		"completed":false,
+		"completed":true,
 		"title":"EzPz",
-		"likes":93
+		"likes":133
 	}
 }

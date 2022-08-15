@@ -396,15 +396,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10344827586206895,
-		"averageTime":91.28846153846153,
-		"downloads":58,
+		"difficulty":0.09836065573770492,
+		"averageTime":90.74545454545455,
+		"downloads":61,
 		"shortKey":"----RwRw:--RwRw--",
 		"author":"OneBigHappyFami",
-		"completions":52,
+		"completions":55,
 		"id":3686,
 		"completed":false,
 		"title":"Learn Your Numbers-6",

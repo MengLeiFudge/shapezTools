@@ -126,15 +126,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.15384615384615385,
-		"averageTime":92.9090909090909,
-		"downloads":26,
+		"difficulty":0.19354838709677424,
+		"averageTime":95.44,
+		"downloads":31,
 		"shortKey":"------Cw",
 		"author":"anonymous",
-		"completions":22,
+		"completions":25,
 		"id":339,
 		"completed":false,
 		"title":"Restrictive puzzle",
-		"likes":7
+		"likes":8
 	}
 }

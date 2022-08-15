@@ -85,18 +85,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09836065573770492,
-		"averageTime":49.96363636363636,
-		"downloads":62,
+		"difficulty":0.06451612903225812,
+		"averageTime":59.26724137931034,
+		"downloads":124,
 		"shortKey":"SrSrSrSr:CwCwCwCw:CuCuCuCu",
 		"author":"player#225646594",
-		"completions":55,
+		"completions":116,
 		"id":5345,
 		"completed":false,
 		"title":"SASAGEYO",
-		"likes":12
+		"likes":22
 	}
 }

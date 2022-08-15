@@ -478,18 +478,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1208791208791209,
-		"averageTime":51.05,
-		"downloads":91,
+		"difficulty":0.07453416149068326,
+		"averageTime":50.369127516778526,
+		"downloads":161,
 		"shortKey":"RwRwRwRw:CwCwCwCw:WrWrWrWr:SrSrSrSr",
 		"author":"UrdnotZahia",
-		"completions":80,
+		"completions":149,
 		"id":4829,
 		"completed":false,
 		"title":"bzzz",
-		"likes":19
+		"likes":27
 	}
 }

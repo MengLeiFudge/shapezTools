@@ -1207,15 +1207,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.37037037037037035,
-		"averageTime":350.70588235294116,
-		"downloads":56,
+		"difficulty":0.34285714285714286,
+		"averageTime":362.7391304347826,
+		"downloads":70,
 		"shortKey":"RgRyRbRr:RpRcRuRw",
 		"author":"maiko",
-		"completions":34,
+		"completions":46,
 		"id":3400,
 		"completed":false,
 		"title":"maiko17",

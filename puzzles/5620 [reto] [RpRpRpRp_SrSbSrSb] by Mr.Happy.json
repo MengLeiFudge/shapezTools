@@ -283,13 +283,15 @@
 		]
 	},
 	"meta":{
-		"downloads":7,
+		"difficulty":0.20370370370370372,
+		"averageTime":82.72093023255815,
+		"downloads":54,
 		"shortKey":"RpRpRpRp:SrSbSrSb",
 		"author":"Mr.Happy",
-		"completions":6,
+		"completions":43,
 		"id":5620,
 		"completed":false,
 		"title":"reto",
-		"likes":2
+		"likes":12
 	}
 }

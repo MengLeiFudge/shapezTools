@@ -61,18 +61,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04580152671755722,
-		"averageTime":48.984,
-		"downloads":131,
+		"difficulty":0.02183406113537123,
+		"averageTime":50.723214285714285,
+		"downloads":229,
 		"shortKey":"CcSwCcSg:CwRc--Cc",
 		"author":"Daniel",
-		"completions":125,
+		"completions":224,
 		"id":3898,
 		"completed":false,
 		"title":"Tangled 1",
-		"likes":28
+		"likes":41
 	}
 }

@@ -40,15 +40,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5675675675675675,
-		"averageTime":752.8125,
-		"downloads":37,
+		"difficulty":0.5641025641025641,
+		"averageTime":721.7647058823529,
+		"downloads":39,
 		"shortKey":"SuSuSuSu:--SuSuSu:----SuSu:------Su",
 		"author":"korio",
-		"completions":16,
+		"completions":17,
 		"id":4894,
 		"completed":true,
 		"title":"1 to 4",
-		"likes":8
+		"likes":9
 	}
 }

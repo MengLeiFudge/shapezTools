@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCwCuCw",
+				"pos":{
+					"r":0,
+					"x":-3,
+					"y":1
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CuCwCuCw:CwCuCwCu:CuCwCuCw:CwCuCwCu",
+				"pos":{
+					"r":0,
+					"x":0,
+					"y":-1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":6,
+			"h":5
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0,
+		"averageTime":56.78947368421053,
+		"downloads":21,
+		"shortKey":"CuCwCuCw:CwCuCwCu:CuCwCuCw:CwCuCwCu",
+		"author":"vincentgagnow",
+		"completions":19,
+		"id":7335,
+		"completed":false,
+		"title":"Gray level 21",
+		"likes":3
+	}
+}

@@ -239,18 +239,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.18000000000000005,
-		"averageTime":155.1951219512195,
-		"downloads":100,
+		"difficulty":0.1472868217054264,
+		"averageTime":171.61818181818182,
+		"downloads":129,
 		"shortKey":"CgCgCgCg:SySySySy",
 		"author":"player#388787377",
-		"completions":82,
+		"completions":110,
 		"id":2975,
 		"completed":true,
 		"title":"New Level 15",
-		"likes":32
+		"likes":38
 	}
 }

@@ -51,15 +51,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.09677419354838712,
-		"averageTime":36.13095238095238,
-		"downloads":93,
+		"difficulty":0.037735849056603765,
+		"averageTime":42.254901960784316,
+		"downloads":318,
 		"shortKey":"----RyRy:----CbCb:SwSwSwSw",
 		"author":"steevf",
-		"completions":84,
+		"completions":306,
 		"id":5042,
 		"completed":false,
 		"title":"Add a Star",
-		"likes":21
+		"likes":62
 	}
 }

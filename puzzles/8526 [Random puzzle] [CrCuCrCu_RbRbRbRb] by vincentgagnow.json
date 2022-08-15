@@ -1,0 +1,42 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RgRuRgRu",
+				"pos":{
+					"r":270,
+					"x":3,
+					"y":2
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RgRuRgRu:Ru--Ru--",
+				"pos":{
+					"r":180,
+					"x":5,
+					"y":1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":12,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"downloads":7,
+		"shortKey":"CrCuCrCu:RbRbRbRb",
+		"author":"vincentgagnow",
+		"completions":4,
+		"id":8526,
+		"completed":false,
+		"title":"Random puzzle",
+		"likes":1
+	}
+}

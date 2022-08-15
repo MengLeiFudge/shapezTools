@@ -461,16 +461,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.6875,
+		"averageTime":627.4,
+		"downloads":18,
 		"shortKey":"Cr----Cg:Cb--CyCp:------Cu",
 		"author":"player#138672777",
-		"completions":3,
+		"completions":5,
 		"id":4142,
 		"completed":false,
 		"title":"2481 test",
-		"likes":2
+		"likes":3
 	}
 }

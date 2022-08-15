@@ -25,15 +25,17 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08333333333333337,
+		"difficulty":0.07894736842105265,
 		"averageTime":2,
-		"downloads":36,
+		"downloads":38,
 		"shortKey":"CcCgCcCg:RgCbRgCb",
 		"author":"Amaris3004",
-		"completions":33,
+		"completions":35,
 		"id":4896,
 		"completed":false,
 		"title":"too easy",

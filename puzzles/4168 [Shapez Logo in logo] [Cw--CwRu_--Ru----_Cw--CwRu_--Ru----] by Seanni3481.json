@@ -628,10 +628,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":15,
+		"downloads":16,
 		"shortKey":"Cw--CwRu:--Ru----:Cw--CwRu:--Ru----",
 		"author":"Seanni3481",
 		"completions":1,

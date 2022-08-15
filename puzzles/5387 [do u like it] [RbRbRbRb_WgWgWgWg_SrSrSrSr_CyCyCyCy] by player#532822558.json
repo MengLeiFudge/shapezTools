@@ -739,18 +739,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08333333333333337,
-		"averageTime":39.04545454545455,
-		"downloads":24,
+		"difficulty":0.027272727272727226,
+		"averageTime":44.149532710280376,
+		"downloads":110,
 		"shortKey":"RbRbRbRb:WgWgWgWg:SrSrSrSr:CyCyCyCy",
 		"author":"player#532822558",
-		"completions":22,
+		"completions":107,
 		"id":5387,
 		"completed":false,
 		"title":"do u like it",
-		"likes":3
+		"likes":20
 	}
 }

@@ -445,15 +445,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.13008130081300817,
-		"averageTime":173.47663551401868,
-		"downloads":124,
+		"difficulty":0.12578616352201255,
+		"averageTime":161.87769784172662,
+		"downloads":159,
 		"shortKey":"RyRyRyRy:WuWuWuWu",
 		"author":"player#135118959",
-		"completions":107,
+		"completions":139,
 		"id":2804,
 		"completed":true,
 		"title":"puzzle9",
-		"likes":43
+		"likes":47
 	}
 }

@@ -1,0 +1,51 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"SuSuSuSu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":3
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"------Sb",
+				"pos":{
+					"r":180,
+					"x":0,
+					"y":3
+				},
+				"type":"goal"
+			},
+			{
+				"item":"blue",
+				"pos":{
+					"r":270,
+					"x":0,
+					"y":-3
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":9
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"downloads":11,
+		"shortKey":"------Sb",
+		"author":"zlum",
+		"completions":9,
+		"id":7664,
+		"completed":false,
+		"title":"glass shard",
+		"likes":5
+	}
+}

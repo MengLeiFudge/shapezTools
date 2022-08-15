@@ -217,15 +217,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.02777777777777779,
-		"averageTime":30.68979591836735,
-		"downloads":252,
+		"difficulty":0.025423728813559365,
+		"averageTime":28.78840579710145,
+		"downloads":354,
 		"shortKey":"Cu----Cu",
 		"author":"gentryaustin",
-		"completions":245,
+		"completions":345,
 		"id":674,
 		"completed":false,
 		"title":"Make Lv5",
-		"likes":53
+		"likes":65
 	}
 }

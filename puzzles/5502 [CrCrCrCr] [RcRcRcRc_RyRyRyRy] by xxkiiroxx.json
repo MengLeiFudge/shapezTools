@@ -2067,15 +2067,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":225.75,
-		"downloads":18,
+		"difficulty":0.36363636363636365,
+		"averageTime":215,
+		"downloads":23,
 		"shortKey":"RcRcRcRc:RyRyRyRy",
 		"author":"xxkiiroxx",
-		"completions":12,
+		"completions":14,
 		"id":5502,
 		"completed":false,
 		"title":"CrCrCrCr",

@@ -115,15 +115,17 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":82.33333333333333,
-		"downloads":15,
+		"difficulty":0.3529411764705882,
+		"averageTime":81.18181818181819,
+		"downloads":17,
 		"shortKey":"RrRwRrRw",
 		"author":"decrofull",
-		"completions":9,
+		"completions":11,
 		"id":2700,
 		"completed":false,
 		"title":"red or white",

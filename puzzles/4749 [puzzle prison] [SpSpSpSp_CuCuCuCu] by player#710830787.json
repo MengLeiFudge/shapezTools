@@ -748,15 +748,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.19047619047619047,
-		"averageTime":100.11764705882354,
-		"downloads":21,
+		"difficulty":0.16000000000000003,
+		"averageTime":111.85714285714286,
+		"downloads":25,
 		"shortKey":"SpSpSpSp:CuCuCuCu",
 		"author":"player#710830787",
-		"completions":17,
+		"completions":21,
 		"id":4749,
 		"completed":false,
 		"title":"puzzle prison",
-		"likes":5
+		"likes":6
 	}
 }

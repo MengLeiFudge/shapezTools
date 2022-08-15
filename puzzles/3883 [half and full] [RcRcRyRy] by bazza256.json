@@ -123,15 +123,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":34.06666666666667,
-		"downloads":20,
+		"difficulty":0.2272727272727273,
+		"averageTime":34.05882352941177,
+		"downloads":22,
 		"shortKey":"RcRcRyRy",
 		"author":"bazza256",
-		"completions":15,
+		"completions":17,
 		"id":3883,
 		"completed":false,
 		"title":"half and full",

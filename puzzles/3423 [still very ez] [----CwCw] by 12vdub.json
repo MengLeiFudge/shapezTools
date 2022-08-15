@@ -42,13 +42,17 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":14,
+		"difficulty":0.33333333333333337,
+		"averageTime":49.916666666666664,
+		"downloads":18,
 		"shortKey":"----CwCw",
 		"author":"12vdub",
-		"completions":8,
+		"completions":12,
 		"id":3423,
 		"completed":false,
 		"title":"still very ez",

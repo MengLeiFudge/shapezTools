@@ -115,18 +115,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1885245901639344,
-		"averageTime":137.87878787878788,
-		"downloads":122,
+		"difficulty":0.13888888888888884,
+		"averageTime":122.52258064516128,
+		"downloads":180,
 		"shortKey":"SrSrSrSr:SrSrSrSr:CwCwCwCw",
 		"author":"Azurite",
-		"completions":99,
+		"completions":155,
 		"id":4197,
 		"completed":false,
 		"title":"Contest - Tornado",
-		"likes":40
+		"likes":54
 	}
 }

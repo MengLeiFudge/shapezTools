@@ -386,10 +386,12 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":15,
+		"downloads":16,
 		"shortKey":"RpRpRpRp:ScScScSc:WyWyWyWy",
 		"author":"jeep.day.dogg",
 		"completions":2,

@@ -90,18 +90,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.004255319148936176,
-		"averageTime":28.41025641025641,
-		"downloads":235,
+		"difficulty":0.008417508417508435,
+		"averageTime":31.865874363327674,
+		"downloads":594,
 		"shortKey":"CuCu----:----CuCr",
 		"author":"Dhulfiqar",
-		"completions":234,
+		"completions":589,
 		"id":3248,
 		"completed":true,
 		"title":"CircleMania",
-		"likes":58
+		"likes":119
 	}
 }

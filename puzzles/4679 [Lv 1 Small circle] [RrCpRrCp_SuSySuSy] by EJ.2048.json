@@ -25,15 +25,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":9.555555555555555,
-		"downloads":12,
+		"difficulty":0.1578947368421053,
+		"averageTime":8.1875,
+		"downloads":19,
 		"shortKey":"RrCpRrCp:SuSySuSy",
 		"author":"EJ.2048",
-		"completions":9,
+		"completions":16,
 		"id":4679,
 		"completed":false,
 		"title":"Lv 1 Small circle",

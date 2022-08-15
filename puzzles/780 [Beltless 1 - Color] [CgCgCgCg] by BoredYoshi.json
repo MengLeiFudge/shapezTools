@@ -252,13 +252,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.3571428571428571,
+		"averageTime":36.77777777777778,
+		"downloads":14,
 		"shortKey":"CgCgCgCg",
 		"author":"BoredYoshi",
-		"completions":5,
+		"completions":9,
 		"id":780,
 		"completed":false,
 		"title":"Beltless 1 - Color",
-		"likes":2
+		"likes":3
 	}
 }

@@ -242,18 +242,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.29729729729729726,
-		"averageTime":154.42307692307693,
-		"downloads":37,
+		"difficulty":0.22448979591836737,
+		"averageTime":146.10526315789474,
+		"downloads":49,
 		"shortKey":"Wp------:Wp------:Wp------:Wp------",
 		"author":"Aliiiiii",
-		"completions":26,
+		"completions":38,
 		"id":4801,
 		"completed":false,
 		"title":"Split stacking",
-		"likes":10
+		"likes":11
 	}
 }

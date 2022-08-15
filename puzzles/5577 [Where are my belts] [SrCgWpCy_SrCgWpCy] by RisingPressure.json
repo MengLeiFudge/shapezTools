@@ -81,10 +81,12 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.16666666666666663,
+		"averageTime":38,
+		"downloads":19,
 		"shortKey":"SrCgWpCy:SrCgWpCy",
 		"author":"RisingPressure",
-		"completions":8,
+		"completions":15,
 		"id":5577,
 		"completed":false,
 		"title":"Where are my belts",

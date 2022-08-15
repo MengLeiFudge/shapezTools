@@ -1511,18 +1511,20 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08322147651006706,
-		"averageTime":88.77306002928258,
-		"downloads":745,
+		"difficulty":0.08108108108108103,
+		"averageTime":90.35171568627452,
+		"downloads":888,
 		"shortKey":"CwCwCwCw:SrSgSbSy:CrCgCbCy:RrRgRbRy",
 		"author":"Fyshi",
-		"completions":683,
+		"completions":816,
 		"id":2269,
 		"completed":true,
 		"title":"Spiral Madness",
-		"likes":205
+		"likes":235
 	}
 }

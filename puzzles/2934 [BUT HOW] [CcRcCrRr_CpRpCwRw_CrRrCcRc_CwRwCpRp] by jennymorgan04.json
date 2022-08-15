@@ -52,15 +52,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.375,
-		"averageTime":278.6,
-		"downloads":16,
+		"difficulty":0.33333333333333337,
+		"averageTime":251.25,
+		"downloads":18,
 		"shortKey":"CcRcCrRr:CpRpCwRw:CrRrCcRc:CwRwCpRp",
 		"author":"jennymorgan04",
-		"completions":10,
+		"completions":12,
 		"id":2934,
 		"completed":false,
 		"title":"BUT HOW",

@@ -63,15 +63,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.35,
-		"averageTime":131.30769230769232,
-		"downloads":20,
+		"difficulty":0.25,
+		"averageTime":125.79166666666667,
+		"downloads":32,
 		"shortKey":"CrCrCrCr:RbRbRbRb",
 		"author":"anonymous",
-		"completions":13,
+		"completions":24,
 		"id":285,
 		"completed":false,
 		"title":"No Tunnels Colorswap",
-		"likes":6
+		"likes":7
 	}
 }

@@ -25,18 +25,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.276595744680851,
-		"averageTime":196.7941176470588,
-		"downloads":47,
+		"difficulty":0.203125,
+		"averageTime":381.96078431372547,
+		"downloads":65,
 		"shortKey":"SrSrCrCr:CrCrSrSr:CyCyCyCy",
 		"author":"trollbreeder",
-		"completions":34,
+		"completions":51,
 		"id":4482,
 		"completed":false,
 		"title":"A Layered Mistake",
-		"likes":13
+		"likes":16
 	}
 }

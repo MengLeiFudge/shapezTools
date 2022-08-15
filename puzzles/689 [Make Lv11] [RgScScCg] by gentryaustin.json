@@ -221,18 +221,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08379272326350606,
-		"averageTime":74.14320096269554,
-		"downloads":1814,
+		"difficulty":0.11701380762930025,
+		"averageTime":83.6734693877551,
+		"downloads":4273,
 		"shortKey":"RgScScCg",
 		"author":"gentryaustin",
-		"completions":1662,
+		"completions":3773,
 		"id":689,
 		"completed":true,
 		"title":"Make Lv11",
-		"likes":512
+		"likes":960
 	}
 }

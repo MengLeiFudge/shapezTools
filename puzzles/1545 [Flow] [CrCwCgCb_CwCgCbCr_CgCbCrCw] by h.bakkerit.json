@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.10843373493975905,
-		"averageTime":99,
-		"downloads":166,
+		"difficulty":0.10106382978723405,
+		"averageTime":95.83431952662721,
+		"downloads":188,
 		"shortKey":"CrCwCgCb:CwCgCbCr:CgCbCrCw",
 		"author":"h.bakkerit",
-		"completions":148,
+		"completions":169,
 		"id":1545,
 		"completed":false,
 		"title":"Flow",
-		"likes":50
+		"likes":51
 	}
 }

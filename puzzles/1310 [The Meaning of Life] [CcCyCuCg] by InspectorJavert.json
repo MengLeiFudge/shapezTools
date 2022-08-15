@@ -222,15 +222,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.42105263157894735,
-		"averageTime":329.8068181818182,
-		"downloads":153,
+		"difficulty":0.40476190476190477,
+		"averageTime":316.69,
+		"downloads":169,
 		"shortKey":"CcCyCuCg",
 		"author":"InspectorJavert",
-		"completions":88,
+		"completions":100,
 		"id":1310,
 		"completed":false,
 		"title":"The Meaning of Life",
-		"likes":39
+		"likes":40
 	}
 }

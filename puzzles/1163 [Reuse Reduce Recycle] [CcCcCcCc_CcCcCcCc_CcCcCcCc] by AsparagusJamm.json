@@ -538,15 +538,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.26315789473684215,
-		"averageTime":415.1507936507937,
-		"downloads":171,
+		"difficulty":0.24154589371980673,
+		"averageTime":501.19745222929936,
+		"downloads":207,
 		"shortKey":"CcCcCcCc:CcCcCcCc:CcCcCcCc",
 		"author":"AsparagusJamm",
-		"completions":126,
+		"completions":157,
 		"id":1163,
 		"completed":true,
 		"title":"Reuse Reduce Recycle",
-		"likes":54
+		"likes":59
 	}
 }

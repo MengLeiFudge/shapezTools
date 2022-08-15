@@ -115,15 +115,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2592592592592593,
-		"averageTime":298.125,
-		"downloads":55,
+		"difficulty":0.27419354838709675,
+		"averageTime":278.8222222222222,
+		"downloads":63,
 		"shortKey":"SwSwSwSw:RuRuRuRu:CuCuCuCu",
 		"author":"yyj1996",
-		"completions":40,
+		"completions":45,
 		"id":2823,
 		"completed":false,
 		"title":"BeltPuzzle4 Factorio",

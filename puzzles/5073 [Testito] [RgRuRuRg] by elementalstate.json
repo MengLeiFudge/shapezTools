@@ -73,15 +73,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11009174311926606,
-		"averageTime":47.58762886597938,
-		"downloads":109,
+		"difficulty":0.05555555555555558,
+		"averageTime":62.484162895927604,
+		"downloads":234,
 		"shortKey":"RgRuRuRg",
 		"author":"elementalstate",
-		"completions":97,
+		"completions":221,
 		"id":5073,
 		"completed":true,
 		"title":"Testito",
-		"likes":23
+		"likes":43
 	}
 }

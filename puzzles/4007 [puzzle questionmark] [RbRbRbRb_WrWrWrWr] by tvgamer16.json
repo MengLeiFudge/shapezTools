@@ -156,18 +156,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2823529411764706,
-		"averageTime":173.85245901639345,
-		"downloads":85,
+		"difficulty":0.21897810218978098,
+		"averageTime":177.3177570093458,
+		"downloads":138,
 		"shortKey":"RbRbRbRb:WrWrWrWr",
 		"author":"tvgamer16",
-		"completions":61,
+		"completions":107,
 		"id":4007,
 		"completed":false,
 		"title":"puzzle questionmark",
-		"likes":26
+		"likes":40
 	}
 }

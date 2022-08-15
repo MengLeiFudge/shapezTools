@@ -138,15 +138,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6285714285714286,
-		"averageTime":4525.538461538462,
-		"downloads":36,
+		"difficulty":0.5581395348837209,
+		"averageTime":3256.4210526315787,
+		"downloads":45,
 		"shortKey":"RbRrRbRr",
 		"author":"player#884570511",
-		"completions":13,
+		"completions":19,
 		"id":4552,
 		"completed":false,
 		"title":"Checkers_Mate",
-		"likes":7
+		"likes":12
 	}
 }

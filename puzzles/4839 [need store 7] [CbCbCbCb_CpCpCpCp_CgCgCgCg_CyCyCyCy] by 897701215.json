@@ -831,15 +831,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.71875,
-		"averageTime":503.44444444444446,
-		"downloads":37,
+		"difficulty":0.7377049180327868,
+		"averageTime":517.125,
+		"downloads":65,
 		"shortKey":"CbCbCbCb:CpCpCpCp:CgCgCgCg:CyCyCyCy",
 		"author":"897701215",
-		"completions":9,
+		"completions":16,
 		"id":4839,
 		"completed":true,
 		"title":"need store 7",
-		"likes":7
+		"likes":11
 	}
 }

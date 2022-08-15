@@ -167,15 +167,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.11290322580645162,
-		"averageTime":96.9,
-		"downloads":124,
+		"difficulty":0.11188811188811187,
+		"averageTime":92.91338582677166,
+		"downloads":144,
 		"shortKey":"Sc----Sb:CbCbCbCb:--CwCw--",
 		"author":"anonymous",
-		"completions":110,
+		"completions":127,
 		"id":183,
 		"completed":false,
 		"title":"Bugprinting pt3 Face",
-		"likes":37
+		"likes":39
 	}
 }

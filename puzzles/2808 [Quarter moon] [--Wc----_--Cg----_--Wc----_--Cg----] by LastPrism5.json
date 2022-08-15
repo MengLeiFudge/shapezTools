@@ -33,18 +33,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.160427807486631,
-		"averageTime":150,
-		"downloads":189,
+		"difficulty":0.14122137404580148,
+		"averageTime":145.06222222222223,
+		"downloads":262,
 		"shortKey":"--Wc----:--Cg----:--Wc----:--Cg----",
 		"author":"LastPrism5",
-		"completions":157,
+		"completions":225,
 		"id":2808,
 		"completed":true,
 		"title":"Quarter moon",
-		"likes":67
+		"likes":81
 	}
 }

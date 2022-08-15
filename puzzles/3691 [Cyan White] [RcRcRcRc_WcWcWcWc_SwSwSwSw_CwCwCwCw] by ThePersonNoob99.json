@@ -78,15 +78,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":35.166666666666664,
-		"downloads":16,
+		"difficulty":0.2222222222222222,
+		"averageTime":35.07142857142857,
+		"downloads":18,
 		"shortKey":"RcRcRcRc:WcWcWcWc:SwSwSwSw:CwCwCwCw",
 		"author":"ThePersonNoob99",
-		"completions":12,
+		"completions":14,
 		"id":3691,
 		"completed":false,
 		"title":"Cyan White",

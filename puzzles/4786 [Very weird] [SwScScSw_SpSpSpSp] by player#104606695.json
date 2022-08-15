@@ -417,18 +417,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08333333333333337,
-		"averageTime":32.63636363636363,
-		"downloads":48,
+		"difficulty":0.08633093525179858,
+		"averageTime":53.039370078740156,
+		"downloads":139,
 		"shortKey":"SwScScSw:SpSpSpSp",
 		"author":"player#104606695",
-		"completions":44,
+		"completions":127,
 		"id":4786,
 		"completed":false,
 		"title":"Very weird",
-		"likes":10
+		"likes":26
 	}
 }

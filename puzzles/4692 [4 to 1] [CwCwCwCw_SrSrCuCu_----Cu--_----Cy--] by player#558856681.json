@@ -295,18 +295,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4285714285714286,
-		"averageTime":633.0625,
-		"downloads":56,
+		"difficulty":0.3152173913043478,
+		"averageTime":809.1746031746031,
+		"downloads":92,
 		"shortKey":"CwCwCwCw:SrSrCuCu:----Cu--:----Cy--",
 		"author":"player#558856681",
-		"completions":32,
+		"completions":63,
 		"id":4692,
 		"completed":false,
 		"title":"4 to 1",
-		"likes":17
+		"likes":27
 	}
 }

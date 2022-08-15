@@ -67,12 +67,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.23529411764705888,
-		"averageTime":16.384615384615383,
-		"downloads":17,
+		"difficulty":0.21052631578947367,
+		"averageTime":17,
+		"downloads":19,
 		"shortKey":"Su--Sw--",
 		"author":"punchready",
-		"completions":13,
+		"completions":15,
 		"id":3066,
 		"completed":false,
 		"title":"Clever Tunnels",

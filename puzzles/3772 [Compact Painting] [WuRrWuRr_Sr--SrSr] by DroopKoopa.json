@@ -392,16 +392,18 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"downloads":9,
 		"shortKey":"WuRrWuRr:Sr--SrSr",
 		"author":"DroopKoopa",
-		"completions":6,
+		"completions":7,
 		"id":3772,
 		"completed":false,
 		"title":"Compact Painting",
-		"likes":0
+		"likes":1
 	}
 }

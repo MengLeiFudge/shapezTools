@@ -321,15 +321,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.37209302325581395,
-		"averageTime":316.44444444444446,
-		"downloads":87,
+		"difficulty":0.375,
+		"averageTime":324.45454545454544,
+		"downloads":88,
 		"shortKey":"CyCyCyCy:RcRcRcRc:RyRyRyRy:CcCcCcCc",
 		"author":"anonymous",
-		"completions":54,
+		"completions":55,
 		"id":286,
 		"completed":false,
 		"title":"No Tunnels Cswap 2",
-		"likes":14
+		"likes":15
 	}
 }

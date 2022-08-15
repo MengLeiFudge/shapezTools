@@ -224,18 +224,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15217391304347827,
-		"averageTime":214.17948717948718,
-		"downloads":46,
+		"difficulty":0.17460317460317465,
+		"averageTime":201.59615384615384,
+		"downloads":63,
 		"shortKey":"SySySySy:WyWyWyWy:RyRyRyRy:CyCyCyCy",
 		"author":"DualBoot",
-		"completions":39,
+		"completions":52,
 		"id":5554,
 		"completed":false,
 		"title":"Bananas",
-		"likes":12
+		"likes":17
 	}
 }

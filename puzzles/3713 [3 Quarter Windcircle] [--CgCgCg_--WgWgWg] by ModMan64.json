@@ -203,18 +203,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.36170212765957444,
-		"averageTime":201.13333333333333,
-		"downloads":50,
+		"difficulty":0.30645161290322576,
+		"averageTime":247.67441860465115,
+		"downloads":62,
 		"shortKey":"--CgCgCg:--WgWgWg",
 		"author":"ModMan64",
-		"completions":30,
+		"completions":43,
 		"id":3713,
 		"completed":false,
 		"title":"3 Quarter Windcircle",
-		"likes":14
+		"likes":15
 	}
 }

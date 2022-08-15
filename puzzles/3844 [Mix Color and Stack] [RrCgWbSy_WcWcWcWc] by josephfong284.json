@@ -60,15 +60,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11111111111111116,
-		"averageTime":24,
-		"downloads":18,
+		"difficulty":0.06060606060606055,
+		"averageTime":25.903225806451612,
+		"downloads":33,
 		"shortKey":"RrCgWbSy:WcWcWcWc",
 		"author":"josephfong284",
-		"completions":16,
+		"completions":31,
 		"id":3844,
 		"completed":false,
 		"title":"Mix Color and Stack",
-		"likes":2
+		"likes":4
 	}
 }

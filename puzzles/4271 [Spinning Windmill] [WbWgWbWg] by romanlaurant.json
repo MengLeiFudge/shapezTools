@@ -32,15 +32,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5769230769230769,
-		"averageTime":478.72727272727275,
-		"downloads":26,
+		"difficulty":0.5555555555555556,
+		"averageTime":444.6666666666667,
+		"downloads":27,
 		"shortKey":"WbWgWbWg",
 		"author":"romanlaurant",
-		"completions":11,
+		"completions":12,
 		"id":4271,
 		"completed":false,
 		"title":"Spinning Windmill",
-		"likes":3
+		"likes":4
 	}
 }

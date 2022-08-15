@@ -81,15 +81,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.052631578947368474,
-		"averageTime":43.56666666666667,
-		"downloads":190,
+		"difficulty":0.044280442804428,
+		"averageTime":42.93050193050193,
+		"downloads":271,
 		"shortKey":"CuSuRuWu",
 		"author":"anonymous",
-		"completions":180,
+		"completions":259,
 		"id":243,
 		"completed":false,
 		"title":"Use Only Belts 1",
-		"likes":37
+		"likes":49
 	}
 }

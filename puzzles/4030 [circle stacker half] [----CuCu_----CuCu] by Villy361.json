@@ -212,15 +212,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.17391304347826086,
-		"averageTime":73.15789473684211,
-		"downloads":23,
+		"difficulty":0.0888888888888889,
+		"averageTime":79.48780487804878,
+		"downloads":45,
 		"shortKey":"----CuCu:----CuCu",
 		"author":"Villy361",
-		"completions":19,
+		"completions":41,
 		"id":4030,
 		"completed":false,
 		"title":"circle stacker half",
-		"likes":3
+		"likes":6
 	}
 }

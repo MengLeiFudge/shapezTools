@@ -164,18 +164,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25373134328358204,
-		"averageTime":124.74,
-		"downloads":67,
+		"difficulty":0.2272727272727273,
+		"averageTime":144.86764705882354,
+		"downloads":88,
 		"shortKey":"WcWcWcWc:WyWyWyWy:WcWcWcWc",
 		"author":"Mexomint",
-		"completions":50,
+		"completions":68,
 		"id":5416,
 		"completed":false,
 		"title":"Paintfull Windmill",
-		"likes":20
+		"likes":23
 	}
 }

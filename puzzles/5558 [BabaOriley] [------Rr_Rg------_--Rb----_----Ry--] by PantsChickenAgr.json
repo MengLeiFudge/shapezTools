@@ -169,18 +169,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":41.733333333333334,
-		"downloads":21,
+		"difficulty":0.23076923076923073,
+		"averageTime":44,
+		"downloads":26,
 		"shortKey":"------Rr:Rg------:--Rb----:----Ry--",
 		"author":"PantsChickenAgr",
-		"completions":15,
+		"completions":20,
 		"id":5558,
 		"completed":false,
 		"title":"BabaOriley",
-		"likes":4
+		"likes":5
 	}
 }

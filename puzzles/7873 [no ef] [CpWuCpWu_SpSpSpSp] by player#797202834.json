@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":1,
+					"y":0
+				},
+				"type":"goal"
+			},
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":1,
+					"y":2
+				},
+				"type":"emitter"
+			}
+		],
+		"bounds":{
+			"w":4,
+			"h":6
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.045454545454545414,
+		"averageTime":15.523809523809524,
+		"downloads":23,
+		"shortKey":"CpWuCpWu:SpSpSpSp",
+		"author":"player#797202834",
+		"completions":21,
+		"id":7873,
+		"completed":false,
+		"title":"no ef",
+		"likes":1
+	}
+}

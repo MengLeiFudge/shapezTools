@@ -392,12 +392,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2777777777777778,
-		"averageTime":56.23076923076923,
-		"downloads":18,
+		"difficulty":0.25,
+		"averageTime":54.4,
+		"downloads":20,
 		"shortKey":"CuCuCuCu:CuCuCuCu:SuSuSuSu",
 		"author":"ZazTheNoob",
-		"completions":13,
+		"completions":15,
 		"id":2871,
 		"completed":false,
 		"title":"Spiral",

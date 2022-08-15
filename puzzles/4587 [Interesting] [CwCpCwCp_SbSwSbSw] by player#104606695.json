@@ -497,18 +497,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":636.2777777777778,
-		"downloads":36,
+		"difficulty":0.4864864864864865,
+		"averageTime":606.4736842105264,
+		"downloads":37,
 		"shortKey":"CwCpCwCp:SbSwSbSw",
 		"author":"player#104606695",
-		"completions":18,
+		"completions":19,
 		"id":4587,
 		"completed":false,
 		"title":"Interesting",
-		"likes":9
+		"likes":10
 	}
 }

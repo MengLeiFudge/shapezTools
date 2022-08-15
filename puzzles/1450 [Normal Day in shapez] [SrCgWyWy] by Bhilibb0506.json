@@ -292,18 +292,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04629629629629628,
-		"averageTime":96.9126213592233,
-		"downloads":216,
+		"difficulty":0.04489795918367345,
+		"averageTime":96.77350427350427,
+		"downloads":245,
 		"shortKey":"SrCgWyWy",
 		"author":"Bhilibb0506",
-		"completions":206,
+		"completions":234,
 		"id":1450,
 		"completed":false,
 		"title":"Normal Day in shapez",
-		"likes":69
+		"likes":73
 	}
 }

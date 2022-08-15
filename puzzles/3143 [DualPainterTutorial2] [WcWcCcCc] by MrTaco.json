@@ -67,15 +67,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0531400966183575,
-		"averageTime":71.95918367346938,
-		"downloads":414,
+		"difficulty":0.0537037037037037,
+		"averageTime":78.14970645792563,
+		"downloads":1080,
 		"shortKey":"WcWcCcCc",
 		"author":"MrTaco",
-		"completions":392,
+		"completions":1022,
 		"id":3143,
 		"completed":true,
 		"title":"DualPainterTutorial2",
-		"likes":111
+		"likes":230
 	}
 }

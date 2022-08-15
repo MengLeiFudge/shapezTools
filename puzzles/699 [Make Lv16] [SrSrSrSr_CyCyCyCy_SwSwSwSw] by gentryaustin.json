@@ -281,18 +281,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08361204013377932,
-		"averageTime":90.03832116788321,
-		"downloads":598,
+		"difficulty":0.0964230171073095,
+		"averageTime":90.05163511187608,
+		"downloads":643,
 		"shortKey":"SrSrSrSr:CyCyCyCy:SwSwSwSw",
 		"author":"gentryaustin",
-		"completions":548,
+		"completions":581,
 		"id":699,
 		"completed":true,
 		"title":"Make Lv16",
-		"likes":178
+		"likes":186
 	}
 }

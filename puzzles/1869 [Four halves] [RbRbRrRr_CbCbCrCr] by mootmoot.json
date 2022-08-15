@@ -157,15 +157,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.41666666666666663,
-		"averageTime":115.57142857142857,
-		"downloads":24,
+		"difficulty":0.3571428571428571,
+		"averageTime":100.5,
+		"downloads":28,
 		"shortKey":"RbRbRrRr:CbCbCrCr",
 		"author":"mootmoot",
-		"completions":14,
+		"completions":18,
 		"id":1869,
 		"completed":true,
 		"title":"Four halves",

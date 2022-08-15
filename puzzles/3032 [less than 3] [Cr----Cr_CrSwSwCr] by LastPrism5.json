@@ -566,12 +566,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5333333333333333,
-		"averageTime":147.71428571428572,
-		"downloads":15,
+		"difficulty":0.5,
+		"averageTime":140.625,
+		"downloads":16,
 		"shortKey":"Cr----Cr:CrSwSwCr",
 		"author":"LastPrism5",
-		"completions":7,
+		"completions":8,
 		"id":3032,
 		"completed":false,
 		"title":"less than 3",

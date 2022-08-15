@@ -25,18 +25,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03428571428571425,
-		"averageTime":44.55029585798817,
-		"downloads":175,
+		"difficulty":0.010309278350515427,
+		"averageTime":46.518229166666664,
+		"downloads":388,
 		"shortKey":"--Cu----:--Cu----",
 		"author":"BeiSuQF",
-		"completions":169,
+		"completions":384,
 		"id":3282,
 		"completed":true,
 		"title":"Cut Cut 3X4",
-		"likes":39
+		"likes":77
 	}
 }

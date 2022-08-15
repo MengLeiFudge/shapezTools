@@ -124,15 +124,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.01552795031055898,
-		"averageTime":40.19558359621451,
-		"downloads":322,
+		"difficulty":0.014184397163120588,
+		"averageTime":41.5515587529976,
+		"downloads":423,
 		"shortKey":"WrWrWrWr:WgWgWgWg",
 		"author":"anonymous",
-		"completions":317,
+		"completions":417,
 		"id":150,
 		"completed":false,
 		"title":"Red windmill madness",
-		"likes":68
+		"likes":77
 	}
 }

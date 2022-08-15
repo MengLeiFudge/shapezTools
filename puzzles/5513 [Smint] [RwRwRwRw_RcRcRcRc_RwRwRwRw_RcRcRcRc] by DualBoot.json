@@ -140,18 +140,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1964285714285714,
-		"averageTime":123.57777777777778,
-		"downloads":57,
+		"difficulty":0.14782608695652177,
+		"averageTime":146.8673469387755,
+		"downloads":115,
 		"shortKey":"RwRwRwRw:RcRcRcRc:RwRwRwRw:RcRcRcRc",
 		"author":"DualBoot",
-		"completions":45,
+		"completions":98,
 		"id":5513,
 		"completed":false,
 		"title":"Smint",
-		"likes":19
+		"likes":34
 	}
 }

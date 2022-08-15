@@ -58,18 +58,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.023972602739726012,
-		"averageTime":8.550877192982457,
-		"downloads":292,
+		"difficulty":0.0252808988764045,
+		"averageTime":8.510086455331413,
+		"downloads":356,
 		"shortKey":"CrCrCrCr",
 		"author":"gentryaustin",
-		"completions":285,
+		"completions":347,
 		"id":679,
 		"completed":false,
 		"title":"Make Lv7",
-		"likes":56
+		"likes":63
 	}
 }

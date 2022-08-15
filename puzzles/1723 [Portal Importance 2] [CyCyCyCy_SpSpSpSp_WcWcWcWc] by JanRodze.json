@@ -78,10 +78,12 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"CyCyCyCy:SpSpSpSp:WcWcWcWc",
 		"author":"JanRodze",
 		"completions":3,

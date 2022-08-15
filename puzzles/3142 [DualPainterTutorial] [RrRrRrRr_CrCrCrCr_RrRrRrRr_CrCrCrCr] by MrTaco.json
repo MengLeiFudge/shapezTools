@@ -83,18 +83,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.12,
-		"averageTime":22.681818181818183,
-		"downloads":25,
+		"difficulty":0.052238805970149294,
+		"averageTime":39.960629921259844,
+		"downloads":134,
 		"shortKey":"RrRrRrRr:CrCrCrCr:RrRrRrRr:CrCrCrCr",
 		"author":"MrTaco",
-		"completions":22,
+		"completions":127,
 		"id":3142,
 		"completed":false,
 		"title":"DualPainterTutorial",
-		"likes":5
+		"likes":22
 	}
 }

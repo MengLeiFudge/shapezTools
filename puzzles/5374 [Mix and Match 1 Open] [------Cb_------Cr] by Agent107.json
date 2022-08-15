@@ -67,15 +67,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4375,
-		"averageTime":218.77777777777777,
-		"downloads":17,
+		"difficulty":0.47619047619047616,
+		"averageTime":217.1818181818182,
+		"downloads":21,
 		"shortKey":"------Cb:------Cr",
 		"author":"Agent107",
-		"completions":9,
+		"completions":11,
 		"id":5374,
 		"completed":false,
 		"title":"Mix and Match 1 Open",
-		"likes":2
+		"likes":3
 	}
 }

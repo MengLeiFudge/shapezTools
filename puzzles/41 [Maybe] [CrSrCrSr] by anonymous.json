@@ -36,11 +36,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"downloads":11,
+		"difficulty":0.3846153846153846,
+		"averageTime":148.0625,
+		"downloads":27,
 		"shortKey":"CrSrCrSr",
 		"author":"anonymous",
-		"completions":7,
+		"completions":16,
 		"id":41,
 		"completed":false,
 		"title":"Maybe",

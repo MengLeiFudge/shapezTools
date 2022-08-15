@@ -58,18 +58,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.02777777777777779,
-		"averageTime":46.714285714285715,
-		"downloads":144,
+		"difficulty":0.016064257028112428,
+		"averageTime":47.51428571428571,
+		"downloads":249,
 		"shortKey":"Cb--CbCw:CgWwCgWw",
 		"author":"munkers",
-		"completions":140,
+		"completions":245,
 		"id":3035,
 		"completed":false,
 		"title":"easypuzzle",
-		"likes":31
+		"likes":47
 	}
 }

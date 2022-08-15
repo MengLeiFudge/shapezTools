@@ -99,15 +99,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.20370370370370372,
-		"averageTime":254.37209302325581,
-		"downloads":56,
+		"difficulty":0.19718309859154926,
+		"averageTime":233.1578947368421,
+		"downloads":71,
 		"shortKey":"CpCpCpCp:CpCpCpCp:CwCwCwCw:CgCgCgCg",
 		"author":"DualBoot",
-		"completions":43,
+		"completions":57,
 		"id":5370,
 		"completed":false,
 		"title":"InventingtheWheel",

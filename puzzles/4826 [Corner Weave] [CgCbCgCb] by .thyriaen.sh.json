@@ -398,12 +398,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.42105263157894735,
-		"averageTime":546.3181818181819,
-		"downloads":38,
+		"difficulty":0.4545454545454546,
+		"averageTime":522,
+		"downloads":45,
 		"shortKey":"CgCbCgCb",
 		"author":".thyriaen.sh",
-		"completions":22,
+		"completions":24,
 		"id":4826,
 		"completed":false,
 		"title":"Corner Weave",

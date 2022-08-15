@@ -298,12 +298,14 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.9166666666666666,
 		"averageTime":1219,
-		"downloads":26,
+		"downloads":28,
 		"shortKey":"CuCuCuCu:CwCwCwCw:Sr--Sb--:Cw--Cw--",
 		"author":"Professorlf",
 		"completions":1,

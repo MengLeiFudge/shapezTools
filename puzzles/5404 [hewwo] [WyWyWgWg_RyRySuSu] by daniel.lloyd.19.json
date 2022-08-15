@@ -52,18 +52,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13636363636363635,
-		"averageTime":19.526315789473685,
-		"downloads":22,
+		"difficulty":0.1428571428571429,
+		"averageTime":18.916666666666668,
+		"downloads":30,
 		"shortKey":"WyWyWgWg:RyRySuSu",
 		"author":"daniel.lloyd.19",
-		"completions":19,
+		"completions":24,
 		"id":5404,
 		"completed":false,
 		"title":"hewwo",
-		"likes":1
+		"likes":2
 	}
 }

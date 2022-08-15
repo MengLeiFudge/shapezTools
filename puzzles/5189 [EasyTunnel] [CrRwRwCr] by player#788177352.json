@@ -176,15 +176,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.040000000000000036,
-		"averageTime":29.03125,
-		"downloads":100,
+		"difficulty":0.023474178403755874,
+		"averageTime":29.1875,
+		"downloads":213,
 		"shortKey":"CrRwRwCr",
 		"author":"player#788177352",
-		"completions":96,
+		"completions":208,
 		"id":5189,
 		"completed":true,
 		"title":"EasyTunnel",
-		"likes":21
+		"likes":38
 	}
 }

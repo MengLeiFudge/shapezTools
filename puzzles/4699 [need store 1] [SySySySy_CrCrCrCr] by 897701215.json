@@ -186,13 +186,15 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.6582278481012658,
+		"averageTime":273.81481481481484,
+		"downloads":81,
 		"shortKey":"SySySySy:CrCrCrCr",
 		"author":"897701215",
-		"completions":3,
+		"completions":27,
 		"id":4699,
 		"completed":true,
 		"title":"need store 1",
-		"likes":3
+		"likes":15
 	}
 }

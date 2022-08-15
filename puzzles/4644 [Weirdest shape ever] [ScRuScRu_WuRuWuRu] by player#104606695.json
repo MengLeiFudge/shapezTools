@@ -365,15 +365,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.09210526315789469,
-		"averageTime":32.21739130434783,
-		"downloads":76,
+		"difficulty":0.06622516556291391,
+		"averageTime":34.709219858156025,
+		"downloads":151,
 		"shortKey":"ScRuScRu:WuRuWuRu",
 		"author":"player#104606695",
-		"completions":69,
+		"completions":141,
 		"id":4644,
 		"completed":false,
 		"title":"Weirdest shape ever",
-		"likes":16
+		"likes":27
 	}
 }

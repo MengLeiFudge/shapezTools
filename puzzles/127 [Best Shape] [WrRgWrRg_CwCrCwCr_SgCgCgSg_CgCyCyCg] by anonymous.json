@@ -36,12 +36,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.15000000000000002,
-		"averageTime":124.88235294117646,
-		"downloads":20,
+		"difficulty":0.13043478260869568,
+		"averageTime":125.5,
+		"downloads":23,
 		"shortKey":"WrRgWrRg:CwCrCwCr:SgCgCgSg:CgCyCyCg",
 		"author":"anonymous",
-		"completions":17,
+		"completions":20,
 		"id":127,
 		"completed":true,
 		"title":"Best Shape",

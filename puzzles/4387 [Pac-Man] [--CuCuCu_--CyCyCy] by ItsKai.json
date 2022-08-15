@@ -1730,12 +1730,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.375,
-		"averageTime":207.13333333333333,
-		"downloads":29,
+		"difficulty":0.4666666666666667,
+		"averageTime":200.4375,
+		"downloads":30,
 		"shortKey":"--CuCuCu:--CyCyCy",
 		"author":"ItsKai",
-		"completions":15,
+		"completions":16,
 		"id":4387,
 		"completed":false,
 		"title":"Pac-Man",

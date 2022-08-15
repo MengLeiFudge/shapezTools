@@ -344,15 +344,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2727272727272727,
-		"averageTime":340.25,
-		"downloads":11,
+		"difficulty":0.25,
+		"averageTime":312.55555555555554,
+		"downloads":12,
 		"shortKey":"CuCrCbWp:------Cg",
 		"author":"RileyReidsStepb",
-		"completions":8,
+		"completions":9,
 		"id":2780,
 		"completed":false,
 		"title":"Good luck ig",

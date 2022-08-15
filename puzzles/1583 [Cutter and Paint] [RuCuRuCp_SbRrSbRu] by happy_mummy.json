@@ -202,10 +202,12 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.25,
+		"averageTime":33.5,
+		"downloads":16,
 		"shortKey":"RuCuRuCp:SbRrSbRu",
 		"author":"happy_mummy",
-		"completions":7,
+		"completions":12,
 		"id":1583,
 		"completed":false,
 		"title":"Cutter and Paint",

@@ -107,15 +107,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.20547945205479456,
-		"averageTime":127.80172413793103,
-		"downloads":146,
+		"difficulty":0.16756756756756752,
+		"averageTime":118.32467532467533,
+		"downloads":185,
 		"shortKey":"CrCrCrCr:CyCyCyCy:CgCgCgCg",
 		"author":"kilermagelvl",
-		"completions":116,
+		"completions":154,
 		"id":4806,
 		"completed":true,
 		"title":"UnderstaffedDelivery",
-		"likes":49
+		"likes":55
 	}
 }

@@ -283,12 +283,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4222222222222223,
-		"averageTime":261.2307692307692,
-		"downloads":45,
+		"difficulty":0.3870967741935484,
+		"averageTime":244.44736842105263,
+		"downloads":62,
 		"shortKey":"CgSuSgSu:CwCwCwCw",
 		"author":"InfernoFork",
-		"completions":26,
+		"completions":38,
 		"id":4296,
 		"completed":false,
 		"title":"Contest Boomerang",

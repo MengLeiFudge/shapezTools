@@ -121,15 +121,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":17.454545454545453,
-		"downloads":14,
+		"difficulty":0.17647058823529416,
+		"averageTime":18.571428571428573,
+		"downloads":17,
 		"shortKey":"SrSrSbSb",
 		"author":"luckywill06",
-		"completions":11,
+		"completions":14,
 		"id":2630,
 		"completed":false,
 		"title":"Blue Red Switch",

@@ -451,10 +451,12 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"downloads":11,
 		"shortKey":"CrCr----:--CrCr--:------Cr:Cr--Cr--",
 		"author":"yyq252517",
 		"completions":0,

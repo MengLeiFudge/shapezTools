@@ -190,15 +190,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4117647058823529,
-		"averageTime":152,
-		"downloads":19,
+		"difficulty":0.5,
+		"averageTime":156.0909090909091,
+		"downloads":22,
 		"shortKey":"RuRuRuRu:WgWgWgWg:SrSrSrSr:CgCgCgCg",
 		"author":"helmanfromhel",
-		"completions":10,
+		"completions":11,
 		"id":5413,
 		"completed":false,
 		"title":"trippy tunnels",
-		"likes":2
+		"likes":3
 	}
 }

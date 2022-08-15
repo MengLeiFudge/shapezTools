@@ -25,15 +25,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04761904761904767,
-		"averageTime":7.916666666666667,
-		"downloads":63,
+		"difficulty":0.028169014084507005,
+		"averageTime":7.927536231884058,
+		"downloads":71,
 		"shortKey":"CgSrCgSr:RrWgRrWg",
 		"author":"player#554274266",
-		"completions":60,
+		"completions":69,
 		"id":4479,
 		"completed":false,
 		"title":"hard",

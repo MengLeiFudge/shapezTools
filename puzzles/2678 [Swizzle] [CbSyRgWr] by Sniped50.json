@@ -88,15 +88,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.38372093023255816,
-		"averageTime":863.6037735849056,
-		"downloads":87,
+		"difficulty":0.33333333333333337,
+		"averageTime":813.5106382978723,
+		"downloads":141,
 		"shortKey":"CbSyRgWr",
 		"author":"Sniped50",
-		"completions":53,
+		"completions":94,
 		"id":2678,
 		"completed":true,
 		"title":"Swizzle",
-		"likes":30
+		"likes":43
 	}
 }

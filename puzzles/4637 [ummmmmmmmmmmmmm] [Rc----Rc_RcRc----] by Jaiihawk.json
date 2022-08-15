@@ -341,15 +341,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10810810810810811,
-		"averageTime":92.27272727272727,
-		"downloads":37,
+		"difficulty":0.09999999999999998,
+		"averageTime":92.44444444444444,
+		"downloads":40,
 		"shortKey":"Rc----Rc:RcRc----",
 		"author":"Jaiihawk",
-		"completions":33,
+		"completions":36,
 		"id":4637,
 		"completed":false,
 		"title":"ummmmmmmmmmmmmm",

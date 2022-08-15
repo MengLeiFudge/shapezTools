@@ -473,13 +473,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.21052631578947367,
+		"averageTime":201,
+		"downloads":19,
 		"shortKey":"Ru--Ru--:--Cw--Cw",
 		"author":"Expired_Chicken",
-		"completions":5,
+		"completions":15,
 		"id":5629,
 		"completed":false,
 		"title":"The Logo Sorta",
-		"likes":2
+		"likes":4
 	}
 }

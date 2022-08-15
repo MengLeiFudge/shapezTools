@@ -170,18 +170,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.38983050847457623,
-		"averageTime":242.5,
-		"downloads":59,
+		"difficulty":0.2833333333333333,
+		"averageTime":235.08139534883722,
+		"downloads":120,
 		"shortKey":"Su----Su:SuSu----:Cu----Cu:CuCu----",
 		"author":"DualBoot",
-		"completions":36,
+		"completions":86,
 		"id":2620,
 		"completed":true,
 		"title":"Ben Hur",
-		"likes":18
+		"likes":36
 	}
 }

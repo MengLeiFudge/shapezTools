@@ -203,18 +203,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.20833333333333337,
-		"averageTime":239.02015677491602,
-		"downloads":1128,
+		"difficulty":0.2328823288232882,
+		"averageTime":252.07856761090326,
+		"downloads":2439,
 		"shortKey":"RuCuSuWu:RuCuSuWu:RuCuSuWu",
 		"author":"mingX",
-		"completions":893,
+		"completions":1871,
 		"id":2040,
 		"completed":true,
 		"title":"4 to 8",
-		"likes":421
+		"likes":772
 	}
 }

@@ -152,10 +152,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.2222222222222222,
+		"averageTime":460.92857142857144,
+		"downloads":18,
 		"shortKey":"RcRyCbCr:RpRpCgCg",
 		"author":"mootmoot",
-		"completions":6,
+		"completions":14,
 		"id":1521,
 		"completed":true,
 		"title":"RGB to CMY",

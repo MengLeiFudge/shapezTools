@@ -145,18 +145,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":11.818181818181818,
-		"downloads":14,
+		"difficulty":0.05555555555555558,
+		"averageTime":13.156862745098039,
+		"downloads":54,
 		"shortKey":"RyCrRyCr:CuWuCuWu",
 		"author":"BlueSynopsis",
-		"completions":11,
+		"completions":51,
 		"id":2234,
 		"completed":false,
 		"title":"2 - Curves And Lines",
-		"likes":3
+		"likes":8
 	}
 }

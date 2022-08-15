@@ -111,15 +111,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.375,
-		"averageTime":84,
-		"downloads":17,
+		"difficulty":0.35,
+		"averageTime":165.46153846153845,
+		"downloads":20,
 		"shortKey":"RgRyRpRc:RcRgRyRp:RpRcRgRy:RyRpRcRg",
 		"author":"2370673307",
-		"completions":10,
+		"completions":13,
 		"id":5227,
 		"completed":false,
 		"title":"RgRyRpRc",

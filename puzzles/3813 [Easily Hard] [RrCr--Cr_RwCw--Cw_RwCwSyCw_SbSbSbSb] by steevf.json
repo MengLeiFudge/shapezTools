@@ -390,15 +390,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4285714285714286,
-		"averageTime":311,
-		"downloads":91,
+		"difficulty":0.3308823529411765,
+		"averageTime":261.1868131868132,
+		"downloads":136,
 		"shortKey":"RrCr--Cr:RwCw--Cw:RwCwSyCw:SbSbSbSb",
 		"author":"steevf",
-		"completions":52,
+		"completions":91,
 		"id":3813,
 		"completed":false,
 		"title":"Easily Hard",
-		"likes":28
+		"likes":39
 	}
 }

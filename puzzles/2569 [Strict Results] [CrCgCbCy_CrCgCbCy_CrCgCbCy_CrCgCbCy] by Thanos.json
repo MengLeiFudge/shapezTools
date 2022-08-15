@@ -633,15 +633,17 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.44999999999999996,
-		"averageTime":203.54545454545453,
-		"downloads":20,
+		"difficulty":0.4285714285714286,
+		"averageTime":193.58333333333334,
+		"downloads":21,
 		"shortKey":"CrCgCbCy:CrCgCbCy:CrCgCbCy:CrCgCbCy",
 		"author":"Thanos",
-		"completions":11,
+		"completions":12,
 		"id":2569,
 		"completed":false,
 		"title":"Strict Results",

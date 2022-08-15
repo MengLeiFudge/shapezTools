@@ -531,15 +531,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.17647058823529416,
-		"averageTime":33.57142857142857,
-		"downloads":17,
+		"difficulty":0.15000000000000002,
+		"averageTime":32.94117647058823,
+		"downloads":20,
 		"shortKey":"SySyWyWy:SrSrSgSg",
 		"author":"tkadlubo",
-		"completions":14,
+		"completions":17,
 		"id":3450,
 		"completed":false,
 		"title":"jacek 1",
-		"likes":1
+		"likes":2
 	}
 }

@@ -146,12 +146,14 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.6153846153846154,
 		"averageTime":245.8,
-		"downloads":16,
+		"downloads":18,
 		"shortKey":"CcCcCcCc:CpCpCpCp",
 		"author":"Mark225",
 		"completions":5,

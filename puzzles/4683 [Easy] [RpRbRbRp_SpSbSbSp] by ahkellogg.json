@@ -143,15 +143,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13043478260869568,
-		"averageTime":10.65,
-		"downloads":23,
+		"difficulty":0.11538461538461542,
+		"averageTime":10.347826086956522,
+		"downloads":26,
 		"shortKey":"RpRbRbRp:SpSbSbSp",
 		"author":"ahkellogg",
-		"completions":20,
+		"completions":23,
 		"id":4683,
 		"completed":false,
 		"title":"Easy",

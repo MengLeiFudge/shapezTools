@@ -239,16 +239,18 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":8,
 		"shortKey":"CuCrCgCb:RuRrRgRb:SuSrSgSb:WuWrWgWb",
 		"author":"Dhulfiqar",
-		"completions":3,
+		"completions":4,
 		"id":3296,
 		"completed":false,
 		"title":"Quad Paint",
-		"likes":2
+		"likes":3
 	}
 }

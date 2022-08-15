@@ -441,15 +441,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.625,
-		"averageTime":1191.1666666666667,
-		"downloads":22,
+		"difficulty":0.6666666666666667,
+		"averageTime":844.1176470588235,
+		"downloads":53,
 		"shortKey":"CpCpCpCp:CpRwCpRw",
 		"author":"Sense_101",
-		"completions":6,
+		"completions":17,
 		"id":2394,
 		"completed":true,
 		"title":"Two in One",
-		"likes":4
+		"likes":9
 	}
 }

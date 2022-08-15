@@ -157,12 +157,14 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.5555555555555556,
 		"averageTime":319.25,
-		"downloads":18,
+		"downloads":20,
 		"shortKey":"RyRyRyRy:WrWrCgCg",
 		"author":"StarM3wtw0",
 		"completions":8,

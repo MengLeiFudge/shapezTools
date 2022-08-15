@@ -106,15 +106,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.03664921465968585,
-		"averageTime":37.66304347826087,
-		"downloads":191,
+		"difficulty":0.01918465227817745,
+		"averageTime":41.048899755501225,
+		"downloads":417,
 		"shortKey":"------Cr",
 		"author":"Vasse",
-		"completions":184,
+		"completions":409,
 		"id":3934,
 		"completed":true,
 		"title":"small",
-		"likes":43
+		"likes":83
 	}
 }

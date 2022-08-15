@@ -180,15 +180,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.736842105263158,
-		"averageTime":405.8,
-		"downloads":19,
+		"difficulty":0.6095890410958904,
+		"averageTime":577.2456140350877,
+		"downloads":146,
 		"shortKey":"SgSwSbSr",
 		"author":"anonymous",
-		"completions":5,
+		"completions":57,
 		"id":231,
-		"completed":false,
+		"completed":true,
 		"title":"Cutter Connectors 3",
-		"likes":3
+		"likes":26
 	}
 }

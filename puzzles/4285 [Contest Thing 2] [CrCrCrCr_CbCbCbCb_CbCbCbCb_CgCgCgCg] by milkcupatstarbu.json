@@ -135,18 +135,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2878048780487805,
-		"averageTime":266.6506849315069,
-		"downloads":205,
+		"difficulty":0.2785145888594165,
+		"averageTime":274.79411764705884,
+		"downloads":377,
 		"shortKey":"CrCrCrCr:CbCbCbCb:CbCbCbCb:CgCgCgCg",
 		"author":"milkcupatstarbu",
-		"completions":146,
+		"completions":272,
 		"id":4285,
 		"completed":true,
 		"title":"Contest Thing 2",
-		"likes":75
+		"likes":114
 	}
 }

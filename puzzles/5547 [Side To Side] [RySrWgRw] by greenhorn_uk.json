@@ -357,15 +357,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6111111111111112,
-		"averageTime":277.57142857142856,
-		"downloads":18,
+		"difficulty":0.5238095238095238,
+		"averageTime":286.7,
+		"downloads":22,
 		"shortKey":"RySrWgRw",
 		"author":"greenhorn_uk",
-		"completions":7,
+		"completions":10,
 		"id":5547,
 		"completed":false,
 		"title":"Side To Side",
-		"likes":2
+		"likes":3
 	}
 }

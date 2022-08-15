@@ -69,15 +69,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.14145383104125742,
-		"averageTime":144.77574370709382,
-		"downloads":509,
+		"difficulty":0.1160839160839161,
+		"averageTime":221.34651898734177,
+		"downloads":715,
 		"shortKey":"Sb----Sb:CbCbCbCb",
 		"author":"anonymous",
-		"completions":437,
+		"completions":632,
 		"id":148,
 		"completed":true,
 		"title":"Bugprinting pt2 Body",
-		"likes":179
+		"likes":222
 	}
 }

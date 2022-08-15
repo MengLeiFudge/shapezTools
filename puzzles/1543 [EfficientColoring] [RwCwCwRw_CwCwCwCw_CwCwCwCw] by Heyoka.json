@@ -124,18 +124,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":346.7848101265823,
-		"downloads":238,
+		"difficulty":0.29470198675496684,
+		"averageTime":326.4835680751174,
+		"downloads":302,
 		"shortKey":"RwCwCwRw:CwCwCwCw:CwCwCwCw",
 		"author":"Heyoka",
-		"completions":158,
+		"completions":213,
 		"id":1543,
 		"completed":false,
 		"title":"EfficientColoring",
-		"likes":77
+		"likes":91
 	}
 }

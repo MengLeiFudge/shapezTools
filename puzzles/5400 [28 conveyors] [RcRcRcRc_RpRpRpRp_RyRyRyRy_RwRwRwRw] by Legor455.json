@@ -522,12 +522,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6666666666666667,
-		"averageTime":1613.5,
-		"downloads":18,
+		"difficulty":0.736842105263158,
+		"averageTime":1384.8,
+		"downloads":22,
 		"shortKey":"RcRcRcRc:RpRpRpRp:RyRyRyRy:RwRwRwRw",
 		"author":"Legor455",
-		"completions":4,
+		"completions":5,
 		"id":5400,
 		"completed":false,
 		"title":"28 conveyors",

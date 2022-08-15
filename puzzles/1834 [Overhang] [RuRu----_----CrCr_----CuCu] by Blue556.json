@@ -172,18 +172,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13971742543171117,
-		"averageTime":170.78284671532847,
-		"downloads":638,
+		"difficulty":0.13144058885383803,
+		"averageTime":162.37530266343825,
+		"downloads":951,
 		"shortKey":"RuRu----:----CrCr:----CuCu",
 		"author":"Blue556",
-		"completions":548,
+		"completions":826,
 		"id":1834,
 		"completed":true,
 		"title":"Overhang",
-		"likes":235
+		"likes":300
 	}
 }

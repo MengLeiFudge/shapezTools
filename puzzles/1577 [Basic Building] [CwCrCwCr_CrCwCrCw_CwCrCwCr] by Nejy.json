@@ -65,10 +65,12 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.2857142857142857,
+		"averageTime":104.1,
+		"downloads":14,
 		"shortKey":"CwCrCwCr:CrCwCrCw:CwCrCwCr",
 		"author":"Nejy",
-		"completions":6,
+		"completions":10,
 		"id":1577,
 		"completed":false,
 		"title":"Basic Building",

@@ -229,15 +229,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2547169811320755,
-		"averageTime":200.3634719710669,
-		"downloads":742,
+		"difficulty":0.2726125368111064,
+		"averageTime":241.45401966454597,
+		"downloads":2377,
 		"shortKey":"--CuCuCu",
 		"author":"chauhanravi011",
-		"completions":553,
+		"completions":1729,
 		"id":3379,
 		"completed":true,
 		"title":"No Roads",
-		"likes":276
+		"likes":752
 	}
 }

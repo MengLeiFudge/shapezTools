@@ -81,18 +81,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7238095238095238,
-		"averageTime":538.8965517241379,
-		"downloads":107,
+		"difficulty":0.7324840764331211,
+		"averageTime":618.5714285714286,
+		"downloads":158,
 		"shortKey":"CuCcCuCc",
 		"author":"milkcupatstarbu",
-		"completions":29,
+		"completions":42,
 		"id":3336,
 		"completed":true,
 		"title":"Thing 21",
-		"likes":21
+		"likes":28
 	}
 }

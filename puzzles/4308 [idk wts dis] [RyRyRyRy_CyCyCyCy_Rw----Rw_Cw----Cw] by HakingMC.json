@@ -133,10 +133,12 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"downloads":12,
 		"shortKey":"RyRyRyRy:CyCyCyCy:Rw----Rw:Cw----Cw",
 		"author":"HakingMC",
 		"completions":6,

@@ -33,18 +33,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.044303797468354444,
-		"averageTime":6.887417218543046,
-		"downloads":316,
+		"difficulty":0.03263403263403264,
+		"averageTime":6.816867469879518,
+		"downloads":429,
 		"shortKey":"CrRgWbSy:RgWbSyCr:CrRgWbSy:RgWbSyCr",
 		"author":"xanne",
-		"completions":302,
+		"completions":415,
 		"id":722,
 		"completed":true,
 		"title":"Impossible level",
-		"likes":65
+		"likes":80
 	}
 }

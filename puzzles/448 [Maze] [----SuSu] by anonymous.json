@@ -188,10 +188,12 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.19999999999999996,
+		"averageTime":16.666666666666668,
+		"downloads":15,
 		"shortKey":"----SuSu",
 		"author":"anonymous",
-		"completions":8,
+		"completions":12,
 		"id":448,
 		"completed":false,
 		"title":"Maze",

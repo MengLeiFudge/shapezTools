@@ -102,15 +102,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4375,
-		"averageTime":639.5555555555555,
-		"downloads":32,
+		"difficulty":0.4242424242424242,
+		"averageTime":612.7368421052631,
+		"downloads":33,
 		"shortKey":"WwWwSwSw:----CwCw",
 		"author":"pigeon",
-		"completions":18,
+		"completions":19,
 		"id":5055,
 		"completed":true,
 		"title":"Mixture",

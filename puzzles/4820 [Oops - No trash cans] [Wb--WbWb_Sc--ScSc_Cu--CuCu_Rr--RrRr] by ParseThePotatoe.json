@@ -189,12 +189,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4,
-		"averageTime":185.75,
-		"downloads":40,
+		"difficulty":0.33333333333333337,
+		"averageTime":195.46875,
+		"downloads":50,
 		"shortKey":"Wb--WbWb:Sc--ScSc:Cu--CuCu:Rr--RrRr",
 		"author":"ParseThePotatoe",
-		"completions":24,
+		"completions":32,
 		"id":4820,
 		"completed":false,
 		"title":"Oops - No trash cans",

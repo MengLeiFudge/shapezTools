@@ -331,18 +331,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5897435897435898,
-		"averageTime":3049.5,
-		"downloads":39,
+		"difficulty":0.5609756097560976,
+		"averageTime":2731.3333333333335,
+		"downloads":41,
 		"shortKey":"--Sb--Sb:--Sb--Sb:SySySySy",
 		"author":"GreenPlus",
-		"completions":16,
+		"completions":18,
 		"id":4426,
 		"completed":false,
 		"title":"Shining Star",
-		"likes":10
+		"likes":11
 	}
 }

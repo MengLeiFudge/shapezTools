@@ -198,15 +198,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0462633451957295,
-		"averageTime":45.50373134328358,
-		"downloads":281,
+		"difficulty":0.034858387799564294,
+		"averageTime":44.753950338600454,
+		"downloads":460,
 		"shortKey":"CuSuCuSu:SuCuSuCu:CuSuCuSu",
 		"author":"egasyelir",
-		"completions":268,
+		"completions":443,
 		"id":1711,
 		"completed":false,
 		"title":"Simple",
-		"likes":63
+		"likes":90
 	}
 }

@@ -291,13 +291,15 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.8461538461538461,
+		"averageTime":1072,
+		"downloads":13,
 		"shortKey":"RuRuRuRu:Rg------",
 		"author":"897701215",
-		"completions":1,
+		"completions":2,
 		"id":5164,
 		"completed":false,
 		"title":"yes-no 6",
-		"likes":1
+		"likes":2
 	}
 }

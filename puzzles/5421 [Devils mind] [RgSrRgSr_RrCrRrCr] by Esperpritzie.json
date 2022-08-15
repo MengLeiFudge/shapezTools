@@ -164,15 +164,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":78.9047619047619,
-		"downloads":28,
+		"difficulty":0.25,
+		"averageTime":75.16666666666667,
+		"downloads":32,
 		"shortKey":"RgSrRgSr:RrCrRrCr",
 		"author":"Esperpritzie",
-		"completions":21,
+		"completions":24,
 		"id":5421,
 		"completed":false,
 		"title":"Devils mind",

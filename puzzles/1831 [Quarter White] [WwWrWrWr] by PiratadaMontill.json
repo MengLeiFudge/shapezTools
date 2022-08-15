@@ -114,18 +114,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0992366412213741,
-		"averageTime":126.53813559322033,
-		"downloads":262,
+		"difficulty":0.08670520231213874,
+		"averageTime":121.45253164556962,
+		"downloads":346,
 		"shortKey":"WwWrWrWr",
 		"author":"PiratadaMontill",
-		"completions":236,
+		"completions":316,
 		"id":1831,
 		"completed":true,
 		"title":"Quarter White",
-		"likes":94
+		"likes":107
 	}
 }

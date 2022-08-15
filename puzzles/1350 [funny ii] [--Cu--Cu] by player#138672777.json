@@ -36,10 +36,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.5,
+		"averageTime":51.285714285714285,
+		"downloads":14,
 		"shortKey":"--Cu--Cu",
 		"author":"player#138672777",
-		"completions":3,
+		"completions":7,
 		"id":1350,
 		"completed":false,
 		"title":"funny ii",

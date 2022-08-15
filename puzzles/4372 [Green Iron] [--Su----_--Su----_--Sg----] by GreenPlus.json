@@ -314,18 +314,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7777777777777778,
-		"averageTime":448.5,
-		"downloads":47,
+		"difficulty":0.7450980392156863,
+		"averageTime":419.2307692307692,
+		"downloads":55,
 		"shortKey":"--Su----:--Su----:--Sg----",
 		"author":"GreenPlus",
-		"completions":10,
+		"completions":13,
 		"id":4372,
 		"completed":false,
 		"title":"Green Iron",
-		"likes":7
+		"likes":9
 	}
 }

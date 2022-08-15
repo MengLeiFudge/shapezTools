@@ -1692,18 +1692,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":629.1111111111111,
-		"downloads":13,
+		"difficulty":0.2857142857142857,
+		"averageTime":632.8,
+		"downloads":15,
 		"shortKey":"CwCbCwCc:CuCcCuCb:Cu--Cu--:Cw--Cw--",
 		"author":"player#165986741",
-		"completions":9,
+		"completions":10,
 		"id":4889,
 		"completed":false,
 		"title":"Into The Snake 1",
-		"likes":3
+		"likes":4
 	}
 }

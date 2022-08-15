@@ -101,10 +101,12 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"downloads":14,
 		"shortKey":"CgCgCgCg:Rw------:Rw--Rw--:Rr------",
 		"author":"mygime",
 		"completions":3,

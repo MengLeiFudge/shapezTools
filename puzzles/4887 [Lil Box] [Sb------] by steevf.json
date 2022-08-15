@@ -60,18 +60,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.02857142857142858,
-		"averageTime":37.923529411764704,
-		"downloads":175,
+		"difficulty":0.0158311345646438,
+		"averageTime":39.38605898123324,
+		"downloads":379,
 		"shortKey":"Sb------",
 		"author":"steevf",
-		"completions":170,
+		"completions":373,
 		"id":4887,
 		"completed":true,
 		"title":"Lil Box",
-		"likes":39
+		"likes":76
 	}
 }

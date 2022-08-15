@@ -189,18 +189,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.40740740740740744,
-		"averageTime":1099.5,
-		"downloads":27,
+		"difficulty":0.3928571428571429,
+		"averageTime":1044.2941176470588,
+		"downloads":28,
 		"shortKey":"CwCwCwCw:Rw----Rw",
 		"author":"Warren21410",
-		"completions":16,
+		"completions":17,
 		"id":4671,
 		"completed":false,
 		"title":"Circle around",
-		"likes":7
+		"likes":8
 	}
 }

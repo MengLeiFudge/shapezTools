@@ -173,13 +173,15 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":9,
 		"shortKey":"CyCcCyCc:SgWySgWy",
 		"author":"Mr.Happy",
-		"completions":5,
+		"completions":7,
 		"id":5599,
 		"completed":false,
 		"title":"9uytgjbn",

@@ -665,10 +665,12 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"downloads":12,
 		"shortKey":"RrRrRrRb:RwRwRwSw:RrRrRrSb:RwRwRw--",
 		"author":"Peanut",
 		"completions":1,

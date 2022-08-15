@@ -100,18 +100,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.46153846153846156,
-		"averageTime":19.571428571428573,
-		"downloads":13,
+		"difficulty":0.35,
+		"averageTime":30.46153846153846,
+		"downloads":20,
 		"shortKey":"CcRbCcSp:WbWbWbSp",
 		"author":"anonymous",
-		"completions":7,
+		"completions":13,
 		"id":467,
 		"completed":false,
 		"title":"merger",
-		"likes":1
+		"likes":4
 	}
 }

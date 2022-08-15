@@ -213,18 +213,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.645360824742268,
-		"averageTime":981.1279069767442,
-		"downloads":486,
+		"difficulty":0.6598870056497175,
+		"averageTime":942.126245847176,
+		"downloads":885,
 		"shortKey":"CpCpCrCr:----CrCr",
 		"author":"TheChris2009",
-		"completions":172,
+		"completions":301,
 		"id":1448,
 		"completed":true,
 		"title":"TC2K9 Series 1-5",
-		"likes":110
+		"likes":165
 	}
 }

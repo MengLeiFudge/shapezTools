@@ -54,11 +54,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.25,
-		"downloads":10,
+		"difficulty":0.23529411764705888,
+		"averageTime":11.076923076923077,
+		"downloads":17,
 		"shortKey":"RuRuRuRu:CuCuCuCu",
 		"author":"anonymous",
-		"completions":6,
+		"completions":13,
 		"id":54,
 		"completed":false,
 		"title":"Goodluck",

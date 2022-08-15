@@ -52,18 +52,20 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1071428571428571,
-		"averageTime":51.44,
-		"downloads":28,
+		"difficulty":0.06666666666666665,
+		"averageTime":53.476190476190474,
+		"downloads":45,
 		"shortKey":"RcRcRcRc:WwWwWwWw",
 		"author":"EJ.2048",
-		"completions":25,
+		"completions":42,
 		"id":4519,
 		"completed":false,
 		"title":"idoia",
-		"likes":4
+		"likes":6
 	}
 }

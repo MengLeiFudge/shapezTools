@@ -4,7 +4,6 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.serializer.SerializerFeature;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -12,11 +11,14 @@ import java.io.IOException;
 import java.util.HashMap;
 
 import static shapez.SettingsAndUtils.GET_NON_EXISTS_PUZZLES;
+import static shapez.SettingsAndUtils.PUZZLES_DELETED_DIR;
 import static shapez.SettingsAndUtils.PUZZLES_DIR;
 import static shapez.SettingsAndUtils.THREAD_NUM;
 import static shapez.SettingsAndUtils.TOKEN;
 import static shapez.SettingsAndUtils.UPDATE_LOCAL_PUZZLES;
+import static shapez.SettingsAndUtils.USER_AGENT;
 import static shapez.SettingsAndUtils.getInfoFromUrl;
+import static shapez.SettingsAndUtils.postInfoToUrl;
 import static shapez.SettingsAndUtils.sleep;
 
 /**
@@ -62,6 +64,7 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
     public void run() {
         // 指示连续遇到多少个 false
         int falseNum = 0;
+        //int id = 1;
         int id = 1;
         while (true) {
             // 实时更新 processIndex
@@ -69,7 +72,7 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
                 processIndex[threadNo] = id;
             }
             // 判断是否终止线程
-            if (falseNum >= 5) {
+            if (falseNum >= 20) {
                 System.out.println("——————终止线程 " + threadNo + "，当前 ID " + id + "——————");
                 return;
             }
@@ -145,7 +148,13 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
         JSONObject obj = JSON.parseObject(s);
         if (obj.containsKey("error")) {
             if (map.containsKey(id)) {
-                map.get(id).delete();
+                // 将该谜题移动至“已删除”文件夹
+                File src = map.get(id);
+                File dest = new File(PUZZLES_DELETED_DIR, src.getName());
+                if(!PUZZLES_DELETED_DIR.exists()){
+                    PUZZLES_DELETED_DIR.mkdirs();
+                }
+                src.renameTo(dest);
             }
             return false;
         }
@@ -176,6 +185,23 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
         return getPuzzleStr(id + "");
     }
 
+    public static String getToken() {
+        String url = "https://api.shapez.io/v1/public/login";
+        HashMap<String, String> headerParams = new HashMap<>();
+        headerParams.put("Content-Type", "application/json");
+        headerParams.put("User-Agent", USER_AGENT);
+        headerParams.put("x-api-key", "d5c54aaa491f200709afff082c153ef2");
+        HashMap<String, String> bodyParams = new HashMap<>();
+        bodyParams.put("token", "14000000468e1b196a4d2aa23e2048060100100139e5f9621800000001000000020000003c5899ac34342466f70a031917000000b800000038000000040000003e20480601001001221f1400f91150750b0aa8c000000000bebced623e6c09630100b3060700010038cd180000000000859ba8b5e9d6e792ed9ef56158281c46ddbbfea1c3f9f9eabbeedaf43137db079452c36f69356072bf164fa48020816729b4d782f8f61017dc8290e4bf8cf131f8a7e4d1da1245aa0593fd7cf57d982d0784389ecb7269430f8639f55f42734d21b2daee6f9ddc9fa4b664bd0dc3640f0111aec0e7ee8cf74d9a4c6e74238af7");
+        String s = postInfoToUrl(url, headerParams, bodyParams, null);
+        try {
+            JSONObject obj = JSON.parseObject(s);
+            return obj.getString("token");
+        } catch (Exception e) {
+            return null;
+        }
+    }
+
     /**
      * 下载一个puzzle.
      *
@@ -185,14 +211,23 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
     public static String getPuzzleStr(String shortKey) {
         String url = "https://api.shapez.io/v1/puzzles/download/" + shortKey;
         HashMap<String, String> headerParams = new HashMap<>();
-        headerParams.put("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) " +
-                "shapez/1.5.5 Chrome/96.0.4664.174 Electron/16.2.8 Safari/537.36");
+        headerParams.put("Content-Type", "application/json");
+        headerParams.put("User-Agent", USER_AGENT);
         headerParams.put("x-api-key", "d5c54aaa491f200709afff082c153ef2");
         headerParams.put("x-token", TOKEN);
-        headerParams.put("Content-Type", "application/json");
-        headerParams.put("Connection", "keep-alive");
-        headerParams.put("Host", "api.shapez.io:443");
-        return getInfoFromUrl(url, null, headerParams);
+        //String uuid = UUID.randomUUID().toString();
+        //headerParams.put("x-token", uuid);
+        //headerParams.put("x-token", getToken());
+        String data = getInfoFromUrl(url, null, headerParams);
+        return data;
+   /*     if (data != null && !"{\"error\":\"not-found\"}".equals(data)) {
+            if (!data.startsWith("{\"meta\"")) {
+                System.out.println("!data.startsWith(meta)");
+            }
+            return data;
+        } else {
+            return null;
+        }*/
     }
 
     /**

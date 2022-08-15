@@ -2731,18 +2731,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10227272727272729,
-		"averageTime":202.1772151898734,
-		"downloads":88,
+		"difficulty":0.10924369747899154,
+		"averageTime":194.0566037735849,
+		"downloads":119,
 		"shortKey":"SbRy--Sr:Wc--WyCw:SyCuCuSw:WwSrSrWr",
 		"author":"mekdreth",
-		"completions":79,
+		"completions":106,
 		"id":4669,
 		"completed":false,
 		"title":"Fun Times",
-		"likes":28
+		"likes":34
 	}
 }

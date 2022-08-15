@@ -102,18 +102,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.054545454545454564,
-		"averageTime":50.52884615384615,
-		"downloads":110,
+		"difficulty":0.033175355450236976,
+		"averageTime":49.34803921568628,
+		"downloads":211,
 		"shortKey":"WpWbWpWb:RpWpRpWp",
 		"author":"player#650448579",
-		"completions":104,
+		"completions":204,
 		"id":4883,
 		"completed":true,
 		"title":"Painting Double",
-		"likes":24
+		"likes":37
 	}
 }

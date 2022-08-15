@@ -129,18 +129,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.34782608695652173,
-		"averageTime":76.3,
-		"downloads":48,
+		"difficulty":0.3389830508474576,
+		"averageTime":69.17948717948718,
+		"downloads":59,
 		"shortKey":"Wu--WuWu",
 		"author":"DualBoot",
-		"completions":30,
+		"completions":39,
 		"id":5295,
 		"completed":false,
 		"title":"WindmillSnack",
-		"likes":12
+		"likes":13
 	}
 }

@@ -137,15 +137,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21212121212121215,
-		"averageTime":334.2307692307692,
-		"downloads":33,
+		"difficulty":0.22857142857142854,
+		"averageTime":323.51851851851853,
+		"downloads":35,
 		"shortKey":"Wu--Wu--:Wu--Wu--:Wu--Wu--:Wu--Wu--",
 		"author":"qMythic",
-		"completions":26,
+		"completions":27,
 		"id":4873,
 		"completed":false,
 		"title":"First thing",

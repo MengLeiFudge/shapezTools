@@ -52,18 +52,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15000000000000002,
-		"averageTime":20.352941176470587,
-		"downloads":20,
+		"difficulty":0.12,
+		"averageTime":19.636363636363637,
+		"downloads":25,
 		"shortKey":"CcCcCcCc:CpCpCpCp:CyCyCyCy:CbCbCbCb",
 		"author":"murasamaopplsne",
-		"completions":17,
+		"completions":22,
 		"id":3847,
 		"completed":false,
 		"title":"Intro to Stacking",
-		"likes":2
+		"likes":3
 	}
 }

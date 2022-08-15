@@ -172,15 +172,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2666666666666667,
-		"averageTime":42,
-		"downloads":15,
+		"difficulty":0.23529411764705888,
+		"averageTime":42.30769230769231,
+		"downloads":17,
 		"shortKey":"Rp--Ry--",
 		"author":"bluez",
-		"completions":11,
+		"completions":13,
 		"id":2402,
 		"completed":false,
 		"title":"split squares",

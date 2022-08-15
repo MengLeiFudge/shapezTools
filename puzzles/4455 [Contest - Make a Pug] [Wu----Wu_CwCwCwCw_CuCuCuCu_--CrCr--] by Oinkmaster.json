@@ -236,12 +236,14 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.6363636363636364,
 		"averageTime":661.125,
-		"downloads":23,
+		"downloads":24,
 		"shortKey":"Wu----Wu:CwCwCwCw:CuCuCuCu:--CrCr--",
 		"author":"Oinkmaster",
 		"completions":8,

@@ -25,18 +25,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":83.64285714285714,
-		"downloads":72,
+		"difficulty":0.2065217391304348,
+		"averageTime":79.6986301369863,
+		"downloads":92,
 		"shortKey":"------Cr:Cb------:--Cy----:----Cg--",
 		"author":"Bronten",
-		"completions":56,
+		"completions":73,
 		"id":5177,
 		"completed":false,
 		"title":"Feeling Flat",
-		"likes":21
+		"likes":23
 	}
 }

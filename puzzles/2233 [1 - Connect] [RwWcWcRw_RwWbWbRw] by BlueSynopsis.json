@@ -311,12 +311,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1875,
-		"averageTime":8.692307692307692,
-		"downloads":16,
+		"difficulty":0.12,
+		"averageTime":8.318181818181818,
+		"downloads":25,
 		"shortKey":"RwWcWcRw:RwWbWbRw",
 		"author":"BlueSynopsis",
-		"completions":13,
+		"completions":22,
 		"id":2233,
 		"completed":false,
 		"title":"1 - Connect",

@@ -73,18 +73,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03157894736842104,
-		"averageTime":12.304347826086957,
-		"downloads":95,
+		"difficulty":0.026548672566371723,
+		"averageTime":12.6,
+		"downloads":113,
 		"shortKey":"RpCpCpRp:RwCwCwRw",
 		"author":"TheFastRunnersG",
-		"completions":92,
+		"completions":110,
 		"id":4063,
 		"completed":false,
 		"title":"Compact Blockage",
-		"likes":15
+		"likes":17
 	}
 }

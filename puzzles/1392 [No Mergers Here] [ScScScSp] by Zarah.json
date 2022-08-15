@@ -162,12 +162,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":127.16666666666667,
-		"downloads":12,
+		"difficulty":0.375,
+		"averageTime":107,
+		"downloads":16,
 		"shortKey":"ScScScSp",
 		"author":"Zarah",
-		"completions":6,
+		"completions":10,
 		"id":1392,
 		"completed":true,
 		"title":"No Mergers Here",

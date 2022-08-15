@@ -116,15 +116,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":305.5,
-		"downloads":21,
+		"difficulty":0.30434782608695654,
+		"averageTime":288,
+		"downloads":23,
 		"shortKey":"CgCgCgCg:CrCrCrCr:RuRuRuRu",
 		"author":"britishball",
-		"completions":14,
+		"completions":16,
 		"id":2613,
 		"completed":false,
 		"title":"Now this is a knife",

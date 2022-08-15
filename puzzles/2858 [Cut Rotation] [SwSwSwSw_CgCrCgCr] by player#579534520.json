@@ -220,18 +220,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.024137931034482807,
-		"averageTime":82.20848056537102,
-		"downloads":290,
+		"difficulty":0.0177383592017738,
+		"averageTime":90.6117381489842,
+		"downloads":451,
 		"shortKey":"SwSwSwSw:CgCrCgCr",
 		"author":"player#579534520",
-		"completions":283,
+		"completions":443,
 		"id":2858,
 		"completed":true,
 		"title":"Cut Rotation",
-		"likes":71
+		"likes":98
 	}
 }

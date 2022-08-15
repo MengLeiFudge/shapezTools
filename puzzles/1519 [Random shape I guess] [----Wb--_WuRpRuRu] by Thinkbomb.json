@@ -180,13 +180,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.8,
+		"averageTime":636,
+		"downloads":10,
 		"shortKey":"----Wb--:WuRpRuRu",
 		"author":"Thinkbomb",
-		"completions":1,
+		"completions":2,
 		"id":1519,
 		"completed":false,
 		"title":"Random shape I guess",

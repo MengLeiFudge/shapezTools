@@ -299,18 +299,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11920529801324509,
-		"averageTime":117.46616541353383,
-		"downloads":151,
+		"difficulty":0.09999999999999998,
+		"averageTime":111.30994152046783,
+		"downloads":190,
 		"shortKey":"SrSrRrRr",
 		"author":"StarM3wtw0",
-		"completions":133,
+		"completions":171,
 		"id":1721,
 		"completed":false,
 		"title":"CSCW",
-		"likes":49
+		"likes":58
 	}
 }

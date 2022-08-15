@@ -628,16 +628,20 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.1578947368421053,
+		"averageTime":154.0625,
+		"downloads":19,
 		"shortKey":"RcRwRcRp",
 		"author":"Ironfamily",
-		"completions":6,
+		"completions":16,
 		"id":5070,
 		"completed":false,
 		"title":"no corners",
-		"likes":3
+		"likes":4
 	}
 }

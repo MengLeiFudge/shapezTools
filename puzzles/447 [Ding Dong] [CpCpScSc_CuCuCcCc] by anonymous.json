@@ -36,10 +36,12 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.19999999999999996,
+		"averageTime":48.083333333333336,
+		"downloads":15,
 		"shortKey":"CpCpScSc:CuCuCcCc",
 		"author":"anonymous",
-		"completions":8,
+		"completions":12,
 		"id":447,
 		"completed":false,
 		"title":"Ding Dong",

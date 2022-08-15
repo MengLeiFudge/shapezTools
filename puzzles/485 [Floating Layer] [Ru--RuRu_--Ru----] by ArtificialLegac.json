@@ -237,18 +237,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.46031746031746035,
-		"averageTime":283.52941176470586,
-		"downloads":63,
+		"difficulty":0.375,
+		"averageTime":237.58,
+		"downloads":80,
 		"shortKey":"Ru--RuRu:--Ru----",
 		"author":"ArtificialLegac",
-		"completions":34,
+		"completions":50,
 		"id":485,
 		"completed":false,
 		"title":"Floating Layer",
-		"likes":17
+		"likes":21
 	}
 }

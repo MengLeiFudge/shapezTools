@@ -36,15 +36,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.02314814814814814,
-		"averageTime":31.829383886255926,
-		"downloads":216,
+		"difficulty":0.016949152542372836,
+		"averageTime":32.827586206896555,
+		"downloads":295,
 		"shortKey":"CrCgCbCw",
 		"author":"player#138672777",
-		"completions":211,
+		"completions":290,
 		"id":1303,
 		"completed":false,
 		"title":"funny part_2",
-		"likes":43
+		"likes":53
 	}
 }

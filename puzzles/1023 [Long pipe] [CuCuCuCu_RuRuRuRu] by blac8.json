@@ -324,18 +324,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10322580645161294,
-		"averageTime":90.94964028776978,
-		"downloads":155,
+		"difficulty":0.13736263736263732,
+		"averageTime":93.36942675159236,
+		"downloads":182,
 		"shortKey":"CuCuCuCu:RuRuRuRu",
 		"author":"blac8",
-		"completions":139,
+		"completions":157,
 		"id":1023,
 		"completed":true,
 		"title":"Long pipe",
-		"likes":41
+		"likes":49
 	}
 }

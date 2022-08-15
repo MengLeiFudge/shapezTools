@@ -125,18 +125,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.41538461538461535,
-		"averageTime":309.92105263157896,
-		"downloads":67,
+		"difficulty":0.3764705882352941,
+		"averageTime":331.77358490566036,
+		"downloads":85,
 		"shortKey":"--Sp--Sp:CbCbCbCb",
 		"author":"Mikonhunter33",
-		"completions":38,
+		"completions":53,
 		"id":3657,
 		"completed":false,
 		"title":"July-26",
-		"likes":20
+		"likes":22
 	}
 }

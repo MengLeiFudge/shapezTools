@@ -125,12 +125,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.16129032258064513,
-		"averageTime":95.07692307692308,
-		"downloads":31,
+		"difficulty":0.1515151515151515,
+		"averageTime":90.32142857142857,
+		"downloads":33,
 		"shortKey":"SySySySy:SySySySy",
 		"author":"anonymous",
-		"completions":26,
+		"completions":28,
 		"id":159,
 		"completed":false,
 		"title":"Pandas 2nd Puzzel",

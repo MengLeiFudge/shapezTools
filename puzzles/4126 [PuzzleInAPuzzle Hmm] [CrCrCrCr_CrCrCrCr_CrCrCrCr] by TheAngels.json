@@ -547,15 +547,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11764705882352944,
-		"averageTime":91.86666666666666,
-		"downloads":68,
+		"difficulty":0.11538461538461542,
+		"averageTime":92.71014492753623,
+		"downloads":78,
 		"shortKey":"CrCrCrCr:CrCrCrCr:CrCrCrCr",
 		"author":"TheAngels",
-		"completions":60,
+		"completions":69,
 		"id":4126,
 		"completed":false,
 		"title":"PuzzleInAPuzzle Hmm",
-		"likes":18
+		"likes":21
 	}
 }

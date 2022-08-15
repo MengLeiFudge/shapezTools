@@ -190,15 +190,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.22448979591836737,
-		"averageTime":89.39473684210526,
-		"downloads":49,
+		"difficulty":0.21568627450980393,
+		"averageTime":87.275,
+		"downloads":51,
 		"shortKey":"SrSbSg--",
 		"author":"g1t2r3",
-		"completions":38,
+		"completions":40,
 		"id":1490,
 		"completed":false,
 		"title":"RedGreenBlue",

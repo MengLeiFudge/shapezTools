@@ -83,18 +83,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.40476190476190477,
-		"averageTime":221.08,
-		"downloads":42,
+		"difficulty":0.3275862068965517,
+		"averageTime":197.28205128205127,
+		"downloads":58,
 		"shortKey":"Sw----Cw:Sw----Cw:Sw----Cw:Sw----Cw",
 		"author":"DualBoot",
-		"completions":25,
+		"completions":39,
 		"id":5505,
 		"completed":true,
 		"title":"TheSydneyOperaHouse",
-		"likes":11
+		"likes":13
 	}
 }

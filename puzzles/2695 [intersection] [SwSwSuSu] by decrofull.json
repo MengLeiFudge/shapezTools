@@ -350,12 +350,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1071428571428571,
-		"averageTime":14.08,
-		"downloads":28,
+		"difficulty":0.09999999999999998,
+		"averageTime":13.851851851851851,
+		"downloads":30,
 		"shortKey":"SwSwSuSu",
 		"author":"decrofull",
-		"completions":25,
+		"completions":27,
 		"id":2695,
 		"completed":false,
 		"title":"intersection",

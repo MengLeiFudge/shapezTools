@@ -52,18 +52,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06756756756756754,
-		"averageTime":50.70289855072464,
-		"downloads":148,
+		"difficulty":0.048192771084337394,
+		"averageTime":48.81434599156118,
+		"downloads":249,
 		"shortKey":"Cr--Cg--:Cr--Cg--:Cr--Cg--:Cr--Cg--",
 		"author":"player#882250833",
-		"completions":138,
+		"completions":237,
 		"id":4603,
 		"completed":true,
 		"title":"2 shapes in 1 lane",
-		"likes":32
+		"likes":44
 	}
 }

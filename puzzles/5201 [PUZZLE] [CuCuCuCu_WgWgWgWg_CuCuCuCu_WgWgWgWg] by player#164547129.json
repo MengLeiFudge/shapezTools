@@ -227,16 +227,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.06521739130434778,
+		"averageTime":49.604651162790695,
+		"downloads":46,
 		"shortKey":"CuCuCuCu:WgWgWgWg:CuCuCuCu:WgWgWgWg",
 		"author":"player#164547129",
-		"completions":8,
+		"completions":43,
 		"id":5201,
 		"completed":false,
 		"title":"PUZZLE",
-		"likes":4
+		"likes":6
 	}
 }

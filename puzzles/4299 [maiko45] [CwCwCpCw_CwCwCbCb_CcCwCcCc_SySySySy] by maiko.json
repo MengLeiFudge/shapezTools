@@ -360,10 +360,12 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"CwCwCpCw:CwCwCbCb:CcCwCcCc:SySySySy",
 		"author":"maiko",
 		"completions":4,

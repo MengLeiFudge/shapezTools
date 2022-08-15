@@ -75,15 +75,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.30952380952380953,
-		"averageTime":82.51724137931035,
-		"downloads":42,
+		"difficulty":0.28888888888888886,
+		"averageTime":80.59375,
+		"downloads":45,
 		"shortKey":"RuRuRuRu:RwRwRwRw:RwRwRwRw:RwRwRwRw",
 		"author":"Sightnado",
-		"completions":29,
+		"completions":32,
 		"id":4950,
 		"completed":false,
 		"title":"Cutting Corners",

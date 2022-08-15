@@ -52,10 +52,12 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"downloads":13,
 		"shortKey":"WyWyWyWy:--Wg----:--Wg----:--Wy----",
 		"author":"vlazi",
 		"completions":1,

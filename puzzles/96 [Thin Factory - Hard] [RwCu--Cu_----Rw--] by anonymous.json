@@ -117,15 +117,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.39877300613496935,
-		"averageTime":165.02551020408163,
-		"downloads":327,
+		"difficulty":0.38968481375358166,
+		"averageTime":161.22535211267606,
+		"downloads":349,
 		"shortKey":"RwCu--Cu:----Rw--",
 		"author":"anonymous",
-		"completions":196,
+		"completions":213,
 		"id":96,
 		"completed":true,
 		"title":"Thin Factory - Hard",
-		"likes":91
+		"likes":93
 	}
 }

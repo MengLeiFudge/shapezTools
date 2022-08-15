@@ -79,18 +79,20 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4117647058823529,
-		"averageTime":95.5,
-		"downloads":17,
+		"difficulty":0.33333333333333337,
+		"averageTime":135.83333333333334,
+		"downloads":18,
 		"shortKey":"CgCgCgCg:CgCgCgCg:CgCgCgCg:CgCgCgCg",
 		"author":"dru_walker",
-		"completions":10,
+		"completions":12,
 		"id":3005,
 		"completed":false,
 		"title":"Newtonium Creation",
-		"likes":1
+		"likes":2
 	}
 }

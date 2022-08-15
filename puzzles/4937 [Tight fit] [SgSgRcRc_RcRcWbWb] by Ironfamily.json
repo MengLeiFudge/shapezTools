@@ -58,18 +58,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07692307692307687,
-		"averageTime":14.166666666666666,
-		"downloads":39,
+		"difficulty":0.050000000000000044,
+		"averageTime":13.596491228070175,
+		"downloads":60,
 		"shortKey":"SgSgRcRc:RcRcWbWb",
 		"author":"Ironfamily",
-		"completions":36,
+		"completions":57,
 		"id":4937,
 		"completed":false,
 		"title":"Tight fit",
-		"likes":7
+		"likes":9
 	}
 }

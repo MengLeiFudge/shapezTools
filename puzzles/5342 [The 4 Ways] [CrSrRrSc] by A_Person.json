@@ -282,15 +282,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.08181818181818179,
-		"averageTime":100.54455445544555,
-		"downloads":111,
+		"difficulty":0.07792207792207795,
+		"averageTime":94.40140845070422,
+		"downloads":154,
 		"shortKey":"CrSrRrSc",
 		"author":"A_Person",
-		"completions":101,
+		"completions":142,
 		"id":5342,
 		"completed":false,
 		"title":"The 4 Ways",
-		"likes":37
+		"likes":47
 	}
 }

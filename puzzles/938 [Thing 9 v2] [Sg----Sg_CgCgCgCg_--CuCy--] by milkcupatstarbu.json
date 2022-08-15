@@ -151,18 +151,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7647058823529411,
-		"averageTime":451.75,
-		"downloads":21,
+		"difficulty":0.7666666666666666,
+		"averageTime":455.7142857142857,
+		"downloads":30,
 		"shortKey":"Sg----Sg:CgCgCgCg:--CuCy--",
 		"author":"milkcupatstarbu",
-		"completions":4,
+		"completions":7,
 		"id":938,
 		"completed":true,
 		"title":"Thing 9 v2",
-		"likes":4
+		"likes":5
 	}
 }

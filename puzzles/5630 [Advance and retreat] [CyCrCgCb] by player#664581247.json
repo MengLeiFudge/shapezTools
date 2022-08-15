@@ -672,13 +672,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.75,
+		"averageTime":1322,
+		"downloads":36,
 		"shortKey":"CyCrCgCb",
 		"author":"player#664581247",
-		"completions":2,
+		"completions":9,
 		"id":5630,
 		"completed":false,
 		"title":"Advance and retreat",
-		"likes":2
+		"likes":7
 	}
 }

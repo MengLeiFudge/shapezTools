@@ -491,10 +491,12 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":5,
+		"downloads":6,
 		"shortKey":"Cw------:Cw------",
 		"author":"clay",
 		"completions":0,

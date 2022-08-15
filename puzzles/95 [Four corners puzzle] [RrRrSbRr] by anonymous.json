@@ -306,12 +306,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.5625,
-		"averageTime":507.7142857142857,
-		"downloads":16,
+		"difficulty":0.5,
+		"averageTime":472.77777777777777,
+		"downloads":18,
 		"shortKey":"RrRrSbRr",
 		"author":"anonymous",
-		"completions":7,
+		"completions":9,
 		"id":95,
 		"completed":false,
 		"title":"Four corners puzzle",

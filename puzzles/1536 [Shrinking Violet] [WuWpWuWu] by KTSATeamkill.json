@@ -137,12 +137,14 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.7959183673469388,
 		"averageTime":1190,
-		"downloads":68,
+		"downloads":69,
 		"shortKey":"WuWpWuWu",
 		"author":"KTSATeamkill",
 		"completions":10,

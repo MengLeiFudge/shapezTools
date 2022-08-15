@@ -157,10 +157,12 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"CwCrCwCr:SgSgSgSg",
 		"author":"gentryaustin",
 		"completions":1,

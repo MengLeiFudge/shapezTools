@@ -151,18 +151,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23619047619047617,
-		"averageTime":312.0199501246883,
-		"downloads":526,
+		"difficulty":0.20665901262916186,
+		"averageTime":310.0231548480463,
+		"downloads":873,
 		"shortKey":"CcCcCcCc:CcCcCcCc",
 		"author":"bluez",
-		"completions":401,
+		"completions":691,
 		"id":1895,
 		"completed":true,
 		"title":"mix of 3",
-		"likes":193
+		"likes":269
 	}
 }

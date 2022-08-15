@@ -302,10 +302,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"downloads":13,
 		"shortKey":"------Cr:------Cy",
 		"author":"Xzila",
 		"completions":2,

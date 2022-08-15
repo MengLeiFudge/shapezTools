@@ -141,18 +141,20 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.26027397260273977,
-		"averageTime":127.72222222222223,
-		"downloads":73,
+		"difficulty":0.1964285714285714,
+		"averageTime":117.3,
+		"downloads":112,
 		"shortKey":"CuCuRrRr:RrRrCuCu",
 		"author":"twitch",
-		"completions":54,
+		"completions":90,
 		"id":4208,
 		"completed":false,
 		"title":"CONTEST-SMOL SNEK",
-		"likes":22
+		"likes":32
 	}
 }

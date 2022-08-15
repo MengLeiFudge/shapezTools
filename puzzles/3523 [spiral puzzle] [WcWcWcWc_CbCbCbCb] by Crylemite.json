@@ -483,15 +483,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.08333333333333337,
-		"averageTime":139.38311688311688,
-		"downloads":168,
+		"difficulty":0.08913649025069637,
+		"averageTime":163.86238532110093,
+		"downloads":360,
 		"shortKey":"WcWcWcWc:CbCbCbCb",
 		"author":"Crylemite",
-		"completions":154,
+		"completions":327,
 		"id":3523,
-		"completed":false,
+		"completed":true,
 		"title":"spiral puzzle",
-		"likes":61
+		"likes":111
 	}
 }

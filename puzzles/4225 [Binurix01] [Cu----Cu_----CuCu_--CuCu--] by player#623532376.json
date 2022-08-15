@@ -351,15 +351,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6,
-		"averageTime":1067.5,
-		"downloads":25,
+		"difficulty":0.5925925925925926,
+		"averageTime":998.2727272727273,
+		"downloads":27,
 		"shortKey":"Cu----Cu:----CuCu:--CuCu--",
 		"author":"player#623532376",
-		"completions":10,
+		"completions":11,
 		"id":4225,
 		"completed":false,
 		"title":"Binurix01",
-		"likes":5
+		"likes":6
 	}
 }

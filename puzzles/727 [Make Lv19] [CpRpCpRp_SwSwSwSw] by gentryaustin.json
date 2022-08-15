@@ -493,10 +493,12 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"CpRpCpRp:SwSwSwSw",
 		"author":"gentryaustin",
 		"completions":4,

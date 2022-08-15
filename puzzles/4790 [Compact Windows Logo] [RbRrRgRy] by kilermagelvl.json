@@ -132,18 +132,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.851063829787234,
-		"averageTime":521.2857142857143,
-		"downloads":57,
+		"difficulty":0.8513513513513513,
+		"averageTime":886.6363636363636,
+		"downloads":75,
 		"shortKey":"RbRrRgRy",
 		"author":"kilermagelvl",
-		"completions":7,
+		"completions":11,
 		"id":4790,
 		"completed":true,
 		"title":"Compact Windows Logo",
-		"likes":6
+		"likes":7
 	}
 }

@@ -179,15 +179,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.10382513661202186,
-		"averageTime":87.57317073170732,
-		"downloads":183,
+		"difficulty":0.06067415730337078,
+		"averageTime":77.80143540669856,
+		"downloads":445,
 		"shortKey":"--CyCyCy",
 		"author":"CatLemon",
-		"completions":164,
+		"completions":418,
 		"id":948,
-		"completed":false,
+		"completed":true,
 		"title":"Belt Quiz 1",
-		"likes":46
+		"likes":90
 	}
 }

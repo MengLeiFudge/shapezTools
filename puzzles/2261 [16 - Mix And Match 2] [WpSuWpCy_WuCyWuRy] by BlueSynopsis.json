@@ -195,13 +195,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.2142857142857143,
+		"averageTime":20.818181818181817,
+		"downloads":14,
 		"shortKey":"WpSuWpCy:WuCyWuRy",
 		"author":"BlueSynopsis",
-		"completions":7,
+		"completions":11,
 		"id":2261,
 		"completed":false,
 		"title":"16 - Mix And Match 2",

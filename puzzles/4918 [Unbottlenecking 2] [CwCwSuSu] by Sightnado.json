@@ -473,15 +473,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3780487804878049,
-		"averageTime":390.45098039215685,
-		"downloads":82,
+		"difficulty":0.28409090909090906,
+		"averageTime":332.03968253968253,
+		"downloads":176,
 		"shortKey":"CwCwSuSu",
 		"author":"Sightnado",
-		"completions":51,
+		"completions":126,
 		"id":4918,
 		"completed":true,
 		"title":"Unbottlenecking 2",
-		"likes":27
+		"likes":52
 	}
 }

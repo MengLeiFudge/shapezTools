@@ -91,10 +91,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.3076923076923077,
+		"averageTime":12.333333333333334,
+		"downloads":13,
 		"shortKey":"ScWgScCc:ScScScRc",
 		"author":"Manite",
-		"completions":5,
+		"completions":9,
 		"id":2481,
 		"completed":false,
 		"title":"Flux - C - 5x5 - 17",

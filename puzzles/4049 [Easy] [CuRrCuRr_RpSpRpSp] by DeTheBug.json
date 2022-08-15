@@ -916,15 +916,17 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":412.2857142857143,
-		"downloads":14,
+		"difficulty":0.4375,
+		"averageTime":340.55555555555554,
+		"downloads":16,
 		"shortKey":"CuRrCuRr:RpSpRpSp",
 		"author":"DeTheBug",
-		"completions":7,
+		"completions":9,
 		"id":4049,
 		"completed":false,
 		"title":"Easy",

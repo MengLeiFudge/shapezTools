@@ -61,15 +61,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.18644067796610164,
-		"averageTime":102.125,
-		"downloads":59,
+		"difficulty":0.180327868852459,
+		"averageTime":100.98,
+		"downloads":62,
 		"shortKey":"CbCbCbRb:CwCwCcCr",
 		"author":"player#841008116",
-		"completions":48,
+		"completions":50,
 		"id":2560,
 		"completed":true,
 		"title":"CbCbCbRbCwCwCwCw",

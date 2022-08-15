@@ -147,18 +147,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11111111111111116,
-		"averageTime":81,
-		"downloads":63,
+		"difficulty":0.06818181818181823,
+		"averageTime":86.41463414634147,
+		"downloads":132,
 		"shortKey":"CuCrCpCp",
 		"author":"DualBoot",
-		"completions":56,
+		"completions":123,
 		"id":5290,
 		"completed":false,
 		"title":"Chameleon",
-		"likes":13
+		"likes":22
 	}
 }

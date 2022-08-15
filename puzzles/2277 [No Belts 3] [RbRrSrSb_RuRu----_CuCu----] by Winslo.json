@@ -97,15 +97,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3204419889502762,
-		"averageTime":268.2845528455285,
-		"downloads":183,
+		"difficulty":0.2830769230769231,
+		"averageTime":259.85407725321886,
+		"downloads":325,
 		"shortKey":"RbRrSrSb:RuRu----:CuCu----",
 		"author":"Winslo",
-		"completions":123,
+		"completions":233,
 		"id":2277,
 		"completed":true,
 		"title":"No Belts 3",
-		"likes":65
+		"likes":100
 	}
 }

@@ -43,18 +43,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0953678474114441,
-		"averageTime":170.84337349397592,
-		"downloads":368,
+		"difficulty":0.09965034965034969,
+		"averageTime":158.01941747572815,
+		"downloads":572,
 		"shortKey":"RwRwRwRw:CrCrCrCr",
 		"author":"etyucat",
-		"completions":332,
+		"completions":515,
 		"id":1703,
 		"completed":true,
 		"title":"Rising Sun",
-		"likes":128
+		"likes":177
 	}
 }

@@ -186,18 +186,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7115384615384616,
-		"averageTime":785.2333333333333,
-		"downloads":110,
+		"difficulty":0.7241379310344828,
+		"averageTime":818.7916666666666,
+		"downloads":174,
 		"shortKey":"RyRyRyRy:----SgCg:SpSr--Wc:Rb----Rb",
 		"author":"SAajmonkey21",
-		"completions":30,
+		"completions":48,
 		"id":3718,
 		"completed":true,
 		"title":"8 x 10 Challenge II",
-		"likes":22
+		"likes":30
 	}
 }

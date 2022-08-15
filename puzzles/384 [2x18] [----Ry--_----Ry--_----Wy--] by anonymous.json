@@ -45,15 +45,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.5625,
-		"averageTime":295.57142857142856,
-		"downloads":16,
+		"difficulty":0.5,
+		"averageTime":286,
+		"downloads":18,
 		"shortKey":"----Ry--:----Ry--:----Wy--",
 		"author":"anonymous",
-		"completions":7,
+		"completions":9,
 		"id":384,
 		"completed":false,
 		"title":"2x18",
-		"likes":2
+		"likes":3
 	}
 }

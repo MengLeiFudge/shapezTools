@@ -381,18 +381,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5384615384615384,
-		"averageTime":646.5,
-		"downloads":26,
+		"difficulty":0.5185185185185186,
+		"averageTime":652.0769230769231,
+		"downloads":27,
 		"shortKey":"SwSrSwSr:WrWwWrWw",
 		"author":"NeonBlade",
-		"completions":12,
+		"completions":13,
 		"id":4346,
 		"completed":false,
 		"title":"Blockfield",
-		"likes":5
+		"likes":6
 	}
 }

@@ -126,16 +126,18 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":10,
 		"shortKey":"------Cc:--CcRcRc:--RcRcWu:--Wu--Cr",
 		"author":"BTDubs",
-		"completions":1,
+		"completions":2,
 		"id":1313,
 		"completed":false,
 		"title":"Impossible just go",
-		"likes":1
+		"likes":2
 	}
 }

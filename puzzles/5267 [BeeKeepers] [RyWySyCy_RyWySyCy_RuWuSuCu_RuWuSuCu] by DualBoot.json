@@ -464,18 +464,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4117647058823529,
-		"averageTime":818.75,
-		"downloads":39,
+		"difficulty":0.4878048780487805,
+		"averageTime":793.4761904761905,
+		"downloads":41,
 		"shortKey":"RyWySyCy:RyWySyCy:RuWuSuCu:RuWuSuCu",
 		"author":"DualBoot",
-		"completions":20,
+		"completions":21,
 		"id":5267,
 		"completed":false,
 		"title":"BeeKeepers",
-		"likes":9
+		"likes":10
 	}
 }

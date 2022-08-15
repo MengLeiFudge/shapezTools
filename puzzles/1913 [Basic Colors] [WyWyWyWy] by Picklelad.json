@@ -171,15 +171,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.16666666666666663,
-		"averageTime":22.866666666666667,
-		"downloads":18,
+		"difficulty":0.13636363636363635,
+		"averageTime":23.842105263157894,
+		"downloads":22,
 		"shortKey":"WyWyWyWy",
 		"author":"Picklelad",
-		"completions":15,
+		"completions":19,
 		"id":1913,
 		"completed":false,
 		"title":"Basic Colors",
-		"likes":1
+		"likes":2
 	}
 }

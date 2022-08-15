@@ -149,15 +149,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4444444444444444,
-		"averageTime":227.55,
-		"downloads":37,
+		"difficulty":0.29508196721311475,
+		"averageTime":209.2093023255814,
+		"downloads":61,
 		"shortKey":"Sy------:Sy------",
 		"author":"Coops",
-		"completions":20,
+		"completions":43,
 		"id":4837,
 		"completed":false,
 		"title":"Northeast",
-		"likes":10
+		"likes":17
 	}
 }

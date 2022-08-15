@@ -250,15 +250,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.48,
-		"averageTime":696.7307692307693,
-		"downloads":51,
+		"difficulty":0.3529411764705882,
+		"averageTime":700.5454545454545,
+		"downloads":85,
 		"shortKey":"CrRrCyRy:CwRwCwRw",
 		"author":"Zarah",
-		"completions":26,
+		"completions":55,
 		"id":3208,
 		"completed":true,
 		"title":"Crossover Confusion",
-		"likes":16
+		"likes":25
 	}
 }

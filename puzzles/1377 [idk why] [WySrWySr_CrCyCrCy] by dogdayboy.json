@@ -97,13 +97,15 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"downloads":9,
 		"shortKey":"WySrWySr:CrCyCrCy",
 		"author":"dogdayboy",
-		"completions":4,
+		"completions":5,
 		"id":1377,
 		"completed":false,
 		"title":"idk why",

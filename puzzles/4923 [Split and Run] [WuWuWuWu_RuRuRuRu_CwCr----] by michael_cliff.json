@@ -163,18 +163,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09375,
-		"averageTime":54.206896551724135,
-		"downloads":32,
+		"difficulty":0.07547169811320753,
+		"averageTime":57.93877551020408,
+		"downloads":53,
 		"shortKey":"WuWuWuWu:RuRuRuRu:CwCr----",
 		"author":"michael_cliff",
-		"completions":29,
+		"completions":49,
 		"id":4923,
 		"completed":false,
 		"title":"Split and Run",
-		"likes":6
+		"likes":8
 	}
 }

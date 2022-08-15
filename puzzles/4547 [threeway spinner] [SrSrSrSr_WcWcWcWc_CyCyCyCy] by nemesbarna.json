@@ -110,12 +110,14 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.5,
 		"averageTime":412.6666666666667,
-		"downloads":24,
+		"downloads":25,
 		"shortKey":"SrSrSrSr:WcWcWcWc:CyCyCyCy",
 		"author":"nemesbarna",
 		"completions":12,

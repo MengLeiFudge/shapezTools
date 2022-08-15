@@ -201,18 +201,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.024896265560165998,
-		"averageTime":13.646808510638298,
-		"downloads":241,
+		"difficulty":0.0228013029315961,
+		"averageTime":13.826666666666666,
+		"downloads":307,
 		"shortKey":"RuWpSrWp:SpRyCpRy",
 		"author":"gentryaustin",
-		"completions":235,
+		"completions":300,
 		"id":671,
 		"completed":false,
 		"title":"Make Lv3",
-		"likes":48
+		"likes":54
 	}
 }

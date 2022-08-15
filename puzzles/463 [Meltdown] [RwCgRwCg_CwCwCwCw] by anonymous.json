@@ -222,15 +222,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.23076923076923073,
-		"averageTime":25.9,
-		"downloads":13,
+		"difficulty":0.16666666666666663,
+		"averageTime":28.6,
+		"downloads":18,
 		"shortKey":"RwCgRwCg:CwCwCwCw",
 		"author":"anonymous",
-		"completions":10,
+		"completions":15,
 		"id":463,
 		"completed":false,
 		"title":"Meltdown",
-		"likes":2
+		"likes":3
 	}
 }

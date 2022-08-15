@@ -52,18 +52,20 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5384615384615384,
-		"averageTime":395.1666666666667,
-		"downloads":13,
+		"difficulty":0.5,
+		"averageTime":314.5,
+		"downloads":16,
 		"shortKey":"CpCpCpCp:RbRbRbRb",
 		"author":"Preecy",
-		"completions":6,
+		"completions":8,
 		"id":3837,
 		"completed":false,
 		"title":"Narrow Mixing",
-		"likes":2
+		"likes":3
 	}
 }

@@ -405,15 +405,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.631578947368421,
-		"averageTime":470,
-		"downloads":19,
+		"difficulty":0.5833333333333333,
+		"averageTime":526.2,
+		"downloads":26,
 		"shortKey":"CwCwCwCw:CrCrCrCr:CgCgCgCg:CbCbCbCb",
 		"author":"sykoe",
-		"completions":7,
+		"completions":10,
 		"id":2931,
 		"completed":false,
 		"title":"only belts 20x20",
-		"likes":2
+		"likes":4
 	}
 }

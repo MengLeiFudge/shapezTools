@@ -101,13 +101,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
+		"difficulty":0.6363636363636364,
+		"averageTime":135.25,
 		"downloads":11,
 		"shortKey":"CrCrCgCg:WrWrWgWg",
 		"author":"Daniel",
-		"completions":3,
+		"completions":4,
 		"id":4748,
 		"completed":false,
 		"title":"Christmas",

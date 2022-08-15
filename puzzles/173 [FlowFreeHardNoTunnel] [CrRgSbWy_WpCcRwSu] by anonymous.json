@@ -513,15 +513,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.23006134969325154,
-		"averageTime":415.15670650730414,
-		"downloads":979,
+		"difficulty":0.2222222222222222,
+		"averageTime":474.562980030722,
+		"downloads":1674,
 		"shortKey":"CrRgSbWy:WpCcRwSu",
 		"author":"anonymous",
-		"completions":753,
+		"completions":1302,
 		"id":173,
 		"completed":true,
 		"title":"FlowFreeHardNoTunnel",
-		"likes":358
+		"likes":529
 	}
 }

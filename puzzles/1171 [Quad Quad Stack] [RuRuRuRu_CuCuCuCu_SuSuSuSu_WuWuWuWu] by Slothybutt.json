@@ -79,10 +79,12 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"RuRuRuRu:CuCuCuCu:SuSuSuSu:WuWuWuWu",
 		"author":"Slothybutt",
 		"completions":3,

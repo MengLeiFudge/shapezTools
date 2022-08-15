@@ -105,15 +105,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.20731707317073167,
-		"averageTime":163.03076923076924,
-		"downloads":82,
+		"difficulty":0.1875,
+		"averageTime":149.06410256410257,
+		"downloads":96,
 		"shortKey":"RwRwRwRw:CuCuCuCu:SuSuSuSu",
 		"author":"PotcFdk",
-		"completions":65,
+		"completions":78,
 		"id":1984,
 		"completed":false,
 		"title":"separated twins",
-		"likes":24
+		"likes":26
 	}
 }

@@ -123,18 +123,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08571428571428574,
-		"averageTime":68.59375,
-		"downloads":70,
+		"difficulty":0.047169811320754707,
+		"averageTime":68.97029702970298,
+		"downloads":106,
 		"shortKey":"WyWyWgWg:RgRgWcWc",
 		"author":"player#842419593",
-		"completions":64,
+		"completions":101,
 		"id":4814,
 		"completed":true,
 		"title":"the duble",
-		"likes":14
+		"likes":16
 	}
 }

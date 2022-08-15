@@ -217,15 +217,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.7014925373134329,
-		"averageTime":774.3,
-		"downloads":67,
+		"difficulty":0.696969696969697,
+		"averageTime":709.3,
+		"downloads":100,
 		"shortKey":"CuCuCwCw:CrCgCgCr:CbCbCyCy:CcCpCpCc",
 		"author":"player#407002827",
-		"completions":20,
+		"completions":30,
 		"id":3640,
 		"completed":true,
 		"title":"Reorder",
-		"likes":12
+		"likes":17
 	}
 }

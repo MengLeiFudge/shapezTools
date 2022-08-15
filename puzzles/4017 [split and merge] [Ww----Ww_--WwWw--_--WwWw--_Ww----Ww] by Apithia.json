@@ -139,10 +139,12 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"downloads":12,
 		"shortKey":"Ww----Ww:--WwWw--:--WwWw--:Ww----Ww",
 		"author":"Apithia",
 		"completions":5,

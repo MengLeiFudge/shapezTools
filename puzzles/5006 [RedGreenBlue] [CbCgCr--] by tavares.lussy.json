@@ -52,16 +52,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.23076923076923073,
+		"averageTime":151.7,
+		"downloads":13,
 		"shortKey":"CbCgCr--",
 		"author":"tavares.lussy",
-		"completions":6,
+		"completions":10,
 		"id":5006,
 		"completed":false,
 		"title":"RedGreenBlue",
-		"likes":2
+		"likes":3
 	}
 }

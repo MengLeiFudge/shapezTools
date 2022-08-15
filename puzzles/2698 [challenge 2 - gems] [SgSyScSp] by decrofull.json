@@ -773,13 +773,15 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"SgSyScSp",
 		"author":"decrofull",
-		"completions":3,
+		"completions":4,
 		"id":2698,
 		"completed":false,
 		"title":"challenge 2 - gems",

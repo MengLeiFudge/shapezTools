@@ -133,15 +133,17 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":128.2,
-		"downloads":15,
+		"difficulty":0.2941176470588235,
+		"averageTime":121,
+		"downloads":17,
 		"shortKey":"----RrRr:----RrCw",
 		"author":"JukeFishron",
-		"completions":10,
+		"completions":12,
 		"id":2370,
 		"completed":false,
 		"title":"Choking Points",

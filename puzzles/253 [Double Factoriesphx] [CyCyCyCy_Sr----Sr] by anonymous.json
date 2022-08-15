@@ -1670,15 +1670,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":177.3,
-		"downloads":28,
+		"difficulty":0.19047619047619047,
+		"averageTime":147.76470588235293,
+		"downloads":42,
 		"shortKey":"CyCyCyCy:Sr----Sr",
 		"author":"anonymous",
-		"completions":20,
+		"completions":34,
 		"id":253,
 		"completed":false,
 		"title":"Double Factoriesphx",
-		"likes":8
+		"likes":10
 	}
 }

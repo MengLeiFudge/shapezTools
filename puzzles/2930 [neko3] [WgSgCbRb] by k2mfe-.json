@@ -107,18 +107,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09999999999999998,
-		"averageTime":60,
-		"downloads":20,
+		"difficulty":0.08695652173913049,
+		"averageTime":58.57142857142857,
+		"downloads":23,
 		"shortKey":"WgSgCbRb",
 		"author":"k2mfe-",
-		"completions":18,
+		"completions":21,
 		"id":2930,
 		"completed":false,
 		"title":"neko3",
-		"likes":2
+		"likes":3
 	}
 }

@@ -92,18 +92,20 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1643243243243243,
-		"averageTime":252.82794307891334,
-		"downloads":925,
+		"difficulty":0.18693181818181814,
+		"averageTime":261.3445143256464,
+		"downloads":1760,
 		"shortKey":"CuRuSuWu:CuRuSuWu",
 		"author":"MrTaco",
-		"completions":773,
+		"completions":1431,
 		"id":1620,
 		"completed":true,
 		"title":"MAM thingy",
-		"likes":342
+		"likes":556
 	}
 }

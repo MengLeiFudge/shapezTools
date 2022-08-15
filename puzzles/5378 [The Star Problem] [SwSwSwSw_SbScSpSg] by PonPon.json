@@ -404,18 +404,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5428571428571429,
-		"averageTime":533.375,
-		"downloads":35,
+		"difficulty":0.55,
+		"averageTime":540.8888888888889,
+		"downloads":41,
 		"shortKey":"SwSwSwSw:SbScSpSg",
 		"author":"PonPon",
-		"completions":16,
+		"completions":18,
 		"id":5378,
 		"completed":true,
 		"title":"The Star Problem",
-		"likes":8
+		"likes":9
 	}
 }

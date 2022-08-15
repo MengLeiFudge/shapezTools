@@ -243,15 +243,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6101694915254237,
-		"averageTime":399.6521739130435,
-		"downloads":61,
+		"difficulty":0.5555555555555556,
+		"averageTime":380.5625,
+		"downloads":72,
 		"shortKey":"SgCgSgCg:SgCgSgCg",
 		"author":"korio",
-		"completions":23,
+		"completions":32,
 		"id":4972,
 		"completed":false,
 		"title":"Korio4_EZ or not",
-		"likes":12
+		"likes":17
 	}
 }

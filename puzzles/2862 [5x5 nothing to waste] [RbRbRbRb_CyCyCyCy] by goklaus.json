@@ -92,18 +92,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07508532423208192,
-		"averageTime":47.62361623616236,
-		"downloads":586,
+		"difficulty":0.07976878612716765,
+		"averageTime":57.36306532663317,
+		"downloads":1730,
 		"shortKey":"RbRbRbRb:CyCyCyCy",
 		"author":"goklaus",
-		"completions":542,
+		"completions":1592,
 		"id":2862,
 		"completed":true,
 		"title":"5x5 nothing to waste",
-		"likes":159
+		"likes":373
 	}
 }

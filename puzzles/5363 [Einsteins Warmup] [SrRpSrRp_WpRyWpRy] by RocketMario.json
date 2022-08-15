@@ -25,18 +25,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11111111111111116,
-		"averageTime":6.4375,
-		"downloads":18,
+		"difficulty":0.11538461538461542,
+		"averageTime":6.130434782608695,
+		"downloads":26,
 		"shortKey":"SrRpSrRp:WpRyWpRy",
 		"author":"RocketMario",
-		"completions":16,
+		"completions":23,
 		"id":5363,
 		"completed":false,
 		"title":"Einsteins Warmup",
-		"likes":1
+		"likes":2
 	}
 }

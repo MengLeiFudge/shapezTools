@@ -157,15 +157,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7272727272727273,
-		"averageTime":920.6666666666666,
-		"downloads":23,
+		"difficulty":0.6538461538461539,
+		"averageTime":701.2222222222222,
+		"downloads":29,
 		"shortKey":"CySpCySp:CuSwCuSw:CySpCySp:--Sw--Sw",
 		"author":"maiko",
-		"completions":6,
+		"completions":9,
 		"id":5168,
 		"completed":false,
 		"title":"maiko63",

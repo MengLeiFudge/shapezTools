@@ -157,10 +157,12 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"downloads":12,
 		"shortKey":"CrRrRrCr:Cc----Cc:Cc----Cc",
 		"author":"Plynt",
 		"completions":3,

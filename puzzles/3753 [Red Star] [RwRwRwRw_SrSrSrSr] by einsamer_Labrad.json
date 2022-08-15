@@ -109,18 +109,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07874015748031493,
-		"averageTime":102.4017094017094,
-		"downloads":254,
+		"difficulty":0.0714285714285714,
+		"averageTime":98.78917378917379,
+		"downloads":378,
 		"shortKey":"RwRwRwRw:SrSrSrSr",
 		"author":"einsamer_Labrad",
-		"completions":234,
+		"completions":351,
 		"id":3753,
-		"completed":false,
+		"completed":true,
 		"title":"Red Star",
-		"likes":90
+		"likes":117
 	}
 }

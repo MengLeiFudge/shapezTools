@@ -99,15 +99,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.813953488372093,
-		"averageTime":2204.125,
-		"downloads":43,
+		"difficulty":0.8072289156626506,
+		"averageTime":1774.5625,
+		"downloads":88,
 		"shortKey":"Cr------:Cg------:Cw------:Cb------",
 		"author":"Magnolia",
-		"completions":8,
+		"completions":16,
 		"id":5500,
-		"completed":false,
+		"completed":true,
 		"title":"Where is my belt 3",
-		"likes":8
+		"likes":15
 	}
 }

@@ -199,13 +199,15 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.4,
+		"averageTime":333.1666666666667,
+		"downloads":20,
 		"shortKey":"RrCp--Cp:ScSwSwSc",
 		"author":"player#664581247",
-		"completions":5,
+		"completions":12,
 		"id":5258,
 		"completed":false,
 		"title":"Connect 15x15",
-		"likes":3
+		"likes":4
 	}
 }

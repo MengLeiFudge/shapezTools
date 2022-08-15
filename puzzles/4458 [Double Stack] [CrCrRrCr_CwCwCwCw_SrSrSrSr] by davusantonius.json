@@ -147,18 +147,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.14,
-		"averageTime":145.21511627906978,
-		"downloads":202,
+		"difficulty":0.10397553516819569,
+		"averageTime":171.0136518771331,
+		"downloads":327,
 		"shortKey":"CrCrRrCr:CwCwCwCw:SrSrSrSr",
 		"author":"davusantonius",
-		"completions":172,
+		"completions":293,
 		"id":4458,
-		"completed":false,
+		"completed":true,
 		"title":"Double Stack",
-		"likes":72
+		"likes":101
 	}
 }

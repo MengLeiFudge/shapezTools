@@ -174,18 +174,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0273972602739726,
-		"averageTime":51.84330985915493,
-		"downloads":584,
+		"difficulty":0.03873517786561265,
+		"averageTime":57.47779605263158,
+		"downloads":1265,
 		"shortKey":"RpRpRpRp:CwCwCwCw",
 		"author":"gentryaustin",
-		"completions":568,
+		"completions":1216,
 		"id":692,
 		"completed":true,
 		"title":"Make Lv13",
-		"likes":154
+		"likes":270
 	}
 }

@@ -179,10 +179,12 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"downloads":11,
 		"shortKey":"SwSgSwSg",
 		"author":"thijsvb",
 		"completions":4,

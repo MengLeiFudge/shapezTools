@@ -212,18 +212,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7121212121212122,
-		"averageTime":388.36842105263156,
-		"downloads":69,
+		"difficulty":0.6762589928057554,
+		"averageTime":443.53333333333336,
+		"downloads":139,
 		"shortKey":"CyCcCcCy:CwCwCwCw",
 		"author":"blac8",
-		"completions":19,
+		"completions":45,
 		"id":5323,
 		"completed":true,
 		"title":"white 2",
-		"likes":15
+		"likes":24
 	}
 }

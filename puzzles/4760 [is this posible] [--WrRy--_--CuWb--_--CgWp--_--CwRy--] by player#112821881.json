@@ -34,15 +34,17 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2702702702702703,
-		"averageTime":231.85185185185185,
-		"downloads":38,
+		"difficulty":0.2666666666666667,
+		"averageTime":228.27272727272728,
+		"downloads":45,
 		"shortKey":"--WrRy--:--CuWb--:--CgWp--:--CwRy--",
 		"author":"player#112821881",
-		"completions":27,
+		"completions":33,
 		"id":4760,
 		"completed":false,
 		"title":"is this posible",

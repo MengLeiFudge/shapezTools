@@ -67,10 +67,12 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"downloads":13,
 		"shortKey":"Wy--Wy--:Wy--Wy--:Wy--Wy--:Wy--Wy--",
 		"author":"player#512840038",
 		"completions":3,

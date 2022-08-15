@@ -279,15 +279,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.2195121951219512,
-		"averageTime":107.0625,
-		"downloads":41,
+		"difficulty":0.1785714285714286,
+		"averageTime":98,
+		"downloads":56,
 		"shortKey":"WpWpWpWp",
 		"author":"anonymous",
-		"completions":32,
+		"completions":46,
 		"id":304,
 		"completed":false,
 		"title":"Flow no tunnels",
-		"likes":11
+		"likes":15
 	}
 }

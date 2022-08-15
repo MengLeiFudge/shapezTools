@@ -36,15 +36,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.03267411865864145,
-		"averageTime":41.946666666666665,
-		"downloads":1163,
+		"difficulty":0.03256807261078487,
+		"averageTime":42.480132450331126,
+		"downloads":1873,
 		"shortKey":"RuRuCuCu",
 		"author":"anonymous",
-		"completions":1125,
+		"completions":1812,
 		"id":24,
 		"completed":true,
 		"title":"Circle-Square Split",
-		"likes":310
+		"likes":400
 	}
 }

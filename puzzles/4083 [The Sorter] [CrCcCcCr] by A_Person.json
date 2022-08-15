@@ -657,10 +657,12 @@
 		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.6666666666666667,
+		"averageTime":294,
+		"downloads":13,
 		"shortKey":"CrCcCcCr",
 		"author":"A_Person",
-		"completions":3,
+		"completions":4,
 		"id":4083,
 		"completed":false,
 		"title":"The Sorter",

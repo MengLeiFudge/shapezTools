@@ -128,15 +128,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.15398886827458258,
-		"averageTime":166.02412280701753,
-		"downloads":539,
+		"difficulty":0.13393870601589108,
+		"averageTime":194.6277850589777,
+		"downloads":881,
 		"shortKey":"CcWcCpWp",
 		"author":"gigitron6",
-		"completions":456,
+		"completions":763,
 		"id":2604,
 		"completed":true,
 		"title":"Double painter",
-		"likes":199
+		"likes":278
 	}
 }

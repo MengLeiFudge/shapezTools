@@ -139,18 +139,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.31343283582089554,
-		"averageTime":396.7880434782609,
-		"downloads":268,
+		"difficulty":0.2701149425287356,
+		"averageTime":450.8608923884514,
+		"downloads":525,
 		"shortKey":"CgCgCgCg:RuRuRuRu",
 		"author":"KTSATeamkill",
-		"completions":184,
+		"completions":381,
 		"id":3426,
 		"completed":true,
 		"title":"Revenge Never Fits",
-		"likes":98
+		"likes":162
 	}
 }

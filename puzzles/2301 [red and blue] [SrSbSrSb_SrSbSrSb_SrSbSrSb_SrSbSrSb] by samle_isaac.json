@@ -163,18 +163,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5223880597014925,
-		"averageTime":827.125,
-		"downloads":67,
+		"difficulty":0.368421052631579,
+		"averageTime":729.6805555555555,
+		"downloads":114,
 		"shortKey":"SrSbSrSb:SrSbSrSb:SrSbSrSb:SrSbSrSb",
 		"author":"samle_isaac",
-		"completions":32,
+		"completions":72,
 		"id":2301,
-		"completed":false,
+		"completed":true,
 		"title":"red and blue",
-		"likes":21
+		"likes":34
 	}
 }

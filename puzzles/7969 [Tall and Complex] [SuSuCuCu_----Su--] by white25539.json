@@ -1,0 +1,53 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"SuSuSuSu",
+				"pos":{
+					"r":0,
+					"x":0,
+					"y":7
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":7
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"SuSuCuCu:----Su--",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-9
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":17
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.5454545454545454,
+		"averageTime":355.4,
+		"downloads":14,
+		"shortKey":"SuSuCuCu:----Su--",
+		"author":"white25539",
+		"completions":5,
+		"id":7969,
+		"completed":false,
+		"title":"Tall and Complex",
+		"likes":2
+	}
+}

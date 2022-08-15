@@ -107,15 +107,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.049180327868852514,
-		"averageTime":66.77586206896552,
-		"downloads":305,
+		"difficulty":0.036951501154734445,
+		"averageTime":113.84652278177458,
+		"downloads":433,
 		"shortKey":"SuSrSrSu",
 		"author":"foolfish",
-		"completions":290,
+		"completions":417,
 		"id":1916,
 		"completed":true,
 		"title":"7X4 Go Go Go",
-		"likes":71
+		"likes":93
 	}
 }

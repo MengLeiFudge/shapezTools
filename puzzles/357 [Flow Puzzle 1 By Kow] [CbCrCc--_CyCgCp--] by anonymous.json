@@ -213,15 +213,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.02857142857142858,
-		"averageTime":45.11145510835913,
-		"downloads":665,
+		"difficulty":0.037206639954207255,
+		"averageTime":60.10047562425684,
+		"downloads":1747,
 		"shortKey":"CbCrCc--:CyCgCp--",
 		"author":"anonymous",
-		"completions":646,
+		"completions":1682,
 		"id":357,
 		"completed":true,
 		"title":"Flow Puzzle 1 By Kow",
-		"likes":177
+		"likes":377
 	}
 }

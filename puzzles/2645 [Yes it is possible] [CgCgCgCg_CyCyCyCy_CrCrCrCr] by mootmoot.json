@@ -34,18 +34,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3966480446927374,
-		"averageTime":275.97222222222223,
-		"downloads":179,
+		"difficulty":0.4111111111111111,
+		"averageTime":367.45911949685535,
+		"downloads":271,
 		"shortKey":"CgCgCgCg:CyCyCyCy:CrCrCrCr",
 		"author":"mootmoot",
-		"completions":108,
+		"completions":159,
 		"id":2645,
 		"completed":true,
 		"title":"Yes it is possible",
-		"likes":61
+		"likes":80
 	}
 }

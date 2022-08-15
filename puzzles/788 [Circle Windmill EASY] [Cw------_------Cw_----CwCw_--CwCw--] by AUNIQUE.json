@@ -61,10 +61,12 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"Cw------:------Cw:----CwCw:--CwCw--",
 		"author":"AUNIQUE",
 		"completions":1,

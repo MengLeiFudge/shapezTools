@@ -83,12 +83,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2272727272727273,
-		"averageTime":38.76470588235294,
-		"downloads":22,
+		"difficulty":0.20833333333333337,
+		"averageTime":37,
+		"downloads":24,
 		"shortKey":"RrRrRrRr:RrRrRrRr:RrRrRrRr:RrRrRrRr",
 		"author":"Narwhals",
-		"completions":17,
+		"completions":19,
 		"id":4411,
 		"completed":false,
 		"title":"Bait N Switch",

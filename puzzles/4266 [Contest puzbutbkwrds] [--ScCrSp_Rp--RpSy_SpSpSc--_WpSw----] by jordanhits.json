@@ -267,18 +267,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.08695652173913049,
-		"averageTime":24.095238095238095,
-		"downloads":23,
+		"difficulty":0.04347826086956519,
+		"averageTime":22.795454545454547,
+		"downloads":46,
 		"shortKey":"--ScCrSp:Rp--RpSy:SpSpSc--:WpSw----",
 		"author":"jordanhits",
-		"completions":21,
+		"completions":44,
 		"id":4266,
 		"completed":false,
 		"title":"Contest puzbutbkwrds",
-		"likes":3
+		"likes":6
 	}
 }

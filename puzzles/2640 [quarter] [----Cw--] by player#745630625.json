@@ -170,15 +170,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.24288107202680065,
-		"averageTime":280.46902654867256,
-		"downloads":597,
+		"difficulty":0.21875,
+		"averageTime":247.34,
+		"downloads":960,
 		"shortKey":"----Cw--",
 		"author":"player#745630625",
-		"completions":452,
+		"completions":750,
 		"id":2640,
 		"completed":true,
 		"title":"quarter",
-		"likes":218
+		"likes":297
 	}
 }

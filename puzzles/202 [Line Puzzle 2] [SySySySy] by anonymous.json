@@ -139,15 +139,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.01132075471698113,
-		"averageTime":25.740458015267176,
-		"downloads":265,
+		"difficulty":0.012987012987012991,
+		"averageTime":26.92105263157895,
+		"downloads":385,
 		"shortKey":"SySySySy",
 		"author":"anonymous",
-		"completions":262,
+		"completions":380,
 		"id":202,
 		"completed":true,
 		"title":"Line Puzzle 2",
-		"likes":58
+		"likes":70
 	}
 }

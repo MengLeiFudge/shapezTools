@@ -328,18 +328,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03409090909090906,
-		"averageTime":58.811764705882354,
-		"downloads":88,
+		"difficulty":0.01935483870967747,
+		"averageTime":59.8421052631579,
+		"downloads":155,
 		"shortKey":"SyRuSyRg:CyWuCyRu",
 		"author":"Picklelad",
-		"completions":85,
+		"completions":152,
 		"id":4070,
 		"completed":false,
 		"title":"Simple",
-		"likes":17
+		"likes":26
 	}
 }

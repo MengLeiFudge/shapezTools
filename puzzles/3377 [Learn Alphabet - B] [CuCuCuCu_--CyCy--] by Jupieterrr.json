@@ -365,18 +365,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7121212121212122,
-		"averageTime":764.6052631578947,
-		"downloads":137,
+		"difficulty":0.7083333333333333,
+		"averageTime":1016.9285714285714,
+		"downloads":248,
 		"shortKey":"CuCuCuCu:--CyCy--",
 		"author":"Jupieterrr",
-		"completions":38,
+		"completions":70,
 		"id":3377,
 		"completed":true,
 		"title":"Learn Alphabet - B",
-		"likes":27
+		"likes":43
 	}
 }

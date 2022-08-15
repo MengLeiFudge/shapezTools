@@ -316,15 +316,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.10909090909090913,
-		"averageTime":149.51020408163265,
-		"downloads":55,
+		"difficulty":0.10344827586206895,
+		"averageTime":143.69230769230768,
+		"downloads":58,
 		"shortKey":"Sp--Sp--",
 		"author":"steevf",
-		"completions":49,
+		"completions":52,
 		"id":3558,
 		"completed":false,
 		"title":"Splitz",
-		"likes":14
+		"likes":15
 	}
 }

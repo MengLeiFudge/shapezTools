@@ -199,15 +199,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.08333333333333337,
-		"averageTime":161.38181818181818,
-		"downloads":60,
+		"difficulty":0.0714285714285714,
+		"averageTime":146.6,
+		"downloads":70,
 		"shortKey":"CuRuSwWu",
 		"author":"Villy361",
-		"completions":55,
+		"completions":65,
 		"id":4036,
 		"completed":false,
 		"title":"flow 2",
-		"likes":15
+		"likes":17
 	}
 }

@@ -201,15 +201,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10526315789473684,
-		"averageTime":12.705882352941176,
-		"downloads":19,
+		"difficulty":0.09523809523809523,
+		"averageTime":13.052631578947368,
+		"downloads":21,
 		"shortKey":"RyCwCwRy:RcCcCcRc",
 		"author":"BlueSynopsis",
-		"completions":17,
+		"completions":19,
 		"id":2266,
 		"completed":false,
 		"title":"Bonus 1 - Trace",

@@ -95,15 +95,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1823899371069182,
-		"averageTime":126.95384615384616,
-		"downloads":159,
+		"difficulty":0.1694915254237288,
+		"averageTime":133.14285714285714,
+		"downloads":236,
 		"shortKey":"Rb----Rc:Rb------",
 		"author":"mootmoot",
-		"completions":130,
+		"completions":196,
 		"id":2883,
 		"completed":true,
 		"title":"Unreasonably fast",
-		"likes":55
+		"likes":73
 	}
 }

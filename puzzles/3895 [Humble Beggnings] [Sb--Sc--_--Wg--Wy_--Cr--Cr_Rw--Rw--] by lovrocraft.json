@@ -430,15 +430,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.467741935483871,
-		"averageTime":254.8181818181818,
-		"downloads":65,
+		"difficulty":0.4024390243902439,
+		"averageTime":320.18367346938777,
+		"downloads":82,
 		"shortKey":"Sb--Sc--:--Wg--Wy:--Cr--Cr:Rw--Rw--",
 		"author":"lovrocraft",
-		"completions":33,
+		"completions":49,
 		"id":3895,
-		"completed":false,
+		"completed":true,
 		"title":"Humble Beggnings",
-		"likes":17
+		"likes":21
 	}
 }

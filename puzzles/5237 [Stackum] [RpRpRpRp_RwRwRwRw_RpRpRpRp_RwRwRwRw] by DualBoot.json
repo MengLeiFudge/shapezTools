@@ -52,18 +52,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4642857142857143,
-		"averageTime":413.46666666666664,
-		"downloads":30,
+		"difficulty":0.3414634146341463,
+		"averageTime":332,
+		"downloads":41,
 		"shortKey":"RpRpRpRp:RwRwRwRw:RpRpRpRp:RwRwRwRw",
 		"author":"DualBoot",
-		"completions":15,
+		"completions":27,
 		"id":5237,
 		"completed":false,
 		"title":"Stackum",
-		"likes":7
+		"likes":9
 	}
 }

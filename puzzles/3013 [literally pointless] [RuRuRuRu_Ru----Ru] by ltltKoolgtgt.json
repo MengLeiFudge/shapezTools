@@ -41,15 +41,17 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
+		"difficulty":0.2222222222222222,
 		"averageTime":2,
-		"downloads":16,
+		"downloads":18,
 		"shortKey":"RuRuRuRu:Ru----Ru",
 		"author":"ltltKoolgtgt",
-		"completions":12,
+		"completions":14,
 		"id":3013,
 		"completed":false,
 		"title":"literally pointless",

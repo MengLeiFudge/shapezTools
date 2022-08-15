@@ -300,15 +300,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.37254901960784315,
-		"averageTime":289.59375,
-		"downloads":52,
+		"difficulty":0.31818181818181823,
+		"averageTime":278.26666666666665,
+		"downloads":66,
 		"shortKey":"------Sw:------Su:--Su--Su:CgCgCg--",
 		"author":"GreenPlus",
-		"completions":32,
+		"completions":45,
 		"id":4394,
 		"completed":false,
 		"title":"Throwing Knife",

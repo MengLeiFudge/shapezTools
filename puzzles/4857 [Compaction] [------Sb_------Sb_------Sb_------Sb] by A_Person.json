@@ -75,18 +75,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3392857142857143,
-		"averageTime":226.83783783783784,
-		"downloads":62,
+		"difficulty":0.35064935064935066,
+		"averageTime":234.06,
+		"downloads":77,
 		"shortKey":"------Sb:------Sb:------Sb:------Sb",
 		"author":"A_Person",
-		"completions":37,
+		"completions":50,
 		"id":4857,
 		"completed":true,
 		"title":"Compaction",
-		"likes":16
+		"likes":19
 	}
 }

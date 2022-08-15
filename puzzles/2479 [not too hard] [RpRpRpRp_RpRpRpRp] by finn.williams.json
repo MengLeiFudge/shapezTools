@@ -58,15 +58,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.013651877133105783,
-		"averageTime":39.121107266435985,
-		"downloads":293,
+		"difficulty":0.019927536231884035,
+		"averageTime":41.741219963031426,
+		"downloads":552,
 		"shortKey":"RpRpRpRp:RpRpRpRp",
 		"author":"finn.williams",
-		"completions":289,
+		"completions":541,
 		"id":2479,
 		"completed":true,
 		"title":"not too hard",
-		"likes":72
+		"likes":108
 	}
 }

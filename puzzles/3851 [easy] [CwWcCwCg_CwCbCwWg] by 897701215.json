@@ -205,15 +205,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6153846153846154,
-		"averageTime":587.6,
-		"downloads":16,
+		"difficulty":0.7222222222222222,
+		"averageTime":370.93333333333334,
+		"downloads":55,
 		"shortKey":"CwWcCwCg:CwCbCwWg",
 		"author":"897701215",
-		"completions":5,
+		"completions":15,
 		"id":3851,
 		"completed":true,
 		"title":"easy",
-		"likes":3
+		"likes":10
 	}
 }

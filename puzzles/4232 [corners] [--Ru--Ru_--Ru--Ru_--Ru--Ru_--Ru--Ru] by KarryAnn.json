@@ -643,18 +643,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1428571428571429,
-		"averageTime":36.111111111111114,
-		"downloads":21,
+		"difficulty":0.08571428571428574,
+		"averageTime":36.09375,
+		"downloads":35,
 		"shortKey":"--Ru--Ru:--Ru--Ru:--Ru--Ru:--Ru--Ru",
 		"author":"KarryAnn",
-		"completions":18,
+		"completions":32,
 		"id":4232,
 		"completed":false,
 		"title":"corners",
-		"likes":3
+		"likes":5
 	}
 }

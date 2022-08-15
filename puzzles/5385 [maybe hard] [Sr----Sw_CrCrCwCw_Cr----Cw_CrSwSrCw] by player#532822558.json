@@ -1123,10 +1123,12 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":13,
+		"downloads":16,
 		"shortKey":"Sr----Sw:CrCrCwCw:Cr----Cw:CrSwSrCw",
 		"author":"player#532822558",
 		"completions":6,

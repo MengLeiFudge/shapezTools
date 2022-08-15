@@ -151,18 +151,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10769230769230764,
-		"averageTime":40.8448275862069,
-		"downloads":65,
+		"difficulty":0.06299212598425197,
+		"averageTime":41.63025210084034,
+		"downloads":127,
 		"shortKey":"RrRbRyRc",
 		"author":"Larlii",
-		"completions":58,
+		"completions":119,
 		"id":4537,
 		"completed":false,
 		"title":"Firkanter",
-		"likes":12
+		"likes":21
 	}
 }

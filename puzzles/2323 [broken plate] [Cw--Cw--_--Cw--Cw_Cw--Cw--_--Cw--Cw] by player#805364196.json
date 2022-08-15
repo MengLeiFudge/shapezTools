@@ -728,10 +728,12 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":13,
+		"downloads":14,
 		"shortKey":"Cw--Cw--:--Cw--Cw:Cw--Cw--:--Cw--Cw",
 		"author":"player#805364196",
 		"completions":2,

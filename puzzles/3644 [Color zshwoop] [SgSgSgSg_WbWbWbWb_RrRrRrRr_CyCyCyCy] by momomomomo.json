@@ -312,10 +312,12 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"SgSgSgSg:WbWbWbWb:RrRrRrRr:CyCyCyCy",
 		"author":"momomomomo",
 		"completions":3,

@@ -114,12 +114,14 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.3571428571428571,
 		"averageTime":134.55555555555554,
-		"downloads":14,
+		"downloads":15,
 		"shortKey":"ScWwWgWw:WcWwWwWw",
 		"author":"MisstakenDoge95",
 		"completions":9,

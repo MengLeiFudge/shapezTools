@@ -220,15 +220,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3571428571428571,
-		"averageTime":83.66666666666667,
-		"downloads":14,
+		"difficulty":0.3125,
+		"averageTime":91.54545454545455,
+		"downloads":16,
 		"shortKey":"CpRcWrSw",
 		"author":"decrofull",
-		"completions":9,
+		"completions":11,
 		"id":2702,
 		"completed":false,
 		"title":"4 from 1",

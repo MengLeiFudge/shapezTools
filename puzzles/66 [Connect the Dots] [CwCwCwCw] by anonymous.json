@@ -153,15 +153,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.05063291139240511,
-		"averageTime":41.157037037037036,
-		"downloads":711,
+		"difficulty":0.04767652383826193,
+		"averageTime":46.68377693282636,
+		"downloads":1657,
 		"shortKey":"CwCwCwCw",
 		"author":"anonymous",
-		"completions":675,
+		"completions":1578,
 		"id":66,
 		"completed":true,
 		"title":"Connect the Dots",
-		"likes":189
+		"likes":355
 	}
 }

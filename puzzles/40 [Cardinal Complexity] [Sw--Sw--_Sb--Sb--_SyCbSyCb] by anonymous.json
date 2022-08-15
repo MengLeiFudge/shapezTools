@@ -72,15 +72,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.6893424036281179,
-		"averageTime":903.3868613138686,
-		"downloads":441,
+		"difficulty":0.6875,
+		"averageTime":893.7642857142857,
+		"downloads":448,
 		"shortKey":"Sw--Sw--:Sb--Sb--:SyCbSyCb",
 		"author":"anonymous",
-		"completions":137,
+		"completions":140,
 		"id":40,
 		"completed":true,
 		"title":"Cardinal Complexity",
-		"likes":68
+		"likes":69
 	}
 }

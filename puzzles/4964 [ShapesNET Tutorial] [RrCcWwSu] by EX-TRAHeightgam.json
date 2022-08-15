@@ -84,10 +84,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.19999999999999996,
+		"averageTime":10.75,
+		"downloads":15,
 		"shortKey":"RrCcWwSu",
 		"author":"EX-TRAHeightgam",
-		"completions":7,
+		"completions":12,
 		"id":4964,
 		"completed":false,
 		"title":"ShapesNET Tutorial",

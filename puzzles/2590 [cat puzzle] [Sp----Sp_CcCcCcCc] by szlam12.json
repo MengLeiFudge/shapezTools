@@ -181,18 +181,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.12368024132730016,
-		"averageTime":90.06196213425129,
-		"downloads":663,
+		"difficulty":0.15245478036175708,
+		"averageTime":97.5015243902439,
+		"downloads":774,
 		"shortKey":"Sp----Sp:CcCcCcCc",
 		"author":"szlam12",
-		"completions":581,
+		"completions":656,
 		"id":2590,
 		"completed":true,
 		"title":"cat puzzle",
-		"likes":200
+		"likes":216
 	}
 }

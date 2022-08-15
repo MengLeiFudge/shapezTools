@@ -52,15 +52,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2777777777777778,
-		"averageTime":51.38461538461539,
-		"downloads":18,
+		"difficulty":0.25,
+		"averageTime":64.06666666666666,
+		"downloads":20,
 		"shortKey":"WcWgWcWg:SbSbSbSb",
 		"author":"dedysimbolon59",
-		"completions":13,
+		"completions":15,
 		"id":4062,
 		"completed":false,
 		"title":"Easy Puzzle",

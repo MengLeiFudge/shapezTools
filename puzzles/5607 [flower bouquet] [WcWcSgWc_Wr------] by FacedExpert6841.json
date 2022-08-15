@@ -1381,13 +1381,17 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.8235294117647058,
+		"averageTime":1455.3333333333333,
+		"downloads":20,
 		"shortKey":"WcWcSgWc:Wr------",
 		"author":"FacedExpert6841",
-		"completions":2,
+		"completions":3,
 		"id":5607,
 		"completed":false,
 		"title":"flower bouquet",

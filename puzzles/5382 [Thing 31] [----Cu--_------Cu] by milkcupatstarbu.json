@@ -139,18 +139,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.8888888888888888,
-		"averageTime":534.5,
-		"downloads":20,
+		"difficulty":0.8333333333333334,
+		"averageTime":517.6,
+		"downloads":30,
 		"shortKey":"----Cu--:------Cu",
 		"author":"milkcupatstarbu",
-		"completions":2,
+		"completions":5,
 		"id":5382,
 		"completed":false,
 		"title":"Thing 31",
-		"likes":2
+		"likes":4
 	}
 }

@@ -34,10 +34,12 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"RbCc--Cc:----Rb--",
 		"author":"gentryaustin",
 		"completions":2,

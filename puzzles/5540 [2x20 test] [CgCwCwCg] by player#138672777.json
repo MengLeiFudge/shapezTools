@@ -59,13 +59,15 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.6111111111111112,
+		"averageTime":616.8571428571429,
+		"downloads":24,
 		"shortKey":"CgCwCwCg",
 		"author":"player#138672777",
-		"completions":3,
+		"completions":7,
 		"id":5540,
 		"completed":false,
 		"title":"2x20 test",
-		"likes":2
+		"likes":4
 	}
 }

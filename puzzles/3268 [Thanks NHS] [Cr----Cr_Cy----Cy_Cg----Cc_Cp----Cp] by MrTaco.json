@@ -76,18 +76,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0852713178294574,
-		"averageTime":47.83050847457627,
-		"downloads":129,
+		"difficulty":0.05726872246696035,
+		"averageTime":47.06542056074766,
+		"downloads":227,
 		"shortKey":"Cr----Cr:Cy----Cy:Cg----Cc:Cp----Cp",
 		"author":"MrTaco",
-		"completions":118,
+		"completions":214,
 		"id":3268,
 		"completed":false,
 		"title":"Thanks NHS",
-		"likes":28
+		"likes":41
 	}
 }

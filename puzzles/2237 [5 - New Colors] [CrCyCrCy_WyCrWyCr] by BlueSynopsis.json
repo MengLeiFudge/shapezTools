@@ -243,15 +243,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3125,
-		"averageTime":26.818181818181817,
-		"downloads":16,
+		"difficulty":0.26315789473684215,
+		"averageTime":26.857142857142858,
+		"downloads":19,
 		"shortKey":"CrCyCrCy:WyCrWyCr",
 		"author":"BlueSynopsis",
-		"completions":11,
+		"completions":14,
 		"id":2237,
 		"completed":false,
 		"title":"5 - New Colors",

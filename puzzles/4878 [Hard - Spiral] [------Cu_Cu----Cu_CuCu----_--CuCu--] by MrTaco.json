@@ -233,13 +233,15 @@
 		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.4,
+		"averageTime":503.1333333333333,
+		"downloads":25,
 		"shortKey":"------Cu:Cu----Cu:CuCu----:--CuCu--",
 		"author":"MrTaco",
-		"completions":7,
+		"completions":15,
 		"id":4878,
 		"completed":false,
 		"title":"Hard - Spiral",
-		"likes":4
+		"likes":6
 	}
 }

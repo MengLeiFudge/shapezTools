@@ -25,18 +25,20 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.27142857142857146,
-		"averageTime":206.11764705882354,
-		"downloads":75,
+		"difficulty":0.2844036697247706,
+		"averageTime":192.23076923076923,
+		"downloads":109,
 		"shortKey":"WgWyWbWr",
 		"author":"EPIK95",
-		"completions":51,
+		"completions":78,
 		"id":5379,
 		"completed":false,
 		"title":"Claustrophobic",
-		"likes":22
+		"likes":29
 	}
 }

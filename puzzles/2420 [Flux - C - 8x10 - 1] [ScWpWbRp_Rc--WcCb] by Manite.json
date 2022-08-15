@@ -163,12 +163,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":35.3,
-		"downloads":14,
+		"difficulty":0.25,
+		"averageTime":35.833333333333336,
+		"downloads":16,
 		"shortKey":"ScWpWbRp:Rc--WcCb",
 		"author":"Manite",
-		"completions":10,
+		"completions":12,
 		"id":2420,
 		"completed":false,
 		"title":"Flux - C - 8x10 - 1",

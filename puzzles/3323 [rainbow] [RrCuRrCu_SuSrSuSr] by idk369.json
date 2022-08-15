@@ -356,10 +356,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.2727272727272727,
+		"averageTime":152.375,
+		"downloads":12,
 		"shortKey":"RrCuRrCu:SuSrSuSr",
 		"author":"idk369",
-		"completions":6,
+		"completions":8,
 		"id":3323,
 		"completed":false,
 		"title":"rainbow",

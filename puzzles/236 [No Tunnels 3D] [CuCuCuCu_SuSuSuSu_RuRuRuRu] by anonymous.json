@@ -63,15 +63,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.19819819819819817,
-		"averageTime":100.29213483146067,
-		"downloads":111,
+		"difficulty":0.19130434782608696,
+		"averageTime":98.10752688172043,
+		"downloads":115,
 		"shortKey":"CuCuCuCu:SuSuSuSu:RuRuRuRu",
 		"author":"anonymous",
-		"completions":89,
+		"completions":93,
 		"id":236,
 		"completed":true,
 		"title":"No Tunnels 3D",
-		"likes":21
+		"likes":22
 	}
 }

@@ -219,10 +219,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.1428571428571429,
+		"averageTime":15.416666666666666,
+		"downloads":14,
 		"shortKey":"RuRuRuSu:CyCyCyCu",
 		"author":"aden8r",
-		"completions":7,
+		"completions":12,
 		"id":1222,
 		"completed":false,
 		"title":"Wallflow - 03",

@@ -140,18 +140,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.051948051948051965,
-		"averageTime":50.32876712328767,
-		"downloads":77,
+		"difficulty":0.023391812865497075,
+		"averageTime":57.116766467065865,
+		"downloads":343,
 		"shortKey":"CpSySyCp:--SySy--:--SySy--:--SySy--",
 		"author":"MisterCheese",
-		"completions":73,
+		"completions":334,
 		"id":4273,
 		"completed":false,
 		"title":"Stacking Module",
-		"likes":15
+		"likes":69
 	}
 }

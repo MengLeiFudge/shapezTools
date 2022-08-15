@@ -82,15 +82,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":472.5,
-		"downloads":14,
+		"difficulty":0.23529411764705888,
+		"averageTime":397.15384615384613,
+		"downloads":20,
 		"shortKey":"RbRbCbRb:CwCwRwCw",
 		"author":"hocus22",
-		"completions":10,
+		"completions":13,
 		"id":2675,
 		"completed":false,
 		"title":"Blueprint Error",

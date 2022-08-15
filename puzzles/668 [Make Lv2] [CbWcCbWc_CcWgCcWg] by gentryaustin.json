@@ -33,18 +33,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.030701754385964897,
-		"averageTime":10.692307692307692,
-		"downloads":228,
+		"difficulty":0.024844720496894457,
+		"averageTime":10.751592356687897,
+		"downloads":322,
 		"shortKey":"CbWcCbWc:CcWgCcWg",
 		"author":"gentryaustin",
-		"completions":221,
+		"completions":314,
 		"id":668,
 		"completed":false,
 		"title":"Make Lv2",
-		"likes":49
+		"likes":58
 	}
 }

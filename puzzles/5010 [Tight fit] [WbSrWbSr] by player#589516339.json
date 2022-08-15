@@ -180,18 +180,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.368421052631579,
-		"averageTime":177.75,
-		"downloads":21,
+		"difficulty":0.30434782608695654,
+		"averageTime":156.125,
+		"downloads":23,
 		"shortKey":"WbSrWbSr",
 		"author":"player#589516339",
-		"completions":12,
+		"completions":16,
 		"id":5010,
 		"completed":false,
 		"title":"Tight fit",
-		"likes":4
+		"likes":5
 	}
 }

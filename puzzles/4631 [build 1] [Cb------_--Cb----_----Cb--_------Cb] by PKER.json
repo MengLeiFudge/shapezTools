@@ -97,15 +97,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5666666666666667,
-		"averageTime":282.53846153846155,
-		"downloads":30,
+		"difficulty":0.5483870967741935,
+		"averageTime":305.64285714285717,
+		"downloads":31,
 		"shortKey":"Cb------:--Cb----:----Cb--:------Cb",
 		"author":"PKER",
-		"completions":13,
+		"completions":14,
 		"id":4631,
 		"completed":false,
 		"title":"build 1",

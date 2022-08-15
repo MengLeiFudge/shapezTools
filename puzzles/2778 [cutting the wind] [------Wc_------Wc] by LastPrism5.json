@@ -42,15 +42,17 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":68.54545454545455,
-		"downloads":14,
+		"difficulty":0.17647058823529416,
+		"averageTime":80.21428571428571,
+		"downloads":17,
 		"shortKey":"------Wc:------Wc",
 		"author":"LastPrism5",
-		"completions":11,
+		"completions":14,
 		"id":2778,
 		"completed":false,
 		"title":"cutting the wind",

@@ -134,15 +134,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.36363636363636365,
-		"averageTime":188.85714285714286,
-		"downloads":11,
+		"difficulty":0.33333333333333337,
+		"averageTime":176.75,
+		"downloads":12,
 		"shortKey":"CrCcCuCr:WyWyWyWy",
 		"author":"britishball",
-		"completions":7,
+		"completions":8,
 		"id":2547,
 		"completed":false,
 		"title":"Use what you learnt",

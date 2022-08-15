@@ -176,15 +176,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.12195121951219512,
-		"averageTime":62.55555555555556,
-		"downloads":41,
+		"difficulty":0.1166666666666667,
+		"averageTime":64.28301886792453,
+		"downloads":60,
 		"shortKey":"ScScScSc:SrSrSrSr:SrSrSrSr",
 		"author":"decrofull",
-		"completions":36,
+		"completions":53,
 		"id":4998,
 		"completed":false,
 		"title":"tiny puzzle 9",
-		"likes":7
+		"likes":8
 	}
 }

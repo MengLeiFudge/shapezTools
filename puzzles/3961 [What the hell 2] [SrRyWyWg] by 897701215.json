@@ -453,10 +453,12 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":16,
+		"downloads":19,
 		"shortKey":"SrRyWyWg",
 		"author":"897701215",
 		"completions":0,

@@ -373,18 +373,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7446808510638299,
-		"averageTime":364.5,
-		"downloads":98,
+		"difficulty":0.75,
+		"averageTime":352,
+		"downloads":104,
 		"shortKey":"CcSgSgCc",
 		"author":"ManOfFriedRice",
-		"completions":24,
+		"completions":25,
 		"id":2715,
 		"completed":true,
 		"title":"make this level",
-		"likes":16
+		"likes":17
 	}
 }

@@ -124,10 +124,12 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.2941176470588235,
+		"averageTime":18.666666666666668,
+		"downloads":17,
 		"shortKey":"WbWrWrWb:SpCbCbSp",
 		"author":"anonymous",
-		"completions":7,
+		"completions":12,
 		"id":452,
 		"completed":false,
 		"title":"Stricked",

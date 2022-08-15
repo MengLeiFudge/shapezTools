@@ -400,15 +400,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.17105263157894735,
-		"averageTime":123.95238095238095,
-		"downloads":76,
+		"difficulty":0.14,
+		"averageTime":132.06976744186048,
+		"downloads":100,
 		"shortKey":"CuCuCuCu:SrCuSrCu",
 		"author":"AartformGames",
-		"completions":63,
+		"completions":86,
 		"id":3764,
 		"completed":false,
 		"title":"Devolution",
-		"likes":24
+		"likes":28
 	}
 }

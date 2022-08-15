@@ -212,18 +212,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15189873417721522,
-		"averageTime":99.23134328358209,
-		"downloads":158,
+		"difficulty":0.1404494382022472,
+		"averageTime":93.96078431372548,
+		"downloads":178,
 		"shortKey":"CrCrCrCr:CbCbCbCb:CgCgCgCg",
 		"author":"Valerie",
-		"completions":134,
+		"completions":153,
 		"id":1496,
 		"completed":false,
 		"title":"Bullseye",
-		"likes":46
+		"likes":51
 	}
 }

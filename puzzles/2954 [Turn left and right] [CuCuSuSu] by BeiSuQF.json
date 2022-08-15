@@ -59,15 +59,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.18947368421052635,
-		"averageTime":129.25974025974025,
-		"downloads":96,
+		"difficulty":0.15555555555555556,
+		"averageTime":137.1184210526316,
+		"downloads":180,
 		"shortKey":"CuCuSuSu",
 		"author":"BeiSuQF",
-		"completions":77,
+		"completions":152,
 		"id":2954,
 		"completed":true,
 		"title":"Turn left and right",
-		"likes":31
+		"likes":54
 	}
 }

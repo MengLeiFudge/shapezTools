@@ -43,15 +43,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2954545454545454,
-		"averageTime":96.06451612903226,
-		"downloads":44,
+		"difficulty":0.30000000000000004,
+		"averageTime":94.97142857142858,
+		"downloads":50,
 		"shortKey":"WwWwCwCw:----WwWw",
 		"author":"Vachou37",
-		"completions":31,
+		"completions":35,
 		"id":4435,
 		"completed":false,
 		"title":"Kind of easy",

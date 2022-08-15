@@ -355,15 +355,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5625,
-		"averageTime":371.92857142857144,
-		"downloads":64,
+		"difficulty":0.5555555555555556,
+		"averageTime":353.78125,
+		"downloads":72,
 		"shortKey":"RyWyRyWy:CyCyCyCy",
 		"author":"kavirnyadeltoid",
-		"completions":28,
+		"completions":32,
 		"id":1532,
 		"completed":false,
 		"title":"Double merger",
-		"likes":13
+		"likes":15
 	}
 }

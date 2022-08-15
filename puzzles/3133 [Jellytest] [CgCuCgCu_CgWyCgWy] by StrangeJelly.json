@@ -62,15 +62,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.006211180124223614,
-		"averageTime":24.4625,
-		"downloads":161,
+		"difficulty":0.006968641114982632,
+		"averageTime":23.936842105263157,
+		"downloads":287,
 		"shortKey":"CgCuCgCu:CgWyCgWy",
 		"author":"StrangeJelly",
-		"completions":160,
+		"completions":285,
 		"id":3133,
 		"completed":true,
 		"title":"Jellytest",
-		"likes":35
+		"likes":52
 	}
 }

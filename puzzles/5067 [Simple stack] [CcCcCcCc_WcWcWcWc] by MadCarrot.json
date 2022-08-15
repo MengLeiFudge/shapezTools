@@ -50,15 +50,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0786516853932584,
-		"averageTime":56.6219512195122,
-		"downloads":89,
+		"difficulty":0.044303797468354444,
+		"averageTime":46.63576158940398,
+		"downloads":158,
 		"shortKey":"CcCcCcCc:WcWcWcWc",
 		"author":"MadCarrot",
-		"completions":82,
+		"completions":151,
 		"id":5067,
 		"completed":true,
 		"title":"Simple stack",
-		"likes":18
+		"likes":26
 	}
 }

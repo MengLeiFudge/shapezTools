@@ -70,15 +70,17 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4375,
-		"averageTime":139.22222222222223,
-		"downloads":16,
+		"difficulty":0.4117647058823529,
+		"averageTime":129.1,
+		"downloads":17,
 		"shortKey":"RbRbRbRb:WwWwWwWw:CbCbCbCb:SwSwSwSw",
 		"author":"NeonApe",
-		"completions":9,
+		"completions":10,
 		"id":2895,
 		"completed":false,
 		"title":"Unsorted",

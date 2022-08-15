@@ -79,18 +79,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.026666666666666616,
-		"averageTime":47.018264840182646,
-		"downloads":225,
+		"difficulty":0.02346041055718473,
+		"averageTime":47.25825825825826,
+		"downloads":341,
 		"shortKey":"SuRuWuCu",
 		"author":"koalabaer",
-		"completions":219,
+		"completions":333,
 		"id":725,
 		"completed":true,
 		"title":"4 Formen",
-		"likes":49
+		"likes":62
 	}
 }

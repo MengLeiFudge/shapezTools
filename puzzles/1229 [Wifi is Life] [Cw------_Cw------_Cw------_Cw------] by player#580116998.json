@@ -194,15 +194,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.375,
-		"averageTime":96.8,
-		"downloads":16,
+		"difficulty":0.3157894736842105,
+		"averageTime":91.92307692307692,
+		"downloads":19,
 		"shortKey":"Cw------:Cw------:Cw------:Cw------",
 		"author":"player#580116998",
-		"completions":10,
+		"completions":13,
 		"id":1229,
 		"completed":false,
 		"title":"Wifi is Life",

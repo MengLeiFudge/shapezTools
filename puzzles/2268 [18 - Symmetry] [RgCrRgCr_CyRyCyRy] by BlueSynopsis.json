@@ -387,18 +387,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.01342281879194629,
-		"averageTime":35.48979591836735,
-		"downloads":149,
+		"difficulty":0.01224489795918371,
+		"averageTime":33.84710743801653,
+		"downloads":245,
 		"shortKey":"RgCrRgCr:CyRyCyRy",
 		"author":"BlueSynopsis",
-		"completions":147,
+		"completions":242,
 		"id":2268,
 		"completed":false,
 		"title":"18 - Symmetry",
-		"likes":32
+		"likes":46
 	}
 }

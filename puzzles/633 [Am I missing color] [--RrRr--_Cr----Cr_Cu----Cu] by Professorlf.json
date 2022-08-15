@@ -120,18 +120,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5122950819672132,
-		"averageTime":274.9075630252101,
-		"downloads":244,
+		"difficulty":0.46975088967971534,
+		"averageTime":259.0469798657718,
+		"downloads":281,
 		"shortKey":"--RrRr--:Cr----Cr:Cu----Cu",
 		"author":"Professorlf",
-		"completions":119,
+		"completions":149,
 		"id":633,
 		"completed":true,
 		"title":"Am I missing color",
-		"likes":69
+		"likes":79
 	}
 }

@@ -65,15 +65,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6470588235294117,
-		"averageTime":135.91666666666666,
-		"downloads":34,
+		"difficulty":0.5789473684210527,
+		"averageTime":139.625,
+		"downloads":38,
 		"shortKey":"SwCrRgWb:WbSwCrRg:SwCrRgWb:WbSwCrRg",
 		"author":"sykoe",
-		"completions":12,
+		"completions":16,
 		"id":2868,
 		"completed":true,
 		"title":"double trouble",

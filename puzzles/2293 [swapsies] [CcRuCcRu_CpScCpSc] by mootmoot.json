@@ -269,18 +269,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.30188679245283023,
-		"averageTime":204.8918918918919,
-		"downloads":54,
+		"difficulty":0.21739130434782605,
+		"averageTime":192.25555555555556,
+		"downloads":115,
 		"shortKey":"CcRuCcRu:CpScCpSc",
 		"author":"mootmoot",
-		"completions":37,
+		"completions":90,
 		"id":2293,
 		"completed":true,
 		"title":"swapsies",
-		"likes":17
+		"likes":33
 	}
 }

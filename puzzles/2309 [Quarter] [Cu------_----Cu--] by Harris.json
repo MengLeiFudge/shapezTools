@@ -94,15 +94,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.28125,
-		"averageTime":189.31884057971016,
-		"downloads":384,
+		"difficulty":0.25719120135363793,
+		"averageTime":185.4510250569476,
+		"downloads":591,
 		"shortKey":"Cu------:----Cu--",
 		"author":"Harris",
-		"completions":276,
+		"completions":439,
 		"id":2309,
 		"completed":true,
 		"title":"Quarter",
-		"likes":141
+		"likes":182
 	}
 }

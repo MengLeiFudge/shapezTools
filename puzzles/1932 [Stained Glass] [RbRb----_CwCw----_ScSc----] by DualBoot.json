@@ -87,18 +87,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1724659606656581,
-		"averageTime":146.48628884826326,
-		"downloads":661,
+		"difficulty":0.13741223671013036,
+		"averageTime":152.58023255813953,
+		"downloads":997,
 		"shortKey":"RbRb----:CwCw----:ScSc----",
 		"author":"DualBoot",
-		"completions":547,
+		"completions":860,
 		"id":1932,
 		"completed":true,
 		"title":"Stained Glass",
-		"likes":243
+		"likes":315
 	}
 }

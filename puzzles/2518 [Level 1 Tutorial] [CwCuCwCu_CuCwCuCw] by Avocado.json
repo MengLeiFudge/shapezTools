@@ -101,12 +101,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.04166666666666663,
-		"averageTime":8.565217391304348,
-		"downloads":24,
+		"difficulty":0.03448275862068961,
+		"averageTime":8.642857142857142,
+		"downloads":29,
 		"shortKey":"CwCuCwCu:CuCwCuCw",
 		"author":"Avocado",
-		"completions":23,
+		"completions":28,
 		"id":2518,
 		"completed":true,
 		"title":"Level 1 Tutorial",

@@ -54,12 +54,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.6,
-		"averageTime":406.5,
-		"downloads":15,
+		"difficulty":0.5625,
+		"averageTime":361.14285714285717,
+		"downloads":16,
 		"shortKey":"WrWbWgWy",
 		"author":"anonymous",
-		"completions":6,
+		"completions":7,
 		"id":178,
 		"completed":false,
 		"title":"Pinwheel",

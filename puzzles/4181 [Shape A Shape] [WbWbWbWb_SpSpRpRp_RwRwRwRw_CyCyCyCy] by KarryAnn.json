@@ -929,12 +929,14 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.7,
 		"averageTime":1214.6666666666667,
-		"downloads":12,
+		"downloads":13,
 		"shortKey":"WbWbWbWb:SpSpRpRp:RwRwRwRw:CyCyCyCy",
 		"author":"KarryAnn",
 		"completions":3,

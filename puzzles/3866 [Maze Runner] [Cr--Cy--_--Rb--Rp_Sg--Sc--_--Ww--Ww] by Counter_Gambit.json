@@ -1365,15 +1365,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.15000000000000002,
-		"averageTime":42.05882352941177,
-		"downloads":20,
+		"difficulty":0.12,
+		"averageTime":41.45454545454545,
+		"downloads":25,
 		"shortKey":"Cr--Cy--:--Rb--Rp:Sg--Sc--:--Ww--Ww",
 		"author":"Counter_Gambit",
-		"completions":17,
+		"completions":22,
 		"id":3866,
 		"completed":false,
 		"title":"Maze Runner",
-		"likes":2
+		"likes":3
 	}
 }

@@ -115,18 +115,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.12,
-		"averageTime":424.79545454545456,
-		"downloads":50,
+		"difficulty":0.10909090909090913,
+		"averageTime":389.0612244897959,
+		"downloads":55,
 		"shortKey":"CpRrCpRr:CuRyCuRy",
 		"author":"maxytwigg",
-		"completions":44,
+		"completions":49,
 		"id":3826,
 		"completed":false,
 		"title":"stacks of tunnels",
-		"likes":11
+		"likes":13
 	}
 }

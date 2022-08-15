@@ -166,15 +166,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.12857142857142856,
-		"averageTime":165,
-		"downloads":70,
+		"difficulty":0.12328767123287676,
+		"averageTime":162.21875,
+		"downloads":75,
 		"shortKey":"SrCrCrCr:CgCgCgSg:CcCcScCc:CpSpCpCp",
 		"author":"einsamer_Labrad",
-		"completions":61,
+		"completions":64,
 		"id":3760,
 		"completed":false,
 		"title":"No Belts",
-		"likes":17
+		"likes":18
 	}
 }

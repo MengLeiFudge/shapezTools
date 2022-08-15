@@ -108,18 +108,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1428571428571429,
-		"averageTime":16.77777777777778,
-		"downloads":21,
+		"difficulty":0.05128205128205132,
+		"averageTime":17.675675675675677,
+		"downloads":39,
 		"shortKey":"RyRyRyRy:------Ry:------Ry:CrCrCrCr",
 		"author":"DualBoot",
-		"completions":18,
+		"completions":37,
 		"id":5485,
-		"completed":false,
+		"completed":true,
 		"title":"YellowSquaresOnly",
-		"likes":2
+		"likes":5
 	}
 }

@@ -33,15 +33,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3125,
-		"averageTime":60.36363636363637,
-		"downloads":16,
+		"difficulty":0.2777777777777778,
+		"averageTime":56.61538461538461,
+		"downloads":18,
 		"shortKey":"SrSrSrSr:Sr------:Sr------:Sr------",
 		"author":"Raegoer",
-		"completions":11,
+		"completions":13,
 		"id":3445,
 		"completed":false,
 		"title":"Heavy Spike",

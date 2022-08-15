@@ -116,18 +116,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.38888888888888884,
-		"averageTime":245.13636363636363,
-		"downloads":72,
+		"difficulty":0.2992700729927007,
+		"averageTime":252.84375,
+		"downloads":138,
 		"shortKey":"RyRySySy",
 		"author":"Sightnado",
-		"completions":44,
+		"completions":96,
 		"id":5004,
 		"completed":false,
 		"title":"Yet Another Puzzle",
-		"likes":23
+		"likes":41
 	}
 }

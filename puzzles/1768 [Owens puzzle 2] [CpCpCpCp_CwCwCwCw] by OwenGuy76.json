@@ -68,18 +68,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03813559322033899,
-		"averageTime":53.4625550660793,
-		"downloads":236,
+		"difficulty":0.030952380952380953,
+		"averageTime":58.69041769041769,
+		"downloads":420,
 		"shortKey":"CpCpCpCp:CwCwCwCw",
 		"author":"OwenGuy76",
-		"completions":227,
+		"completions":407,
 		"id":1768,
 		"completed":false,
 		"title":"Owens puzzle 2",
-		"likes":53
+		"likes":81
 	}
 }

@@ -296,18 +296,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3015873015873016,
-		"averageTime":333.22727272727275,
-		"downloads":65,
+		"difficulty":0.21904761904761905,
+		"averageTime":347.7073170731707,
+		"downloads":105,
 		"shortKey":"SwRwSwRw:SbCwSbCw",
 		"author":"Sgoosh",
-		"completions":44,
+		"completions":82,
 		"id":3362,
 		"completed":false,
 		"title":"From Left to Right",
-		"likes":19
+		"likes":31
 	}
 }

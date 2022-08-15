@@ -25,15 +25,17 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15000000000000002,
-		"averageTime":6.823529411764706,
-		"downloads":20,
+		"difficulty":0.13636363636363635,
+		"averageTime":6.894736842105263,
+		"downloads":22,
 		"shortKey":"SbSbSgSg:CcCcCcCc",
 		"author":"player#848975978",
-		"completions":17,
+		"completions":19,
 		"id":2598,
 		"completed":false,
 		"title":"ababw",

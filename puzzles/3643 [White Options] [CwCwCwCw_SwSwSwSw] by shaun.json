@@ -165,18 +165,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.10050251256281406,
-		"averageTime":100,
-		"downloads":199,
+		"difficulty":0.07182320441988954,
+		"averageTime":108.0327380952381,
+		"downloads":362,
 		"shortKey":"CwCwCwCw:SwSwSwSw",
 		"author":"shaun",
-		"completions":179,
+		"completions":336,
 		"id":3643,
-		"completed":false,
+		"completed":true,
 		"title":"White Options",
-		"likes":73
+		"likes":112
 	}
 }

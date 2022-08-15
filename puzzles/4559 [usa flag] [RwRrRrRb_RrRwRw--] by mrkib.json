@@ -373,18 +373,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.078125,
-		"averageTime":94.79661016949153,
-		"downloads":64,
+		"difficulty":0.07462686567164178,
+		"averageTime":92.2741935483871,
+		"downloads":67,
 		"shortKey":"RwRrRrRb:RrRwRw--",
 		"author":"mrkib",
-		"completions":59,
+		"completions":62,
 		"id":4559,
 		"completed":false,
 		"title":"usa flag",
-		"likes":13
+		"likes":14
 	}
 }

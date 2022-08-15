@@ -238,10 +238,12 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.5333333333333333,
+		"averageTime":360.2857142857143,
+		"downloads":15,
 		"shortKey":"CwCw----:--CwCw--:----CwCw:Cw----Cw",
 		"author":"player#664581247",
-		"completions":4,
+		"completions":7,
 		"id":5077,
 		"completed":false,
 		"title":"1 TO 6 EASY",

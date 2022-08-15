@@ -337,18 +337,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.36363636363636365,
-		"averageTime":236.57142857142858,
-		"downloads":44,
+		"difficulty":0.33944954128440363,
+		"averageTime":358.80555555555554,
+		"downloads":109,
 		"shortKey":"--Cu--Cu:--Cu--Cu:--Cu--Cu:CuCuCuCu",
 		"author":"DualBoot",
-		"completions":28,
+		"completions":72,
 		"id":5582,
 		"completed":false,
 		"title":"TieFighterTrenchRun",
-		"likes":15
+		"likes":29
 	}
 }

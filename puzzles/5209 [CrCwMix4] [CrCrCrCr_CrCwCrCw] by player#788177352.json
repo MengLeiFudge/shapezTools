@@ -154,13 +154,15 @@
 		]
 	},
 	"meta":{
-		"downloads":8,
+		"difficulty":0.21739130434782605,
+		"averageTime":80.16666666666667,
+		"downloads":23,
 		"shortKey":"CrCrCrCr:CrCwCrCw",
 		"author":"player#788177352",
-		"completions":4,
+		"completions":18,
 		"id":5209,
 		"completed":false,
 		"title":"CrCwMix4",
-		"likes":2
+		"likes":6
 	}
 }

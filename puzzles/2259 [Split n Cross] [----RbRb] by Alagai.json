@@ -60,12 +60,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":25.357142857142858,
-		"downloads":18,
+		"difficulty":0.19999999999999996,
+		"averageTime":27.4375,
+		"downloads":20,
 		"shortKey":"----RbRb",
 		"author":"Alagai",
-		"completions":14,
+		"completions":16,
 		"id":2259,
 		"completed":false,
 		"title":"Split n Cross",

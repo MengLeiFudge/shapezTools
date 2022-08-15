@@ -1239,15 +1239,17 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3529411764705882,
-		"averageTime":159.36363636363637,
-		"downloads":17,
+		"difficulty":0.33333333333333337,
+		"averageTime":150,
+		"downloads":19,
 		"shortKey":"WbCwRcCw:CgCgRbCg",
 		"author":"BlaZe",
-		"completions":11,
+		"completions":12,
 		"id":2842,
 		"completed":false,
 		"title":"Distribution System",

@@ -152,15 +152,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.16551724137931034,
-		"averageTime":130.67768595041323,
-		"downloads":145,
+		"difficulty":0.13677130044843044,
+		"averageTime":141.53246753246754,
+		"downloads":446,
 		"shortKey":"RrRrRrRr:RgRgRgRg",
 		"author":"2baruss",
-		"completions":121,
+		"completions":385,
 		"id":4039,
-		"completed":false,
+		"completed":true,
 		"title":"No Splitting V1",
-		"likes":50
+		"likes":138
 	}
 }

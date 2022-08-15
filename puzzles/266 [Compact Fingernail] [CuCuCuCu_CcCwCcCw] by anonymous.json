@@ -36,15 +36,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.025000000000000022,
-		"averageTime":44.54945054945055,
-		"downloads":280,
+		"difficulty":0.020044543429844075,
+		"averageTime":49.44772727272727,
+		"downloads":449,
 		"shortKey":"CuCuCuCu:CcCwCcCw",
 		"author":"anonymous",
-		"completions":273,
+		"completions":440,
 		"id":266,
 		"completed":false,
 		"title":"Compact Fingernail",
-		"likes":63
+		"likes":87
 	}
 }

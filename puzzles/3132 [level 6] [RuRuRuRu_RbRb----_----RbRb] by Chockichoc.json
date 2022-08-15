@@ -261,15 +261,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.018867924528301883,
-		"averageTime":46.03846153846154,
-		"downloads":106,
+		"difficulty":0.011049723756906049,
+		"averageTime":42.11173184357542,
+		"downloads":181,
 		"shortKey":"RuRuRuRu:RbRb----:----RbRb",
 		"author":"Chockichoc",
-		"completions":104,
+		"completions":179,
 		"id":3132,
 		"completed":true,
 		"title":"level 6",
-		"likes":22
+		"likes":32
 	}
 }

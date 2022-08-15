@@ -482,18 +482,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.71875,
-		"averageTime":1239.888888888889,
-		"downloads":67,
+		"difficulty":0.7037037037037037,
+		"averageTime":1349.625,
+		"downloads":139,
 		"shortKey":"--Sb--Sp:CpCcCbCy",
 		"author":"maiko",
-		"completions":18,
+		"completions":40,
 		"id":4895,
 		"completed":true,
 		"title":"maiko61",
-		"likes":13
+		"likes":24
 	}
 }

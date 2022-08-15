@@ -59,13 +59,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.1578947368421053,
+		"averageTime":13.1875,
+		"downloads":19,
 		"shortKey":"CuRuCuCu:CuCuCuRu",
 		"author":"Dhulfiqar",
-		"completions":7,
+		"completions":16,
 		"id":3293,
 		"completed":false,
 		"title":"Spiral Round",

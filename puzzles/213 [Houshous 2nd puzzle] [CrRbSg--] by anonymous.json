@@ -63,15 +63,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.03260869565217395,
-		"averageTime":34.235955056179776,
-		"downloads":276,
+		"difficulty":0.027472527472527486,
+		"averageTime":35.46892655367232,
+		"downloads":364,
 		"shortKey":"CrRbSg--",
 		"author":"anonymous",
-		"completions":267,
+		"completions":354,
 		"id":213,
 		"completed":false,
 		"title":"Houshous 2nd puzzle",
-		"likes":58
+		"likes":66
 	}
 }

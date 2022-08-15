@@ -206,15 +206,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3571428571428571,
-		"averageTime":45.22222222222222,
-		"downloads":14,
+		"difficulty":0.3157894736842105,
+		"averageTime":48,
+		"downloads":19,
 		"shortKey":"SrSpSrSp:Ww--WwCr",
 		"author":"player#343935043",
-		"completions":9,
+		"completions":13,
 		"id":4600,
 		"completed":false,
 		"title":"penguintime226",

@@ -43,18 +43,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06666666666666665,
-		"averageTime":16.988095238095237,
-		"downloads":90,
+		"difficulty":0.053097345132743334,
+		"averageTime":16.60747663551402,
+		"downloads":113,
 		"shortKey":"CcCgCyCr",
 		"author":"player#263168873",
-		"completions":84,
+		"completions":107,
 		"id":3886,
 		"completed":false,
 		"title":"mini",
-		"likes":15
+		"likes":17
 	}
 }

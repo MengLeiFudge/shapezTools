@@ -159,15 +159,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.46153846153846156,
-		"averageTime":232.16326530612244,
-		"downloads":91,
+		"difficulty":0.4014598540145985,
+		"averageTime":296.5121951219512,
+		"downloads":137,
 		"shortKey":"CuCu----:----CuCu",
 		"author":"milkcupatstarbu",
-		"completions":49,
+		"completions":82,
 		"id":3226,
 		"completed":true,
 		"title":"Thing 20",
-		"likes":30
+		"likes":40
 	}
 }

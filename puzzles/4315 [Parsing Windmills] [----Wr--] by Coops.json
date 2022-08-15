@@ -129,15 +129,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3913043478260869,
-		"averageTime":328.45238095238096,
-		"downloads":69,
+		"difficulty":0.28358208955223885,
+		"averageTime":289.0520833333333,
+		"downloads":135,
 		"shortKey":"----Wr--",
 		"author":"Coops",
-		"completions":42,
+		"completions":96,
 		"id":4315,
 		"completed":false,
 		"title":"Parsing Windmills",
-		"likes":22
+		"likes":40
 	}
 }

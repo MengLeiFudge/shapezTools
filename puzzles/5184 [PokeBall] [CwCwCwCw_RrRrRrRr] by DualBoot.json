@@ -805,18 +805,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.049180327868852514,
-		"averageTime":42.05172413793103,
-		"downloads":61,
+		"difficulty":0.02631578947368418,
+		"averageTime":41.027027027027025,
+		"downloads":77,
 		"shortKey":"CwCwCwCw:RrRrRrRr",
 		"author":"DualBoot",
-		"completions":58,
+		"completions":74,
 		"id":5184,
 		"completed":false,
 		"title":"PokeBall",
-		"likes":9
+		"likes":10
 	}
 }

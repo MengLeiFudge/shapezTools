@@ -91,18 +91,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.055837563451776595,
-		"averageTime":47.526881720430104,
-		"downloads":197,
+		"difficulty":0.032994923857868064,
+		"averageTime":50.666666666666664,
+		"downloads":394,
 		"shortKey":"SrCrCrSr",
 		"author":"KingLui",
-		"completions":186,
+		"completions":381,
 		"id":3062,
 		"completed":true,
 		"title":"Like a heart",
-		"likes":44
+		"likes":76
 	}
 }

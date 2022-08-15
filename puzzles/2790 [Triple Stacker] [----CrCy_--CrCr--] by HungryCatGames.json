@@ -67,18 +67,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.34782608695652173,
-		"averageTime":660.9,
-		"downloads":46,
+		"difficulty":0.30000000000000004,
+		"averageTime":430.82142857142856,
+		"downloads":80,
 		"shortKey":"----CrCy:--CrCr--",
 		"author":"HungryCatGames",
-		"completions":30,
+		"completions":56,
 		"id":2790,
 		"completed":false,
 		"title":"Triple Stacker",
-		"likes":13
+		"likes":21
 	}
 }

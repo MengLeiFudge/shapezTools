@@ -371,10 +371,12 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"WwWwWwWw:SrSrSrSr",
 		"author":"GalaxyGirl230",
 		"completions":0,

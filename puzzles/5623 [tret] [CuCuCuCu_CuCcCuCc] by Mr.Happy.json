@@ -668,18 +668,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1333333333333333,
-		"averageTime":96.1923076923077,
-		"downloads":31,
+		"difficulty":0.06329113924050633,
+		"averageTime":98.56756756756756,
+		"downloads":158,
 		"shortKey":"CuCuCuCu:CuCcCuCc",
 		"author":"Mr.Happy",
-		"completions":26,
+		"completions":148,
 		"id":5623,
-		"completed":false,
+		"completed":true,
 		"title":"tret",
-		"likes":10
+		"likes":40
 	}
 }

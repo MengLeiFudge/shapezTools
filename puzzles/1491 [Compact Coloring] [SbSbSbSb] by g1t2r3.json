@@ -70,18 +70,20 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13338658146964855,
-		"averageTime":117.78801843317973,
-		"downloads":1252,
+		"difficulty":0.16006402561024413,
+		"averageTime":123.23439733206288,
+		"downloads":2499,
 		"shortKey":"SbSbSbSb",
 		"author":"g1t2r3",
-		"completions":1085,
+		"completions":2099,
 		"id":1491,
 		"completed":true,
 		"title":"Compact Coloring",
-		"likes":467
+		"likes":792
 	}
 }

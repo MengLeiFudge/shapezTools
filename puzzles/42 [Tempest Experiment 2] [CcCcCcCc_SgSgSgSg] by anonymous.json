@@ -108,15 +108,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.7208480565371025,
-		"averageTime":589.9873417721519,
-		"downloads":283,
+		"difficulty":0.7172413793103448,
+		"averageTime":604.1341463414634,
+		"downloads":291,
 		"shortKey":"CcCcCcCc:SgSgSgSg",
 		"author":"anonymous",
-		"completions":79,
+		"completions":82,
 		"id":42,
 		"completed":false,
 		"title":"Tempest Experiment 2",
-		"likes":42
+		"likes":45
 	}
 }

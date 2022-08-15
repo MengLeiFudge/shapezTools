@@ -155,15 +155,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.13207547169811318,
-		"averageTime":103.47826086956522,
-		"downloads":53,
+		"difficulty":0.1228070175438597,
+		"averageTime":100.62,
+		"downloads":57,
 		"shortKey":"CuCuCuCu:----SrSr",
 		"author":"Daniel",
-		"completions":46,
+		"completions":50,
 		"id":3960,
 		"completed":false,
 		"title":"No Tunnles",
-		"likes":13
+		"likes":15
 	}
 }

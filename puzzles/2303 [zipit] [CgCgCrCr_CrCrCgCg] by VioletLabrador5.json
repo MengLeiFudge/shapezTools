@@ -148,15 +148,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.22857142857142854,
-		"averageTime":102.74074074074075,
-		"downloads":70,
+		"difficulty":0.21250000000000002,
+		"averageTime":107.77777777777777,
+		"downloads":80,
 		"shortKey":"CgCgCrCr:CrCrCgCg",
 		"author":"VioletLabrador5",
-		"completions":54,
+		"completions":63,
 		"id":2303,
 		"completed":false,
 		"title":"zipit",

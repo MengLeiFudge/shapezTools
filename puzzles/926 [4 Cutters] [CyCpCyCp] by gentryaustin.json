@@ -162,13 +162,15 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":5,
+		"downloads":6,
 		"shortKey":"CyCpCyCp",
 		"author":"gentryaustin",
-		"completions":3,
+		"completions":4,
 		"id":926,
 		"completed":false,
 		"title":"4 Cutters",

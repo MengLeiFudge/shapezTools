@@ -63,15 +63,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.2682926829268293,
-		"averageTime":173.53333333333333,
-		"downloads":82,
+		"difficulty":0.2558139534883721,
+		"averageTime":799.5,
+		"downloads":86,
 		"shortKey":"RwRwCwCw",
 		"author":"anonymous",
-		"completions":60,
+		"completions":64,
 		"id":26,
 		"completed":false,
 		"title":"White Bullet",
-		"likes":20
+		"likes":21
 	}
 }

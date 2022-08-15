@@ -105,10 +105,12 @@
 		]
 	},
 	"meta":{
-		"downloads":13,
+		"difficulty":0.7692307692307692,
+		"averageTime":954.6666666666666,
+		"downloads":14,
 		"shortKey":"RrCrRrCr:WyWgWyWg",
 		"author":"trollbreeder",
-		"completions":2,
+		"completions":3,
 		"id":4480,
 		"completed":false,
 		"title":"Halves and Halves",

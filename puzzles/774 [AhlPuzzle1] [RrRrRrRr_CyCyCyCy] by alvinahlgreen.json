@@ -133,18 +133,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.49572649572649574,
-		"averageTime":451.5593220338983,
-		"downloads":117,
+		"difficulty":0.4538461538461539,
+		"averageTime":444.83098591549293,
+		"downloads":131,
 		"shortKey":"RrRrRrRr:CyCyCyCy",
 		"author":"alvinahlgreen",
-		"completions":59,
+		"completions":71,
 		"id":774,
 		"completed":false,
 		"title":"AhlPuzzle1",
-		"likes":30
+		"likes":33
 	}
 }

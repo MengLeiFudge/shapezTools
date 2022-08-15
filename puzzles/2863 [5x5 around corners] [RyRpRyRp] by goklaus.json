@@ -50,15 +50,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2142857142857143,
-		"averageTime":38.45454545454545,
-		"downloads":14,
+		"difficulty":0.17647058823529416,
+		"averageTime":37.42857142857143,
+		"downloads":17,
 		"shortKey":"RyRpRyRp",
 		"author":"goklaus",
-		"completions":11,
+		"completions":14,
 		"id":2863,
 		"completed":false,
 		"title":"5x5 around corners",

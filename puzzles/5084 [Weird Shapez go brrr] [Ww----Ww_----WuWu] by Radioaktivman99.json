@@ -175,16 +175,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.5,
+		"averageTime":167.14285714285714,
+		"downloads":14,
 		"shortKey":"Ww----Ww:----WuWu",
 		"author":"Radioaktivman99",
-		"completions":4,
+		"completions":7,
 		"id":5084,
 		"completed":false,
 		"title":"Weird Shapez go brrr",
-		"likes":2
+		"likes":3
 	}
 }

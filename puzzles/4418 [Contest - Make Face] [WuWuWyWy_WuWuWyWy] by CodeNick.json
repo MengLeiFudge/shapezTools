@@ -51,15 +51,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.043749999999999956,
-		"averageTime":47.549019607843135,
-		"downloads":160,
+		"difficulty":0.0317848410757946,
+		"averageTime":51.156565656565654,
+		"downloads":409,
 		"shortKey":"WuWuWyWy:WuWuWyWy",
 		"author":"CodeNick",
-		"completions":153,
+		"completions":396,
 		"id":4418,
 		"completed":true,
 		"title":"Contest - Make Face",
-		"likes":37
+		"likes":84
 	}
 }

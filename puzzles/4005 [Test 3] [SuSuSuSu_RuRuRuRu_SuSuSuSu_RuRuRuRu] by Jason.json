@@ -212,18 +212,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11111111111111116,
-		"averageTime":110.3125,
-		"downloads":18,
+		"difficulty":0.09090909090909094,
+		"averageTime":111.15,
+		"downloads":24,
 		"shortKey":"SuSuSuSu:RuRuRuRu:SuSuSuSu:RuRuRuRu",
 		"author":"Jason",
-		"completions":16,
+		"completions":20,
 		"id":4005,
 		"completed":false,
 		"title":"Test 3",
-		"likes":3
+		"likes":4
 	}
 }

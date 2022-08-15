@@ -81,12 +81,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.12244897959183676,
-		"averageTime":73.83720930232558,
-		"downloads":49,
+		"difficulty":0.1166666666666667,
+		"averageTime":71.75471698113208,
+		"downloads":60,
 		"shortKey":"CrCbCgCw",
 		"author":"anonymous",
-		"completions":43,
+		"completions":53,
 		"id":360,
 		"completed":true,
 		"title":"4-way belt swapper",

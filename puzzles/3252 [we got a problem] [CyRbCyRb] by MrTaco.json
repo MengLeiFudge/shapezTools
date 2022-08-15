@@ -42,15 +42,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.18918918918918914,
-		"averageTime":95.83333333333333,
-		"downloads":37,
+		"difficulty":0.1707317073170732,
+		"averageTime":95.1470588235294,
+		"downloads":41,
 		"shortKey":"CyRbCyRb",
 		"author":"MrTaco",
-		"completions":30,
+		"completions":34,
 		"id":3252,
 		"completed":false,
 		"title":"we got a problem",
-		"likes":10
+		"likes":11
 	}
 }

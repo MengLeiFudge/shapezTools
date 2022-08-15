@@ -143,13 +143,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.6666666666666667,
+		"averageTime":589,
+		"downloads":12,
 		"shortKey":"WbWpWb--:--Wp--Wp",
 		"author":"LastPrism5",
-		"completions":3,
+		"completions":4,
 		"id":2821,
 		"completed":false,
 		"title":"rly hard i think",

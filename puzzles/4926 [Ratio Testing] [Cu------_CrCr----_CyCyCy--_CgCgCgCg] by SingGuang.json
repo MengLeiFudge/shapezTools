@@ -133,18 +133,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.05660377358490565,
-		"averageTime":57.38,
-		"downloads":106,
+		"difficulty":0.027649769585253448,
+		"averageTime":58.90047393364929,
+		"downloads":217,
 		"shortKey":"Cu------:CrCr----:CyCyCy--:CgCgCgCg",
 		"author":"SingGuang",
-		"completions":100,
+		"completions":211,
 		"id":4926,
 		"completed":true,
 		"title":"Ratio Testing",
-		"likes":23
+		"likes":39
 	}
 }

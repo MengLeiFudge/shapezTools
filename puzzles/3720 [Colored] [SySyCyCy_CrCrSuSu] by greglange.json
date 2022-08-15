@@ -434,18 +434,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04347826086956519,
-		"averageTime":38.14772727272727,
-		"downloads":92,
+		"difficulty":0.037735849056603765,
+		"averageTime":35.88235294117647,
+		"downloads":106,
 		"shortKey":"SySyCyCy:CrCrSuSu",
 		"author":"greglange",
-		"completions":88,
+		"completions":102,
 		"id":3720,
 		"completed":false,
 		"title":"Colored",
-		"likes":14
+		"likes":15
 	}
 }

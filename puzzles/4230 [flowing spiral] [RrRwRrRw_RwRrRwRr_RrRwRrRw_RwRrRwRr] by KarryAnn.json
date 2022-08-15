@@ -727,18 +727,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06521739130434778,
-		"averageTime":23.13953488372093,
-		"downloads":46,
+		"difficulty":0.07462686567164178,
+		"averageTime":24.06451612903226,
+		"downloads":67,
 		"shortKey":"RrRwRrRw:RwRrRwRr:RrRwRrRw:RwRrRwRr",
 		"author":"KarryAnn",
-		"completions":43,
+		"completions":62,
 		"id":4230,
 		"completed":false,
 		"title":"flowing spiral",
-		"likes":6
+		"likes":8
 	}
 }

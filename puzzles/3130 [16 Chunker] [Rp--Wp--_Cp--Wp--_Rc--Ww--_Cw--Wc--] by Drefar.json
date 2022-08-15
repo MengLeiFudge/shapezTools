@@ -836,18 +836,20 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7692307692307692,
-		"averageTime":2188.1666666666665,
-		"downloads":26,
+		"difficulty":0.7272727272727273,
+		"averageTime":1704.2222222222222,
+		"downloads":36,
 		"shortKey":"Rp--Wp--:Cp--Wp--:Rc--Ww--:Cw--Wc--",
 		"author":"Drefar",
-		"completions":6,
+		"completions":9,
 		"id":3130,
 		"completed":false,
 		"title":"16 Chunker",
-		"likes":4
+		"likes":6
 	}
 }

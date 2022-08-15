@@ -631,15 +631,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4512195121951219,
-		"averageTime":356.68888888888887,
-		"downloads":83,
+		"difficulty":0.3880597014925373,
+		"averageTime":334.1463414634146,
+		"downloads":134,
 		"shortKey":"CrCbCgCr",
 		"author":"MattiDragon",
-		"completions":45,
+		"completions":82,
 		"id":4730,
 		"completed":false,
 		"title":"The cutting tunnel",
-		"likes":26
+		"likes":39
 	}
 }

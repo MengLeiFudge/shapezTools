@@ -397,12 +397,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.16000000000000003,
-		"averageTime":141.23809523809524,
-		"downloads":25,
+		"difficulty":0.15625,
+		"averageTime":135.77777777777777,
+		"downloads":32,
 		"shortKey":"CrCgCbCy:CgCbCyCr:CbCyCrCg:CyCrCgCb",
 		"author":"h.bakkerit",
-		"completions":21,
+		"completions":27,
 		"id":2648,
 		"completed":false,
 		"title":"Flow right",

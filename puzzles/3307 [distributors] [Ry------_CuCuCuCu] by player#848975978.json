@@ -255,15 +255,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.13043478260869568,
-		"averageTime":78.95,
-		"downloads":23,
+		"difficulty":0.06666666666666665,
+		"averageTime":76.57142857142857,
+		"downloads":45,
 		"shortKey":"Ry------:CuCuCuCu",
 		"author":"player#848975978",
-		"completions":20,
+		"completions":42,
 		"id":3307,
 		"completed":false,
 		"title":"distributors",
-		"likes":3
+		"likes":6
 	}
 }

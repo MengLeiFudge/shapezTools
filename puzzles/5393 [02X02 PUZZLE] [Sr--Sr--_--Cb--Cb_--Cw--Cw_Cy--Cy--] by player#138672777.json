@@ -888,10 +888,12 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":14,
+		"downloads":18,
 		"shortKey":"Sr--Sr--:--Cb--Cb:--Cw--Cw:Cy--Cy--",
 		"author":"player#138672777",
 		"completions":0,

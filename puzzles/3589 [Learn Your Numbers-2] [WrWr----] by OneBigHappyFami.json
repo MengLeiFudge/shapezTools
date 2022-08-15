@@ -364,15 +364,17 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.22580645161290325,
-		"averageTime":509.4166666666667,
-		"downloads":34,
+		"difficulty":0.29268292682926833,
+		"averageTime":438.6896551724138,
+		"downloads":41,
 		"shortKey":"WrWr----",
 		"author":"OneBigHappyFami",
-		"completions":24,
+		"completions":29,
 		"id":3589,
 		"completed":false,
 		"title":"Learn Your Numbers-2",

@@ -334,15 +334,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5227272727272727,
-		"averageTime":677.4761904761905,
-		"downloads":44,
+		"difficulty":0.4285714285714286,
+		"averageTime":615.453125,
+		"downloads":112,
 		"shortKey":"SySySySy:--Cp--Cp:Rc--Rc--",
 		"author":"maiko",
-		"completions":21,
+		"completions":64,
 		"id":4253,
 		"completed":false,
 		"title":"maiko41",
-		"likes":14
+		"likes":33
 	}
 }

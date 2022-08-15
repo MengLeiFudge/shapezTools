@@ -36,9 +36,6 @@ public class GetAllPuzzles {
 
     public void process(boolean getAllPuzzles) {
         PUZZLES_DIR.mkdirs();
-        PUZZLES_DIR.mkdirs();
-        PUZZLES_DIR.mkdirs();
-        PUZZLES_DIR.mkdirs();
         if (getAllPuzzles) {
             getAllPuzzles();
         }

@@ -250,16 +250,18 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":3,
+		"downloads":4,
 		"shortKey":"CrWyCrCw:WwSyWwSg",
 		"author":"steijneman",
-		"completions":1,
+		"completions":2,
 		"id":657,
 		"completed":false,
 		"title":"square heist",
-		"likes":0
+		"likes":1
 	}
 }

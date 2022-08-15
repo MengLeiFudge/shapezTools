@@ -243,15 +243,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4666666666666667,
-		"averageTime":670,
-		"downloads":16,
+		"difficulty":0.4444444444444444,
+		"averageTime":679.2,
+		"downloads":19,
 		"shortKey":"--RrRu--:Cu----Cr",
 		"author":"mootmoot",
-		"completions":8,
+		"completions":10,
 		"id":3280,
 		"completed":true,
 		"title":"Floating checker",
-		"likes":6
+		"likes":7
 	}
 }

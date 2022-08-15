@@ -1061,16 +1061,18 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":10,
 		"shortKey":"CpCuRwWu",
 		"author":"Dhulfiqar",
-		"completions":2,
+		"completions":3,
 		"id":5619,
 		"completed":false,
 		"title":"Puzzle Square- 20x20",
-		"likes":0
+		"likes":1
 	}
 }

@@ -42,13 +42,15 @@
 		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.21052631578947367,
+		"averageTime":27.733333333333334,
+		"downloads":19,
 		"shortKey":"CbCb----",
 		"author":"player#212478626",
-		"completions":6,
+		"completions":15,
 		"id":941,
 		"completed":false,
 		"title":"Compact",
-		"likes":1
+		"likes":2
 	}
 }

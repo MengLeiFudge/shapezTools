@@ -32,15 +32,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":457.1,
-		"downloads":21,
+		"difficulty":0.3793103448275862,
+		"averageTime":376.6111111111111,
+		"downloads":29,
 		"shortKey":"SrScScSr:Sr----Sr",
 		"author":"mootmoot",
-		"completions":10,
+		"completions":18,
 		"id":2908,
 		"completed":true,
 		"title":"Bottom half harder",
-		"likes":6
+		"likes":7
 	}
 }

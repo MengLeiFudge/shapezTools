@@ -172,12 +172,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.20370370370370372,
-		"averageTime":104.16279069767442,
-		"downloads":55,
+		"difficulty":0.23809523809523814,
+		"averageTime":104.66666666666667,
+		"downloads":63,
 		"shortKey":"CuCuCuCu:Cu--Cu--:--Cu--Cu:CuCuCuCu",
 		"author":"DualBoot",
-		"completions":43,
+		"completions":48,
 		"id":5276,
 		"completed":false,
 		"title":"4inWormhole-no_stack",

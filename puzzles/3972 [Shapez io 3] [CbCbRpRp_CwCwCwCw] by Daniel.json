@@ -659,15 +659,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4117647058823529,
-		"averageTime":313.2,
-		"downloads":52,
+		"difficulty":0.3928571428571429,
+		"averageTime":300.6470588235294,
+		"downloads":60,
 		"shortKey":"CbCbRpRp:CwCwCwCw",
 		"author":"Daniel",
-		"completions":30,
+		"completions":34,
 		"id":3972,
 		"completed":false,
 		"title":"Shapez io 3",

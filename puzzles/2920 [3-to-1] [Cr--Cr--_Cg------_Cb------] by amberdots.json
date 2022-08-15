@@ -121,18 +121,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6935483870967742,
-		"averageTime":850.2631578947369,
-		"downloads":66,
+		"difficulty":0.7058823529411764,
+		"averageTime":809.3,
+		"downloads":68,
 		"shortKey":"Cr--Cr--:Cg------:Cb------",
 		"author":"amberdots",
-		"completions":19,
+		"completions":20,
 		"id":2920,
 		"completed":false,
 		"title":"3-to-1",
-		"likes":10
+		"likes":11
 	}
 }

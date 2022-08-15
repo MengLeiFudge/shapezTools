@@ -1011,18 +1011,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3793103448275862,
-		"averageTime":496.5925925925926,
-		"downloads":87,
+		"difficulty":0.32369942196531787,
+		"averageTime":538.982905982906,
+		"downloads":173,
 		"shortKey":"SySbSgSw",
 		"author":"maiko",
-		"completions":54,
+		"completions":117,
 		"id":3300,
 		"completed":false,
 		"title":"maiko14",
-		"likes":28
+		"likes":52
 	}
 }

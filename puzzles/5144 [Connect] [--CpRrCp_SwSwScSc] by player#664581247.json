@@ -181,15 +181,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":449.09090909090907,
-		"downloads":46,
+		"difficulty":0.4426229508196722,
+		"averageTime":402.8529411764706,
+		"downloads":61,
 		"shortKey":"--CpRrCp:SwSwScSc",
 		"author":"player#664581247",
-		"completions":22,
+		"completions":34,
 		"id":5144,
 		"completed":true,
 		"title":"Connect",
-		"likes":12
+		"likes":14
 	}
 }

@@ -221,15 +221,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.14715719063545152,
-		"averageTime":138.6705882352941,
-		"downloads":299,
+		"difficulty":0.10943396226415092,
+		"averageTime":139.59322033898306,
+		"downloads":530,
 		"shortKey":"WwWwWwWw:ScScScSc:RrRr----:RrRr----",
 		"author":"Dhulfiqar",
-		"completions":255,
+		"completions":472,
 		"id":3281,
-		"completed":false,
+		"completed":true,
 		"title":"Quad stack",
-		"likes":110
+		"likes":166
 	}
 }

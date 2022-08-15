@@ -88,16 +88,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.6363636363636364,
+		"averageTime":302,
+		"downloads":11,
 		"shortKey":"SrSrWrWr:SwSwWwWw",
 		"author":"WizardMaster38",
-		"completions":3,
+		"completions":4,
 		"id":3113,
 		"completed":false,
 		"title":"First Puzzel",
-		"likes":1
+		"likes":2
 	}
 }

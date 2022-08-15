@@ -115,18 +115,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0786516853932584,
-		"averageTime":36.15853658536585,
-		"downloads":89,
+		"difficulty":0.06060606060606055,
+		"averageTime":45.50806451612903,
+		"downloads":132,
 		"shortKey":"WuWuWuWu:SrSbSrSb",
 		"author":"L14M",
-		"completions":82,
+		"completions":124,
 		"id":3801,
 		"completed":false,
 		"title":"fffffffffffffff",
-		"likes":14
+		"likes":20
 	}
 }

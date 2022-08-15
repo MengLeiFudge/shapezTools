@@ -154,15 +154,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.6610169491525424,
-		"averageTime":445.2,
-		"downloads":61,
+		"difficulty":0.5931034482758621,
+		"averageTime":676.457627118644,
+		"downloads":145,
 		"shortKey":"CpCpRpRp",
 		"author":"EPIK95",
-		"completions":20,
+		"completions":59,
 		"id":5367,
-		"completed":false,
+		"completed":true,
 		"title":"Double Trouble",
-		"likes":12
+		"likes":28
 	}
 }

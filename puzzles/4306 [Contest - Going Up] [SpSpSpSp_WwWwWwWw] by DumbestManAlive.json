@@ -696,15 +696,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2727272727272727,
-		"averageTime":244.54166666666666,
-		"downloads":36,
+		"difficulty":0.28888888888888886,
+		"averageTime":225.21875,
+		"downloads":45,
 		"shortKey":"SpSpSpSp:WwWwWwWw",
 		"author":"DumbestManAlive",
-		"completions":24,
+		"completions":32,
 		"id":4306,
 		"completed":false,
 		"title":"Contest - Going Up",

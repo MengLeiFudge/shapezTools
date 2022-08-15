@@ -146,13 +146,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.1875,
+		"averageTime":33.30769230769231,
+		"downloads":16,
 		"shortKey":"CbRbRbCb:CuCuCuCu:WwWwWwWw",
 		"author":"Daniel",
-		"completions":9,
+		"completions":13,
 		"id":3953,
 		"completed":false,
 		"title":"Fan Factory",

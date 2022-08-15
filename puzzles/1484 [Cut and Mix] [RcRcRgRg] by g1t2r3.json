@@ -235,10 +235,12 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":15,
+		"downloads":18,
 		"shortKey":"RcRcRgRg",
 		"author":"g1t2r3",
 		"completions":2,

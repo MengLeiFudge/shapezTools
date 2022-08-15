@@ -123,10 +123,12 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":5,
+		"downloads":6,
 		"shortKey":"--CwCw--:CrCr----:Cw----Cw:----CrCr",
 		"author":"NeonApe",
 		"completions":1,

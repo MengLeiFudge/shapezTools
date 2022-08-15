@@ -385,18 +385,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09375,
-		"averageTime":143.67241379310346,
-		"downloads":64,
+		"difficulty":0.07317073170731703,
+		"averageTime":127.84210526315789,
+		"downloads":82,
 		"shortKey":"--Cu----:CuCuCuCu",
 		"author":"DualBoot",
-		"completions":58,
+		"completions":76,
 		"id":5555,
 		"completed":false,
 		"title":"MoleMan",
-		"likes":18
+		"likes":22
 	}
 }

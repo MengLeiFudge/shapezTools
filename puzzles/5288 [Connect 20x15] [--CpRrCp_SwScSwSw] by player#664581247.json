@@ -271,15 +271,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2272727272727273,
-		"averageTime":359.3529411764706,
-		"downloads":23,
+		"difficulty":0.2647058823529411,
+		"averageTime":336.08,
+		"downloads":34,
 		"shortKey":"--CpRrCp:SwScSwSw",
 		"author":"player#664581247",
-		"completions":17,
+		"completions":25,
 		"id":5288,
 		"completed":false,
 		"title":"Connect 20x15",
-		"likes":5
+		"likes":7
 	}
 }

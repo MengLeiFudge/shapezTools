@@ -369,15 +369,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2666666666666667,
-		"averageTime":106,
-		"downloads":15,
+		"difficulty":0.23529411764705888,
+		"averageTime":106.84615384615384,
+		"downloads":17,
 		"shortKey":"CrCrCrCr:CbCbCbCb:CrCrCrCr:CbCbCbCb",
 		"author":"CAPSLOCK",
-		"completions":11,
+		"completions":13,
 		"id":2462,
 		"completed":false,
 		"title":"Red and Blue",

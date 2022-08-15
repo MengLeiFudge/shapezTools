@@ -61,15 +61,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":75.42857142857143,
-		"downloads":18,
+		"difficulty":0.19999999999999996,
+		"averageTime":72.5625,
+		"downloads":20,
 		"shortKey":"WrWrWrWr:SwSwSwSw:WrWrWrWr:SwSwSwSw",
 		"author":"matthew.p.hardi",
-		"completions":14,
+		"completions":16,
 		"id":1933,
 		"completed":false,
 		"title":"stack",

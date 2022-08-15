@@ -43,18 +43,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1428571428571429,
-		"averageTime":90.54166666666667,
-		"downloads":28,
+		"difficulty":0.11764705882352944,
+		"averageTime":91.96666666666667,
+		"downloads":34,
 		"shortKey":"SySySySy:CwRyCwRy",
 		"author":"player#429578393",
-		"completions":24,
+		"completions":30,
 		"id":4913,
 		"completed":false,
 		"title":"Just a yellow square",
-		"likes":6
+		"likes":8
 	}
 }

@@ -292,10 +292,12 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"CuCrCgCb",
 		"author":"player#214415050",
 		"completions":1,

@@ -150,15 +150,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5428571428571429,
-		"averageTime":548,
-		"downloads":37,
+		"difficulty":0.5121951219512195,
+		"averageTime":530,
+		"downloads":41,
 		"shortKey":"Sc------:--WuWp--:RgCwCgWb:CbCcWwCp",
 		"author":"Rauster",
-		"completions":16,
+		"completions":20,
 		"id":5119,
 		"completed":false,
 		"title":"Pour Rida",

@@ -90,15 +90,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.011406844106463865,
-		"averageTime":28.876923076923077,
-		"downloads":263,
+		"difficulty":0.009569377990430672,
+		"averageTime":31.07487922705314,
+		"downloads":418,
 		"shortKey":"SpSpSpSp",
 		"author":"anonymous",
-		"completions":260,
+		"completions":414,
 		"id":199,
 		"completed":false,
 		"title":"Stars In Purple",
-		"likes":58
+		"likes":80
 	}
 }

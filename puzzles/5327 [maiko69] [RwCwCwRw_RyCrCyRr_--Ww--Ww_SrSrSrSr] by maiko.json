@@ -680,15 +680,17 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.8,
-		"averageTime":940.5,
-		"downloads":13,
+		"difficulty":0.7857142857142857,
+		"averageTime":850.3333333333334,
+		"downloads":14,
 		"shortKey":"RwCwCwRw:RyCrCyRr:--Ww--Ww:SrSrSrSr",
 		"author":"maiko",
-		"completions":2,
+		"completions":3,
 		"id":5327,
 		"completed":false,
 		"title":"maiko69",

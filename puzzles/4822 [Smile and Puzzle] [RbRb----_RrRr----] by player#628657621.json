@@ -2724,18 +2724,20 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.05607476635514019,
-		"averageTime":66.64356435643565,
-		"downloads":107,
+		"difficulty":0.030303030303030276,
+		"averageTime":63.072916666666664,
+		"downloads":199,
 		"shortKey":"RbRb----:RrRr----",
 		"author":"player#628657621",
-		"completions":101,
+		"completions":192,
 		"id":4822,
 		"completed":true,
 		"title":"Smile and Puzzle",
-		"likes":23
+		"likes":34
 	}
 }

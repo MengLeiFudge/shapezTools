@@ -34,15 +34,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21739130434782605,
-		"averageTime":22.22222222222222,
-		"downloads":23,
+		"difficulty":0.19999999999999996,
+		"averageTime":26.8,
+		"downloads":25,
 		"shortKey":"CgCgCuCu",
 		"author":"wanderdodo39",
-		"completions":18,
+		"completions":20,
 		"id":3270,
 		"completed":false,
 		"title":"HalfsadHalfGreen",

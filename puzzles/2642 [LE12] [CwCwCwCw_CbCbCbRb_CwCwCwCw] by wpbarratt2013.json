@@ -61,15 +61,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":66.33333333333333,
-		"downloads":16,
+		"difficulty":0.2222222222222222,
+		"averageTime":67.85714285714286,
+		"downloads":18,
 		"shortKey":"CwCwCwCw:CbCbCbRb:CwCwCwCw",
 		"author":"wpbarratt2013",
-		"completions":12,
+		"completions":14,
 		"id":2642,
 		"completed":false,
 		"title":"LE12",

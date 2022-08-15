@@ -392,15 +392,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3783783783783784,
-		"averageTime":573.2608695652174,
-		"downloads":40,
+		"difficulty":0.36734693877551017,
+		"averageTime":510.93548387096774,
+		"downloads":49,
 		"shortKey":"CbCbCbRb:CwCwCwCw:CbCwCbCw",
 		"author":"PandaGhost",
-		"completions":23,
+		"completions":31,
 		"id":3522,
 		"completed":false,
 		"title":"Bluprints",
-		"likes":11
+		"likes":12
 	}
 }

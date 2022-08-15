@@ -134,15 +134,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.09027777777777779,
-		"averageTime":90.77862595419847,
-		"downloads":144,
+		"difficulty":0.09289617486338797,
+		"averageTime":91.19277108433735,
+		"downloads":183,
 		"shortKey":"CrRgWbSy",
 		"author":"GhettoSerafno",
-		"completions":131,
+		"completions":166,
 		"id":1632,
 		"completed":false,
 		"title":"Narrow Tunnel",
-		"likes":42
+		"likes":52
 	}
 }

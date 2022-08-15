@@ -44,15 +44,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07272727272727275,
-		"averageTime":78.24183006535948,
-		"downloads":165,
+		"difficulty":0.04181184668989546,
+		"averageTime":75.9090909090909,
+		"downloads":287,
 		"shortKey":"CbCcCbCc:WcWbWcWb",
 		"author":"player#135118959",
-		"completions":153,
+		"completions":275,
 		"id":2916,
 		"completed":true,
 		"title":"puzzle10",
-		"likes":36
+		"likes":53
 	}
 }

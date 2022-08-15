@@ -34,18 +34,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16991643454038996,
-		"averageTime":213.28187919463087,
-		"downloads":360,
+		"difficulty":0.15384615384615385,
+		"averageTime":227.84242424242424,
+		"downloads":585,
 		"shortKey":"CbSrCrSb",
 		"author":"unsoughtspoon",
-		"completions":298,
+		"completions":495,
 		"id":2625,
 		"completed":true,
 		"title":"Compact",
-		"likes":132
+		"likes":181
 	}
 }

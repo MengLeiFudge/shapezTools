@@ -43,18 +43,20 @@
 			"h":3
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.26315789473684215,
-		"averageTime":213.79464285714286,
-		"downloads":152,
+		"difficulty":0.2180685358255452,
+		"averageTime":206.94820717131475,
+		"downloads":322,
 		"shortKey":"CbSbSbCb",
 		"author":"Hypnotoad",
-		"completions":112,
+		"completions":251,
 		"id":3024,
 		"completed":true,
 		"title":"Friday",
-		"likes":53
+		"likes":98
 	}
 }

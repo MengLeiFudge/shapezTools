@@ -249,15 +249,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.23880597014925375,
-		"averageTime":174.2941176470588,
-		"downloads":67,
+		"difficulty":0.13122171945701355,
+		"averageTime":201.54166666666666,
+		"downloads":221,
 		"shortKey":"SgSbSySr",
 		"author":"Sooka",
-		"completions":51,
+		"completions":192,
 		"id":5152,
 		"completed":false,
 		"title":"Sooka02",
-		"likes":21
+		"likes":69
 	}
 }

@@ -139,18 +139,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1228070175438597,
-		"averageTime":127.56666666666666,
-		"downloads":171,
+		"difficulty":0.10671936758893286,
+		"averageTime":136.50442477876106,
+		"downloads":253,
 		"shortKey":"RyRyRyRy:RyRyRyRy:RyRyRyRy:Rw----Rw",
 		"author":"DualBoot",
-		"completions":150,
+		"completions":226,
 		"id":3068,
 		"completed":true,
 		"title":"SpongeBob",
-		"likes":62
+		"likes":79
 	}
 }

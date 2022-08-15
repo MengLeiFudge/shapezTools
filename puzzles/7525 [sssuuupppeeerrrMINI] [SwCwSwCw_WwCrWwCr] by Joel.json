@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":180,
+					"x":0,
+					"y":0
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":2
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.0357142857142857,
+		"averageTime":6.074074074074074,
+		"downloads":29,
+		"shortKey":"SwCwSwCw:WwCrWwCr",
+		"author":"Joel",
+		"completions":27,
+		"id":7525,
+		"completed":false,
+		"title":"sssuuupppeeerrrMINI",
+		"likes":2
+	}
+}

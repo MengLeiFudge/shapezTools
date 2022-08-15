@@ -155,18 +155,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.06382978723404253,
-		"averageTime":55.96306818181818,
-		"downloads":376,
+		"difficulty":0.06471494607087824,
+		"averageTime":95.07084019769357,
+		"downloads":649,
 		"shortKey":"RuRuRuRu:CuCwCuCw",
 		"author":"Blue556",
-		"completions":352,
+		"completions":607,
 		"id":1990,
 		"completed":true,
 		"title":"Now in Greyscale",
-		"likes":98
+		"likes":145
 	}
 }

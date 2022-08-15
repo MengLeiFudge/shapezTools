@@ -123,15 +123,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2857142857142857,
-		"averageTime":55.1,
-		"downloads":14,
+		"difficulty":0.23529411764705888,
+		"averageTime":51.07692307692308,
+		"downloads":17,
 		"shortKey":"CrSrSuCu",
 		"author":"player#135118959",
-		"completions":10,
+		"completions":13,
 		"id":2730,
 		"completed":false,
 		"title":"puzzle2",
-		"likes":0
+		"likes":1
 	}
 }

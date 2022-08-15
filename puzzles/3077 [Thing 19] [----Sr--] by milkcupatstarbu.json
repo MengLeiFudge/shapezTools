@@ -213,15 +213,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5119047619047619,
-		"averageTime":593.7317073170732,
-		"downloads":87,
+		"difficulty":0.4545454545454546,
+		"averageTime":447.78205128205127,
+		"downloads":143,
 		"shortKey":"----Sr--",
 		"author":"milkcupatstarbu",
-		"completions":41,
+		"completions":78,
 		"id":3077,
 		"completed":true,
 		"title":"Thing 19",
-		"likes":28
+		"likes":42
 	}
 }

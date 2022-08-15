@@ -129,15 +129,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4054054054054054,
-		"averageTime":146.6818181818182,
-		"downloads":39,
+		"difficulty":0.30434782608695654,
+		"averageTime":171.9375,
+		"downloads":69,
 		"shortKey":"CgRg----:Sw------",
 		"author":"Sense_101",
-		"completions":22,
+		"completions":48,
 		"id":483,
 		"completed":true,
 		"title":"Who needs belts",
-		"likes":12
+		"likes":18
 	}
 }

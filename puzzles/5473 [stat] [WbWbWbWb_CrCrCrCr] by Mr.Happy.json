@@ -452,13 +452,15 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"WbWbWbWb:CrCrCrCr",
 		"author":"Mr.Happy",
-		"completions":5,
+		"completions":6,
 		"id":5473,
 		"completed":false,
 		"title":"stat",

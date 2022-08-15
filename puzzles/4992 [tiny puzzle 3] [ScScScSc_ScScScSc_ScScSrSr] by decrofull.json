@@ -51,18 +51,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":41.785714285714285,
-		"downloads":19,
+		"difficulty":0.20833333333333337,
+		"averageTime":55.78947368421053,
+		"downloads":24,
 		"shortKey":"ScScScSc:ScScScSc:ScScSrSr",
 		"author":"decrofull",
-		"completions":14,
+		"completions":19,
 		"id":4992,
 		"completed":false,
 		"title":"tiny puzzle 3",
-		"likes":2
+		"likes":3
 	}
 }

@@ -83,18 +83,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0495495495495496,
-		"averageTime":63.04739336492891,
-		"downloads":222,
+		"difficulty":0.04739336492891,
+		"averageTime":66.61940298507463,
+		"downloads":422,
 		"shortKey":"Cb------:Cw------",
 		"author":"Jaiihawk",
-		"completions":211,
+		"completions":402,
 		"id":1940,
 		"completed":false,
 		"title":"trash",
-		"likes":50
+		"likes":83
 	}
 }

@@ -271,10 +271,12 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"downloads":10,
 		"shortKey":"--CrCg--:----CyCb:Cc----Cp:CuCw----",
 		"author":"player#138672777",
 		"completions":5,

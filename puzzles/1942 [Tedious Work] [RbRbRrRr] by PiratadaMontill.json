@@ -538,15 +538,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4285714285714286,
-		"averageTime":172.75,
-		"downloads":14,
+		"difficulty":0.4,
+		"averageTime":166.22222222222223,
+		"downloads":15,
 		"shortKey":"RbRbRrRr",
 		"author":"PiratadaMontill",
-		"completions":8,
+		"completions":9,
 		"id":1942,
 		"completed":false,
 		"title":"Tedious Work",

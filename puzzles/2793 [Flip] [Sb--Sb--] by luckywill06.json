@@ -74,12 +74,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.33333333333333337,
-		"averageTime":248.6,
-		"downloads":15,
+		"difficulty":0.3125,
+		"averageTime":235.63636363636363,
+		"downloads":16,
 		"shortKey":"Sb--Sb--",
 		"author":"luckywill06",
-		"completions":10,
+		"completions":11,
 		"id":2793,
 		"completed":false,
 		"title":"Flip",

@@ -100,16 +100,18 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"SrSrSrSr:CyCyCyCy",
 		"author":"gentryaustin",
-		"completions":4,
+		"completions":5,
 		"id":701,
 		"completed":false,
 		"title":"Make Lv15",
-		"likes":2
+		"likes":3
 	}
 }

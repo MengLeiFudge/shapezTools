@@ -164,15 +164,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.8181818181818181,
-		"averageTime":2062,
-		"downloads":13,
+		"difficulty":0.7647058823529411,
+		"averageTime":1304.25,
+		"downloads":19,
 		"shortKey":"--SrSrRr:----SrRr",
 		"author":"Grinchfeet",
-		"completions":2,
+		"completions":4,
 		"id":4340,
 		"completed":false,
 		"title":"Buffer 02_",
-		"likes":2
+		"likes":3
 	}
 }

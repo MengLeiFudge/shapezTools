@@ -468,18 +468,20 @@
 			"h":17
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07324840764331209,
-		"averageTime":91.06872852233677,
-		"downloads":314,
+		"difficulty":0.09234828496042213,
+		"averageTime":90.12790697674419,
+		"downloads":379,
 		"shortKey":"SyRbCrRu",
 		"author":"Casual",
-		"completions":291,
+		"completions":344,
 		"id":2262,
 		"completed":true,
 		"title":"generic",
-		"likes":97
+		"likes":109
 	}
 }

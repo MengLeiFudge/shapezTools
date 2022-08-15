@@ -123,18 +123,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0980392156862745,
-		"averageTime":192.3695652173913,
-		"downloads":51,
+		"difficulty":0.09589041095890416,
+		"averageTime":172.27272727272728,
+		"downloads":74,
 		"shortKey":"Cu------:--Ru----:----Su--:------Wu",
 		"author":"MisterGoldminer",
-		"completions":46,
+		"completions":66,
 		"id":3577,
 		"completed":false,
 		"title":"Weird Layer Cutting",
-		"likes":15
+		"likes":20
 	}
 }

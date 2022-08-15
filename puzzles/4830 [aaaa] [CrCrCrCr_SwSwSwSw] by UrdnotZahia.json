@@ -832,15 +832,17 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15217391304347827,
-		"averageTime":168.43589743589743,
-		"downloads":46,
+		"difficulty":0.1568627450980392,
+		"averageTime":158.93023255813952,
+		"downloads":51,
 		"shortKey":"CrCrCrCr:SwSwSwSw",
 		"author":"UrdnotZahia",
-		"completions":39,
+		"completions":43,
 		"id":4830,
 		"completed":false,
 		"title":"aaaa",

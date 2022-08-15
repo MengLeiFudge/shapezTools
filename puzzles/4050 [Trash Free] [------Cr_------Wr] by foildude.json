@@ -41,15 +41,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.31818181818181823,
-		"averageTime":142.06666666666666,
-		"downloads":22,
+		"difficulty":0.29166666666666663,
+		"averageTime":129.76470588235293,
+		"downloads":25,
 		"shortKey":"------Cr:------Wr",
 		"author":"foildude",
-		"completions":15,
+		"completions":17,
 		"id":4050,
 		"completed":false,
 		"title":"Trash Free",
-		"likes":3
+		"likes":4
 	}
 }

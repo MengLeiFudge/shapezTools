@@ -34,15 +34,17 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1515151515151515,
-		"averageTime":95.41071428571429,
-		"downloads":66,
+		"difficulty":0.15714285714285714,
+		"averageTime":94.42372881355932,
+		"downloads":71,
 		"shortKey":"Cu------:Cu------:Cr------:Cr------",
 		"author":"JackAMelon",
-		"completions":56,
+		"completions":59,
 		"id":4588,
 		"completed":false,
 		"title":"Need better WiFi",

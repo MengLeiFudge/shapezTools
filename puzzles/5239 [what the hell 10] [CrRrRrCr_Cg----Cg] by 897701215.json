@@ -437,13 +437,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":19,
+		"difficulty":0.95,
+		"averageTime":585,
+		"downloads":22,
 		"shortKey":"CrRrRrCr:Cg----Cg",
 		"author":"897701215",
-		"completions":0,
+		"completions":1,
 		"id":5239,
 		"completed":false,
 		"title":"what the hell 10",

@@ -108,15 +108,17 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23529411764705888,
-		"averageTime":28.23076923076923,
-		"downloads":17,
+		"difficulty":0.2222222222222222,
+		"averageTime":121.21428571428571,
+		"downloads":18,
 		"shortKey":"CwSwRwCw",
 		"author":"Eddie",
-		"completions":13,
+		"completions":14,
 		"id":2663,
 		"completed":false,
 		"title":"Snowball",

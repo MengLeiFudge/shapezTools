@@ -423,12 +423,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4814814814814815,
-		"averageTime":230.21428571428572,
-		"downloads":28,
+		"difficulty":0.48275862068965514,
+		"averageTime":232.13333333333333,
+		"downloads":29,
 		"shortKey":"------Ru:Ru------:--Ru----:----Ru--",
 		"author":"keb_araujo",
-		"completions":14,
+		"completions":15,
 		"id":4578,
 		"completed":false,
 		"title":"Cubes",

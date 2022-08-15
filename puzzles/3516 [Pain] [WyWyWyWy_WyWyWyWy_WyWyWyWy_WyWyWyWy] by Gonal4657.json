@@ -109,15 +109,17 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2222222222222222,
-		"averageTime":82.07142857142857,
-		"downloads":18,
+		"difficulty":0.19999999999999996,
+		"averageTime":78.875,
+		"downloads":20,
 		"shortKey":"WyWyWyWy:WyWyWyWy:WyWyWyWy:WyWyWyWy",
 		"author":"Gonal4657",
-		"completions":14,
+		"completions":16,
 		"id":3516,
 		"completed":false,
 		"title":"Pain",

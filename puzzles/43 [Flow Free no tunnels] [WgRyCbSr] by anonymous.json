@@ -99,15 +99,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.033373063170440975,
-		"averageTime":33.94512946979038,
-		"downloads":1678,
+		"difficulty":0.03497332542975695,
+		"averageTime":34.51013513513514,
+		"downloads":3374,
 		"shortKey":"WgRyCbSr",
 		"author":"anonymous",
-		"completions":1622,
+		"completions":3256,
 		"id":43,
 		"completed":true,
 		"title":"Flow Free no tunnels",
-		"likes":463
+		"likes":741
 	}
 }

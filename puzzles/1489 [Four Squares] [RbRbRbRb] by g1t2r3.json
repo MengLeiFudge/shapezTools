@@ -551,15 +551,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.24866785079928955,
-		"averageTime":258.23286052009456,
-		"downloads":1126,
+		"difficulty":0.25481899388810536,
+		"averageTime":251.35331230283913,
+		"downloads":2128,
 		"shortKey":"RbRbRbRb",
 		"author":"g1t2r3",
-		"completions":846,
+		"completions":1585,
 		"id":1489,
 		"completed":true,
 		"title":"Four Squares",
-		"likes":419
+		"likes":673
 	}
 }

@@ -526,18 +526,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6470588235294117,
-		"averageTime":763.1666666666666,
-		"downloads":34,
+		"difficulty":0.5526315789473684,
+		"averageTime":643.0588235294117,
+		"downloads":38,
 		"shortKey":"Sr------:CrCrRcRc",
 		"author":"Korruptal",
-		"completions":12,
+		"completions":17,
 		"id":4562,
 		"completed":false,
 		"title":"Jsab",
-		"likes":5
+		"likes":9
 	}
 }

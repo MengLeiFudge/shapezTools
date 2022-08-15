@@ -270,10 +270,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.5454545454545454,
+		"averageTime":167.6,
+		"downloads":17,
 		"shortKey":"CgCyCpCc",
 		"author":"897701215",
-		"completions":4,
+		"completions":5,
 		"id":4717,
 		"completed":true,
 		"title":"need store 3",

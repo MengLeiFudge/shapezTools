@@ -283,10 +283,12 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":5,
+		"downloads":6,
 		"shortKey":"CcRcWcSc",
 		"author":"GamingLizard9",
 		"completions":1,

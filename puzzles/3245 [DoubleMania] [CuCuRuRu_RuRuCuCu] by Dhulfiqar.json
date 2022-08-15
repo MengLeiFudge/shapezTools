@@ -59,16 +59,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.25,
+		"averageTime":73,
+		"downloads":16,
 		"shortKey":"CuCuRuRu:RuRuCuCu",
 		"author":"Dhulfiqar",
-		"completions":5,
+		"completions":12,
 		"id":3245,
 		"completed":false,
 		"title":"DoubleMania",
-		"likes":2
+		"likes":3
 	}
 }

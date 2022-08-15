@@ -117,18 +117,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.061855670103092786,
-		"averageTime":108.3992673992674,
-		"downloads":291,
+		"difficulty":0.06289308176100628,
+		"averageTime":105.58724832214764,
+		"downloads":318,
 		"shortKey":"WrWrWrWr:CwCwCwCw",
 		"author":"player#465855191",
-		"completions":273,
+		"completions":298,
 		"id":1462,
 		"completed":false,
 		"title":"Flower",
-		"likes":88
+		"likes":93
 	}
 }

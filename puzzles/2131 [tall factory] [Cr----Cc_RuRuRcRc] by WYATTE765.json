@@ -356,10 +356,12 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":6,
+		"downloads":7,
 		"shortKey":"Cr----Cc:RuRuRcRc",
 		"author":"WYATTE765",
 		"completions":0,

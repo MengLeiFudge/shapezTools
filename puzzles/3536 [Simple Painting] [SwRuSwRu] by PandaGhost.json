@@ -98,15 +98,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.08108108108108103,
-		"averageTime":17.41176470588235,
-		"downloads":37,
+		"difficulty":0.07999999999999996,
+		"averageTime":18.347826086956523,
+		"downloads":50,
 		"shortKey":"SwRuSwRu",
 		"author":"PandaGhost",
-		"completions":34,
+		"completions":46,
 		"id":3536,
 		"completed":false,
 		"title":"Simple Painting",
-		"likes":4
+		"likes":6
 	}
 }

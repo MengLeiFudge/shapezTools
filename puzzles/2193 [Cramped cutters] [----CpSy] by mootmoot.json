@@ -241,15 +241,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.3744493392070485,
-		"averageTime":579,
-		"downloads":228,
+		"difficulty":0.40029761904761907,
+		"averageTime":630.63523573201,
+		"downloads":672,
 		"shortKey":"----CpSy",
 		"author":"mootmoot",
-		"completions":142,
+		"completions":403,
 		"id":2193,
 		"completed":true,
 		"title":"Cramped cutters",
-		"likes":83
+		"likes":212
 	}
 }

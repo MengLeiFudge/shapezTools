@@ -203,15 +203,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4629629629629629,
-		"averageTime":314.44827586206895,
-		"downloads":57,
+		"difficulty":0.48275862068965514,
+		"averageTime":309.26666666666665,
+		"downloads":59,
 		"shortKey":"CrRyRyCr:WwWwWwWw",
 		"author":"Gnome_",
-		"completions":29,
+		"completions":30,
 		"id":4092,
 		"completed":false,
 		"title":"Fix the windmill",

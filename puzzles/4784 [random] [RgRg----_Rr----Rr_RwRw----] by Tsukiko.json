@@ -508,10 +508,12 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"downloads":12,
 		"shortKey":"RgRg----:Rr----Rr:RwRw----",
 		"author":"Tsukiko",
 		"completions":6,

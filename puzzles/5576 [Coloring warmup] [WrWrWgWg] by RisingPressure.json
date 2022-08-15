@@ -97,15 +97,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2702702702702703,
-		"averageTime":115.33333333333333,
-		"downloads":37,
+		"difficulty":0.26086956521739135,
+		"averageTime":105.67647058823529,
+		"downloads":46,
 		"shortKey":"WrWrWgWg",
 		"author":"RisingPressure",
-		"completions":27,
+		"completions":34,
 		"id":5576,
 		"completed":false,
 		"title":"Coloring warmup",
-		"likes":8
+		"likes":10
 	}
 }

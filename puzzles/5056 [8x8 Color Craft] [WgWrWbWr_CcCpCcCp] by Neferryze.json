@@ -106,18 +106,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7073170731707317,
-		"averageTime":750.25,
-		"downloads":86,
+		"difficulty":0.7467532467532467,
+		"averageTime":755.7179487179487,
+		"downloads":157,
 		"shortKey":"WgWrWbWr:CcCpCcCp",
 		"author":"Neferryze",
-		"completions":24,
+		"completions":39,
 		"id":5056,
 		"completed":false,
 		"title":"8x8 Color Craft",
-		"likes":20
+		"likes":27
 	}
 }

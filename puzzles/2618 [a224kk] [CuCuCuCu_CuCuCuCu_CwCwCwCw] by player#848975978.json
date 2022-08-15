@@ -628,18 +628,20 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.04009433962264153,
-		"averageTime":84.05405405405405,
-		"downloads":424,
+		"difficulty":0.044995408631772316,
+		"averageTime":88.84807692307692,
+		"downloads":1089,
 		"shortKey":"CuCuCuCu:CuCuCuCu:CwCwCwCw",
 		"author":"player#848975978",
-		"completions":407,
+		"completions":1040,
 		"id":2618,
 		"completed":true,
 		"title":"a224kk",
-		"likes":111
+		"likes":232
 	}
 }

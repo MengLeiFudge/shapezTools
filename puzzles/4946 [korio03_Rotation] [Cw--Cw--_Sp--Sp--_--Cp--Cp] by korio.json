@@ -901,18 +901,20 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6666666666666667,
-		"averageTime":621.5,
-		"downloads":23,
+		"difficulty":0.7692307692307692,
+		"averageTime":595.3333333333334,
+		"downloads":30,
 		"shortKey":"Cw--Cw--:Sp--Sp--:--Cp--Cp",
 		"author":"korio",
-		"completions":4,
+		"completions":6,
 		"id":4946,
 		"completed":false,
 		"title":"korio03_Rotation",
-		"likes":4
+		"likes":5
 	}
 }

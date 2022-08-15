@@ -98,18 +98,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09787234042553195,
-		"averageTime":58.556603773584904,
-		"downloads":235,
+		"difficulty":0.06271777003484325,
+		"averageTime":61.75650557620818,
+		"downloads":574,
 		"shortKey":"CbRwCbRw:SrSySrSy",
 		"author":"TheTechnicBoy",
-		"completions":212,
+		"completions":538,
 		"id":4392,
 		"completed":true,
 		"title":"Weird Star",
-		"likes":54
+		"likes":117
 	}
 }

@@ -578,15 +578,17 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.32258064516129037,
-		"averageTime":538.2380952380952,
-		"downloads":32,
+		"difficulty":0.33333333333333337,
+		"averageTime":493.75,
+		"downloads":36,
 		"shortKey":"CbCbCbCb:CwCwCwCw:CuCuCuCu:WwWwWwWw",
 		"author":"GreenPlus",
-		"completions":21,
+		"completions":24,
 		"id":4450,
 		"completed":false,
 		"title":"Ventilation System",

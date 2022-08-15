@@ -1,0 +1,53 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"red",
+				"pos":{
+					"r":0,
+					"x":-3,
+					"y":7
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":0,
+					"y":7
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"RrRrRrRr",
+				"pos":{
+					"r":270,
+					"x":-3,
+					"y":1
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":17,
+			"h":17
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0,
+		"averageTime":59.53333333333333,
+		"downloads":16,
+		"shortKey":"CbWuCbWu:RpSbRpSb",
+		"author":"darrell.saunder",
+		"completions":15,
+		"id":6070,
+		"completed":false,
+		"title":"starter level",
+		"likes":1
+	}
+}

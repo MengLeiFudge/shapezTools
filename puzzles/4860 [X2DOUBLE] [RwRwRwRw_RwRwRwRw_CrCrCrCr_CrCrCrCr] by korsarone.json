@@ -727,15 +727,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.21276595744680848,
-		"averageTime":169.1891891891892,
-		"downloads":47,
+		"difficulty":0.1923076923076923,
+		"averageTime":163.73809523809524,
+		"downloads":52,
 		"shortKey":"RwRwRwRw:RwRwRwRw:CrCrCrCr:CrCrCrCr",
 		"author":"korsarone",
-		"completions":37,
+		"completions":42,
 		"id":4860,
 		"completed":false,
 		"title":"X2DOUBLE",
-		"likes":12
+		"likes":13
 	}
 }

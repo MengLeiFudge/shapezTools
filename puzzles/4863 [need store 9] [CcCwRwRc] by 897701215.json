@@ -564,13 +564,15 @@
 		]
 	},
 	"meta":{
-		"downloads":17,
+		"difficulty":0.8,
+		"averageTime":1428.5,
+		"downloads":24,
 		"shortKey":"CcCwRwRc",
 		"author":"897701215",
-		"completions":3,
+		"completions":4,
 		"id":4863,
 		"completed":true,
 		"title":"need store 9",
-		"likes":3
+		"likes":4
 	}
 }

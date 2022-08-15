@@ -155,15 +155,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.7021276595744681,
-		"averageTime":981,
-		"downloads":94,
+		"difficulty":0.6935483870967742,
+		"averageTime":820.2736842105263,
+		"downloads":314,
 		"shortKey":"RrRyRwRb",
 		"author":"Sightnado",
-		"completions":28,
+		"completions":95,
 		"id":4952,
 		"completed":true,
 		"title":"Recoloring",
-		"likes":22
+		"likes":55
 	}
 }

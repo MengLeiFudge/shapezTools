@@ -163,15 +163,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.0672268907563025,
-		"averageTime":69.27027027027027,
-		"downloads":119,
+		"difficulty":0.03964757709251099,
+		"averageTime":72.68807339449542,
+		"downloads":227,
 		"shortKey":"SbSbSbSb:SrSrSrSr",
 		"author":"maiko",
-		"completions":111,
+		"completions":218,
 		"id":4095,
 		"completed":false,
 		"title":"maiko39",
-		"likes":25
+		"likes":41
 	}
 }

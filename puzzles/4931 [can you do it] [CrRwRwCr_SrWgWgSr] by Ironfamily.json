@@ -202,15 +202,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13888888888888884,
-		"averageTime":34.645161290322584,
-		"downloads":36,
+		"difficulty":0.1132075471698113,
+		"averageTime":34.59574468085106,
+		"downloads":53,
 		"shortKey":"CrRwRwCr:SrWgWgSr",
 		"author":"Ironfamily",
-		"completions":31,
+		"completions":47,
 		"id":4931,
 		"completed":false,
 		"title":"can you do it",

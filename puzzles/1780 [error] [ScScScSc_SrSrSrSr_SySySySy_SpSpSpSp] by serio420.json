@@ -88,10 +88,12 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":7,
+		"downloads":8,
 		"shortKey":"ScScScSc:SrSrSrSr:SySySySy:SpSpSpSp",
 		"author":"serio420",
 		"completions":3,

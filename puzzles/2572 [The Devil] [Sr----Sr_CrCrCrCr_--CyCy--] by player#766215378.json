@@ -301,15 +301,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5882352941176471,
-		"averageTime":353.7142857142857,
-		"downloads":17,
+		"difficulty":0.5555555555555556,
+		"averageTime":325.625,
+		"downloads":18,
 		"shortKey":"Sr----Sr:CrCrCrCr:--CyCy--",
 		"author":"player#766215378",
-		"completions":7,
+		"completions":8,
 		"id":2572,
 		"completed":false,
 		"title":"The Devil",

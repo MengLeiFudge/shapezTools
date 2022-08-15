@@ -207,18 +207,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3913043478260869,
-		"averageTime":507.07142857142856,
-		"downloads":47,
+		"difficulty":0.3055555555555556,
+		"averageTime":479.54,
+		"downloads":72,
 		"shortKey":"--CcCcCc:--SpSpSp:--WyWyWy",
 		"author":"ModMan64",
-		"completions":28,
+		"completions":50,
 		"id":3717,
 		"completed":true,
 		"title":"8x10 Challenge I",
-		"likes":13
+		"likes":19
 	}
 }

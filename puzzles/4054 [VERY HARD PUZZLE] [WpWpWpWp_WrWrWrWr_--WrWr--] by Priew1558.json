@@ -275,12 +275,14 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.76,
 		"averageTime":898.8333333333334,
-		"downloads":28,
+		"downloads":29,
 		"shortKey":"WpWpWpWp:WrWrWrWr:--WrWr--",
 		"author":"Priew1558",
 		"completions":6,

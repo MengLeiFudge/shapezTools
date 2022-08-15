@@ -292,18 +292,20 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3977272727272727,
-		"averageTime":282.07547169811323,
-		"downloads":89,
+		"difficulty":0.3278688524590164,
+		"averageTime":254.9268292682927,
+		"downloads":123,
 		"shortKey":"RwRw----:RwRw----:RwRw----:RwRw----",
 		"author":"Juli971Master",
-		"completions":53,
+		"completions":82,
 		"id":2378,
 		"completed":true,
 		"title":"New Ideas",
-		"likes":26
+		"likes":35
 	}
 }

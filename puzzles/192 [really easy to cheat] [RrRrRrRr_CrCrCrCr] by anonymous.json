@@ -69,12 +69,12 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.44999999999999996,
-		"averageTime":114.36363636363636,
-		"downloads":20,
+		"difficulty":0.375,
+		"averageTime":105.06666666666666,
+		"downloads":24,
 		"shortKey":"RrRrRrRr:CrCrCrCr",
 		"author":"anonymous",
-		"completions":11,
+		"completions":15,
 		"id":192,
 		"completed":false,
 		"title":"really easy to cheat",

@@ -196,18 +196,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0854700854700855,
-		"averageTime":111.44859813084112,
-		"downloads":118,
+		"difficulty":0.08648648648648649,
+		"averageTime":116.55029585798816,
+		"downloads":185,
 		"shortKey":"SrSrSrSr:CrCrCrCr:CgCgCgCg:SgSgSgSg",
 		"author":"DevraDare",
-		"completions":107,
+		"completions":169,
 		"id":3287,
 		"completed":false,
 		"title":"Crimson Shuriken",
-		"likes":42
+		"likes":57
 	}
 }

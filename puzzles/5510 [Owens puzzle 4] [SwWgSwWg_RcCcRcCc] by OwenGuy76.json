@@ -331,13 +331,17 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"difficulty":0.15384615384615385,
+		"averageTime":41,
+		"downloads":13,
 		"shortKey":"SwWgSwWg:RcCcRcCc",
 		"author":"OwenGuy76",
-		"completions":6,
+		"completions":11,
 		"id":5510,
 		"completed":false,
 		"title":"Owens puzzle 4",

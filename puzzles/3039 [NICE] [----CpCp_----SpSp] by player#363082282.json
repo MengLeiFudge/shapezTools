@@ -403,18 +403,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.24038461538461542,
-		"averageTime":319.65822784810126,
-		"downloads":104,
+		"difficulty":0.21556886227544914,
+		"averageTime":301.587786259542,
+		"downloads":167,
 		"shortKey":"----CpCp:----SpSp",
 		"author":"player#363082282",
-		"completions":79,
+		"completions":131,
 		"id":3039,
 		"completed":true,
 		"title":"NICE",
-		"likes":34
+		"likes":50
 	}
 }

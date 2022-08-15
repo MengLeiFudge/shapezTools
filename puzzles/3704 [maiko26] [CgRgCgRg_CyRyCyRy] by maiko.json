@@ -189,12 +189,14 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.6363636363636364,
 		"averageTime":241,
-		"downloads":11,
+		"downloads":12,
 		"shortKey":"CgRgCgRg:CyRyCyRy",
 		"author":"maiko",
 		"completions":4,

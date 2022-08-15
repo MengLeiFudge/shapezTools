@@ -223,18 +223,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.2749003984063745,
-		"averageTime":249.38186813186815,
-		"downloads":502,
+		"difficulty":0.23892267593397043,
+		"averageTime":268.17351598173514,
+		"downloads":1151,
 		"shortKey":"CwCwCwCw:CbCbCbCb",
 		"author":"player#363082282",
-		"completions":364,
+		"completions":876,
 		"id":2993,
 		"completed":true,
 		"title":"wow cool",
-		"likes":186
+		"likes":361
 	}
 }

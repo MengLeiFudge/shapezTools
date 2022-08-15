@@ -805,15 +805,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.1444444444444445,
-		"averageTime":254.62012987012986,
-		"downloads":361,
+		"difficulty":0.1546707503828484,
+		"averageTime":243.17210144927537,
+		"downloads":654,
 		"shortKey":"CgCgCgCg:SrSrSrSr",
 		"author":"MaKu2",
-		"completions":308,
+		"completions":552,
 		"id":1686,
 		"completed":true,
 		"title":"JUMP JUMP",
-		"likes":129
+		"likes":205
 	}
 }

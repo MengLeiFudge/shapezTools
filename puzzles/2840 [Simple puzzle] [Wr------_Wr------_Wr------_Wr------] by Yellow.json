@@ -225,15 +225,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11764705882352944,
-		"averageTime":165.38333333333333,
-		"downloads":68,
+		"difficulty":0.11688311688311692,
+		"averageTime":155.33823529411765,
+		"downloads":78,
 		"shortKey":"Wr------:Wr------:Wr------:Wr------",
 		"author":"Yellow",
-		"completions":60,
+		"completions":68,
 		"id":2840,
 		"completed":false,
 		"title":"Simple puzzle",
-		"likes":20
+		"likes":21
 	}
 }

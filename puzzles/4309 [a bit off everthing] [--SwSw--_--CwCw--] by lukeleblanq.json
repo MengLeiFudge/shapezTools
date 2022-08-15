@@ -259,18 +259,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07462686567164178,
-		"averageTime":57.88709677419355,
-		"downloads":67,
+		"difficulty":0.04575163398692805,
+		"averageTime":71.84246575342466,
+		"downloads":153,
 		"shortKey":"--SwSw--:--CwCw--",
 		"author":"lukeleblanq",
-		"completions":62,
+		"completions":146,
 		"id":4309,
 		"completed":false,
 		"title":"a bit off everthing",
-		"likes":13
+		"likes":27
 	}
 }

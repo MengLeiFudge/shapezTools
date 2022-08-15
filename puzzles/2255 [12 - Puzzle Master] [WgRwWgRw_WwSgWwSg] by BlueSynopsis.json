@@ -548,18 +548,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.03811659192825112,
-		"averageTime":80.98601398601399,
-		"downloads":446,
+		"difficulty":0.03638253638253641,
+		"averageTime":85.43473570658037,
+		"downloads":962,
 		"shortKey":"WgRwWgRw:WwSgWwSg",
 		"author":"BlueSynopsis",
-		"completions":429,
+		"completions":927,
 		"id":2255,
 		"completed":true,
 		"title":"12 - Puzzle Master",
-		"likes":118
+		"likes":201
 	}
 }

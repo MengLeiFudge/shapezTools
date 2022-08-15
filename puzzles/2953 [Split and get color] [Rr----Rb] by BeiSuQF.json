@@ -52,18 +52,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1095890410958904,
-		"averageTime":101.72307692307692,
-		"downloads":73,
+		"difficulty":0.101123595505618,
+		"averageTime":99.1,
+		"downloads":89,
 		"shortKey":"Rr----Rb",
 		"author":"BeiSuQF",
-		"completions":65,
+		"completions":80,
 		"id":2953,
 		"completed":true,
 		"title":"Split and get color",
-		"likes":21
+		"likes":24
 	}
 }

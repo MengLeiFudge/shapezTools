@@ -541,13 +541,17 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.36363636363636365,
+		"averageTime":144.14285714285714,
+		"downloads":12,
 		"shortKey":"CrCyCgRb:CwCwCwCw",
 		"author":"L127",
-		"completions":5,
+		"completions":7,
 		"id":1102,
 		"completed":false,
 		"title":"Blueprinting",

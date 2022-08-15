@@ -291,18 +291,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3076923076923077,
-		"averageTime":649.4444444444445,
-		"downloads":15,
+		"difficulty":0.4117647058823529,
+		"averageTime":717.2,
+		"downloads":17,
 		"shortKey":"WrWrWpWp",
 		"author":"matrimvidz",
-		"completions":9,
+		"completions":10,
 		"id":5318,
 		"completed":false,
 		"title":"Tunnels and painters",
-		"likes":3
+		"likes":4
 	}
 }

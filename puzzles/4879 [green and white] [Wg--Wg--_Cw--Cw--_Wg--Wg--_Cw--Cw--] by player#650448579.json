@@ -173,15 +173,17 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":359.77777777777777,
-		"downloads":36,
+		"difficulty":0.475,
+		"averageTime":347,
+		"downloads":41,
 		"shortKey":"Wg--Wg--:Cw--Cw--:Wg--Wg--:Cw--Cw--",
 		"author":"player#650448579",
-		"completions":18,
+		"completions":21,
 		"id":4879,
 		"completed":false,
 		"title":"green and white",

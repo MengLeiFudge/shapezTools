@@ -107,18 +107,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4054054054054054,
-		"averageTime":343.09090909090907,
-		"downloads":42,
+		"difficulty":0.345679012345679,
+		"averageTime":539.2830188679245,
+		"downloads":81,
 		"shortKey":"CuCuCuCu:CuCuCuCu:RwRwRwRw:RwRwRwRw",
 		"author":"DualBoot",
-		"completions":22,
+		"completions":53,
 		"id":5269,
 		"completed":false,
 		"title":"Remodeling",
-		"likes":11
+		"likes":24
 	}
 }

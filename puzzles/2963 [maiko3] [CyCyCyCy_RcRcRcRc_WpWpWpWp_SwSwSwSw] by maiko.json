@@ -272,12 +272,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":535.25,
-		"downloads":16,
+		"difficulty":0.4444444444444444,
+		"averageTime":531.6,
+		"downloads":20,
 		"shortKey":"CyCyCyCy:RcRcRcRc:WpWpWpWp:SwSwSwSw",
 		"author":"maiko",
-		"completions":8,
+		"completions":10,
 		"id":2963,
 		"completed":false,
 		"title":"maiko3",

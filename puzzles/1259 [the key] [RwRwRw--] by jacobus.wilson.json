@@ -139,18 +139,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.6761658031088082,
-		"averageTime":517.064,
-		"downloads":389,
+		"difficulty":0.6791208791208792,
+		"averageTime":488.1232876712329,
+		"downloads":466,
 		"shortKey":"RwRwRw--",
 		"author":"jacobus.wilson",
-		"completions":125,
+		"completions":146,
 		"id":1259,
 		"completed":true,
 		"title":"the key",
-		"likes":73
+		"likes":80
 	}
 }

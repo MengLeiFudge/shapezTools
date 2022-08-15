@@ -223,18 +223,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.368421052631579,
-		"averageTime":70.41666666666667,
-		"downloads":19,
+		"difficulty":0.30434782608695654,
+		"averageTime":65.8125,
+		"downloads":23,
 		"shortKey":"RpCySySw:SgCcSyCr:SgRgWbWw:--WgRwCw",
 		"author":"player#766215378",
-		"completions":12,
+		"completions":16,
 		"id":4713,
 		"completed":false,
 		"title":"Mix And Match",
-		"likes":2
+		"likes":3
 	}
 }

@@ -135,15 +135,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.13043478260869568,
-		"averageTime":75.55,
-		"downloads":23,
+		"difficulty":0.07499999999999996,
+		"averageTime":72.1891891891892,
+		"downloads":40,
 		"shortKey":"CrCyCgCb",
 		"author":"anonymous",
-		"completions":20,
+		"completions":37,
 		"id":186,
 		"completed":false,
 		"title":"CTL tunnels for fat",
-		"likes":4
+		"likes":5
 	}
 }

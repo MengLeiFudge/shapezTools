@@ -64,15 +64,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.19047619047619047,
-		"averageTime":155.2941176470588,
-		"downloads":63,
+		"difficulty":0.15714285714285714,
+		"averageTime":147.33898305084745,
+		"downloads":70,
 		"shortKey":"Rr------:Ry------:Rb------:Rw------",
 		"author":"functionbug",
-		"completions":51,
+		"completions":59,
 		"id":4119,
 		"completed":false,
 		"title":"OneForth",
-		"likes":16
+		"likes":17
 	}
 }

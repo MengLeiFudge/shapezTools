@@ -293,13 +293,15 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":14,
+		"difficulty":0.6428571428571428,
+		"averageTime":32.8,
+		"downloads":56,
 		"shortKey":"------Cr:--CyCuCu:CgCyCy--:CgCg----",
 		"author":"anonymous",
-		"completions":4,
+		"completions":5,
 		"id":429,
 		"completed":false,
 		"title":"Good luck-Dogdayboy",
-		"likes":4
+		"likes":5
 	}
 }

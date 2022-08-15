@@ -116,15 +116,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.4821428571428571,
-		"averageTime":358.1034482758621,
-		"downloads":56,
+		"difficulty":0.375,
+		"averageTime":332.9818181818182,
+		"downloads":90,
 		"shortKey":"SrSrSr--",
 		"author":"Professorlf",
-		"completions":29,
+		"completions":55,
 		"id":3080,
 		"completed":true,
 		"title":"balanced - 02",
-		"likes":17
+		"likes":26
 	}
 }

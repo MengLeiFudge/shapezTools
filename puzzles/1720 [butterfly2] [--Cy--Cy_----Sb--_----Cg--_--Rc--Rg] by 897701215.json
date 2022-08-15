@@ -1111,15 +1111,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.9,
-		"averageTime":11221,
-		"downloads":12,
+		"difficulty":0.8461538461538461,
+		"averageTime":5725,
+		"downloads":13,
 		"shortKey":"--Cy--Cy:----Sb--:----Cg--:--Rc--Rg",
 		"author":"897701215",
-		"completions":1,
+		"completions":2,
 		"id":1720,
 		"completed":true,
 		"title":"butterfly2",
-		"likes":1
+		"likes":2
 	}
 }

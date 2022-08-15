@@ -135,10 +135,12 @@
 		]
 	},
 	"meta":{
-		"downloads":8,
+		"difficulty":0.2142857142857143,
+		"averageTime":19.272727272727273,
+		"downloads":14,
 		"shortKey":"WbWwWbCc:ScCwScSb",
 		"author":"Helium357",
-		"completions":5,
+		"completions":11,
 		"id":640,
 		"completed":false,
 		"title":"connect2",

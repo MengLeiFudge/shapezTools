@@ -225,16 +225,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.05660377358490565,
+		"averageTime":46.02,
+		"downloads":53,
 		"shortKey":"SrSrWrWr",
 		"author":"Mr.Happy",
-		"completions":7,
+		"completions":50,
 		"id":5560,
-		"completed":false,
+		"completed":true,
 		"title":"ui835ytgffjml",
-		"likes":1
+		"likes":8
 	}
 }

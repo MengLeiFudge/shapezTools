@@ -74,18 +74,20 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5172413793103448,
-		"averageTime":215.85714285714286,
-		"downloads":32,
+		"difficulty":0.4666666666666667,
+		"averageTime":179.04166666666666,
+		"downloads":45,
 		"shortKey":"------Ru:----RuRu:----Ru--",
 		"author":"Dhulfiqar",
-		"completions":14,
+		"completions":24,
 		"id":3435,
 		"completed":false,
 		"title":"Strange Stack",
-		"likes":8
+		"likes":10
 	}
 }

@@ -91,12 +91,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.125,
-		"averageTime":25.214285714285715,
-		"downloads":16,
+		"difficulty":0.10526315789473684,
+		"averageTime":22.529411764705884,
+		"downloads":19,
 		"shortKey":"CpCpCpSu:RuSpRuCb",
 		"author":"Manite",
-		"completions":14,
+		"completions":17,
 		"id":2436,
 		"completed":false,
 		"title":"Flux - C - 5x5 - 15",

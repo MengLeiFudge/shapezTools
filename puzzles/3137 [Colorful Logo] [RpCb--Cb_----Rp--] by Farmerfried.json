@@ -102,18 +102,20 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7272727272727273,
-		"averageTime":1091,
-		"downloads":12,
+		"difficulty":0.7142857142857143,
+		"averageTime":955.75,
+		"downloads":14,
 		"shortKey":"RpCb--Cb:----Rp--",
 		"author":"Farmerfried",
-		"completions":3,
+		"completions":4,
 		"id":3137,
 		"completed":false,
 		"title":"Colorful Logo",
-		"likes":1
+		"likes":2
 	}
 }

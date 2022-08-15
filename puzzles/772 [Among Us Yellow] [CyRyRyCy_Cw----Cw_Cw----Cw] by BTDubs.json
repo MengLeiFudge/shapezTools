@@ -84,16 +84,18 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":4,
+		"downloads":5,
 		"shortKey":"CyRyRyCy:Cw----Cw:Cw----Cw",
 		"author":"BTDubs",
-		"completions":1,
+		"completions":2,
 		"id":772,
 		"completed":false,
 		"title":"Among Us Yellow",
-		"likes":1
+		"likes":2
 	}
 }

@@ -203,10 +203,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":9,
+		"downloads":10,
 		"shortKey":"CrRbWbWr",
 		"author":"player#589516339",
 		"completions":4,

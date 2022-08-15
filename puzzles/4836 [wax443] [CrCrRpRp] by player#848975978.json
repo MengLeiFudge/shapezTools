@@ -157,15 +157,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.3571428571428571,
-		"averageTime":140.66666666666666,
-		"downloads":29,
+		"difficulty":0.40625,
+		"averageTime":138.6315789473684,
+		"downloads":32,
 		"shortKey":"CrCrRpRp",
 		"author":"player#848975978",
-		"completions":18,
+		"completions":19,
 		"id":4836,
 		"completed":false,
 		"title":"wax443",

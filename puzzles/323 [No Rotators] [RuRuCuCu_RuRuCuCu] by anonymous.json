@@ -36,15 +36,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.027624309392265234,
-		"averageTime":13.982954545454545,
-		"downloads":181,
+		"difficulty":0.021097046413502074,
+		"averageTime":13.745689655172415,
+		"downloads":237,
 		"shortKey":"RuRuCuCu:RuRuCuCu",
 		"author":"anonymous",
-		"completions":176,
+		"completions":232,
 		"id":323,
 		"completed":false,
 		"title":"No Rotators",
-		"likes":35
+		"likes":40
 	}
 }

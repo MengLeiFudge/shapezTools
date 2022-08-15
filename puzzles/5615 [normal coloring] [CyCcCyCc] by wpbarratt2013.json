@@ -79,13 +79,15 @@
 			"h":15
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"CyCcCyCc",
 		"author":"wpbarratt2013",
-		"completions":5,
+		"completions":6,
 		"id":5615,
 		"completed":false,
 		"title":"normal coloring",

@@ -351,10 +351,12 @@
 			"h":12
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":8,
+		"downloads":9,
 		"shortKey":"Rb--CgCg:SrCrCgCp:Sr------",
 		"author":"Zoren001",
 		"completions":0,

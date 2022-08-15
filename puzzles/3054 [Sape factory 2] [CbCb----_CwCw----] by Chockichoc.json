@@ -165,15 +165,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.15000000000000002,
-		"averageTime":17.529411764705884,
-		"downloads":20,
+		"difficulty":0.13043478260869568,
+		"averageTime":85.55,
+		"downloads":23,
 		"shortKey":"CbCb----:CwCw----",
 		"author":"Chockichoc",
-		"completions":17,
+		"completions":20,
 		"id":3054,
 		"completed":false,
 		"title":"Sape factory 2",
-		"likes":2
+		"likes":3
 	}
 }

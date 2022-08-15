@@ -254,15 +254,17 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.8333333333333334,
-		"averageTime":266.3333333333333,
-		"downloads":31,
+		"difficulty":0.8974358974358975,
+		"averageTime":431,
+		"downloads":103,
 		"shortKey":"Sw--Sw--:Sr--Sr--:Sw--Sw--:SrRuSrRu",
 		"author":"EmeraldBlock",
-		"completions":3,
+		"completions":4,
 		"id":471,
 		"completed":false,
 		"title":"Puzzles Mod 10",

@@ -179,18 +179,20 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.8,
-		"averageTime":232.33333333333334,
-		"downloads":15,
+		"difficulty":0.7391304347826086,
+		"averageTime":186.16666666666666,
+		"downloads":25,
 		"shortKey":"RbRbRbRb:RbRrRrRb",
 		"author":"Bagel03",
-		"completions":3,
+		"completions":6,
 		"id":4884,
 		"completed":false,
 		"title":"I didnt playtest",
-		"likes":2
+		"likes":4
 	}
 }

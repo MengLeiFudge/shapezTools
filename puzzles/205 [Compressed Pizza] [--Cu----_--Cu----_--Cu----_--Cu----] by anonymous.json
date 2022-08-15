@@ -67,15 +67,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.11455108359133126,
-		"averageTime":131.48076923076923,
-		"downloads":646,
+		"difficulty":0.10472972972972971,
+		"averageTime":128.3949685534591,
+		"downloads":888,
 		"shortKey":"--Cu----:--Cu----:--Cu----:--Cu----",
 		"author":"anonymous",
-		"completions":572,
+		"completions":795,
 		"id":205,
 		"completed":true,
 		"title":"Compressed Pizza",
-		"likes":223
+		"likes":278
 	}
 }

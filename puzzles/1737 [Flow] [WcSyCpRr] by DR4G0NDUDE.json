@@ -133,15 +133,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09523809523809523,
-		"averageTime":53.63157894736842,
-		"downloads":21,
+		"difficulty":0.07999999999999996,
+		"averageTime":51.91304347826087,
+		"downloads":25,
 		"shortKey":"WcSyCpRr",
 		"author":"DR4G0NDUDE",
-		"completions":19,
+		"completions":23,
 		"id":1737,
 		"completed":false,
 		"title":"Flow",

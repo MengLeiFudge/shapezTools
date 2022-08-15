@@ -52,10 +52,12 @@
 			"h":9
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":11,
+		"downloads":13,
 		"shortKey":"Sg----Sg:CgCgCgCg:--CyCy--:CrCcCwCg",
 		"author":"kubagames143",
 		"completions":2,

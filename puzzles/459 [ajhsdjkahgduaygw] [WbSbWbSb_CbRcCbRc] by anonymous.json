@@ -181,13 +181,15 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.1333333333333333,
+		"averageTime":12.692307692307692,
+		"downloads":15,
 		"shortKey":"WbSbWbSb:CbRcCbRc",
 		"author":"anonymous",
-		"completions":7,
+		"completions":13,
 		"id":459,
 		"completed":false,
 		"title":"ajhsdjkahgduaygw",
-		"likes":1
+		"likes":2
 	}
 }

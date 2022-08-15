@@ -123,15 +123,15 @@
 		"version":1
 	},
 	"meta":{
-		"difficulty":0.5294117647058824,
-		"averageTime":313.375,
-		"downloads":19,
+		"difficulty":0.4444444444444444,
+		"averageTime":303.6,
+		"downloads":27,
 		"shortKey":"Sy----Sy",
 		"author":"anonymous",
-		"completions":8,
+		"completions":15,
 		"id":261,
 		"completed":false,
 		"title":"Real Supertroll",
-		"likes":5
+		"likes":6
 	}
 }

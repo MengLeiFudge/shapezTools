@@ -99,18 +99,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23333333333333328,
-		"averageTime":106.8695652173913,
-		"downloads":30,
+		"difficulty":0.27118644067796616,
+		"averageTime":207.34883720930233,
+		"downloads":59,
 		"shortKey":"CuRbRbRb",
 		"author":"Srayce1",
-		"completions":23,
+		"completions":43,
 		"id":5562,
 		"completed":false,
 		"title":"Red Pill Blue Pill",
-		"likes":10
+		"likes":13
 	}
 }

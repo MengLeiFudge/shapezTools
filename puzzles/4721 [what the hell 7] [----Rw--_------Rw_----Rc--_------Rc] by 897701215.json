@@ -133,16 +133,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":16,
+		"difficulty":0.9473684210526316,
+		"averageTime":667,
+		"downloads":19,
 		"shortKey":"----Rw--:------Rw:----Rc--:------Rc",
 		"author":"897701215",
-		"completions":0,
+		"completions":1,
 		"id":4721,
 		"completed":false,
 		"title":"what the hell 7",
-		"likes":0
+		"likes":1
 	}
 }

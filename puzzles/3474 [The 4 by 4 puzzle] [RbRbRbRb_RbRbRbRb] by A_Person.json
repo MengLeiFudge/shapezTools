@@ -43,18 +43,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1333333333333333,
-		"averageTime":38.53846153846154,
-		"downloads":15,
+		"difficulty":0.10526315789473684,
+		"averageTime":36.1764705882353,
+		"downloads":19,
 		"shortKey":"RbRbRbRb:RbRbRbRb",
 		"author":"A_Person",
-		"completions":13,
+		"completions":17,
 		"id":3474,
 		"completed":false,
 		"title":"The 4 by 4 puzzle",
-		"likes":2
+		"likes":3
 	}
 }

@@ -928,13 +928,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":12,
+		"difficulty":0.19999999999999996,
+		"averageTime":88.58333333333333,
+		"downloads":15,
 		"shortKey":"WpScWpSc:ScWbScWb",
 		"author":"player#104606695",
-		"completions":8,
+		"completions":12,
 		"id":4512,
 		"completed":false,
 		"title":"2 to 6",

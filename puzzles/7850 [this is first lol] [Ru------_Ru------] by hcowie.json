@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"RuRuRuRu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":3
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"Ru------:Ru------",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":-4
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":8
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.03703703703703709,
+		"averageTime":56,
+		"downloads":29,
+		"shortKey":"Ru------:Ru------",
+		"author":"hcowie",
+		"completions":26,
+		"id":7850,
+		"completed":false,
+		"title":"this is first lol",
+		"likes":4
+	}
+}

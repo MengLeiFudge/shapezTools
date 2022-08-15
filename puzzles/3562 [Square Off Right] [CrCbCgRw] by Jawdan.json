@@ -81,18 +81,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21999999999999997,
-		"averageTime":197.23076923076923,
-		"downloads":50,
+		"difficulty":0.19402985074626866,
+		"averageTime":270.44444444444446,
+		"downloads":67,
 		"shortKey":"CrCbCgRw",
 		"author":"Jawdan",
-		"completions":39,
+		"completions":54,
 		"id":3562,
 		"completed":false,
 		"title":"Square Off Right",
-		"likes":15
+		"likes":18
 	}
 }

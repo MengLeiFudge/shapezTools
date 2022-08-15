@@ -453,18 +453,20 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.1558441558441559,
-		"averageTime":91.43076923076923,
-		"downloads":77,
+		"difficulty":0.15000000000000002,
+		"averageTime":92.82352941176471,
+		"downloads":80,
 		"shortKey":"CrCr----:CrCr----:CrCr----:CrCr----",
 		"author":"Daniel",
-		"completions":65,
+		"completions":68,
 		"id":3909,
 		"completed":false,
 		"title":"4 Floors",
-		"likes":19
+		"likes":21
 	}
 }

@@ -173,18 +173,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23684210526315785,
-		"averageTime":314.1034482758621,
-		"downloads":114,
+		"difficulty":0.22277227722772275,
+		"averageTime":306.79617834394907,
+		"downloads":202,
 		"shortKey":"Cc----Sc:SwCw----",
 		"author":"ModMan64",
-		"completions":87,
+		"completions":157,
 		"id":3685,
 		"completed":true,
 		"title":"6x10 - Quad Cutter",
-		"likes":37
+		"likes":61
 	}
 }

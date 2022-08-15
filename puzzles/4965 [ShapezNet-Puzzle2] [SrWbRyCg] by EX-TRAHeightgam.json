@@ -88,15 +88,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07499999999999996,
-		"averageTime":66,
-		"downloads":80,
+		"difficulty":0.04487179487179482,
+		"averageTime":69.18791946308725,
+		"downloads":156,
 		"shortKey":"SrWbRyCg",
 		"author":"EX-TRAHeightgam",
-		"completions":74,
+		"completions":149,
 		"id":4965,
 		"completed":false,
 		"title":"ShapezNet-Puzzle2",
-		"likes":17
+		"likes":28
 	}
 }

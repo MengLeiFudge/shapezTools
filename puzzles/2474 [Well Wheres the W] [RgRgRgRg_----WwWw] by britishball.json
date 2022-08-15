@@ -173,18 +173,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.11111111111111116,
-		"averageTime":125.45833333333333,
-		"downloads":81,
+		"difficulty":0.09433962264150941,
+		"averageTime":116.15625,
+		"downloads":106,
 		"shortKey":"RgRgRgRg:----WwWw",
 		"author":"britishball",
-		"completions":72,
+		"completions":96,
 		"id":2474,
 		"completed":true,
 		"title":"Well Wheres the W",
-		"likes":25
+		"likes":31
 	}
 }

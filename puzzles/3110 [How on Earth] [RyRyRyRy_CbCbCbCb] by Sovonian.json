@@ -171,15 +171,17 @@
 			"h":18
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7142857142857143,
-		"averageTime":542.6666666666666,
-		"downloads":29,
+		"difficulty":0.7647058823529411,
+		"averageTime":510.875,
+		"downloads":41,
 		"shortKey":"RyRyRyRy:CbCbCbCb",
 		"author":"Sovonian",
-		"completions":6,
+		"completions":8,
 		"id":3110,
 		"completed":false,
 		"title":"How on Earth",

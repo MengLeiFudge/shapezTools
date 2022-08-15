@@ -1437,12 +1437,12 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.15000000000000002,
-		"averageTime":43.76470588235294,
-		"downloads":20,
+		"difficulty":0.13636363636363635,
+		"averageTime":43.26315789473684,
+		"downloads":22,
 		"shortKey":"WrWrRrRr:CrCrWpWp",
 		"author":"auixav1",
-		"completions":17,
+		"completions":19,
 		"id":2359,
 		"completed":false,
 		"title":"maze puzzle",

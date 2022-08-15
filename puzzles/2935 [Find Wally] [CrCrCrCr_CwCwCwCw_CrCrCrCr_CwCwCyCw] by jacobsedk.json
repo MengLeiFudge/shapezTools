@@ -1648,15 +1648,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.2068965517241379,
-		"averageTime":148.65217391304347,
-		"downloads":29,
+		"difficulty":0.17142857142857137,
+		"averageTime":139.20689655172413,
+		"downloads":35,
 		"shortKey":"CrCrCrCr:CwCwCwCw:CrCrCrCr:CwCwCyCw",
 		"author":"jacobsedk",
-		"completions":23,
+		"completions":29,
 		"id":2935,
 		"completed":false,
 		"title":"Find Wally",
-		"likes":7
+		"likes":8
 	}
 }

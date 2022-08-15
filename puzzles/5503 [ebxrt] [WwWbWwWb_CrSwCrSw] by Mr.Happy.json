@@ -193,10 +193,12 @@
 		]
 	},
 	"meta":{
-		"downloads":8,
+		"difficulty":0.07692307692307687,
+		"averageTime":27.666666666666668,
+		"downloads":13,
 		"shortKey":"WwWbWwWb:CrSwCrSw",
 		"author":"Mr.Happy",
-		"completions":7,
+		"completions":12,
 		"id":5503,
 		"completed":false,
 		"title":"ebxrt",

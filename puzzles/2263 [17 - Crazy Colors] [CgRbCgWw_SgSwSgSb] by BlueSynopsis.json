@@ -307,18 +307,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.13592233009708743,
-		"averageTime":103.86516853932584,
-		"downloads":103,
+		"difficulty":0.11851851851851847,
+		"averageTime":107.11764705882354,
+		"downloads":135,
 		"shortKey":"CgRbCgWw:SgSwSgSb",
 		"author":"BlueSynopsis",
-		"completions":89,
+		"completions":119,
 		"id":2263,
 		"completed":true,
 		"title":"17 - Crazy Colors",
-		"likes":33
+		"likes":40
 	}
 }

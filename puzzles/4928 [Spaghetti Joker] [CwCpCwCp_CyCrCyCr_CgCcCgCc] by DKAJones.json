@@ -443,15 +443,17 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.33333333333333337,
-		"averageTime":244.8,
-		"downloads":17,
+		"averageTime":225.75,
+		"downloads":18,
 		"shortKey":"CwCpCwCp:CyCrCyCr:CgCcCgCc",
 		"author":"DKAJones",
-		"completions":10,
+		"completions":12,
 		"id":4928,
 		"completed":false,
 		"title":"Spaghetti Joker",

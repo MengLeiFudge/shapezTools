@@ -150,15 +150,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":117.11904761904762,
-		"downloads":56,
+		"difficulty":0.21212121212121215,
+		"averageTime":112.32692307692308,
+		"downloads":66,
 		"shortKey":"SrSrSrSr:WrWrWrWr:CwCwCwCw",
 		"author":"Pituitary",
-		"completions":42,
+		"completions":52,
 		"id":4824,
 		"completed":false,
 		"title":"Valve",

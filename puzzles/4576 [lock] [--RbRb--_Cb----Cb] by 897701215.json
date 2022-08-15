@@ -107,12 +107,14 @@
 			"h":16
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.7857142857142857,
 		"averageTime":897.6666666666666,
-		"downloads":20,
+		"downloads":26,
 		"shortKey":"--RbRb--:Cb----Cb",
 		"author":"897701215",
 		"completions":3,

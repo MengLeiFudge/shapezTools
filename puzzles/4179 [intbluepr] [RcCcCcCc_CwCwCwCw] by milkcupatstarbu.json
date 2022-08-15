@@ -90,18 +90,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7428571428571429,
-		"averageTime":228.33333333333334,
-		"downloads":37,
+		"difficulty":0.743801652892562,
+		"averageTime":511.38709677419354,
+		"downloads":128,
 		"shortKey":"RcCcCcCc:CwCwCwCw",
 		"author":"milkcupatstarbu",
-		"completions":9,
+		"completions":31,
 		"id":4179,
 		"completed":true,
 		"title":"intbluepr",
-		"likes":7
+		"likes":22
 	}
 }

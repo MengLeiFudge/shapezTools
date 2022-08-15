@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuRuWuSu",
+				"pos":{
+					"r":270,
+					"x":9,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CuCuCuCu:RuRuRuRu:WuWuWuWu:SuSuSuSu",
+				"pos":{
+					"r":180,
+					"x":-10,
+					"y":8
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":20,
+			"h":18
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.2941176470588235,
+		"averageTime":353.75,
+		"downloads":18,
+		"shortKey":"CgCwCrCb:RyRpRuRc:WcWpWrWw:SrSgSpSg",
+		"author":"indianniejones",
+		"completions":12,
+		"id":9493,
+		"completed":false,
+		"title":"the ultimate shape",
+		"likes":2
+	}
+}

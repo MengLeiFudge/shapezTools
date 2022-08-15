@@ -295,15 +295,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4375,
-		"averageTime":668.2222222222222,
-		"downloads":16,
+		"difficulty":0.368421052631579,
+		"averageTime":545.1666666666666,
+		"downloads":19,
 		"shortKey":"RuRuRwRw:SbSbSgSg",
 		"author":"Dr.Ninja",
-		"completions":9,
+		"completions":12,
 		"id":3069,
 		"completed":false,
 		"title":"8 to 8 compact weave",

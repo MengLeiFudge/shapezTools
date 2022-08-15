@@ -172,15 +172,17 @@
 			"h":19
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":330.7,
+		"difficulty":0.47619047619047616,
+		"averageTime":311.72727272727275,
 		"downloads":21,
 		"shortKey":"WbWyWuRu:--WrWu--:--Wg----",
 		"author":"fkboyd2000",
-		"completions":10,
+		"completions":11,
 		"id":4468,
 		"completed":false,
 		"title":"Contest - Stacks",

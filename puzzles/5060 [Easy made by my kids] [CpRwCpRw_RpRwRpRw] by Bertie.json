@@ -707,18 +707,20 @@
 			"h":11
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.09523809523809523,
-		"averageTime":24.289473684210527,
-		"downloads":42,
+		"difficulty":0.04477611940298509,
+		"averageTime":25.625,
+		"downloads":67,
 		"shortKey":"CpRwCpRw:RpRwRpRw",
 		"author":"Bertie",
-		"completions":38,
+		"completions":64,
 		"id":5060,
 		"completed":false,
 		"title":"Easy made by my kids",
-		"likes":7
+		"likes":10
 	}
 }

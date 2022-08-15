@@ -432,18 +432,20 @@
 			"h":10
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.4285714285714286,
-		"averageTime":672.5833333333334,
-		"downloads":21,
+		"difficulty":0.40909090909090906,
+		"averageTime":631.5384615384615,
+		"downloads":22,
 		"shortKey":"--CuCu--:----RuRu:----RuRu:--Cu--Cu",
 		"author":"MrSquirrelDeDuc",
-		"completions":12,
+		"completions":13,
 		"id":4408,
 		"completed":false,
 		"title":"Contest - Squarular",
-		"likes":5
+		"likes":6
 	}
 }

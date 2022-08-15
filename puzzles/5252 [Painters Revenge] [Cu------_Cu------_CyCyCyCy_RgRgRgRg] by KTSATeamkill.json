@@ -743,13 +743,15 @@
 		]
 	},
 	"meta":{
-		"downloads":15,
+		"difficulty":0.736842105263158,
+		"averageTime":591.4,
+		"downloads":26,
 		"shortKey":"Cu------:Cu------:CyCyCyCy:RgRgRgRg",
 		"author":"KTSATeamkill",
-		"completions":3,
+		"completions":5,
 		"id":5252,
 		"completed":false,
 		"title":"Painters Revenge",
-		"likes":2
+		"likes":4
 	}
 }

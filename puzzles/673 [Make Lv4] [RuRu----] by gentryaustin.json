@@ -217,18 +217,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0239043824701195,
-		"averageTime":26.979591836734695,
-		"downloads":251,
+		"difficulty":0.019169329073482455,
+		"averageTime":27.140065146579804,
+		"downloads":313,
 		"shortKey":"RuRu----",
 		"author":"gentryaustin",
-		"completions":245,
+		"completions":307,
 		"id":673,
 		"completed":false,
 		"title":"Make Lv4",
-		"likes":49
+		"likes":53
 	}
 }

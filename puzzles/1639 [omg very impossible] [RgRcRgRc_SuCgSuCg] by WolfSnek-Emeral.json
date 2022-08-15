@@ -43,13 +43,17 @@
 			"h":2
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.15384615384615385,
+		"averageTime":2,
+		"downloads":13,
 		"shortKey":"RgRcRgRc:SuCgSuCg",
 		"author":"WolfSnek-Emeral",
-		"completions":8,
+		"completions":11,
 		"id":1639,
 		"completed":false,
 		"title":"omg very impossible",

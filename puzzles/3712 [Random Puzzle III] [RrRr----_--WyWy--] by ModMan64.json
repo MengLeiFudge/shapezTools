@@ -50,18 +50,20 @@
 			"h":4
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0337078651685393,
-		"averageTime":47.73255813953488,
-		"downloads":89,
+		"difficulty":0.020618556701030966,
+		"averageTime":66.63508771929824,
+		"downloads":292,
 		"shortKey":"RrRr----:--WyWy--",
 		"author":"ModMan64",
-		"completions":86,
+		"completions":285,
 		"id":3712,
 		"completed":true,
 		"title":"Random Puzzle III",
-		"likes":18
+		"likes":57
 	}
 }

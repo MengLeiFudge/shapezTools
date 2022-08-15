@@ -80,15 +80,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.27586206896551724,
-		"averageTime":197.95238095238096,
-		"downloads":90,
+		"difficulty":0.2780487804878049,
+		"averageTime":206.25,
+		"downloads":206,
 		"shortKey":"CuCyCuCy",
 		"author":"mootmoot",
-		"completions":63,
+		"completions":148,
 		"id":3556,
 		"completed":true,
 		"title":"Dechecker 7",
-		"likes":31
+		"likes":61
 	}
 }

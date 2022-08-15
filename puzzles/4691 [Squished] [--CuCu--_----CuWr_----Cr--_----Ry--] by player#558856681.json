@@ -186,18 +186,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.7,
-		"averageTime":367,
-		"downloads":42,
+		"difficulty":0.5892857142857143,
+		"averageTime":780.7826086956521,
+		"downloads":56,
 		"shortKey":"--CuCu--:----CuWr:----Cr--:----Ry--",
 		"author":"player#558856681",
-		"completions":12,
+		"completions":23,
 		"id":4691,
 		"completed":true,
 		"title":"Squished",
-		"likes":8
+		"likes":11
 	}
 }

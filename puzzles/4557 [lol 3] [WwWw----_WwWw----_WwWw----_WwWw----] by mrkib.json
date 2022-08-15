@@ -285,15 +285,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.11428571428571432,
-		"averageTime":154.48387096774192,
-		"downloads":35,
+		"difficulty":0.09999999999999998,
+		"averageTime":140.38888888888889,
+		"downloads":40,
 		"shortKey":"WwWw----:WwWw----:WwWw----:WwWw----",
 		"author":"mrkib",
-		"completions":31,
+		"completions":36,
 		"id":4557,
 		"completed":false,
 		"title":"lol 3",
-		"likes":8
+		"likes":9
 	}
 }

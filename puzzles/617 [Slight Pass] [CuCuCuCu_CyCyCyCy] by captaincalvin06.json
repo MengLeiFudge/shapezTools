@@ -67,15 +67,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.0625,
-		"averageTime":23.466666666666665,
-		"downloads":16,
+		"difficulty":0.052631578947368474,
+		"averageTime":21.77777777777778,
+		"downloads":19,
 		"shortKey":"CuCuCuCu:CyCyCyCy",
 		"author":"captaincalvin06",
-		"completions":15,
+		"completions":18,
 		"id":617,
 		"completed":true,
 		"title":"Slight Pass",

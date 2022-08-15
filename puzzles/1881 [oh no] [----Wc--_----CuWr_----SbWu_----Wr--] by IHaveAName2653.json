@@ -124,13 +124,15 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"downloads":7,
 		"shortKey":"----Wc--:----CuWr:----SbWu:----Wr--",
 		"author":"IHaveAName2653",
-		"completions":0,
+		"completions":1,
 		"id":1881,
 		"completed":false,
 		"title":"oh no",

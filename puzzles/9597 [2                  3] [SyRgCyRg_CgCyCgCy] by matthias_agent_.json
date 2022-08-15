@@ -1,0 +1,44 @@
+{
+	"game":{
+		"buildings":[
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":0,
+					"x":-1,
+					"y":0
+				},
+				"type":"emitter"
+			},
+			{
+				"item":"CuCuCuCu",
+				"pos":{
+					"r":180,
+					"x":0,
+					"y":0
+				},
+				"type":"goal"
+			}
+		],
+		"bounds":{
+			"w":2,
+			"h":2
+		},
+		"version":1,
+		"excludedBuildings":[
+			
+		]
+	},
+	"meta":{
+		"difficulty":0.03703703703703709,
+		"averageTime":12.307692307692308,
+		"downloads":28,
+		"shortKey":"SyRgCyRg:CgCyCgCy",
+		"author":"matthias_agent_",
+		"completions":26,
+		"id":9597,
+		"completed":false,
+		"title":"2                  3",
+		"likes":4
+	}
+}

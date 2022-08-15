@@ -188,15 +188,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.5,
-		"averageTime":295.60869565217394,
-		"downloads":47,
+		"difficulty":0.4655172413793104,
+		"averageTime":288.2258064516129,
+		"downloads":59,
 		"shortKey":"--Rg----",
 		"author":"KTSATeamkill",
-		"completions":23,
+		"completions":31,
 		"id":5238,
 		"completed":false,
 		"title":"And then split",
-		"likes":12
+		"likes":13
 	}
 }

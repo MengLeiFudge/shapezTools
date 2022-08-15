@@ -814,13 +814,17 @@
 			"h":20
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.6363636363636364,
+		"averageTime":340,
+		"downloads":11,
 		"shortKey":"SwRw--Wu:RpRg--Ww",
 		"author":"guabrdioela",
-		"completions":2,
+		"completions":4,
 		"id":5113,
 		"completed":false,
 		"title":"aaaarfdstghjtrefeg",

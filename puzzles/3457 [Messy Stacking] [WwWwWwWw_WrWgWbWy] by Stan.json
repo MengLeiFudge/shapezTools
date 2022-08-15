@@ -211,18 +211,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.16574585635359118,
-		"averageTime":241.90728476821192,
-		"downloads":181,
+		"difficulty":0.125,
+		"averageTime":235.1904761904762,
+		"downloads":288,
 		"shortKey":"WwWwWwWw:WrWgWbWy",
 		"author":"Stan",
-		"completions":151,
+		"completions":252,
 		"id":3457,
 		"completed":false,
 		"title":"Messy Stacking",
-		"likes":63
+		"likes":89
 	}
 }

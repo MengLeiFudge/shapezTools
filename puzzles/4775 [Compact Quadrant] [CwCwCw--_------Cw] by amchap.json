@@ -43,15 +43,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.25757575757575757,
-		"averageTime":66.22448979591837,
-		"downloads":66,
+		"difficulty":0.22619047619047616,
+		"averageTime":62.04615384615385,
+		"downloads":84,
 		"shortKey":"CwCwCw--:------Cw",
 		"author":"amchap",
-		"completions":49,
+		"completions":65,
 		"id":4775,
 		"completed":false,
 		"title":"Compact Quadrant",
-		"likes":18
+		"likes":19
 	}
 }

@@ -371,13 +371,17 @@
 			"h":8
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"downloads":10,
+		"difficulty":0.19999999999999996,
+		"averageTime":36.833333333333336,
+		"downloads":15,
 		"shortKey":"RgRcRgRc:RgRgRgRg",
 		"author":"player#726754005",
-		"completions":7,
+		"completions":12,
 		"id":5232,
 		"completed":false,
 		"title":"siji",

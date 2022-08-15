@@ -127,15 +127,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.13636363636363635,
-		"averageTime":25.13157894736842,
-		"downloads":44,
+		"difficulty":0.05737704918032782,
+		"averageTime":27.878260869565217,
+		"downloads":122,
 		"shortKey":"SwCcCcCc",
 		"author":"4SP3R",
-		"completions":38,
+		"completions":115,
 		"id":4987,
 		"completed":false,
 		"title":"Belt Puzzle",
-		"likes":9
+		"likes":20
 	}
 }

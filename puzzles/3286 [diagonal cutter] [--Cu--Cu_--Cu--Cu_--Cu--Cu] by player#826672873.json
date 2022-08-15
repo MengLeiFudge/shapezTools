@@ -328,18 +328,20 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.15873015873015872,
-		"averageTime":162.64150943396226,
-		"downloads":64,
+		"difficulty":0.15476190476190477,
+		"averageTime":152.2394366197183,
+		"downloads":85,
 		"shortKey":"--Cu--Cu:--Cu--Cu:--Cu--Cu",
 		"author":"player#826672873",
-		"completions":53,
+		"completions":71,
 		"id":3286,
 		"completed":false,
 		"title":"diagonal cutter",
-		"likes":20
+		"likes":23
 	}
 }

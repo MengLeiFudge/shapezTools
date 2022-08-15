@@ -142,10 +142,12 @@
 		"version":1
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.33333333333333337,
+		"averageTime":20.1,
+		"downloads":15,
 		"shortKey":"Wr------:--SuSuSu",
 		"author":"anonymous",
-		"completions":6,
+		"completions":10,
 		"id":442,
 		"completed":false,
 		"title":"Puzzlemod L2 remake",

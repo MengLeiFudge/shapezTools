@@ -33,15 +33,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.07792207792207795,
-		"averageTime":50.267605633802816,
-		"downloads":77,
+		"difficulty":0.02631578947368418,
+		"averageTime":57.037837837837834,
+		"downloads":190,
 		"shortKey":"----Ru--:----Ru--:----Ru--:----Ru--",
 		"author":"Sightnado",
-		"completions":71,
+		"completions":185,
 		"id":5179,
 		"completed":false,
 		"title":"Angular Stiffness",
-		"likes":16
+		"likes":34
 	}
 }

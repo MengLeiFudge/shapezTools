@@ -54,15 +54,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.015625,
-		"averageTime":52.58730158730159,
-		"downloads":128,
+		"difficulty":0.0066225165562914245,
+		"averageTime":56.70666666666666,
+		"downloads":302,
 		"shortKey":"Cy--Cy--:CbRbCbRb:--Cw--Cw:Cg--Cc--",
 		"author":"MrTaco",
-		"completions":126,
+		"completions":300,
 		"id":3266,
 		"completed":true,
 		"title":"WhyIsItNotWorking",
-		"likes":28
+		"likes":57
 	}
 }

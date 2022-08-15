@@ -141,15 +141,17 @@
 			"h":5
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.23529411764705888,
-		"averageTime":18.307692307692307,
-		"downloads":17,
+		"difficulty":0.21052631578947367,
+		"averageTime":135.26666666666668,
+		"downloads":19,
 		"shortKey":"RwRwRwRw:CwCwCwCw:CwCwCwCw:RwRwRwRw",
 		"author":"player#253591158",
-		"completions":13,
+		"completions":15,
 		"id":4132,
 		"completed":false,
 		"title":"Assembly Paintshop 2",

@@ -1195,15 +1195,15 @@
 		]
 	},
 	"meta":{
-		"difficulty":0.25,
-		"averageTime":466.1111111111111,
-		"downloads":13,
+		"difficulty":0.3529411764705882,
+		"averageTime":453.90909090909093,
+		"downloads":17,
 		"shortKey":"CcCyCcCy:RyCcRyCc",
 		"author":"alexanderrino23",
-		"completions":9,
+		"completions":11,
 		"id":5304,
 		"completed":false,
 		"title":"big puzzle",
-		"likes":2
+		"likes":3
 	}
 }

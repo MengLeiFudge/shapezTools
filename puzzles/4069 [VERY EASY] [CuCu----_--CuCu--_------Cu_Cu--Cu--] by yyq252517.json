@@ -301,12 +301,14 @@
 			"h":14
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
 		"difficulty":0.8235294117647058,
 		"averageTime":497.6666666666667,
-		"downloads":19,
+		"downloads":27,
 		"shortKey":"CuCu----:--CuCu--:------Cu:Cu--Cu--",
 		"author":"yyq252517",
 		"completions":3,

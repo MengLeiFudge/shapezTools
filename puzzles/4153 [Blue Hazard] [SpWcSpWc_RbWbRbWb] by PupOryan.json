@@ -572,18 +572,20 @@
 			"h":13
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.42307692307692313,
-		"averageTime":672.0666666666667,
-		"downloads":53,
+		"difficulty":0.4285714285714286,
+		"averageTime":602.0227272727273,
+		"downloads":78,
 		"shortKey":"SpWcSpWc:RbWbRbWb",
 		"author":"PupOryan",
-		"completions":30,
+		"completions":44,
 		"id":4153,
 		"completed":false,
 		"title":"Blue Hazard",
-		"likes":17
+		"likes":21
 	}
 }

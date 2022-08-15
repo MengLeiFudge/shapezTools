@@ -65,10 +65,12 @@
 		]
 	},
 	"meta":{
-		"downloads":11,
+		"difficulty":0.11764705882352944,
+		"averageTime":10.6,
+		"downloads":17,
 		"shortKey":"RbCcRbSg:CgWgCgRb",
 		"author":"Jupieterrr",
-		"completions":9,
+		"completions":15,
 		"id":1111,
 		"completed":false,
 		"title":"No belts",

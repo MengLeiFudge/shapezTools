@@ -107,10 +107,12 @@
 		]
 	},
 	"meta":{
-		"downloads":9,
+		"difficulty":0.19999999999999996,
+		"averageTime":41.333333333333336,
+		"downloads":15,
 		"shortKey":"--Cu--Cu:--Cu--Cu",
 		"author":"milkcupatstarbu",
-		"completions":6,
+		"completions":12,
 		"id":1439,
 		"completed":true,
 		"title":"Thing 12",

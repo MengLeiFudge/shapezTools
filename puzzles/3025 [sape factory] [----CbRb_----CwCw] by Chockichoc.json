@@ -141,18 +141,20 @@
 			"h":6
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.21739130434782605,
-		"averageTime":106.5111111111111,
-		"downloads":115,
+		"difficulty":0.19736842105263153,
+		"averageTime":115.23770491803279,
+		"downloads":153,
 		"shortKey":"----CbRb:----CwCw",
 		"author":"Chockichoc",
-		"completions":90,
+		"completions":122,
 		"id":3025,
 		"completed":true,
 		"title":"sape factory",
-		"likes":37
+		"likes":44
 	}
 }

@@ -279,18 +279,20 @@
 			"h":7
 		},
 		"version":1,
-		"excludedBuildings":[]
+		"excludedBuildings":[
+			
+		]
 	},
 	"meta":{
-		"difficulty":0.07407407407407407,
-		"averageTime":99.24,
-		"downloads":28,
+		"difficulty":0.03389830508474578,
+		"averageTime":72.3859649122807,
+		"downloads":118,
 		"shortKey":"RySrRySr:SrRgSrRg",
 		"author":"Mr.Happy",
-		"completions":25,
+		"completions":114,
 		"id":5622,
-		"completed":false,
+		"completed":true,
 		"title":"season",
-		"likes":7
+		"likes":20
 	}
 }
