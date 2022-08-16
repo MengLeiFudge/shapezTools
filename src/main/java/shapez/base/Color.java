@@ -4,6 +4,8 @@ import lombok.Data;
 import shapez.base.Corner.CornerColor;
 
 /**
+ * 表示一个染料，包含染料的颜色信息.
+ *
  * @author MengLeiFudge
  */
 @Data
@@ -25,14 +27,4 @@ public class Color extends Item {
         }
         this.shortKey = shortKey;
     }
-
-/*    public Corner.CornerColor getCornerColor() {
-        for (var cc : Corner.CornerColor.values()) {
-            if (cc.toString().equals(shortKey)) {
-                return cc;
-            }
-        }
-        throw new IllegalArgumentException("错误的颜色短代码：" + shortKey);
-        //return Corner.CornerColor.NONE;
-    }*/
 }

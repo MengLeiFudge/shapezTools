@@ -4,6 +4,7 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONException;
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.serializer.SerializerFeature;
+import shapez.SettingsAndUtils;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -11,9 +12,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 import static shapez.SettingsAndUtils.PUZZLES_DIR;
+import static shapez.SettingsAndUtils.getPuzzleJson;
 import static shapez.SettingsAndUtils.sc;
-import static shapez.puzzle.MyThreadPoolExecutor.getPuzzleStr;
-import static shapez.puzzle.MyThreadPoolExecutor.strFormat;
 
 public class ShowOnePuzzle {
     public ShowOnePuzzle() {
@@ -23,7 +23,7 @@ public class ShowOnePuzzle {
         System.out.println("请输入谜题ID或短代码");
         String puzzleStr = sc.nextLine().trim();
         System.out.println("请稍等....");
-        String info = getPuzzleStr(puzzleStr);
+        String info = SettingsAndUtils.getPuzzleJson(puzzleStr);
         if (info == null) {
             System.out.println("info is null!");
         } else if ("".equals(info)) {
@@ -35,6 +35,8 @@ public class ShowOnePuzzle {
 
                 // 保存到本地
                 if (obj.containsKey("error")) {
+                    // 不存在的或已删除的谜题
+                    System.out.println("谜题不存在或已删除！");
                     return;
                 }
                 JSONObject meta = obj.getJSONObject("meta");
@@ -51,9 +53,9 @@ public class ShowOnePuzzle {
                         e.printStackTrace();
                     }
                 }
-                // 这里注意一下，不过meta没有的话，大概直接异常了吧
                 try (BufferedWriter bw = new BufferedWriter(new FileWriter(f))) {
-                    //System.out.println(obj.toString(SerializerFeature.PrettyFormat));
+                    bw.write(obj.toString(SerializerFeature.PrettyFormat));
+                    bw.newLine();
                 } catch (IOException e) {
                     e.printStackTrace();
                 }

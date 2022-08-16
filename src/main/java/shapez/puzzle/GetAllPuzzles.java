@@ -3,6 +3,7 @@ package shapez.puzzle;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONException;
 import com.alibaba.fastjson.JSONObject;
+import com.google.common.util.concurrent.ThreadFactoryBuilder;
 import shapez.base.Building.BuildingType;
 
 import java.io.BufferedWriter;
@@ -18,6 +19,7 @@ import java.util.Date;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.LinkedBlockingQueue;
+import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
@@ -43,6 +45,19 @@ public class GetAllPuzzles {
     }
 
     public void getAllPuzzles() {
+        ThreadFactory factory = new ThreadFactoryBuilder().setNameFormat("puzzle-%d").build();
+
+        //Common Thread Pool
+        ExecutorService pool = new ThreadPoolExecutor(
+                THREAD_NUM, THREAD_NUM,
+                0L, TimeUnit.MILLISECONDS,
+                new LinkedBlockingQueue<>(1024),
+                factory, new ThreadPoolExecutor.AbortPolicy());
+
+        pool.execute(()-> System.out.println(Thread.currentThread().getName()));
+        pool.shutdown();
+
+
         MyThreadPoolExecutor.init();
         ExecutorService pool = new ThreadPoolExecutor(
                 THREAD_NUM, THREAD_NUM,
@@ -120,6 +135,7 @@ public class GetAllPuzzles {
                 e.printStackTrace();
                 continue;
             }
+            System.out.println(f.getName());
             try (BufferedWriter bw = new BufferedWriter(new FileWriter(tar, true))) {
                 JSONObject obj = JSON.parseObject(fileStr);
                 Puzzle puzzle = new Puzzle(obj);

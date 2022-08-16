@@ -1,9 +1,9 @@
 package shapez.puzzle;
 
-import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 
-import static shapez.puzzle.MyThreadPoolExecutor.getPuzzleStr;
+import static shapez.SettingsAndUtils.getPuzzleJson;
+
 
 /**
  * 输入一个谜题的短代码/id/json文件，输出这个谜题的解，并将解存于json文件中.
@@ -17,12 +17,11 @@ public class SolvePuzzle {
     }
 
     public void solve(int id) {
-        String s = getPuzzleStr(id);
-        if (s == null) {
+        JSONObject obj = getPuzzleJson(id);
+        if (obj == null) {
             System.out.println(id + " is null");
             return;
         }
-        JSONObject obj = JSON.parseObject(s);
         if (obj.containsKey("error")) {
             return;
         }
