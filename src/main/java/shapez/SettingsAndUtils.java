@@ -3,23 +3,30 @@ package shapez;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.serializer.SerializerFeature;
+import org.apache.commons.io.FileUtils;
+import org.apache.hc.client5.http.classic.methods.HttpGet;
+import org.apache.hc.client5.http.impl.classic.CloseableHttpClient;
+import org.apache.hc.client5.http.impl.classic.CloseableHttpResponse;
+import org.apache.hc.client5.http.impl.classic.HttpClients;
+import org.apache.hc.core5.http.ParseException;
+import org.apache.hc.core5.http.io.entity.EntityUtils;
+import org.apache.hc.core5.net.URIBuilder;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.nio.charset.StandardCharsets;
 import java.text.DecimalFormat;
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.Random;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * 设置/工具类.
@@ -52,21 +59,6 @@ public class SettingsAndUtils {
     }
 
     /**
-     * 存放官方谜题的路径.
-     */
-    public static final File PUZZLES_DIR = new File("puzzles");
-
-    /**
-     * 存放已删除的官方谜题的路径.
-     */
-    public static final File PUZZLES_DELETED_DIR = new File("puzzles_deleted");
-
-    /**
-     * 存放谜题解的路径.
-     */
-    public static final File SOLUTIONS_DIR = new File("solutions");
-
-    /**
      * 是否更新本地谜题.
      * <p>
      * 谜题有可能会被删除，更新本地谜题可以将被删除的谜题移动到其他位置。
@@ -85,15 +77,42 @@ public class SettingsAndUtils {
      * <p>
      * Token 通过抓包方式获取，每次登录谜题都会回传一个 TOKEN，下次登录该 TOKEN 将会失效。
      */
-    public static final String TOKEN = "7a11e5bc-2f69-4bbc-987e-f9f3f6de8c89";
+    private static final String TOKEN = "7a11e5bc-2f69-4bbc-987e-f9f3f6de8c89";
 
     /**
      * Shapez UA，用于下载谜题.
      * <p>
      * UA 通过抓包方式获取，且随版本更新而变化。
      */
-    public static final String USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) " +
+    private static final String USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) " +
             "shapez/1.5.5 Chrome/96.0.4664.174 Electron/16.2.8 Safari/537.36";
+
+    /**
+     * 是否使用 Charles 代理.
+     * <p>
+     * 该功能用于检查程序模拟的请求是否与游戏操作时发送的请求一致。
+     */
+    private static final boolean USE_CHARLES_PROXY = true;
+
+    /**
+     * Charles 代理使用的端口号.
+     * <p>
+     * 填入 Charles 中 Proxy - Proxy Settings - HTTP Proxy - Port 值，默认值 8888。
+     */
+    private static final int CHARLES_PROXY_PORT = 8888;
+
+    /**
+     * 设置 Charles 代理.
+     * <p>
+     * 注意，如果要监控 https 链接，必须先将 Charles 证书安装至 JDK 内！
+     * 具体方法见<a href="https://blog.csdn.net/u013019701/article/details/95326460">使用Charles 抓取Java程序的请求</a>。
+     */
+    private static void setCharlesProxy() {
+        System.setProperty("http.proxyHost", "127.0.0.1");
+        System.setProperty("https.proxyHost", "127.0.0.1");
+        System.setProperty("http.proxyPort", CHARLES_PROXY_PORT + "");
+        System.setProperty("https.proxyPort", CHARLES_PROXY_PORT + "");
+    }
 
     /**
      * 从网站获取字符串，通常是 json 格式数据.
@@ -106,12 +125,39 @@ public class SettingsAndUtils {
      * @return 反馈的字符串
      */
     public static String getInfoFromUrl(String httpUrl, Map<String, String> urlParams, Map<String, String> headerParams) {
+        if (USE_CHARLES_PROXY) {
+            setCharlesProxy();
+        }
         try {
-            //System.setProperty("http.proxyHost", "127.0.0.1");
-            //System.setProperty("https.proxyHost", "127.0.0.1");
-            //System.setProperty("http.proxyPort", "8888");// 8888 是 Charles 的默认端口号，请填写你使用的端口号
-            //System.setProperty("https.proxyPort", "8888");
-            StringBuilder urlSb = new StringBuilder(httpUrl);
+            CloseableHttpClient httpclient = HttpClients.createDefault();
+            URIBuilder uriBuilder = new URIBuilder(httpUrl);
+            if (urlParams != null && !urlParams.isEmpty()) {
+                for (var x : urlParams.entrySet()) {
+                    uriBuilder.setParameter(x.getKey(), x.getValue());
+                }
+            }
+            URI uri = uriBuilder.build();
+            HttpGet httpGet = new HttpGet(uri);
+            CloseableHttpResponse response = null;
+            try {
+                response = httpclient.execute(httpGet);
+                if (response.getCode() == 200) {
+                    String content = EntityUtils.toString(response.getEntity(), StandardCharsets.UTF_8);
+                    System.out.println(content);
+                    return null;
+                }
+                return null;
+            } catch (ParseException e) {
+                throw new RuntimeException(e);
+            } finally {
+                if (response != null) {
+                    response.close();
+                }
+                httpclient.close();
+            }
+
+
+        /*    StringBuilder urlSb = new StringBuilder(httpUrl);
             if (urlParams != null && !urlParams.isEmpty()) {
                 boolean firstParam = true;
                 for (var x : urlParams.entrySet()) {
@@ -141,10 +187,12 @@ public class SettingsAndUtils {
             }
             br.close();
             conn.disconnect();
-            return result.toString();
+            return result.toString();*/
         } catch (IOException e) {
             e.printStackTrace();
             return null;
+        } catch (URISyntaxException e) {
+            throw new RuntimeException(e);
         }
     }
 
@@ -168,7 +216,11 @@ public class SettingsAndUtils {
      * @param bodyFileParams 请求内容附加文件参数
      * @return 反馈的字符串
      */
-    public static String postInfoToUrl(String httpUrl, Map<String, String> headerParams, Map<String, String> bodyParams, Map<String, File> bodyFileParams) {
+    public static String postInfoToUrl(String httpUrl, Map<String, String> headerParams,
+                                       Map<String, String> bodyParams, Map<String, File> bodyFileParams) {
+        if (USE_CHARLES_PROXY) {
+            setCharlesProxy();
+        }
         return null;
         /*
         System.setProperty("http.proxyHost", "127.0.0.1");
@@ -253,9 +305,56 @@ public class SettingsAndUtils {
         }
     }
 
+
+    /**
+     * 指示从哪里获取谜题.
+     */
+    public enum PuzzleSource {
+        OFFICIAL(null),
+        /**
+         * 存放官方谜题的路径.
+         */
+        LOCAL_COMMON(new File("puzzles", "common")),
+        /**
+         * 存放已删除的官方谜题的路径.
+         */
+        LOCAL_DELETED(new File("puzzles", "deleted")),
+        /**
+         * 存放谜题解的路径.
+         */
+        LOCAL_SOLUTION(new File("puzzles", "solutions"));
+
+        private final File dir;
+
+        PuzzleSource(File dir) {
+            this.dir = dir;
+        }
+
+        public File getDir() {
+            try {
+                FileUtils.forceMkdir(dir);
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
+            return dir;
+        }
+    }
+
+    private static String getPuzzleJsonName(JSONObject obj) {
+        try {
+            JSONObject meta = obj.getJSONObject("meta");
+            int id = meta.getInteger("id");
+            String title = strFormat(meta.getString("title"));
+            String shortKey = strFormat(meta.getString("shortKey"));
+            String author = strFormat(meta.getString("author"));
+            return id + " [" + title + "] [" + shortKey + "] by " + author + ".json";
+        } catch (RuntimeException e) {
+            throw new IllegalArgumentException("传入的参数不是常规谜题数据！");
+        }
+    }
+
     /**
      * 通过序号或短代码获取指定谜题的 json.
-     * <p>
      * <ul>
      *     <li>如果官方谜题库有该谜题，将谜题保存到谜题文件夹并返回谜题数据；否则从本地查找谜题</li>
      *     <li>如果谜题文件夹内有该谜题，将其移动到已删除文件夹并返回谜题数据；否则从已删除文件夹查找谜题</li>
@@ -265,7 +364,7 @@ public class SettingsAndUtils {
      * @param o 谜题序号({@link Integer})或短代码({@link String})
      * @return 获取到谜题时，返回谜题数据；否则返回 <code>null</code>
      */
-    public static JSONObject getPuzzleJson(Object o, Location... locations) {
+    public static JSONObject getPuzzleJson(Object o, PuzzleSource... sources) {
         // 1.检查输入
         int id = -1;
         String shortKey = null;
@@ -277,142 +376,110 @@ public class SettingsAndUtils {
         } else if (o instanceof String) {
             shortKey = (String) o;
             if (!shortKey.matches("([CRWS][rgbypcuw]|--){4}.*")) {
-                throw new IllegalArgumentException("id 必须为正数！");
+                throw new IllegalArgumentException("短代码不合规！");
             }
         } else {
             throw new IllegalArgumentException("只能传入谜题序号或短代码！");
         }
-        // 2.获取官方谜题json
-        String url = "https://api.shapez.io/v1/puzzles/download/" + o;
-        HashMap<String, String> headerParams = new HashMap<>(10);
-        headerParams.put("Content-Type", "application/json");
-        headerParams.put("User-Agent", USER_AGENT);
-        headerParams.put("x-api-key", "d5c54aaa491f200709afff082c153ef2");
-        headerParams.put("x-token", TOKEN);
-        String data = getInfoFromUrl(url, null, headerParams);
-        if (data == null) {
-            // 获取谜题信息失败
-            throw new IllegalStateException("未能获取到官方谜题json，请检查TOKEN！");
-        }
-        JSONObject obj = JSON.parseObject(data);
-        // 3.
-        // {error: "not-found"}
-        if (obj.containsKey("error")) {
-            // 谜题不存在或已删除，需要查看本地是否有该谜题
-            if (PUZZLES_DIR.exists()) {
-                // 如果获取到，将谜题移动至delete文件夹
-                obj = getLocalPuzzleJson(o, false, true);
-            }
-            if (obj == null) {
-                if (PUZZLES_DELETED_DIR.exists()) {
-                    obj = getLocalPuzzleJson(o, true, false);
+        // 2.获取谜题json
+        List<PuzzleSource> sourceList = Arrays.stream(sources).toList();
+        JSONObject puzzleJson = null;
+        try {
+            // 2.1 OFFICIAL
+            if (sourceList.contains(PuzzleSource.OFFICIAL)) {
+                String url = "https://api.shapez.io/v1/puzzles/download/" + o;
+                HashMap<String, String> headerParams = new HashMap<>(10);
+                headerParams.put("Content-Type", "application/json");
+                headerParams.put("User-Agent", USER_AGENT);
+                headerParams.put("x-api-key", "d5c54aaa491f200709afff082c153ef2");
+                headerParams.put("x-token", TOKEN);
+                String puzzleStr = getInfoFromUrl(url, null, headerParams);
+                if (puzzleStr == null) {
+                    throw new IllegalStateException("未能获取到官方谜题json，请检查TOKEN！");
+                }
+                JSONObject obj = JSON.parseObject(puzzleStr);
+                if (!obj.containsKey("error")) {
+                    puzzleJson = obj;
+                    // 将谜题存入本地
+                    FileUtils.writeStringToFile(new File(PuzzleSource.LOCAL_COMMON.getDir(), getPuzzleJsonName(puzzleJson)),
+                            puzzleJson.toString(SerializerFeature.PrettyFormat), StandardCharsets.UTF_8);
                 }
             }
-        }
-        if (obj == null || obj.containsKey("error")) {
-            // 官方谜题库、本地都没有该谜题
-            return null;
-        }
-        // 4.保存至本地
-        // 不对啊，如果是放在已删除里面的呢？
-        JSONObject meta = obj.getJSONObject("meta");
-        int id = meta.getInteger("id");
-        String title = strFormat(meta.getString("title"));
-        String shortKey = strFormat(meta.getString("shortKey"));
-        String author = strFormat(meta.getString("author"));
-        File f = new File(PUZZLES_DIR,
-                id + " [" + title + "] [" + shortKey + "] by " + author + ".json");
-        if (!f.exists()) {
-            try {
-                f.createNewFile();
-            } catch (IOException e) {
-                e.printStackTrace();
+            // 2.2 LOCAL
+            PuzzleSource[] localSourcesOrder = {PuzzleSource.LOCAL_COMMON, PuzzleSource.LOCAL_DELETED, PuzzleSource.LOCAL_SOLUTION};
+            for (PuzzleSource puzzleSource : localSourcesOrder) {
+                if (puzzleJson == null && sourceList.contains(puzzleSource)) {
+                    String param1 = id == -1 ? shortKey : id + " ";
+                    File puzzleFile = getLocalPuzzleFile(param1, id != -1, puzzleSource);
+                    if (puzzleFile != null) {
+                        String puzzleStr = FileUtils.readFileToString(puzzleFile, StandardCharsets.UTF_8);
+                        JSONObject obj = JSON.parseObject(puzzleStr);
+                        if (!obj.containsKey("error")) {
+                            puzzleJson = obj;
+                        }
+                        // 如果官方已删除该谜题，移动至已删除文件夹
+                        if (puzzleSource == PuzzleSource.LOCAL_COMMON && sourceList.contains(PuzzleSource.OFFICIAL)) {
+                            FileUtils.moveToDirectory(puzzleFile, PuzzleSource.LOCAL_DELETED.getDir(), true);
+                        }
+                    }
+                }
             }
-        }
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter(f))) {
-            bw.write(obj.toString(SerializerFeature.PrettyFormat));
-            bw.newLine();
         } catch (IOException e) {
             e.printStackTrace();
-        }
-
-        return obj;
-    }
-
-    private static JSONObject getLocalPuzzleJson(Object o, boolean fromDeletedDir, boolean moveToDeletedDir) {
-        // 1.检查输入
-        int id = -1;
-        String shortKey = null;
-        if (o instanceof Integer) {
-            id = (int) o;
-            if (id <= 0) {
-                throw new IllegalArgumentException("id 必须为正数！");
-            }
-        } else if (o instanceof String) {
-            shortKey = (String) o;
-            if (!shortKey.matches("([CRWS][rgbypcuw]|--){4}.*")) {
-                throw new IllegalArgumentException("id 必须为正数！");
-            }
-            shortKey = strFormat(shortKey);
-        } else {
-            throw new IllegalArgumentException("只能传入谜题序号或短代码！");
-        }
-        // 2.bianli
-        File dir = fromDeletedDir ? PUZZLES_DELETED_DIR : PUZZLES_DIR;
-        if (!dir.exists()) {
             return null;
         }
-        File[] files = dir.listFiles();
-        if (files == null || files.length == 0) {
+        return puzzleJson;
+    }
+
+    static final Pattern PATTERN1 = Pattern.compile("\\[.+]");
+
+    /**
+     * 在指定文件夹内寻找谜题文件.
+     *
+     * @param s      谜题 id 加空格（如"8 "），或短代码（如"RuRuRuRu"）
+     * @param byId   参数 s 是否表示 id
+     * @param source 要在哪个文件夹内寻找该谜题
+     * @return 如果找到对应谜题，返回谜题文件；否则返回 {@code null}
+     */
+    private static File getLocalPuzzleFile(String s, boolean byId, PuzzleSource source) {
+        File[] files = PuzzleSource.LOCAL_COMMON.getDir().listFiles();
+        if (files == null) {
             return null;
         }
         File puzzleFile = null;
         for (File file : files) {
             //8 [The first puzzle] [RuRuRuRu] by tobspr
             String name = file.getName();
-            // 通过id寻找puzzle
-            if (id != -1) {
-                int index1 = name.indexOf(" ");
-                String idStr = name.substring(0, index1);
-                if ((id + "").equals(idStr)) {
+            if (byId) {
+                // 通过id寻找puzzle，谜题最前面是id加空格
+                if (name.startsWith(s)) {
                     puzzleFile = file;
                     break;
-                } else {
-                    continue;
+                }
+            } else {
+                // 通过短代码寻找puzzle，谜题名称必定没有[]
+                Matcher matcher = PATTERN1.matcher(name);
+                String shortKeyStr = matcher.group(2);
+                if (s.equals(shortKeyStr)) {
+                    puzzleFile = file;
+                    break;
                 }
             }
-            // 通过短代码寻找puzzle，谜题名称不能有[]
-            int index2 = name.indexOf("[");
-            String shortKeyStr = name.substring(index2 + 1);
-            int index3 = shortKeyStr.indexOf("[");
-            int index4 = shortKeyStr.indexOf("]");
-            shortKeyStr = shortKeyStr.substring(index3 + 1, index4);
-            if (shortKeyStr.equals(shortKey)) {
-                puzzleFile = file;
-                break;
-            }
         }
-        if (puzzleFile == null) {
+        return puzzleFile;
+    }
+
+    public static JSONObject getLocalPuzzzleJsonByFile(File file)  {
+        try {
+            String puzzleStr = FileUtils.readFileToString(file, StandardCharsets.UTF_8);
+            JSONObject obj = JSON.parseObject(puzzleStr);
+            if (!obj.containsKey("error")) {
+                return obj;
+            }
+            return null;
+        }catch (IOException e) {
             return null;
         }
-        StringBuilder info = new StringBuilder();
-        try (BufferedReader br = new BufferedReader(new FileReader(puzzleFile))) {
-            String s;
-            while ((s = br.readLine()) != null) {
-                info.append(s);
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        if (!fromDeletedDir && moveToDeletedDir) {
-            String name = puzzleFile.getName();
-            File dest = new File(PUZZLES_DELETED_DIR, name);
-            if (!PUZZLES_DELETED_DIR.exists()) {
-                PUZZLES_DELETED_DIR.mkdirs();
-            }
-            puzzleFile.renameTo(dest);
-        }
-        return JSON.parseObject(info.toString());
     }
 
     /**

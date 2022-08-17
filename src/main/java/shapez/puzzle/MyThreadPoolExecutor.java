@@ -2,6 +2,7 @@ package shapez.puzzle;
 
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.serializer.SerializerFeature;
+import shapez.SettingsAndUtils;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -10,8 +11,6 @@ import java.io.IOException;
 import java.util.HashMap;
 
 import static shapez.SettingsAndUtils.GET_NON_EXISTS_PUZZLES;
-import static shapez.SettingsAndUtils.PUZZLES_DELETED_DIR;
-import static shapez.SettingsAndUtils.PUZZLES_DIR;
 import static shapez.SettingsAndUtils.THREAD_NUM;
 import static shapez.SettingsAndUtils.UPDATE_LOCAL_PUZZLES;
 import static shapez.SettingsAndUtils.getPuzzleJson;
@@ -45,8 +44,7 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
     public static void init() {
         processedNum = 0;
         processIndex = new int[THREAD_NUM];
-        PUZZLES_DIR.mkdirs();
-        File[] files = PUZZLES_DIR.listFiles();
+        File[] files = SettingsAndUtils.PuzzleSource.LOCAL_COMMON.getDir().listFiles();
         if (files == null) {
             return;
         }
@@ -133,37 +131,14 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
             if (i >= 3) {
                 System.out.println("Thread " + threadNo + ", ID " + id + " 开始第 " + (i + 1) + " 次捞取数据！");
             }
-            obj = getPuzzleJson(id);
+            // 获取谜题并保存至本地
+            obj = getPuzzleJson(id, SettingsAndUtils.PuzzleSource.OFFICIAL);
             if (obj == null || obj.containsKey("error")) {
                 sleep(3000);
             } else {
                 break;
             }
             i++;
-        }
-        // 检查本地该 ID 对应谜题是否已经删除
-        if (obj.containsKey("error")) {
-            return false;
-        }
-        // 将谜题保存至本地。注意，不要用 Puzzle 类转换再获取 title 等数据，太慢
-        JSONObject meta = obj.getJSONObject("meta");
-        String title = strFormat(meta.getString("title"));
-        String shortKey = strFormat(meta.getString("shortKey"));
-        String author = strFormat(meta.getString("author"));
-        File f = new File(PUZZLES_DIR,
-                id + " [" + title + "] [" + shortKey + "] by " + author + ".json");
-        if (!f.exists()) {
-            try {
-                f.createNewFile();
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter(f))) {
-            bw.write(obj.toString(SerializerFeature.PrettyFormat));
-            bw.newLine();
-        } catch (IOException e) {
-            e.printStackTrace();
         }
         return true;
     }
