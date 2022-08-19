@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
  * @author MengLeiFudge
  */
 public class Test {
-    private final Logger logger = LoggerFactory.getLogger(this.getClass());
+    private static final Logger logger = LoggerFactory.getLogger(Test.class);
 
     public void process() {
         logger.trace("trace");

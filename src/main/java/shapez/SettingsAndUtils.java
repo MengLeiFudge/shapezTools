@@ -11,6 +11,8 @@ import org.apache.hc.client5.http.impl.classic.HttpClients;
 import org.apache.hc.core5.http.ParseException;
 import org.apache.hc.core5.http.io.entity.EntityUtils;
 import org.apache.hc.core5.net.URIBuilder;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.File;
 import java.io.IOException;
@@ -36,6 +38,8 @@ import java.util.regex.Pattern;
 public class SettingsAndUtils {
     private SettingsAndUtils() {
     }
+
+    private static final Logger logger = LoggerFactory.getLogger(SettingsAndUtils.class);
 
     public static final Scanner sc = new Scanner(System.in).useDelimiter("\n");
 
@@ -77,7 +81,7 @@ public class SettingsAndUtils {
      * <p>
      * Token 通过抓包方式获取，每次登录谜题都会回传一个 TOKEN，下次登录该 TOKEN 将会失效。
      */
-    private static final String TOKEN = "7a11e5bc-2f69-4bbc-987e-f9f3f6de8c89";
+    private static final String TOKEN = "cee4a637-cc15-4e7b-bce9-bc0999c3318b";
 
     /**
      * Shapez UA，用于下载谜题.
@@ -92,7 +96,7 @@ public class SettingsAndUtils {
      * <p>
      * 该功能用于检查程序模拟的请求是否与游戏操作时发送的请求一致。
      */
-    private static final boolean USE_CHARLES_PROXY = true;
+    private static final boolean USE_CHARLES_PROXY = false;
 
     /**
      * Charles 代理使用的端口号.
@@ -128,71 +132,41 @@ public class SettingsAndUtils {
         if (USE_CHARLES_PROXY) {
             setCharlesProxy();
         }
+        // 1.构建uri
+        URI uri;
         try {
-            CloseableHttpClient httpclient = HttpClients.createDefault();
             URIBuilder uriBuilder = new URIBuilder(httpUrl);
             if (urlParams != null && !urlParams.isEmpty()) {
                 for (var x : urlParams.entrySet()) {
                     uriBuilder.setParameter(x.getKey(), x.getValue());
                 }
             }
-            URI uri = uriBuilder.build();
-            HttpGet httpGet = new HttpGet(uri);
-            CloseableHttpResponse response = null;
-            try {
-                response = httpclient.execute(httpGet);
-                if (response.getCode() == 200) {
-                    String content = EntityUtils.toString(response.getEntity(), StandardCharsets.UTF_8);
-                    System.out.println(content);
-                    return null;
-                }
-                return null;
-            } catch (ParseException e) {
-                throw new RuntimeException(e);
-            } finally {
-                if (response != null) {
-                    response.close();
-                }
-                httpclient.close();
-            }
-
-
-        /*    StringBuilder urlSb = new StringBuilder(httpUrl);
-            if (urlParams != null && !urlParams.isEmpty()) {
-                boolean firstParam = true;
-                for (var x : urlParams.entrySet()) {
-                    urlSb.append(firstParam ? "?" : "&").append(x.getKey()).append("=").append(x.getValue());
-                    if (firstParam) {
-                        firstParam = false;
-                    }
-                }
-            }
-            HttpURLConnection conn = (HttpURLConnection) new URL(urlSb.toString()).openConnection();
-            for (var x : headerParams.entrySet()) {
-                conn.setRequestProperty(x.getKey(), x.getValue());
-            }
-            if (!headerParams.containsKey("User-Agent")) {
-                // 该ua可以解除部分网站对java访问的403限制
-                conn.setRequestProperty("User-Agent", "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)");
-            }
-            conn.connect();
-            if (conn.getResponseCode() != 200) {
-                return null;
-            }
-            BufferedReader br = new BufferedReader(new InputStreamReader(conn.getInputStream(), StandardCharsets.UTF_8));
-            StringBuilder result = new StringBuilder();
-            String line;
-            while ((line = br.readLine()) != null) {
-                result.append(line);
-            }
-            br.close();
-            conn.disconnect();
-            return result.toString();*/
-        } catch (IOException e) {
-            e.printStackTrace();
-            return null;
+            uri = uriBuilder.build();
         } catch (URISyntaxException e) {
-            throw new RuntimeException(e);
+            logger.error(null, e);
+            return null;
+        }
+        // 2.构建httpGet，添加header
+        HttpGet httpGet = new HttpGet(uri);
+        if (headerParams != null && !headerParams.isEmpty()) {
+            for (var x : headerParams.entrySet()) {
+                httpGet.addHeader(x.getKey(), x.getValue());
+            }
+        }
+        if (headerParams == null || !headerParams.containsKey("User-Agent")) {
+            // 该ua可以解除部分网站对java访问的403限制
+            httpGet.addHeader("User-Agent", "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)");
+        }
+        // 3.获取信息
+        try (CloseableHttpClient httpclient = HttpClients.createDefault();
+             CloseableHttpResponse response = httpclient.execute(httpGet)) {
+            if (response.getCode() == 200) {
+                return EntityUtils.toString(response.getEntity(), StandardCharsets.UTF_8);
+            }
+            return null;
+        } catch (ParseException | IOException e) {
+            logger.error(null, e);
+            return null;
         }
     }
 
@@ -402,8 +376,10 @@ public class SettingsAndUtils {
                 if (!obj.containsKey("error")) {
                     puzzleJson = obj;
                     // 将谜题存入本地
-                    FileUtils.writeStringToFile(new File(PuzzleSource.LOCAL_COMMON.getDir(), getPuzzleJsonName(puzzleJson)),
-                            puzzleJson.toString(SerializerFeature.PrettyFormat), StandardCharsets.UTF_8);
+                    if(UPDATE_LOCAL_PUZZLES){
+                        FileUtils.writeStringToFile(new File(PuzzleSource.LOCAL_COMMON.getDir(), getPuzzleJsonName(puzzleJson)),
+                                puzzleJson.toString(SerializerFeature.PrettyFormat), StandardCharsets.UTF_8);
+                    }
                 }
             }
             // 2.2 LOCAL

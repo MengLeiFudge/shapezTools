@@ -58,7 +58,6 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
     public void run() {
         // 指示连续遇到多少个 false
         int falseNum = 0;
-        //int id = 1;
         int id = 1;
         while (true) {
             // 实时更新 processIndex
@@ -146,7 +145,7 @@ public record MyThreadPoolExecutor(int threadNo) implements Runnable {
         StringBuilder sb = new StringBuilder();
         sb.append("已处理 ").append(processedNum).append(" 个谜题：");
         for (int i = 0; i < THREAD_NUM; i++) {
-            sb/*.append("th")*/.append(i).append("_").append(processIndex[i]).append(" ");
+            sb.append(i).append("_").append(processIndex[i]).append(" ");
         }
         System.out.println(sb);
     }
