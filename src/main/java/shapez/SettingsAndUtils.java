@@ -5,6 +5,7 @@ import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.serializer.SerializerFeature;
 import org.apache.commons.io.FileUtils;
 import org.apache.hc.client5.http.classic.methods.HttpGet;
+import org.apache.hc.client5.http.config.RequestConfig;
 import org.apache.hc.client5.http.impl.classic.CloseableHttpClient;
 import org.apache.hc.client5.http.impl.classic.CloseableHttpResponse;
 import org.apache.hc.client5.http.impl.classic.HttpClients;
@@ -27,6 +28,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Random;
 import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -146,7 +148,7 @@ public class SettingsAndUtils {
             logger.error(null, e);
             return null;
         }
-        // 2.构建httpGet，添加header
+        // 2.构建httpGet，添加header，设置超时
         HttpGet httpGet = new HttpGet(uri);
         if (headerParams != null && !headerParams.isEmpty()) {
             for (var x : headerParams.entrySet()) {
@@ -157,6 +159,11 @@ public class SettingsAndUtils {
             // 该ua可以解除部分网站对java访问的403限制
             httpGet.addHeader("User-Agent", "Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)");
         }
+        RequestConfig requestConfig = RequestConfig.custom()
+                .setConnectTimeout(10, TimeUnit.SECONDS)
+                .setResponseTimeout(10, TimeUnit.SECONDS)
+                .build();
+        httpGet.setConfig(requestConfig);
         // 3.获取信息
         try (CloseableHttpClient httpclient = HttpClients.createDefault();
              CloseableHttpResponse response = httpclient.execute(httpGet)) {
