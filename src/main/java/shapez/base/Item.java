@@ -2,7 +2,7 @@ package shapez.base;
 
 import lombok.Data;
 
-import java.util.concurrent.Executors;
+import static shapez.SettingsAndUtils.PATTERN_SHAPE;
 
 /**
  * @author MengLeiFudge
@@ -18,7 +18,7 @@ public abstract class Item {
     }
 
     public static Item getItemByShortKey(String shortKey) {
-        if (shortKey.matches("([CRWS][rgbypcuw]|--){4}.*")) {
+        if (PATTERN_SHAPE.matcher(shortKey).matches()) {
             return new Shape(shortKey);
         } else {
             return new Color(shortKey);

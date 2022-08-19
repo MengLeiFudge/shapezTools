@@ -7,6 +7,9 @@ import shapez.SettingsAndUtils;
 import static shapez.SettingsAndUtils.getPuzzleJson;
 import static shapez.SettingsAndUtils.sc;
 
+/**
+ * @author MengLeiFudge
+ */
 public class ShowOnePuzzle {
     public ShowOnePuzzle() {
     }

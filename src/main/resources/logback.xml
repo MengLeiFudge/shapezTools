@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration>
+
+<configuration scan="true" scanPeriod="10 seconds">
+    <import class="ch.qos.logback.classic.encoder.PatternLayoutEncoder"/>
+    <import class="ch.qos.logback.core.rolling.RollingFileAppender"/>
+    <import class="ch.qos.logback.classic.filter.ThresholdFilter"/>
+    <import class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy"/>
+    <import class="ch.qos.logback.core.ConsoleAppender"/>
+
+    <!-- 配置日志存放位置 -->
+    <property name="LOG_HOME" value="./logs"/>
+    <!-- 配置日志格式 -->
+    <property name="LOG_PATTERN" value="%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n"/>
+
+    <!-- 输出到控制台 -->
+    <appender name="STDOUT" class="ConsoleAppender">
+        <!-- 级别过滤器 -->
+        <filter class="ThresholdFilter">
+            <level>debug</level>
+        </filter>
+        <!-- 输出格式与编码 -->
+        <encoder class="PatternLayoutEncoder">
+            <pattern>${LOG_PATTERN}</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+    </appender>
+
+    <!-- 输出到文件 -->
+    <appender name="FILE" class="RollingFileAppender">
+        <!-- 级别过滤器 -->
+        <filter class="ThresholdFilter">
+            <level>error</level>
+        </filter>
+        <!-- 输出格式与编码 -->
+        <encoder class="PatternLayoutEncoder">
+            <pattern>${LOG_PATTERN}</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+        <!-- 滚动策略 -->
+        <rollingPolicy class="SizeAndTimeBasedRollingPolicy">
+            <!-- 日志存放位置，i表示日志序号，从0开始 -->
+            <fileNamePattern>${LOG_HOME}/%d{yyyy-MM-dd}_%i.log</fileNamePattern>
+            <!-- 可选节点，控制保留的归档文件的最大数量，超出数量就删除旧文件。
+             注意，删除旧文件时， 那些为了归档而创建的目录也会被删除。 -->
+            <maxHistory>30</maxHistory>
+            <!-- 当日志文件超过maxFileSize指定的大小时，根据上面提到的%i进行日志文件滚动 -->
+            <maxFileSize>10MB</maxFileSize>
+        </rollingPolicy>
+    </appender>
+
+    <root>
+        <appender-ref ref="STDOUT"/>
+        <appender-ref ref="FILE"/>
+    </root>
+</configuration>

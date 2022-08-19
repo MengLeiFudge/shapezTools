@@ -67,12 +67,9 @@ public class Shape extends Item {
      * @param shortKey 图形短代码
      * @throws IllegalArgumentException 如果图形短代码不合规
      */
-    public Shape(String shortKey) {
+    protected Shape(String shortKey) {
         super();
         String[] layers = shortKey.split(":");
-        if (layers.length > 4) {
-            throw new IllegalArgumentException("图形至多四层：" + shortKey);
-        }
         Corner[][] corners = new Corner[4][4];
         for (int i = 0; i < 4; i++) {
             // 超过的层数使用空角填充
@@ -84,9 +81,6 @@ public class Shape extends Item {
             String layer = layers[i];
             if ("--------".equals(layer)) {
                 throw new IllegalArgumentException("图形不能有全空层：" + shortKey);
-            }
-            if (!layer.matches("([CRWS][rgbypcuw]|--){4}")) {
-                throw new IllegalArgumentException("图形形状或颜色错误：" + shortKey);
             }
             for (int j = 0; j < 4; j++) {
                 corners[i][j] = new Corner(layer.substring(j * 2, j * 2 + 2));

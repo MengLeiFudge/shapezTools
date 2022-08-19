@@ -12,7 +12,7 @@ import shapez.base.Corner.CornerColor;
 public class Color extends Item {
     private final CornerColor cornerColor;
 
-    public Color(String shortKey) {
+    protected Color(String shortKey) {
         super();
         switch (shortKey) {
             case "uncolored" -> cornerColor = CornerColor.UNCOLORED;

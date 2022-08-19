@@ -2,6 +2,8 @@ package shapez.base;
 
 import lombok.Data;
 
+import static shapez.SettingsAndUtils.PATTERN_CORNER;
+
 /**
  * 表示图形的一个角.
  * <p>
@@ -119,7 +121,7 @@ public class Corner {
      * @param shortKey 角对应的短代码
      */
     public Corner(String shortKey) {
-        if (!shortKey.matches("[CRWS][rgbypcuw]|--")) {
+        if (!PATTERN_CORNER.matcher(shortKey).matches()) {
             throw new IllegalArgumentException("角形状或颜色错误：" + shortKey);
         }
         this.shape = CornerShape.getShapeByStr(shortKey.substring(0, 1));

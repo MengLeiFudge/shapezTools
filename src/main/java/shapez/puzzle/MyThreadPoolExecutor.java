@@ -15,7 +15,6 @@ import static shapez.SettingsAndUtils.THREAD_NUM;
 import static shapez.SettingsAndUtils.UPDATE_LOCAL_PUZZLES;
 import static shapez.SettingsAndUtils.getPuzzleJson;
 import static shapez.SettingsAndUtils.sleep;
-import static shapez.SettingsAndUtils.strFormat;
 
 /**
  * 用于分流处理的线程.

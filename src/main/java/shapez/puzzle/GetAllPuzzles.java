@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
 
 import static shapez.SettingsAndUtils.THREAD_NUM;
 import static shapez.SettingsAndUtils.dfP;
-import static shapez.SettingsAndUtils.getLocalPuzzzleJsonByFile;
+import static shapez.SettingsAndUtils.getLocalPuzzleJsonByFile;
 
 /**
  * @author MengLeiFudge
@@ -97,7 +97,7 @@ public class GetAllPuzzles {
                 return i1 - i2;
             });
             for (File f : puzzlesFileList) {
-                JSONObject obj = getLocalPuzzzleJsonByFile(f);
+                JSONObject obj = getLocalPuzzleJsonByFile(f);
                 if (obj == null) {
                     System.out.println(f + " 不是谜题文件！");
                     continue;

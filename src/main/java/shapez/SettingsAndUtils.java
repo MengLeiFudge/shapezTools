@@ -305,7 +305,6 @@ public class SettingsAndUtils {
         }
     }
 
-
     /**
      * 指示从哪里获取谜题.
      */
@@ -344,10 +343,12 @@ public class SettingsAndUtils {
         try {
             JSONObject meta = obj.getJSONObject("meta");
             int id = meta.getInteger("id");
-            String title = strFormat(meta.getString("title"));
-            String shortKey = strFormat(meta.getString("shortKey"));
-            String author = strFormat(meta.getString("author"));
-            return id + " [" + title + "] [" + shortKey + "] by " + author + ".json";
+            String title = meta.getString("title");
+            String shortKey = meta.getString("shortKey");
+            String author = meta.getString("author");
+            String name =  id + " [" + title + "] [" + shortKey + "] by " + author + ".json";
+            // 去除 windows 禁止用于文件名的符号
+            return name.replaceAll("[\\\\/:*?\"<>|]", "_");
         } catch (RuntimeException e) {
             throw new IllegalArgumentException("传入的参数不是常规谜题数据！");
         }
@@ -375,7 +376,7 @@ public class SettingsAndUtils {
             }
         } else if (o instanceof String) {
             shortKey = (String) o;
-            if (!shortKey.matches("([CRWS][rgbypcuw]|--){4}.*")) {
+            if (PATTERN_SHAPE.matcher(shortKey).matches()) {
                 throw new IllegalArgumentException("短代码不合规！");
             }
         } else {
@@ -431,7 +432,11 @@ public class SettingsAndUtils {
         return puzzleJson;
     }
 
-    static final Pattern PATTERN1 = Pattern.compile("\\[.+]");
+    public static final Pattern PATTERN_CORNER = Pattern.compile("[CRWS][rgbypcuw]|--");
+    public static final Pattern PATTERN_LAYER = Pattern.compile("([CRWS][rgbypcuw]|--){4}");
+    public static final Pattern PATTERN_SHAPE = Pattern.compile("([CRWS][rgbypcuw]|--){4}(:([CRWS][rgbypcuw]|--){4}){0,3}");
+
+    static final Pattern PATTERN_PUZZLE_FILE = Pattern.compile("\\[.+]");
 
     /**
      * 在指定文件夹内寻找谜题文件.
@@ -458,7 +463,7 @@ public class SettingsAndUtils {
                 }
             } else {
                 // 通过短代码寻找puzzle，谜题名称必定没有[]
-                Matcher matcher = PATTERN1.matcher(name);
+                Matcher matcher = PATTERN_PUZZLE_FILE.matcher(name);
                 String shortKeyStr = matcher.group(2);
                 if (s.equals(shortKeyStr)) {
                     puzzleFile = file;
@@ -469,7 +474,7 @@ public class SettingsAndUtils {
         return puzzleFile;
     }
 
-    public static JSONObject getLocalPuzzzleJsonByFile(File file)  {
+    public static JSONObject getLocalPuzzleJsonByFile(File file)  {
         try {
             String puzzleStr = FileUtils.readFileToString(file, StandardCharsets.UTF_8);
             JSONObject obj = JSON.parseObject(puzzleStr);
@@ -481,27 +486,4 @@ public class SettingsAndUtils {
             return null;
         }
     }
-
-    /**
-     * 去除 windows 禁止用于文件名的符号.
-     *
-     * @param s 要修改的字符串
-     * @return 修改后的可用字符串
-     */
-    public static String strFormat(String s) {
-        if (s != null && !"".equals(s)) {
-            s = s.replaceAll("[\\/:\\*\\?\"<>\\|]", "_");
-                    /*.replace("\\", "_")
-                    .replace("/", "_")
-                    .replace(":", "_")
-                    .replace("*", "_")
-                    .replace("?", "_")
-                    .replace("\"", "_")
-                    .replace("<", "_")
-                    .replace(">", "_")
-                    .replace("|", "_");*/
-        }
-        return s;
-    }
-
 }
