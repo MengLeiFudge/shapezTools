@@ -17,7 +17,7 @@
     <appender name="STDOUT" class="ConsoleAppender">
         <!-- 级别过滤器 -->
         <filter class="ThresholdFilter">
-            <level>debug</level>
+            <level>info</level>
         </filter>
         <!-- 输出格式与编码 -->
         <encoder class="PatternLayoutEncoder">

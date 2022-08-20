@@ -327,7 +327,7 @@ public class SettingsAndUtils {
             String title = meta.getString("title");
             String shortKey = meta.getString("shortKey");
             String author = meta.getString("author");
-            String name =  id + " [" + title + "] [" + shortKey + "] by " + author + ".json";
+            String name = id + " [" + title + "] [" + shortKey + "] by " + author + ".json";
             // 去除 windows 禁止用于文件名的符号
             return name.replaceAll("[\\\\/:*?\"<>|]", "_");
         } catch (RuntimeException e) {
@@ -350,18 +350,13 @@ public class SettingsAndUtils {
         // 1.检查输入
         int id = -1;
         String shortKey = null;
-        if (o instanceof Integer) {
-            id = (int) o;
-            if (id <= 0) {
-                throw new IllegalArgumentException("id 必须为正数！");
-            }
-        } else if (o instanceof String) {
-            shortKey = (String) o;
-            if (PATTERN_SHAPE.matcher(shortKey).matches()) {
+        try {
+            id = Integer.parseInt(o.toString());
+        } catch (NumberFormatException e) {
+            shortKey = o.toString();
+            if (!PATTERN_SHAPE.matcher(shortKey).matches()) {
                 throw new IllegalArgumentException("短代码不合规！");
             }
-        } else {
-            throw new IllegalArgumentException("只能传入谜题序号或短代码！");
         }
         // 2.获取谜题json
         List<PuzzleSource> sourceList = Arrays.stream(sources).toList();
@@ -383,7 +378,7 @@ public class SettingsAndUtils {
                 if (!obj.containsKey("error")) {
                     puzzleJson = obj;
                     // 将谜题存入本地
-                    if(UPDATE_LOCAL_PUZZLES){
+                    if (UPDATE_LOCAL_PUZZLES) {
                         FileUtils.writeStringToFile(new File(PuzzleSource.LOCAL_COMMON.getDir(), getPuzzleJsonName(puzzleJson)),
                                 puzzleJson.toString(SerializerFeature.PrettyFormat), StandardCharsets.UTF_8);
                     }
@@ -419,7 +414,7 @@ public class SettingsAndUtils {
     public static final Pattern PATTERN_LAYER = Pattern.compile("([CRWS][rgbypcuw]|--){4}");
     public static final Pattern PATTERN_SHAPE = Pattern.compile("([CRWS][rgbypcuw]|--){4}(:([CRWS][rgbypcuw]|--){4}){0,3}");
 
-    static final Pattern PATTERN_PUZZLE_FILE = Pattern.compile("\\[.+]");
+    private static final Pattern PATTERN_PUZZLE_FILE = Pattern.compile("\\[.+]");
 
     /**
      * 在指定文件夹内寻找谜题文件.
@@ -457,7 +452,7 @@ public class SettingsAndUtils {
         return puzzleFile;
     }
 
-    public static JSONObject getLocalPuzzleJsonByFile(File file)  {
+    public static JSONObject getLocalPuzzleJsonByFile(File file) {
         try {
             String puzzleStr = FileUtils.readFileToString(file, StandardCharsets.UTF_8);
             JSONObject obj = JSON.parseObject(puzzleStr);
@@ -465,7 +460,7 @@ public class SettingsAndUtils {
                 return obj;
             }
             return null;
-        }catch (IOException e) {
+        } catch (IOException e) {
             return null;
         }
     }

@@ -20,13 +20,12 @@ public class Main {
         while (true) {
             System.out.println("※ 该项目仅供学习研究之用 ※");
             System.out.println("选择功能：");
-            System.out.println("1.计算所有可合成形状数目及其最短路径");
+            System.out.println("1.获取所有可合成图形及最短路径数据库");
             System.out.println("2.验证指定悬空拆分算法");
             System.out.println("3.查询指定ID或短代码对应Puzzle");
             System.out.println("4.获取所有Puzzle并排序");
             System.out.println("5.直接对所有Puzzle排序");
             System.out.println("6.输出指定谜题的解");
-            System.out.println("9.test");
             System.out.println("0.结束");
             switch (sc.nextLine()) {
                 case "1" -> new GetAllShapes().process();
@@ -35,7 +34,7 @@ public class Main {
                 case "4" -> new GetAllPuzzles().process(true);
                 case "5" -> new GetAllPuzzles().process(false);
                 case "6" -> new SolvePuzzle().process();
-                case "9" -> new Test().process();
+                case "" -> new Test().process();
                 case "0" -> {
                     System.out.println("喜欢本项目的话，请给萌泪点个star！");
                     return;
