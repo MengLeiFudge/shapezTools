@@ -1,13 +1,9 @@
 package shapez.puzzle;
 
-import com.alibaba.fastjson.JSONObject;
-import com.alibaba.fastjson.serializer.SerializerFeature;
+import com.alibaba.fastjson2.JSONObject;
 import shapez.SettingsAndUtils;
 
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.util.HashMap;
 
 import static shapez.SettingsAndUtils.GET_NON_EXISTS_PUZZLES;

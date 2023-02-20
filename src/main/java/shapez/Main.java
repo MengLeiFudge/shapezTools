@@ -34,7 +34,6 @@ public class Main {
                 case "4" -> new GetAllPuzzles().process(true);
                 case "5" -> new GetAllPuzzles().process(false);
                 case "6" -> new SolvePuzzle().process();
-                case "" -> new Test().process();
                 case "0" -> {
                     System.out.println("喜欢本项目的话，请给萌泪点个star！");
                     return;

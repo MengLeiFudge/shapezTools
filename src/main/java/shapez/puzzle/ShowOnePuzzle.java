@@ -1,7 +1,7 @@
 package shapez.puzzle;
 
-import com.alibaba.fastjson.JSONObject;
-import com.alibaba.fastjson.serializer.SerializerFeature;
+import com.alibaba.fastjson2.JSONObject;
+import com.alibaba.fastjson2.JSONWriter;
 import shapez.SettingsAndUtils;
 
 import static shapez.SettingsAndUtils.getPuzzleJson;
@@ -23,6 +23,6 @@ public class ShowOnePuzzle {
             System.out.println("未找到该谜题的数据！");
             return;
         }
-        System.out.println(obj.toString(SerializerFeature.PrettyFormat));
+        System.out.println(obj.toString(JSONWriter.Feature.PrettyFormat));
     }
 }

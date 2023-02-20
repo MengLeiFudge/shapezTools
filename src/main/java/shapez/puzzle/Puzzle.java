@@ -1,21 +1,21 @@
 package shapez.puzzle;
 
-import com.alibaba.fastjson.JSONArray;
-import com.alibaba.fastjson.JSONObject;
-import com.alibaba.fastjson.serializer.SerializerFeature;
+import com.alibaba.fastjson2.JSONArray;
+import com.alibaba.fastjson2.JSONObject;
 import lombok.Data;
 import shapez.base.Building;
 import shapez.base.Building.BuildingType;
 import shapez.base.Item;
 
 import java.util.ArrayList;
+import java.util.LinkedHashSet;
+import java.util.Set;
 
 /**
  * @author MengLeiFudge
  */
 @Data
 public class Puzzle {
-    private JSONObject obj;
     private int w;
     private int h;
     private Building[] buildings = new Building[0];
@@ -32,28 +32,27 @@ public class Puzzle {
     private String title;
     private int likes;
 
-    Puzzle(JSONObject obj) {
-        this.obj = obj;
-        if (obj.containsKey("error")) {
-            return;
-        }
+    private Puzzle() {
+    }
 
+    public static Puzzle getPuzzleInstanceByJson(JSONObject obj) {
+        if (obj.containsKey("error")) {
+            return null;
+        }
+        Puzzle puzzle = new Puzzle();
         JSONObject game = obj.getJSONObject("game");
         //part1: game - bounds
         JSONObject bounds = game.getJSONObject("bounds");
-        w = bounds.getInteger("w");
-        h = bounds.getInteger("h");
+        puzzle.w = bounds.getInteger("w");
+        puzzle.h = bounds.getInteger("h");
         //part2: game - buildings
         JSONArray buildings = game.getJSONArray("buildings");
-        this.buildings = new Building[buildings.size()];
+        puzzle.buildings = new Building[buildings.size()];
         for (int i = 0; i < buildings.size(); i++) {
             JSONObject building = buildings.getJSONObject(i);
             // typeStr: block, emitter, goal
             String typeStr = building.getString("type");
             BuildingType type = BuildingType.getBuildingTypeByStr(typeStr);
-            if (type == null) {
-                return;
-            }
             Item item = null;
             if (type != BuildingType.BLOCK) {
                 String itemStr = building.getString("item");
@@ -62,91 +61,156 @@ public class Puzzle {
             JSONObject pos = building.getJSONObject("pos");
             // r: 0,90,180,-90
             int r = pos.getInteger("r");
-            int x = pos.getInteger("x");
-            int y = pos.getInteger("y");
-            this.buildings[i] = new Building(type, item, r, x, y);
+            int x = puzzle.convertToNewX(pos.getInteger("x"));
+            int y = puzzle.convertToNewY(pos.getInteger("y"));
+            puzzle.buildings[i] = new Building(type, item, r, x, y);
         }
         //part3: game - version
-        version = game.getInteger("version");
-        //part4: game - version
+        puzzle.version = game.getInteger("version");
+        //part4: game - excludedBuildings
         if (game.containsKey("excludedBuildings")) {
             JSONArray excludedBuildings = game.getJSONArray("excludedBuildings");
-            if (excludedBuildings.size() == 1
-                    && excludedBuildings.get(0).equals("puzzleModder:{\"popup\":\"Hello your shapez has virus\"}")) {
-                // do nothing, puzzle id 8694
-            } else {
-                for (int i = 0; i < excludedBuildings.size(); i++) {
-                    String excludedBuilding = excludedBuildings.getString(i);
-                    switch (excludedBuilding) {
-                        case "balancer" -> {
-                            this.excludedBuildings.add(BuildingType.SPLITTER_LEFT);
-                            this.excludedBuildings.add(BuildingType.SPLITTER_RIGHT);
-                        }
-                        case "cutter" -> {
-                            this.excludedBuildings.add(BuildingType.CUTTER);
-                            this.excludedBuildings.add(BuildingType.CUTTER_QUAD);
-                        }
-                        case "rotater" -> {
-                            this.excludedBuildings.add(BuildingType.ROTATER_CW);
-                            this.excludedBuildings.add(BuildingType.ROTATER_CCW);
-                            this.excludedBuildings.add(BuildingType.ROTATER_180);
-                        }
-                        case "stacker" -> this.excludedBuildings.add(BuildingType.STACKER);
-                        case "mixer" -> this.excludedBuildings.add(BuildingType.MIXER);
-                        case "painter" -> {
-                            this.excludedBuildings.add(BuildingType.PAINTER);
-                            this.excludedBuildings.add(BuildingType.PAINTER_MIRROR);
-                            this.excludedBuildings.add(BuildingType.PAINTER_DOUBLE);
-                        }
-                        case "trash" -> this.excludedBuildings.add(BuildingType.TRASH);
-                        case "belt" -> {
-                            this.excludedBuildings.add(BuildingType.BELT_STRAIGHT);
-                            this.excludedBuildings.add(BuildingType.BELT_LEFT);
-                            this.excludedBuildings.add(BuildingType.BELT_RIGHT);
-                        }
-                        case "underground_belt" -> {
-                            this.excludedBuildings.add(BuildingType.TUNNEL1_ENTRY);
-                            this.excludedBuildings.add(BuildingType.TUNNEL1_EXIT);
-                            this.excludedBuildings.add(BuildingType.TUNNEL2_ENTRY);
-                            this.excludedBuildings.add(BuildingType.TUNNEL2_EXIT);
-                        }
-                        default -> throw new IllegalArgumentException("错误的建筑类型：" + excludedBuilding);
+            for (int i = 0; i < excludedBuildings.size(); i++) {
+                String excludedBuilding = excludedBuildings.getString(i);
+                switch (excludedBuilding) {
+                    case "balancer" -> {
+                        puzzle.excludedBuildings.add(BuildingType.SPLITTER_LEFT);
+                        puzzle.excludedBuildings.add(BuildingType.SPLITTER_RIGHT);
+                    }
+                    case "cutter" -> {
+                        puzzle.excludedBuildings.add(BuildingType.CUTTER);
+                        puzzle.excludedBuildings.add(BuildingType.CUTTER_QUAD);
+                    }
+                    case "rotater" -> {
+                        puzzle.excludedBuildings.add(BuildingType.ROTATER_CW);
+                        puzzle.excludedBuildings.add(BuildingType.ROTATER_CCW);
+                        puzzle.excludedBuildings.add(BuildingType.ROTATER_180);
+                    }
+                    case "stacker" -> puzzle.excludedBuildings.add(BuildingType.STACKER);
+                    case "mixer" -> puzzle.excludedBuildings.add(BuildingType.MIXER);
+                    case "painter" -> {
+                        puzzle.excludedBuildings.add(BuildingType.PAINTER);
+                        puzzle.excludedBuildings.add(BuildingType.PAINTER_MIRROR);
+                        puzzle.excludedBuildings.add(BuildingType.PAINTER_DOUBLE);
+                    }
+                    case "trash" -> puzzle.excludedBuildings.add(BuildingType.TRASH);
+                    case "belt" -> {
+                        puzzle.excludedBuildings.add(BuildingType.BELT_STRAIGHT);
+                        puzzle.excludedBuildings.add(BuildingType.BELT_LEFT);
+                        puzzle.excludedBuildings.add(BuildingType.BELT_RIGHT);
+                    }
+                    case "underground_belt" -> {
+                        puzzle.excludedBuildings.add(BuildingType.TUNNEL1_ENTRY);
+                        puzzle.excludedBuildings.add(BuildingType.TUNNEL1_EXIT);
+                        puzzle.excludedBuildings.add(BuildingType.TUNNEL2_ENTRY);
+                        puzzle.excludedBuildings.add(BuildingType.TUNNEL2_EXIT);
                     }
                 }
             }
         }
         //part5: meta
         JSONObject meta = obj.getJSONObject("meta");
-        difficulty = meta.get("difficulty") == null ? -1 : meta.getDouble("difficulty");
-        averageTime = meta.get("averageTime") == null ? -1 : meta.getDouble("averageTime");
-        downloads = meta.getInteger("downloads");
-        shortKey = meta.getString("shortKey");
-        author = meta.getString("author");
-        completions = meta.getInteger("completions");
-        id = meta.getInteger("id");
-        completed = meta.getBoolean("completed");
-        title = meta.getString("title");
-        likes = meta.getInteger("likes");
+        puzzle.difficulty = meta.get("difficulty") == null ? -1 : meta.getDouble("difficulty");
+        puzzle.averageTime = meta.get("averageTime") == null ? -1 : meta.getDouble("averageTime");
+        puzzle.downloads = meta.getInteger("downloads");
+        puzzle.shortKey = meta.getString("shortKey");
+        puzzle.author = meta.getString("author");
+        puzzle.completions = meta.getInteger("completions");
+        puzzle.id = meta.getInteger("id");
+        puzzle.completed = meta.getBoolean("completed");
+        puzzle.title = meta.getString("title");
+        puzzle.likes = meta.getInteger("likes");
+        return puzzle;
     }
 
-    public String getFormatStr() {
-        return obj.toString(SerializerFeature.PrettyFormat);
-    }
+    // region 坐标转换
 
     /*
-    static int getOriginX(int w, int h) {
-        return 1;
+    图片中心向右0.6，向下0.6，即为0,0位置
+     */
+
+    int getCenterX() {
+        return (int) (w / 2.0 + 0.6);
     }
 
-    static int getOriginY(int w, int h) {
-        return 1;
+    int getCenterY() {
+        return (int) (h / 2.0 - 0.6);
     }
 
-    static int convertToX(int originX, int originY, int x) {
-        return 1;
+    int convertToNewX(int x) {
+        return getCenterX() + x;
     }
 
-    static int convertToY(int originX, int originY, int y) {
-        return 1;
-    }*/
+    int convertToNewY(int y) {
+        return getCenterY() - y;
+    }
+
+    int convertToOriginX(int x) {
+        return x - getCenterX();
+    }
+
+    int convertToOriginY(int y) {
+        return getCenterY() - y;
+    }
+
+    public JSONObject toJSONObject() {
+        JSONObject obj = new JSONObject();
+        JSONObject gameObj = new JSONObject();
+        obj.put("game", gameObj);
+        JSONArray buildingsArr = new JSONArray();
+        gameObj.put("buildings", buildingsArr);
+        for (Building building : buildings) {
+            JSONObject buildingObj = new JSONObject();
+            buildingsArr.add(buildingObj);
+            if (building.getItem() != null) {
+                buildingObj.put("item", building.getItem().getShortKey());
+            }
+            JSONObject pos = new JSONObject();
+            buildingObj.put("pos", pos);
+            pos.put("r", building.getR());
+            pos.put("x", convertToOriginX(building.getX()));
+            pos.put("y", convertToOriginY(building.getY()));
+            buildingObj.put("type", building.getType().toString());
+        }
+        JSONObject boundsObj = new JSONObject();
+        gameObj.put("bounds", boundsObj);
+        boundsObj.put("w", w);
+        boundsObj.put("h", h);
+        gameObj.put("version", version);
+        JSONArray excludedBuildingsArr = new JSONArray();
+        gameObj.put("excludedBuildings", excludedBuildingsArr);
+        Set<String> excludedBuildingsSet = new LinkedHashSet<>();
+        for (var excludedBuilding : excludedBuildings) {
+            switch (excludedBuilding) {
+                case SPLITTER_LEFT, SPLITTER_RIGHT -> excludedBuildingsSet.add("balancer");
+                case CUTTER, CUTTER_QUAD -> excludedBuildingsSet.add("cutter");
+                case ROTATER_CW, ROTATER_CCW, ROTATER_180 -> excludedBuildingsSet.add("rotater");
+                case STACKER -> excludedBuildingsSet.add("stacker");
+                case MIXER -> excludedBuildingsSet.add("mixer");
+                case PAINTER, PAINTER_MIRROR, PAINTER_DOUBLE -> excludedBuildingsSet.add("painter");
+                case TRASH -> excludedBuildingsSet.add("trash");
+                case BELT_STRAIGHT, BELT_LEFT, BELT_RIGHT -> excludedBuildingsSet.add("belt");
+                case TUNNEL1_ENTRY, TUNNEL1_EXIT, TUNNEL2_ENTRY, TUNNEL2_EXIT ->
+                        excludedBuildingsSet.add("underground_belt");
+            }
+        }
+        excludedBuildingsArr.addAll(excludedBuildingsSet);
+        JSONObject metaObj = new JSONObject();
+        obj.put("meta", metaObj);
+        if (difficulty != -1) {
+            metaObj.put("difficulty", difficulty);
+        }
+        if (averageTime != -1) {
+            metaObj.put("averageTime", averageTime);
+        }
+        metaObj.put("downloads", downloads);
+        metaObj.put("shortKey", shortKey);
+        metaObj.put("author", author);
+        metaObj.put("completions", completions);
+        metaObj.put("id", id);
+        metaObj.put("completed", completed);
+        metaObj.put("title", title);
+        metaObj.put("likes", likes);
+        return obj;
+    }
 }

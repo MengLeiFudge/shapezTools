@@ -1,8 +1,8 @@
 package shapez;
 
-import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.JSONObject;
-import com.alibaba.fastjson.serializer.SerializerFeature;
+import com.alibaba.fastjson2.JSON;
+import com.alibaba.fastjson2.JSONObject;
+import com.alibaba.fastjson2.JSONWriter;
 import org.apache.commons.io.FileUtils;
 import org.apache.hc.client5.http.classic.methods.HttpGet;
 import org.apache.hc.client5.http.config.RequestConfig;
@@ -380,7 +380,7 @@ public class SettingsAndUtils {
                     // 将谜题存入本地
                     if (UPDATE_LOCAL_PUZZLES) {
                         FileUtils.writeStringToFile(new File(PuzzleSource.LOCAL_COMMON.getDir(), getPuzzleJsonName(puzzleJson)),
-                                puzzleJson.toString(SerializerFeature.PrettyFormat), StandardCharsets.UTF_8);
+                                puzzleJson.toString(JSONWriter.Feature.PrettyFormat), StandardCharsets.UTF_8);
                     }
                 }
             }

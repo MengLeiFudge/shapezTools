@@ -1,6 +1,6 @@
 package shapez.puzzle;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
 import org.apache.commons.io.FileUtils;
 import shapez.SettingsAndUtils;
@@ -103,7 +103,7 @@ public class GetAllPuzzles {
                     continue;
                 }
                 System.out.println(f.getName());
-                Puzzle puzzle = new Puzzle(obj);
+                Puzzle puzzle = Puzzle.getPuzzleInstanceByJson(obj);
                 double completeRate = (double) puzzle.getCompletions() / puzzle.getDownloads();
                 String infoLine = puzzle.getId() + "," +
                         // 加引号表示是字符串，防止表格识别错误

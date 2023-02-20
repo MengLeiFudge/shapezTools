@@ -1,6 +1,6 @@
 package shapez.puzzle;
 
-import com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson2.JSONObject;
 
 import static shapez.SettingsAndUtils.getPuzzleJson;
 
@@ -25,7 +25,7 @@ public class SolvePuzzle {
         if (obj.containsKey("error")) {
             return;
         }
-        Puzzle puzzle = new Puzzle(obj);
+        Puzzle puzzle = Puzzle.getPuzzleInstanceByJson(obj);
         // 无法使用的输出改成方块
         // 改成左下角为坐标原点，把y反过来。也就是把puzzle放在第一象限，这样更方便阅读和写代码
         // 双染应该是最麻烦的了，出料类型是两个进料都有；
