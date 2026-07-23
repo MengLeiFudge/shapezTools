@@ -3,7 +3,7 @@ package shapez.puzzle;
 import com.alibaba.fastjson2.JSONObject;
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
 import org.apache.commons.io.FileUtils;
-import shapez.SettingsAndUtils;
+import spztool.SettingsAndUtils;
 import shapez.base.Building.BuildingType;
 
 import java.io.File;
@@ -19,9 +19,9 @@ import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
-import static shapez.SettingsAndUtils.THREAD_NUM;
-import static shapez.SettingsAndUtils.dfP;
-import static shapez.SettingsAndUtils.getLocalPuzzleJsonByFile;
+import static spztool.SettingsAndUtils.THREAD_NUM;
+import static spztool.SettingsAndUtils.dfP;
+import static spztool.SettingsAndUtils.getLocalPuzzleJsonByFile;
 
 /**
  * @author MengLeiFudge

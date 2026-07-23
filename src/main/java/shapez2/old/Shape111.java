@@ -1,4 +1,4 @@
-package shapez.base;
+package shapez2.old;
 
 import lombok.Data;
 import shapez.base.Corner.CornerColor;
@@ -8,13 +8,11 @@ import java.util.Arrays;
 
 /**
  * 表示一个图形，包含所有角的形状和颜色信息.
- * <p>
- * 空图形等价于通过“--------:--------:--------:--------”字符串构建的对象。
  *
  * @author MengLeiFudge
  */
 @Data
-public class Shape extends Item {
+public class Shape111 {
     /**
      * 指示当前图形所有角的形状和颜色信息.
      * <p>
@@ -24,17 +22,17 @@ public class Shape extends Item {
      * <p>
      * corners[0][0]表示最底层右上角；corners[0][1]表示最底层右下角；顺时针方向以此类推。
      */
-    final Corner[][] corners;
+    final Shape[][] shapes;
 
     /**
-     * 返回当前图形 {@link #corners} 的深拷贝.
+     * 返回当前图形 {@link #shapes} 的深拷贝.
      *
-     * @return 当前图形 {@link #corners} 的深拷贝
+     * @return 当前图形 {@link #shapes} 的深拷贝
      */
-    private Corner[][] getCornersClone() {
-        Corner[][] clone = new Corner[4][4];
+    private Shape[][] getCornersClone() {
+        Shape[][] clone = new Shape[4][4];
         for (int i = 0; i < 4; i++) {
-            System.arraycopy(corners[i], 0, clone[i], 0, 4);
+            System.arraycopy(shapes[i], 0, clone[i], 0, 4);
         }
         return clone;
     }
@@ -47,14 +45,14 @@ public class Shape extends Item {
     /**
      * 返回当前图形的层数.
      * <p>
-     * 调用构造函数时，在 {@link #corners} 赋值后，应该使用该方法获取图形层数，并将返回值赋值给 {@link #layerNum}。
+     * 调用构造函数时，在 {@link #shapes} 赋值后，应该使用该方法获取图形层数，并将返回值赋值给 {@link #layerNum}。
      *
      * @return 当前图形的层数
      */
     private int getLayerNum() {
-        assert corners != null;
+        assert shapes != null;
         for (int i = 0; i < 4; i++) {
-            if (isEmptyLayer(corners[i])) {
+            if (isEmptyLayer(shapes[i])) {
                 return i;
             }
         }
@@ -67,14 +65,14 @@ public class Shape extends Item {
      * @param shortKey 图形短代码
      * @throws IllegalArgumentException 如果图形短代码不合规
      */
-    protected Shape(String shortKey) {
+    protected Shape111(String shortKey) {
         super();
         String[] layers = shortKey.split(":");
-        Corner[][] corners = new Corner[4][4];
+        Shape[][] shapes = new Shape[4][4];
         for (int i = 0; i < 4; i++) {
             // 超过的层数使用空角填充
             if (i >= layers.length) {
-                Arrays.fill(corners[i], new Corner());
+                Arrays.fill(shapes[i], new Shape());
                 continue;
             }
             // 未超过的层数使用单层数据填充
@@ -83,10 +81,10 @@ public class Shape extends Item {
                 throw new IllegalArgumentException("图形不能有全空层：" + shortKey);
             }
             for (int j = 0; j < 4; j++) {
-                corners[i][j] = new Corner(layer.substring(j * 2, j * 2 + 2));
+                shapes[i][j] = new Shape(layer.substring(j * 2, j * 2 + 2));
             }
         }
-        this.corners = corners;
+        this.shapes = shapes;
         this.layerNum = getLayerNum();
         this.shortKey = shortKey;
     }
@@ -94,11 +92,11 @@ public class Shape extends Item {
     /**
      * 通过角的信息数组构建图形.
      *
-     * @param corners 角的信息数组，必须已经去除全空层
+     * @param shapes 角的信息数组，必须已经去除全空层
      */
-    private Shape(Corner[][] corners) {
+    private Shape111(Shape[][] shapes) {
         super();
-        this.corners = corners;
+        this.shapes = shapes;
         this.layerNum = getLayerNum();
         this.shortKey = toOneLine();
     }
@@ -109,19 +107,19 @@ public class Shape extends Item {
      * @param id 图形 id，范围 0 - 65535，不能存在全空层
      * @throws IllegalArgumentException 如果 id 对应的图形存在全空层
      */
-    public Shape(int id) {
-        Corner[][] layers = new Corner[4][4];
+    public Shape111(int id) {
+        Shape[][] layers = new Shape[4][4];
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 4; j++) {
                 if ((id & (1 << ((i * 4) + j))) > 0) {
-                    layers[i][j] = new Corner(CornerShape.NOT_NONE, CornerColor.NOT_NONE);
+                    layers[i][j] = new Shape(CornerShape.NOT_NONE, CornerColor.NOT_NONE);
                 } else {
-                    layers[i][j] = new Corner();
+                    layers[i][j] = new Shape();
                 }
             }
         }
         simplifyCorners(layers);
-        this.corners = layers;
+        this.shapes = layers;
         this.layerNum = getLayerNum();
         if (getId() != id) {
             throw new IllegalArgumentException("id 为 " + id + " 的图形存在全空层！");
@@ -134,17 +132,17 @@ public class Shape extends Item {
      * <p>
      * 处理后，数组中的全空层会被移除，顶部使用空角填充。
      *
-     * @param corners 角的信息数组
+     * @param shapes 角的信息数组
      */
-    private void simplifyCorners(Corner[][] corners) {
-        assert corners.length == 4;
+    private void simplifyCorners(Shape[][] shapes) {
+        assert shapes.length == 4;
         // 从下往上遍历，移动所有非空层
         int newLayer = 0;
         for (int i = 0; i < 4; i++) {
-            if (!isEmptyLayer(corners[i])) {
+            if (!isEmptyLayer(shapes[i])) {
                 // 将这一层放在第 newLayer 层（如果层数相同就不用放了）
                 if (i != newLayer) {
-                    System.arraycopy(corners[i], 0, corners[newLayer], 0, corners[i].length);
+                    System.arraycopy(shapes[i], 0, shapes[newLayer], 0, shapes[i].length);
                 }
                 newLayer++;
             }
@@ -152,7 +150,7 @@ public class Shape extends Item {
         // 未处理的层使用空角覆盖
         for (; newLayer < 4; newLayer++) {
             for (int j = 0; j < 4; j++) {
-                corners[newLayer][j] = new Corner();
+                shapes[newLayer][j] = new Shape();
             }
         }
     }
@@ -172,7 +170,7 @@ public class Shape extends Item {
      * @param layer 需要进行判断的层
      * @return 如果传入的层的每个角都是空角，返回 true；否则返回 false.
      */
-    public static boolean isEmptyLayer(Corner[] layer) {
+    public static boolean isEmptyLayer(Shape[] layer) {
         return layer[0].isEmpty() && layer[1].isEmpty() && layer[2].isEmpty() && layer[3].isEmpty();
     }
 
@@ -187,26 +185,26 @@ public class Shape extends Item {
         if (layer < 0 || layer > 3) {
             throw new IllegalArgumentException("传入的层数只能是 0-3！");
         }
-        return isEmptyLayer(corners[layer]);
+        return isEmptyLayer(shapes[layer]);
     }
 
     /**
      * 忽略形状和颜色的类型，只关注有没有，返回该图形的ID.
      */
     public int getId() {
-        assert corners != null && corners.length == 4;
-        return getId(corners);
+        assert shapes != null && shapes.length == 4;
+        return getId(shapes);
     }
 
     /**
      * 忽略形状和颜色的类型，只关注有没有，返回该图形的ID.
      */
-    public static int getId(Corner[][] corners) {
-        assert corners != null && corners.length == 4;
+    public static int getId(Shape[][] shapes) {
+        assert shapes != null && shapes.length == 4;
         int id = 0;
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 4; j++) {
-                if (corners[i][j].getShape() != CornerShape.NONE) {
+                if (shapes[i][j].getShape() != CornerShape.NONE) {
                     id |= 1 << ((i * 4) + j);
                 }
             }
@@ -229,7 +227,7 @@ public class Shape extends Item {
             } else {
                 sb.append(":");
             }
-            for (Corner sc : corners[i]) {
+            for (Shape sc : shapes[i]) {
                 sb.append(sc.toString());
             }
         }
@@ -251,7 +249,7 @@ public class Shape extends Item {
             } else {
                 sb.append("\n");
             }
-            for (Corner sc : corners[i]) {
+            for (Shape sc : shapes[i]) {
                 sb.append(sc.toString());
             }
         }
@@ -274,19 +272,19 @@ public class Shape extends Item {
      * @param leftSide 如果为 true，返回切割后的左侧部分；否则返回右侧部分
      * @return 切割后的图形
      */
-    public Shape cut(boolean leftSide) {
-        Corner[][] clone = getCornersClone();
-        for (Corner[] corners : clone) {
+    public Shape111 cut(boolean leftSide) {
+        Shape[][] clone = getCornersClone();
+        for (Shape[] shapes : clone) {
             if (leftSide) {
-                corners[0] = new Corner();
-                corners[1] = new Corner();
+                shapes[0] = new Shape();
+                shapes[1] = new Shape();
             } else {
-                corners[2] = new Corner();
-                corners[3] = new Corner();
+                shapes[2] = new Shape();
+                shapes[3] = new Shape();
             }
         }
         simplifyCorners(clone);
-        return new Shape(clone);
+        return new Shape111(clone);
     }
 
     /**
@@ -296,20 +294,20 @@ public class Shape extends Item {
      * @return 切割后的左侧部分
      * @throws IllegalArgumentException 如果传入的位置索引不合规
      */
-    public Shape cutQuad(int index) {
+    public Shape111 cutQuad(int index) {
         if (index < 0 || index > 3) {
             throw new IllegalArgumentException("传入的层数只能是 0-3！");
         }
-        Corner[][] clone = getCornersClone();
-        for (Corner[] corners : clone) {
+        Shape[][] clone = getCornersClone();
+        for (Shape[] shapes : clone) {
             for (int i = 0; i < 4; i++) {
                 if (i != index) {
-                    corners[i] = new Corner();
+                    shapes[i] = new Shape();
                 }
             }
         }
         simplifyCorners(clone);
-        return new Shape(clone);
+        return new Shape111(clone);
     }
 
     /**
@@ -319,7 +317,7 @@ public class Shape extends Item {
      * @return 旋转后的图形
      * @throws IllegalArgumentException 如果传入的角度不是90的倍数
      */
-    public Shape rotate(int angle) {
+    public Shape111 rotate(int angle) {
         // java 取余是先对绝对值取余，再加原数的正负号
         if (angle % 90 != 0) {
             throw new IllegalArgumentException("传入的角度只能是 90 的倍数（正负不限）！");
@@ -331,9 +329,9 @@ public class Shape extends Item {
         // 正数角度处理至 0 至 270
         angle = angle % 360;
         assert angle == 0 || angle == 90 || angle == 180 || angle == 270;
-        Corner[][] ret = getCornersClone();
-        for (Corner[] layer : ret) {
-            Corner sc = layer[0];
+        Shape[][] ret = getCornersClone();
+        for (Shape[] layer : ret) {
+            Shape sc = layer[0];
             switch (angle) {
                 case 90 -> {
                     layer[0] = layer[3];
@@ -356,7 +354,7 @@ public class Shape extends Item {
                 }
             }
         }
-        return new Shape(ret);
+        return new Shape111(ret);
     }
 
     /**
@@ -365,44 +363,44 @@ public class Shape extends Item {
      * @param lowerShape 堆叠的底层图形
      * @return 堆叠到另一个图形后的图形
      */
-    public Shape stackOn(Shape lowerShape) {
-        Corner[][] lowerCorners = lowerShape.getCornersClone();
+    public Shape111 stackOn(Shape111 lowerShape) {
+        Shape[][] lowerShapes = lowerShape.getCornersClone();
         // 先获取两个图形的最小间距，即上方图形可以下移的格数。该间距至多为4
         int minInterval = 4;
         for (int col = 0; col < 4; col++) {
             // belowDistance 指下方图形在 col 列的
             int belowDistance = 4;
             for (int i = 3; i >= 0; i--) {
-                if (!lowerCorners[i][col].isEmpty()) {
-                    belowDistance = lowerCorners.length - i - 1;
+                if (!lowerShapes[i][col].isEmpty()) {
+                    belowDistance = lowerShapes.length - i - 1;
                     break;
                 }
             }
             int aboveDistance = 4;
             for (int i = 0; i < 4; i++) {
-                if (!corners[i][col].isEmpty()) {
+                if (!shapes[i][col].isEmpty()) {
                     aboveDistance = i;
                     break;
                 }
             }
             minInterval = Math.min(minInterval, belowDistance + aboveDistance);
         }
-        for (int i = 0; i < lowerCorners.length; i++) {
-            if (i < lowerCorners.length - corners.length) {
-                System.arraycopy(lowerCorners[i], 0, lowerCorners[i], 0, lowerCorners[i].length);
-            } else if (i >= lowerCorners.length) {
-                System.arraycopy(corners[corners.length - lowerCorners.length + i], 0, lowerCorners[i], 0, corners[corners.length - lowerCorners.length + i].length);
+        for (int i = 0; i < lowerShapes.length; i++) {
+            if (i < lowerShapes.length - shapes.length) {
+                System.arraycopy(lowerShapes[i], 0, lowerShapes[i], 0, lowerShapes[i].length);
+            } else if (i >= lowerShapes.length) {
+                System.arraycopy(shapes[shapes.length - lowerShapes.length + i], 0, lowerShapes[i], 0, shapes[shapes.length - lowerShapes.length + i].length);
             } else {
                 for (int col = 0; col < 4; col++) {
-                    if (lowerCorners[i][col].getShape() != CornerShape.NONE) {
-                        lowerCorners[i][col] = lowerCorners[i][col];
+                    if (lowerShapes[i][col].getShape() != CornerShape.NONE) {
+                        lowerShapes[i][col] = lowerShapes[i][col];
                     } else {
-                        lowerCorners[i][col] = corners[corners.length - lowerCorners.length + i][col];
+                        lowerShapes[i][col] = shapes[shapes.length - lowerShapes.length + i][col];
                     }
                 }
             }
         }
-        return new Shape(lowerCorners);
+        return new Shape111(lowerShapes);
     }
 
     /**
@@ -411,16 +409,16 @@ public class Shape extends Item {
      * @param cornerColor 要染的颜色
      * @return 上色后的图形
      */
-    public Shape color(CornerColor cornerColor) {
-        Corner[][] clone = getCornersClone();
-        for (Corner[] layer : clone) {
-            for (Corner corner : layer) {
-                if (!corner.isEmpty()) {
-                    corner.setColor(cornerColor);
+    public Shape111 color(CornerColor cornerColor) {
+        Shape[][] clone = getCornersClone();
+        for (Shape[] layer : clone) {
+            for (Shape shape : layer) {
+                if (!shape.isEmpty()) {
+                    shape.setColor(cornerColor);
                 }
             }
         }
-        return new Shape(clone);
+        return new Shape111(clone);
     }
 
     /**
@@ -428,17 +426,17 @@ public class Shape extends Item {
      *
      * @return 拆分后的顶层图形
      */
-    public Shape topLayer() {
-        Corner[][] clone = getCornersClone();
+    public Shape111 topLayer() {
+        Shape[][] clone = getCornersClone();
         if (layerNum > 0) {
             for (int i = 0; i < 4; i++) {
                 clone[0][i] = clone[layerNum - 1][i];
-                clone[1][i] = new Corner();
-                clone[2][i] = new Corner();
-                clone[3][i] = new Corner();
+                clone[1][i] = new Shape();
+                clone[2][i] = new Shape();
+                clone[3][i] = new Shape();
             }
         }
-        return new Shape(clone);
+        return new Shape111(clone);
     }
 
     /**
@@ -446,14 +444,14 @@ public class Shape extends Item {
      *
      * @return 拆分后除顶层图形外的图形
      */
-    public Shape otherLayers() {
-        Corner[][] clone = getCornersClone();
+    public Shape111 otherLayers() {
+        Shape[][] clone = getCornersClone();
         if (layerNum > 0) {
             for (int i = 0; i < 4; i++) {
-                clone[layerNum - 1][i] = new Corner();
+                clone[layerNum - 1][i] = new Shape();
             }
         }
-        return new Shape(clone);
+        return new Shape111(clone);
     }
 
     /**
@@ -484,7 +482,7 @@ public class Shape extends Item {
             return false;
         }
         for (int i = 0; i < 4; i++) {
-            if (!corners[layer][i].isEmpty() && !corners[layer + 1][i].isEmpty()) {
+            if (!shapes[layer][i].isEmpty() && !shapes[layer + 1][i].isEmpty()) {
                 return false;
             }
         }

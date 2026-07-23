@@ -64,7 +64,7 @@
 92,"RpRpRpRp","crossed paths puzzle","anonymous",825,790,95.76%,1m16s,167,13,11,,,,,,,,,
 93,"RcCrRcCr:CrRcCrRc","Checkered Lozenge","anonymous",142,89,62.68%,5m52s,36,12,6,,,,,,,,,
 94,"SuSrSbSg:CcCpCyCw","AnthiosRoutingChal 5","anonymous",28,24,85.71%,4m23s,10,17,17,,,,,,,,,
-95,"RrRrSbRr","Four corners puzzle","anonymous",18,9,50.00%,7m52s,4,13,13,,,,,,,,,
+95,"RrRrSbRr","Four shapes puzzle","anonymous",18,9,50.00%,7m52s,4,13,13,,,,,,,,,
 96,"RwCu--Cu:----Rw--","Thin Factory - Hard","anonymous",349,213,61.03%,2m41s,93,2,19,,,,,,,,,
 98,"RwRwRwRw","AnthiosDivertingChal","anonymous",296,270,91.22%,1m39s,76,8,6,,,,,,,,,
 99,"SrSrSrSr","Merging Is Posibble","anonymous",506,487,96.25%,33s,101,3,5,,,,,,,,,
@@ -167,7 +167,7 @@
 204,"CrCrCrCr:RrRrRrRr","Double The Trouble","anonymous",20,14,70.00%,35s,3,6,6,,,,,,,,,
 205,"--Cu----:--Cu----:--Cu----:--Cu----","Compressed Pizza","anonymous",888,795,89.53%,2m8s,278,6,5,,,,,,,,,
 206,"RgRwRbRr","Cutter Connectors 2","anonymous",104,43,41.35%,14m35s,27,10,10,,,,,,,,,
-207,"Cb------:Cr------:Cu------:Cg------","rainbow corner","anonymous",63,41,65.08%,3m23s,14,5,5,,,,,,,,,
+207,"Cb------:Cr------:Cu------:Cg------","rainbow shape","anonymous",63,41,65.08%,3m23s,14,5,5,,,,,,,,,
 208,"Rr------:RuRu----","HydracuEs","anonymous",15,11,73.33%,2m45s,3,2,14,,,,,,,,,
 209,"Cy----Cy:----CyCy:--CyCy--","Blocked","anonymous",201,89,44.28%,9m46s,46,5,11,,,,,,,,,
 210,"WyWyCuCu:RuRuSySy","LiterallyAMazeNoTunl","anonymous",326,312,95.71%,40s,57,20,20,,,,,,,,,
@@ -911,7 +911,7 @@
 1174,"CuCrCgCb","Lv5 of my puzzle","player#214415050",7,1,14.29%,-1s,1,10,10,,,,,,,,,
 1175,"------Ru","Cramped","player#474134082",382,357,93.46%,42s,69,4,3,×,,×,×,×,×,,×,
 1176,"CyCyCgCg","No Tunnels Allowed","Nejy",257,174,67.70%,4m1s,69,11,8,,,×,,,,,,×
-1177,"ScWgScWg:Sc--Sc--","corner doubler","Timitek",7,2,28.57%,-1s,2,10,4,,,,,,,,,
+1177,"ScWgScWg:Sc--Sc--","shape doubler","Timitek",7,2,28.57%,-1s,2,10,4,,,,,,,,,
 1178,"RbRbRbRb:CrCrCrCr","Will It Fit","Nejy",8,4,50.00%,-1s,2,9,7,×,×,×,,×,×,×,,
 1179,"SgSgSgSg","Fluid","5kender",9,3,33.33%,-1s,1,5,5,×,×,×,×,×,,×,,
 1182,"WuCuRuSu","Discard","NeonApe",5,1,20.00%,-1s,1,10,7,×,,,,×,×,,×,
@@ -1265,7 +1265,7 @@
 1665,"CbCbCbCb:RrRrRrRr:RrRrRrRr:CbCbCbCb","Double Stack","Valerie",4,1,25.00%,-1s,0,9,9,,,,,,,,,
 1666,"CbCbCbRb:CwCwCwCw:CrCcCwCg","10x10 Freeform Lvl12","kubagames143",8,2,25.00%,-1s,1,10,10,,,,,,,,,
 1667,"RpRpRpRp:CwCwCwCw:CrCcCwCg","9x9 Freeform Lvl 13","kubagames143",7,2,28.57%,-1s,2,9,9,,,,,,,,,
-1668,"RgCrRgCr","8x8 double corner","DaGamerDude584",12,3,25.00%,-1s,1,13,13,×,×,×,×,×,×,×,,
+1668,"RgCrRgCr","8x8 double shape","DaGamerDude584",12,3,25.00%,-1s,1,13,13,×,×,×,×,×,×,×,,
 1671,"WrWrWrWr:WcWcWcWc:WrWrWrWr:WcWcWcWc","windguy","willcrafter1",5,2,40.00%,-1s,0,8,6,,,,,,,,,
 1672,"--Cg----:--Cr----:--Cc----","8x6 Freeform Lvl 14","kubagames143",9,4,44.44%,-1s,2,8,6,,,,,,,,,
 1673,"----Sp--:----Sp--:----Sp--:----Sp--","the wtf puzzle","kelp2222",9,1,11.11%,-1s,1,15,14,,,,,,,,,
@@ -2180,7 +2180,7 @@
 2860,"SyCyCpCy:RuSuCuSu","A Conveyor Loop","decrofull",22,19,86.36%,10s,1,4,4,,,,,,,,,
 2861,"Sw--Sw--:Sw--Sw--:Sw--Sw--","no trash","Professorlf",54,27,50.00%,8m8s,12,4,8,,,,,,,,,
 2862,"RbRbRbRb:CyCyCyCy","5x5 nothing to waste","goklaus",1730,1592,92.02%,57s,373,5,5,,,,,,,,,
-2863,"RyRpRyRp","5x5 around corners","goklaus",17,14,82.35%,37s,2,5,5,,,,,,,,,
+2863,"RyRpRyRp","5x5 around shapes","goklaus",17,14,82.35%,37s,2,5,5,,,,,,,,,
 2864,"RwRwCwCw:RwRwCwCw","5x5 just 2 variants","goklaus",1090,887,81.38%,3m15s,344,5,5,,,,,,,,,
 2865,"CgCgCgCg:CcCcCcCc:CrCrCrCr","easy","player#525141073",213,206,96.71%,11s,38,2,4,×,,,,,,,×,×
 2866,"RgRgRgRg:SgCcSgCc","tunel","player#525141073",18,14,77.78%,21s,2,4,6,×,×,×,×,×,×,×,,
@@ -3167,7 +3167,7 @@
 4228,"RwRwRwRw:RrRrRrRr:RbRbRbRb","flow free lvl 2","KarryAnn",242,235,97.11%,23s,44,8,9,,,,,,,,,
 4229,"RwRwRwRw:RbRbRbRb:RrRrRrRr:RpRpRpRp","flow free lvl 3","KarryAnn",240,234,97.50%,25s,42,10,10,,,,,,,,,
 4230,"RrRwRrRw:RwRrRwRr:RrRwRrRw:RwRrRwRr","flowing spiral","KarryAnn",67,62,92.54%,24s,8,12,12,,,,,,,,,
-4232,"--Ru--Ru:--Ru--Ru:--Ru--Ru:--Ru--Ru","corners","KarryAnn",35,32,91.43%,36s,5,11,12,,,,,,,,,
+4232,"--Ru--Ru:--Ru--Ru:--Ru--Ru:--Ru--Ru","shapes","KarryAnn",35,32,91.43%,36s,5,11,12,,,,,,,,,
 4233,"RwRwRwRw:RbRbRbRb:RrRrRrRr:SpSpSpSp","flow free lvl 4","KarryAnn",304,299,98.36%,43s,58,12,13,,,,,,,,,
 4234,"RrRrRrRb:RwRwRwSw:RrRrRrSb:RwRwRw--","USA Assembly Line","Peanut",12,1,08.33%,-1s,1,14,14,,,,,,,,,
 4235,"----CuCu:RuRu----","Halfsies","Coops",14,11,78.57%,58s,3,4,7,×,,,×,×,×,,,
@@ -3702,7 +3702,7 @@
 4926,"Cu------:CrCr----:CyCyCy--:CgCgCgCg","Ratio Testing","SingGuang",217,211,97.24%,58s,39,10,4,,,,,,,,,
 4927,"SrSrSrSr:WbWbWbWb:RpRpRpRp:CwCwCwCw","Many in one","player#429578393",15,3,20.00%,-1s,2,15,14,,,,,,,,,
 4928,"CwCpCwCp:CyCrCyCr:CgCcCgCc","Spaghetti Joker","DKAJones",18,12,66.67%,3m45s,4,14,10,,,,,,,,,
-4929,"RwRwRwRw:CrCyCgCb:CrCyCgCb","Main Base Box","DKAJones",72,33,45.83%,12m24s,16,9,16,,,,,×,×,×,,
+4929,"RwRwRwRw:CrCyCgCb:CrCyCgCb","spztool.Main Base Box","DKAJones",72,33,45.83%,12m24s,16,9,16,,,,,×,×,×,,
 4930,"CbCu--Cw:Sr--Ru--:--Cr----:CwCw----","First time do","okidom",18,0,00.00%,-1s,0,20,20,,,,,,,,,
 4931,"CrRwRwCr:SrWgWgSr","can you do it","Ironfamily",53,47,88.68%,34s,7,7,7,,,,,,,,,
 4932,"ScScScSc:CyCyCyCy:ScScScSc:CyCyCyCy","Hard level","Ironfamily",15,9,60.00%,7m58s,3,20,16,,,,,×,,,,
@@ -3811,7 +3811,7 @@
 5067,"CcCcCcCc:WcWcWcWc","Simple stack","MadCarrot",158,151,95.57%,46s,26,6,3,,×,×,,,,,,×
 5068,"CrCgCuCb","Separate and Color","Azzi",139,43,30.94%,10m55s,24,5,17,,,,,,,,,
 5069,"SpSbSpWp:ScWcScWc","No belt","Ironfamily",12,10,83.33%,32s,2,10,10,,×,×,×,×,,×,×,×
-5070,"RcRwRcRp","no corners","Ironfamily",19,16,84.21%,2m34s,4,12,17,,,,,,,,,
+5070,"RcRwRcRp","no shapes","Ironfamily",19,16,84.21%,2m34s,4,12,17,,,,,,,,,
 5071,"RyRgRcRr","reverse","Rodomify",9,7,77.78%,-1s,2,8,6,,,,,,,,,
 5072,"Sr------:Sr------:RwRwRwRw:Sr------","Crosswires","Rodomify",16,4,25.00%,-1s,2,7,20,,,,,,,,,
 5073,"RgRuRuRg","Testito","elementalstate",234,221,94.44%,1m2s,43,4,6,×,,,,×,,×,,
@@ -4989,7 +4989,7 @@
 6605,"CyCuCyCu:CrCyCrCy","Hugo i Shapezio","marcin.penconek",20,18,90.00%,44s,3,8,6,,,,,,,,,
 6606,"RcRcRcRc:CcCcCcCc:RcRcRcRc:CcCcCcCc","Shapezio Puzzle","marcin.penconek",24,19,79.17%,1m53s,2,12,10,,,,,,,,,
 6607,"WrWrCbCb:RrRrRrRr","First try","L1uke",16,9,56.25%,3m51s,3,7,10,,,,,,,,,
-6608,"SpWg----:SrWpSy--","The ultamite corner","player#513926848",13,9,69.23%,6m30s,3,20,20,,,,,,,,,
+6608,"SpWg----:SrWpSy--","The ultamite shape","player#513926848",13,9,69.23%,6m30s,3,20,20,,,,,,,,,
 6611,"CpRrCpRr:CpWuCpWu","RgRgRgRg","marcin.penconek",38,37,97.37%,51s,5,2,20,,,,,,,,,
 6612,"SuSuSuSu:CrCuCrCu","Puzzle","marcin.penconek",19,18,94.74%,23s,3,8,6,,,,,,,,,
 6613,"Cr--Cr--:Rw--Rw--:Cr--Cr--:Rw--Rw--","y e s","Fenrir247",64,49,76.56%,3m17s,16,10,6,,,,,,,,,
@@ -5007,7 +5007,7 @@
 6630,"Cr------:Cg------","Spot The Difference","Professorlf",88,21,23.86%,18m8s,15,9,13,×,,,,×,×,,,
 6631,"CbCbCbCb:WgWgWgWg:WwWwWwWw:CbCbCbCb","Ultimate Intricacy","MegaMorio",11,1,09.09%,-1s,1,19,20,,,,,,,,,
 6632,"--Ru--Ru:--Cu--Cu:--Ru--Ru:--Cu--Cu","-VSC-","player#633906361",33,24,72.73%,2m56s,7,6,6,,,,,×,,×,,×
-6633,"CrCbCrCb:CrCrCbCb","Swap the corners","helmanfromhel",25,20,80.00%,3m18s,3,8,13,×,,,,×,×,×,,
+6633,"CrCbCrCb:CrCrCbCb","Swap the shapes","helmanfromhel",25,20,80.00%,3m18s,3,8,13,×,,,,×,×,×,,
 6634,"RrRrRgRg:SySySySy:CbCbCbCb","2 in 1","helmanfromhel",20,14,70.00%,2m47s,3,20,20,×,,×,,×,,×,,
 6635,"CuCuCuCu:CrCrCrCr","Stacker","abc123josh",42,41,97.62%,17s,5,6,6,×,×,×,,×,×,×,,×
 6638,"--Rw----","Cutting Shapes","abc123josh",21,20,95.24%,13s,2,8,6,×,,×,×,×,×,,,×
@@ -5162,7 +5162,7 @@
 6859,"WgWrWrWg:CrRrRrCr","the tourture chamber","RoRobot",21,19,90.48%,2m4s,3,20,20,,,,,,,,,
 6860,"CrCgCbCy:CbCbCyCy:CrCgCrCg","ReConstruct Patterns","moz9738",82,57,69.51%,3m5s,18,10,6,,,,,×,×,×,,×
 6861,"RwCp--Cb","No conveyors","elancrasher",19,0,00.00%,-1s,0,10,10,,,,,,,,×,
-6862,"SrSrRrRr:CrCrSuSu","Tight corners","Hooper",17,14,82.35%,1m33s,3,6,4,,,,,,,,,
+6862,"SrSrRrRr:CrCrSuSu","Tight shapes","Hooper",17,14,82.35%,1m33s,3,6,4,,,,,,,,,
 6863,"RuRuSuSu:--SuSu--","First Puzzle","ToxicGrease",14,9,64.29%,5m38s,3,8,6,,,,,,,,,
 6864,"CrRgWbSy:SyWbRgCr","How did I beat this","ToxicGrease",18,15,83.33%,1m8s,3,4,20,,,,,,,,,
 6865,"Rr----Rr:Cu----Cu:Cg------","Madness","Hooper",14,3,21.43%,-1s,2,9,9,,,,,,,,,
@@ -6148,7 +6148,7 @@
 8134,"CpCpRwRw:CcCcRpRp","ZZZZ","player#797912316",9,7,77.78%,-1s,0,20,20,,,,,,,,,
 8135,"SuSuSuSu:SuSuSuSu:CbCbCbRb:CwCwCwCw","Compact Blueprint","CasualTea",18,7,38.89%,3m23s,2,10,7,,,,,,,,,
 8136,"SrCwSrCw:RwCwRwCw","88uio","Mr.Happy",15,7,46.67%,13m26s,2,14,12,,,,,,,,,
-8137,"Rr--Cc--","Red and Cyan corners","Pruznak",7,5,71.43%,-1s,1,10,5,×,,,,×,×,,,×
+8137,"Rr--Cc--","Red and Cyan shapes","Pruznak",7,5,71.43%,-1s,1,10,5,×,,,,×,×,,,×
 8138,"RyRyRcRc:CcCcCyCy:SySyScSc","Cutting Corners","player#804080377",8,6,75.00%,-1s,1,14,15,,,,,,,,,
 8139,"WrWrScSc:CwCwCwCw","One Shape Many Ways","player#646291892",9,5,55.56%,-1s,1,13,12,,,,,,,,,
 8140,"--Rg--Rg:RgRwRgRw:SwSgSwSg","Think Small","player#804080377",11,7,63.64%,-1s,2,7,8,×,×,×,,,,×,,

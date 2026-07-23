@@ -1,10 +1,11 @@
-package shapez.calculate;
+package shapez2.calculate;
 
 import com.alibaba.fastjson2.JSON;
 import com.alibaba.fastjson2.JSONWriter;
 import org.apache.commons.io.FileUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import shapez2.base.Operate;
 
 import java.io.File;
 import java.io.IOException;
@@ -74,10 +75,10 @@ public class GetAllShapes {
                 if (steps[id] != currentStep) {
                     continue;
                 }
-                SimpleShape shape = new SimpleShape(id);
+                Shape shape = new Shape(id);
                 for (var x : Operate.values()) {
                     if (x != Operate.STACK) {
-                        SimpleShape shapeNew = shape.process(x);
+                        Shape shapeNew = shape.process(x);
                         int newId = shapeNew.id();
                         if (newId != 0 && steps[newId] == 0) {
                             steps[newId] = currentStep + 1;
@@ -89,15 +90,15 @@ public class GetAllShapes {
                             if (steps[id2] == 0) {
                                 continue;
                             }
-                            SimpleShape shape2 = new SimpleShape(id2);
-                            SimpleShape shapeNew1 = shape.process(Operate.STACK, shape2);
+                            Shape shape2 = new Shape(id2);
+                            Shape shapeNew1 = shape.process(Operate.STACK, shape2);
                             int stack1 = shapeNew1.id();
                             if (steps[stack1] == 0) {
                                 steps[stack1] = currentStep + 1;
                                 updated = true;
                                 num++;
                             }
-                            SimpleShape shapeNew2 = shape2.process(Operate.STACK, shape);
+                            Shape shapeNew2 = shape2.process(Operate.STACK, shape);
                             int stack2 = shapeNew2.id();
                             if (steps[stack2] == 0) {
                                 steps[stack2] = currentStep + 1;
@@ -117,7 +118,7 @@ public class GetAllShapes {
             }
         }
         long t2 = System.currentTimeMillis();
-        logger.info("计算共用时 {} s", (t2 - t1) / 1000.0);
+        logger.info("计算共用时 " + (t2 - t1) / 1000.0 + " s");
         allShapes = new ArrayList<>();
         for (int id = 0x0001; id <= 0xffff; id++) {
             if (steps[id] != 0) {

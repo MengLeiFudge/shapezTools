@@ -1,16 +1,16 @@
 package shapez.puzzle;
 
 import com.alibaba.fastjson2.JSONObject;
-import shapez.SettingsAndUtils;
+import spztool.SettingsAndUtils;
 
 import java.io.File;
 import java.util.HashMap;
 
-import static shapez.SettingsAndUtils.GET_NON_EXISTS_PUZZLES;
-import static shapez.SettingsAndUtils.THREAD_NUM;
-import static shapez.SettingsAndUtils.UPDATE_LOCAL_PUZZLES;
-import static shapez.SettingsAndUtils.getPuzzleJson;
-import static shapez.SettingsAndUtils.sleep;
+import static spztool.SettingsAndUtils.GET_NON_EXISTS_PUZZLES;
+import static spztool.SettingsAndUtils.THREAD_NUM;
+import static spztool.SettingsAndUtils.UPDATE_LOCAL_PUZZLES;
+import static spztool.SettingsAndUtils.getPuzzleJson;
+import static spztool.SettingsAndUtils.sleep;
 
 /**
  * 用于分流处理的线程.

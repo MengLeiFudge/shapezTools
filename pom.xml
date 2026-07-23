@@ -10,14 +10,14 @@
 
     <properties>
         <!-- 全局变量配置 -->
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <lombok.version>1.18.26</lombok.version>
-        <slf4j.version>2.0.6</slf4j.version>
-        <logback.version>1.4.5</logback.version>
-        <httpcomponents.version>5.2.1</httpcomponents.version>
-        <javafx.version>19.0.2.1</javafx.version>
+        <lombok.version>1.18.46</lombok.version>
+        <slf4j.version>2.0.18</slf4j.version>
+        <logback.version>1.5.38</logback.version>
+        <!-- 与 JDK 25 对齐的稳定线 -->
+        <javafx.version>25.0.4</javafx.version>
     </properties>
 
     <dependencies>
@@ -27,7 +27,7 @@
             <artifactId>lombok</artifactId>
             <version>${lombok.version}</version>
         </dependency>
-        <!-- log相关 -->
+        <!-- log -->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
@@ -43,49 +43,54 @@
             <artifactId>logback-classic</artifactId>
             <version>${logback.version}</version>
         </dependency>
-        <!-- io相关 -->
+        <!-- 文件操作 -->
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.11.0</version>
+            <version>2.22.0</version>
         </dependency>
-        <!-- xml相关 -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.20.0</version>
+        </dependency>
+        <!-- xml -->
         <dependency>
             <groupId>org.dom4j</groupId>
             <artifactId>dom4j</artifactId>
-            <version>2.1.4</version>
+            <version>2.2.0</version>
         </dependency>
-        <!-- json相关 -->
+        <!-- json -->
         <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>fastjson</artifactId>
-            <version>2.0.23</version>
+            <groupId>com.alibaba.fastjson2</groupId>
+            <artifactId>fastjson2</artifactId>
+            <version>2.0.62</version>
         </dependency>
-        <!-- 多线程相关（构建线程工厂） -->
+        <!-- 多线程 -->
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>31.1-jre</version>
+            <version>33.6.0-jre</version>
         </dependency>
-        <!-- http相关 -->
+        <!-- http通信 -->
         <dependency>
             <groupId>org.apache.httpcomponents.client5</groupId>
             <artifactId>httpclient5-fluent</artifactId>
-            <version>${httpcomponents.version}</version>
+            <version>5.6.2</version>
         </dependency>
-        <!-- 二维码相关 -->
+        <!-- 二维码 -->
         <dependency>
             <groupId>com.google.zxing</groupId>
             <artifactId>javase</artifactId>
-            <version>3.5.1</version>
+            <version>3.5.4</version>
         </dependency>
-        <!-- sqlite数据库相关 -->
+        <!-- sqlite数据库 -->
         <dependency>
             <groupId>org.xerial</groupId>
             <artifactId>sqlite-jdbc</artifactId>
-            <version>3.40.1.0</version>
+            <version>3.53.2.1</version>
         </dependency>
-        <!-- jfx相关 -->
+        <!-- jfx -->
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
@@ -96,6 +101,13 @@
             <artifactId>javafx-fxml</artifactId>
             <version>${javafx.version}</version>
         </dependency>
+        <!-- junit -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.14.4</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <build>
@@ -103,10 +115,10 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.8.1</version>
+                <version>3.15.0</version>
                 <configuration>
-                    <source>17</source>
-                    <target>17</target>
+                    <source>${maven.compiler.source}</source>
+                    <target>${maven.compiler.target}</target>
                     <annotationProcessorPaths>
                         <path>
                             <groupId>org.projectlombok</groupId>
@@ -119,4 +131,40 @@
         </plugins>
     </build>
 
+    <repositories>
+        <!-- 阿里云镜像 -->
+        <repository>
+            <id>central</id>
+            <url>https://maven.aliyun.com/repository/central</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+        <!-- 中央仓库在中国的镜像 -->
+        <repository>
+            <id>china</id>
+            <url>https://maven.net.cn/content/groups/public/</url>
+        </repository>
+        <!-- 其他镜像 -->
+        <repository>
+            <id>repo1</id>
+            <url>https://repo1.maven.org/maven2/</url>
+        </repository>
+        <repository>
+            <id>jboss</id>
+            <url>https://repository.jboss.org/nexus/content/groups/public</url>
+        </repository>
+        <repository>
+            <id>google</id>
+            <url>https://maven-central.storage.googleapis.com</url>
+        </repository>
+        <repository>
+            <id>maven_central</id>
+            <name>Maven Central</name>
+            <url>https://repo.maven.apache.org/maven2/</url>
+        </repository>
+    </repositories>
 </project>

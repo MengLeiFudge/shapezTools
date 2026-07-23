@@ -2,7 +2,7 @@ package shapez.base;
 
 import lombok.Data;
 
-import static shapez.SettingsAndUtils.PATTERN_CORNER;
+import static spztool.SettingsAndUtils.PATTERN_CORNER;
 
 /**
  * 表示图形的一个角.
@@ -52,41 +52,7 @@ public class Corner {
     /**
      * 角的颜色.
      */
-    public enum CornerColor {
-        UNCOLORED("u"),
-        RED("r"),
-        GREEN("g"),
-        BLUE("b"),
-        YELLOW("y"),
-        PURPLE("p"),
-        CYAN("c"),
-        WHITE("w"),
-        NONE("-"),
-        /**
-         * 表示有颜色（等价于有形状）但不知道具体是哪种颜色.
-         */
-        NOT_NONE("x");
 
-        private final String shortKey;
-
-        CornerColor(String shortKey) {
-            this.shortKey = shortKey;
-        }
-
-        public static CornerColor getColorByStr(String s) {
-            for (CornerColor color : CornerColor.values()) {
-                if (color.toString().equals(s)) {
-                    return color;
-                }
-            }
-            throw new IllegalArgumentException("未找到短代码 " + s + " 对应的颜色类型！");
-        }
-
-        @Override
-        public String toString() {
-            return shortKey;
-        }
-    }
 
     private CornerShape shape;
     private CornerColor color;

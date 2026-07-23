@@ -2,7 +2,7 @@ package shapez.base;
 
 import lombok.Data;
 
-import static shapez.SettingsAndUtils.PATTERN_SHAPE;
+import static spztool.SettingsAndUtils.PATTERN_SHAPE;
 
 /**
  * @author MengLeiFudge

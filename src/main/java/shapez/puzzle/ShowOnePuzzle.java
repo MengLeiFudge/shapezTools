@@ -2,10 +2,10 @@ package shapez.puzzle;
 
 import com.alibaba.fastjson2.JSONObject;
 import com.alibaba.fastjson2.JSONWriter;
-import shapez.SettingsAndUtils;
+import spztool.SettingsAndUtils;
 
-import static shapez.SettingsAndUtils.getPuzzleJson;
-import static shapez.SettingsAndUtils.sc;
+import static spztool.SettingsAndUtils.getPuzzleJson;
+import static spztool.SettingsAndUtils.sc;
 
 /**
  * @author MengLeiFudge

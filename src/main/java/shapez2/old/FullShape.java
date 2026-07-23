@@ -1,18 +1,19 @@
-package shapez.calculate;
+package shapez2.old;
 
-/**
- * 表示一个没有角的形状、颜色信息，只有角存在与否信息的图形.
- *
- * @param id 图形 id.
- *           <p>
- *           由于 java 的位运算操作会返回 int，故此处使用 int 而非 short。
- *           <p>
- *           可将该值视为一个 16 位的数据，每 4 位表示一层，低位表示低层；
- *           每层从低位到高位依次表示右上、右下、左下、左上。
- * @author MengLeiFudge
- */
-public record SimpleShape(int id) {
-    public SimpleShape process(Operate operate, SimpleShape... shape) {
+import shapez2.base.Operate;
+
+public class FullShape {
+    int s1;
+    int s2;
+    int s3;
+    int s4;
+    int s5;
+
+    public FullShape(int id){
+        this.id = id;
+    }
+
+    public shapez2.calculate.Shape process(Operate operate, shapez2.calculate.Shape... shape) {
         return switch (operate) {
             case LEFT -> cut(3, 4);
             case RIGHT -> cut(1, 2);
@@ -35,19 +36,19 @@ public record SimpleShape(int id) {
      * @param angle 旋转角度
      * @return 旋转后的图形
      */
-    private SimpleShape rotate(int angle) {
+    private shapez2.calculate.Shape rotate(int angle) {
         switch (angle) {
             case 90 -> {
                 //0x7777: 0111 0111 0111 0111  0x8888: 1000 1000 1000 1000
-                return new SimpleShape(((id & 0x7777) << 1) | ((id & 0x8888) >>> 3));
+                return new shapez2.calculate.Shape(((id & 0x7777) << 1) | ((id & 0x8888) >>> 3));
             }
             case 180 -> {
                 //0x3333: 0011 0011 0011 0011  0xCCCC: 1100 1100 1100 1100
-                return new SimpleShape(((id & 0x3333) << 2) | ((id & 0xCCCC) >>> 2));
+                return new shapez2.calculate.Shape(((id & 0x3333) << 2) | ((id & 0xCCCC) >>> 2));
             }
             case 270 -> {
                 //0x1111: 0001 0001 0001 0001  0xEEEE: 1110 1110 1110 1110
-                return new SimpleShape(((id & 0x1111) << 3) | ((id & 0xEEEE) >>> 1));
+                return new shapez2.calculate.Shape(((id & 0x1111) << 3) | ((id & 0xEEEE) >>> 1));
             }
             default -> throw new IllegalArgumentException("Invalid angle: " + angle);
         }
@@ -59,7 +60,7 @@ public record SimpleShape(int id) {
      * @param quadrants 需要保留的象限
      * @return 切割后的图形
      */
-    private SimpleShape cut(int... quadrants) {
+    private shapez2.calculate.Shape cut(int... quadrants) {
         if (quadrants == null || quadrants.length == 0) {
             throw new IllegalArgumentException("象限未定义");
         }
@@ -80,7 +81,7 @@ public record SimpleShape(int id) {
      * @param filter 层筛选器
      * @return 根据层筛选器切割后的最简图形的id
      */
-    private SimpleShape cutBC(int filter) {
+    private shapez2.calculate.Shape cutBC(int filter) {
         int id = this.id;
         int ret = 0;
         while (id != 0) {
@@ -95,7 +96,7 @@ public record SimpleShape(int id) {
                 id >>>= 4;
             }
         }
-        return new SimpleShape(ret);
+        return new shapez2.calculate.Shape(ret);
     }
 
     /**
@@ -104,7 +105,7 @@ public record SimpleShape(int id) {
      * @param filter 层筛选器
      * @return 根据层筛选器切割后的最简图形的id
      */
-    private SimpleShape cutAX(int filter) {
+    private shapez2.calculate.Shape cutAX(int filter) {
         int ret = 0;
         // 空层数目
         int q = 0;
@@ -121,7 +122,7 @@ public record SimpleShape(int id) {
             //层筛选器上移
             filter <<= 4;
         }
-        return new SimpleShape(ret);
+        return new shapez2.calculate.Shape(ret);
     }
 
     /**
@@ -130,7 +131,7 @@ public record SimpleShape(int id) {
      * @param bottomShape 堆叠的底层图形
      * @return 堆叠后的图形
      */
-    private SimpleShape stackOn(SimpleShape bottomShape) {
+    private shapez2.calculate.Shape stackOn(shapez2.calculate.Shape bottomShape) {
         // 上层图形放到高16位
         int top = this.id << 16;
         int bottom = bottomShape.id;
@@ -145,7 +146,7 @@ public record SimpleShape(int id) {
             }
         }
         // 上层图形除去高于四层的部分后，与下层图形合到一起
-        return new SimpleShape(bottom | (top & 0xFFFF));
+        return new shapez2.calculate.Shape(bottom | (top & 0xFFFF));
     }
 
     public String getIdStr() {
